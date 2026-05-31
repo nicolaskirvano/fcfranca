@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:44.000Z
+pubDatetime: 2026-05-31T19:50:02.000Z
 title: "Jogadores baratos de Franceses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -1.9% |
-| Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | +14.3% |
+| Marie Katoto | 88 | ST | D1 Arkema | 2k coins | +8.7% |
+| Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | +5.3% |
 | Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 12k coins | -11.1% |
 | Claire Lavogez | 88 | ST | Liga F | 13k coins | +2% |
 | Mike Maignan | 88 | GK | Serie A TIM | 15k coins | 0% |
-| William Saliba | 87 | CB | Premier League | 2k coins | +36.4% |
-| Mike Maignan | 87 | GK | Serie A TIM | 2k coins | -9.1% |
-| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 2k coins | +26.3% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | -4% |
+| William Saliba | 87 | CB | Premier League | 2k coins | +31.2% |
 | Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -59% |
 | Karim Benzema | 87 | ST | ROSHN Saudi League | 12k coins | -10.7% |
 | Mathilde Bourdieu | 87 | ST | D1 Arkema | 13k coins | -58.2% |
-| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +3.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 13k coins | -1.9% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 15k coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.2% |
+| Grace Geyoro | 86 | CM | Barclays WSL | 12k coins | 0% |
+| Wendie Renard | 86 | CB | D1 Arkema | 12k coins | -16.1% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
+- **Marie Katoto (88, ST)** da D1 Arkema, a apenas **2k coins**
+
 - **Kadidiatou Diani (88, RW)** da D1 Arkema, a apenas **4k coins**
 
 - **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins**
-
-- **Mike Maignan (88, GK)** da Serie A TIM, a apenas **15k coins**
 
 
 ## Por que estas cartas?

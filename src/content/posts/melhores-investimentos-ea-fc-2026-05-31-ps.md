@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:43.000Z
+pubDatetime: 2026-05-31T19:50:02.000Z
 title: "Melhores investimentos em Franceses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -37,11 +37,13 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Tara Elimbi Gilbert | 86 | D1 Arkema | 16k coins | +23.5% | +23.5% | 44% |
 | Kouadio Manu Koné | 88 | Serie A TIM | 106k coins | +19.1% | +21.8% | 95% |
 | Karim Benzema | 88 | ROSHN Saudi League | 19k coins | +23% | +21% | 5% |
+| Laurent Blanc | 88 | Icons | 87k coins | +3.6% | +20.8% | 44% |
 | Ludovic Giuly | 88 | LALIGA EA SPORTS | 35k coins | +11.2% | +19.8% | 35% |
 | Adrien Thomasson | 85 | Ligue 1 McDonald's | 23k coins | +9.4% | +16.2% | 23% |
 | Marcel Desailly | 88 | Icons | 79k coins | +5.3% | +12.9% | 18% |
 | Anaële Le Moguédec | 88 | D1 Arkema | 18k coins | +14.3% | +12.5% | 8% |
 | Selma Bacha | 87 | D1 Arkema | 21k coins | +6.4% | +7.8% | 95% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 54k coins | +2.8% | +6.9% | 63% |
 | Sidney Govou | 87 | Ligue 1 McDonald's | 68k coins | +2.2% | +5.4% | 5% |
 
 

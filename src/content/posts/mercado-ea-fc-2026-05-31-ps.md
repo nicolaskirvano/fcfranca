@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:43.000Z
+pubDatetime: 2026-05-31T19:50:01.000Z
 title: "Franceses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 300k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 59 cartas em alta contra 107 em queda (média -2.1%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 58 cartas em alta contra 107 em queda (média -2.21%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **59 subiram** e **107 caíram**, com variação média de **-2.1%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **107 caíram**, com variação média de **-2.21%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Vicki Becho (82) **+43.8%** · 🔴 **Maior baixa:** David Ginola (90) **-42%**
 
@@ -39,11 +39,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Moussa Sissoko | 88 | EFL Championship | 189k coins | +27.7% | +26% |
 | Jean-Mattéo Bahoya | 89 | Bundesliga | 530k coins | +26.5% | +42.1% |
 | Eduardo Camavinga | 87 | LALIGA EA SPORTS | 617k coins | +21% | +7.1% |
-| Laurent Blanc | 88 | Icons | 84k coins | +19.3% | +4.4% |
 | Kouadio Manu Koné | 88 | Serie A TIM | 106k coins | +19.1% | +21.8% |
 | Paul Pogba | 89 | Ligue 1 McDonald's | 1.60M coins | +18.5% | +23.1% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 55k coins | +17% | +1.8% |
 | Thierry Henry | 86 | Icons | 3.65M coins | +14.1% | +21.9% |
+| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +13.4% | +23.6% |
+| Marinette Pichon | 90 | Icons | 34k coins | +12.6% | +3.9% |
 
 
 ### Análise das altas
@@ -129,7 +129,7 @@ David Ginola (90), -42% em 24h, a 2.96M coins.
 Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 300k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 59 cartas em alta contra 107 em queda (média -2.1%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 58 cartas em alta contra 107 em queda (média -2.21%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
