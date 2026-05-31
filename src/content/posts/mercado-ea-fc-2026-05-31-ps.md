@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:50:01.000Z
+pubDatetime: 2026-05-31T21:28:00.000Z
 title: "Franceses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,71 +13,71 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Vicki Becho (82, D1 Arkema), com +43.8% em 24h, a 29k coins no Console (PS)."
+    a: "Laura Georges (89, D1 Arkema), com +57.6% em 24h, a 34k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "David Ginola (90), -42% em 24h, a 2.96M coins."
+    a: "Olivier Giroud (88), -39.8% em 24h, a 74k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 300k coins."
+    a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 321k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 58 cartas em alta contra 107 em queda (média -2.21%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 59 cartas em alta contra 106 em queda (média -1.91%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **107 caíram**, com variação média de **-2.21%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **59 subiram** e **106 caíram**, com variação média de **-1.91%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Vicki Becho (82) **+43.8%** · 🔴 **Maior baixa:** David Ginola (90) **-42%**
+> 🟢 **Maior alta:** Laura Georges (89) **+57.6%** · 🔴 **Maior baixa:** Olivier Giroud (88) **-39.8%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Vicki Becho | 82 | D1 Arkema | 29k coins | +43.8% | +2.7% |
-| Franck Ribéry | 89 | Icons | 399k coins | +27.9% | +9% |
-| Moussa Sissoko | 88 | EFL Championship | 189k coins | +27.7% | +26% |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 530k coins | +26.5% | +42.1% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 617k coins | +21% | +7.1% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 106k coins | +19.1% | +21.8% |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 1.60M coins | +18.5% | +23.1% |
-| Thierry Henry | 86 | Icons | 3.65M coins | +14.1% | +21.9% |
-| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +13.4% | +23.6% |
-| Marinette Pichon | 90 | Icons | 34k coins | +12.6% | +3.9% |
+| Laura Georges | 89 | D1 Arkema | 34k coins | +57.6% | +59.5% |
+| Marinette Pichon | 90 | Icons | 29k coins | +43.8% | -10.8% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 215k coins | +33.5% | +90.3% |
+| Loïc Badé | 88 | Bundesliga | 29k coins | +33% | +34.5% |
+| Theo Hernández | 88 | ROSHN Saudi League | 483k coins | +27.4% | +1% |
+| Thierry Henry | 93 | Icons | 2.15M coins | +26.1% | +10.4% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 47k coins | +23.7% | +17.5% |
+| Khéphren Thuram | 87 | Serie A TIM | 97k coins | +21.2% | -18.5% |
+| Hugo Ekitiké | 90 | Premier League | 179k coins | +20.1% | +5.3% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 95k coins | +19.5% | +3.8% |
 
 
 ### Análise das altas
 
-- **Vicki Becho (82)** subiu **+43.8%** em 24h, a **29k coins** (faixa do dia: 19k–30k). Está em linha com a média de 7 dias (+8%). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
+- **Laura Georges (89)** subiu **+57.6%** em 24h, a **34k coins** (faixa do dia: 19k–36k). Está +63% acima da média de 7 dias (aquecida). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Franck Ribéry (89)** subiu **+27.9%** em 24h, a **399k coins** (faixa do dia: 300k–399k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Marinette Pichon (90)** subiu **+43.8%** em 24h, a **29k coins** (faixa do dia: 28k–34k). Está -10% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **continuidade da alta** (84% de chance de subir mais).
 
-- **Moussa Sissoko (88)** subiu **+27.7%** em 24h, a **189k coins** (faixa do dia: 141k–189k). Está +21% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Bradley Barcola (90)** subiu **+33.5%** em 24h, a **215k coins** (faixa do dia: 144k–240k). Está +34% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| David Ginola | 90 | Ligue 1 McDonald's | 2.96M coins | -42% | -21.6% |
-| Yoan Bonny | 86 | Serie A TIM | 113k coins | -40.5% | -1.7% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 195k coins | -37.3% | -1.5% |
-| Maxence Lacroix | 87 | Premier League | 100k coins | -31% | -39.8% |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 74k coins | -39.8% | -26% |
+| Camille Abily | 92 | Icons | 50k coins | -39% | -28.6% |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 964k coins | -35.7% | +1.8% |
+| Robert Pirès | 89 | Icons | 66k coins | -33.2% | -21.6% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 1.89M coins | -30.9% | -27% |
 | Emmanuel Petit | 87 | Icons | 94k coins | -29.5% | -21.2% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 46k coins | -24.8% | -38.1% |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 32k coins | -23.5% | -32.8% |
-| Selma Bacha | 94 | D1 Arkema | 180k coins | -22.1% | +12.5% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 74k coins | -21.4% | -26.5% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 26k coins | -20.8% | -23.1% |
+| Rayan Cherki | 87 | Premier League | 98k coins | -29% | -18.3% |
+| Paul Pogba | 92 | Ligue 1 McDonald's | 3.05M coins | -26.4% | -14.8% |
+| Hugo Ekitiké | 86 | Premier League | 40k coins | -24.1% | -30.6% |
+| Eli Junior Kroupi | 89 | Premier League | 54k coins | -21.6% | +52.4% |
 
 
 ### Análise das baixas
 
-- **David Ginola (90)** caiu **-42%** em 24h, a **2.96M coins** (faixa do dia: 2.96M–5.10M). Está -22% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Olivier Giroud (88)** caiu **-39.8%** em 24h, a **74k coins** (faixa do dia: 20k–114k). Está -27% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Yoan Bonny (86)** caiu **-40.5%** em 24h, a **113k coins** (faixa do dia: 98k–190k). Está em linha com a média de 7 dias (-2%). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Camille Abily (92)** caiu **-39%** em 24h, a **50k coins** (faixa do dia: 50k–80k). Está -31% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
 
-- **Désiré Doué (87)** caiu **-37.3%** em 24h, a **195k coins** (faixa do dia: 195k–311k). Está em linha com a média de 7 dias (-6%). 🔮 O modelo projeta **recuperação** (reversão para alta), com 95% de probabilidade.
+- **Aurélien Tchouaméni (86)** caiu **-35.7%** em 24h, a **964k coins** (faixa do dia: 964k–1.50M). Está em linha com a média de 7 dias (+4%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,14 +86,14 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Bradley Barcola | 87 | 300k coins | 404k coins | 95% |
+| Bradley Barcola | 87 | 321k coins | 432k coins | 95% |
 | Lilian Thuram | 88 | 250k coins | 297k coins | 95% |
-| Kouadio Manu Koné | 88 | 106k coins | 126k coins | 95% |
-| Ferland Mendy | 87 | 74k coins | 87k coins | 95% |
-| Aurélien Tchouaméni | 87 | 46k coins | 54k coins | 95% |
-| Antoine Griezmann | 87 | 32k coins | 38k coins | 95% |
-| Wendie Renard | 86 | 17k coins | 20k coins | 95% |
-| Selma Bacha | 87 | 21k coins | 24k coins | 95% |
+| Ferland Mendy | 87 | 106k coins | 126k coins | 95% |
+| Kouadio Manu Koné | 88 | 95k coins | 113k coins | 95% |
+| Franck Honorat | 85 | 15k coins | 19k coins | 95% |
+| Antoine Griezmann | 87 | 47k coins | 56k coins | 95% |
+| Aurélien Tchouaméni | 87 | 49k coins | 58k coins | 95% |
+| Olivier Giroud | 89 | 21k coins | 27k coins | 95% |
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -102,14 +102,14 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Pierre Kalulu | 91 | 89k coins | -17.4% |
 | Florian Sotoca | 85 | 26k coins | -24.1% |
-| Tanguy Ndombele | 85 | 28k coins | -15.5% |
-| Antoine Griezmann | 91 | 117k coins | -29.2% |
-| Blaise Matuidi | 86 | 123k coins | -29% |
-| Sidney Govou | 87 | 68k coins | -29.1% |
-| Maxence Lacroix | 87 | 100k coins | -29.2% |
 | Emmanuel Petit | 87 | 94k coins | -17.5% |
+| Loïc Badé | 88 | 29k coins | -17.3% |
+| Sidney Govou | 87 | 61k coins | -29.1% |
+| Pierre Kalulu | 91 | 86k coins | -17.4% |
+| Blaise Matuidi | 86 | 123k coins | -29% |
+| Tanguy Ndombele | 85 | 28k coins | -15.5% |
+| Maxence Lacroix | 87 | 136k coins | -29.2% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -120,20 +120,22 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Vicki Becho (82, D1 Arkema), com +43.8% em 24h, a 29k coins no Console (PS).
+Laura Georges (89, D1 Arkema), com +57.6% em 24h, a 34k coins no Console (PS).
 
 **E a maior queda do dia?**  
-David Ginola (90), -42% em 24h, a 2.96M coins.
+Olivier Giroud (88), -39.8% em 24h, a 74k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 300k coins.
+Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 321k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 58 cartas em alta contra 107 em queda (média -2.21%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 59 cartas em alta contra 106 em queda (média -1.91%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

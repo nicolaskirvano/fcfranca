@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:50:03.000Z
+pubDatetime: 2026-05-31T21:28:01.000Z
 title: "Jogadores baratos de Franceses no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,26 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marie Katoto | 88 | ST | D1 Arkema | 4k coins | +71.4% |
-| Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | 0% |
+| Marie Katoto | 88 | ST | D1 Arkema | 4k coins | +5.6% |
+| Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | -4.4% |
 | Mike Maignan | 88 | GK | Serie A TIM | 14k coins | -6.7% |
 | Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | +3.6% |
-| Mike Maignan | 87 | GK | Serie A TIM | 3k coins | +58.8% |
-| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 3k coins | +42.1% |
-| William Saliba | 87 | CB | Premier League | 3k coins | +61.1% |
-| Sakina Karchaoui | 87 | CM | D1 Arkema | 3k coins | +3.4% |
+| Sakina Karchaoui | 87 | CM | D1 Arkema | 2k coins | +25% |
+| William Saliba | 87 | CB | Premier League | 3k coins | +23.8% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | -6.4% |
 | Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -73.4% |
 | Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -63.8% |
 | Grace Kazadi | 87 | RB | D1 Arkema | 12k coins | -13.8% |
-| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +3.7% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -10.4% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +2.3% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +5.9% |
+| Michael Olise | 86 | RM | Bundesliga | 2k coins | -34.8% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -8.5% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
+| Adrien Rabiot | 86 | CM | Serie A TIM | 11k coins | -69% |
 
 
 ## 📈 Destaques
 
-- **Marie Katoto (88, ST)** da D1 Arkema, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Marie Katoto (88, ST)** da D1 Arkema, a apenas **4k coins**
 
 - **Kadidiatou Diani (88, RW)** da D1 Arkema, a apenas **4k coins**
 
@@ -56,7 +56,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Mike Maignan (87, GK)** da Serie A TIM, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+- **Sakina Karchaoui (87, CM)** da D1 Arkema, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -81,6 +81,8 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 **Esses preços são reais?**  
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 

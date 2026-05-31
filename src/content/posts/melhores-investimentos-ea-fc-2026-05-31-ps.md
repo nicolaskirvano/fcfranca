@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:50:02.000Z
+pubDatetime: 2026-05-31T21:28:00.000Z
 title: "Melhores investimentos em Franceses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 31/05/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/05/2026) no EA FC?"
-    a: "Bradley Barcola (90, Ligue 1 McDonald's) lidera, com +89% em 7 dias a 189k coins no Console (PS), e o modelo dá 42% de chance de seguir subindo."
+    a: "Loïc Badé (88, Bundesliga) lidera, com +34.5% em 7 dias a 29k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,7 +23,7 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **31/05/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Bradley Barcola (90) acumula **+89% em 7 dias** a 189k coins.
+> 🔝 **Destaque:** Loïc Badé (88) acumula **+34.5% em 7 dias** a 29k coins.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -31,33 +31,34 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 189k coins | +11.2% | +89% | 42% |
-| Moussa Sissoko | 88 | EFL Championship | 189k coins | +27.7% | +26% | 57% |
-| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +13.4% | +23.6% | 5% |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 16k coins | +23.5% | +23.5% | 44% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 106k coins | +19.1% | +21.8% | 95% |
-| Karim Benzema | 88 | ROSHN Saudi League | 19k coins | +23% | +21% | 5% |
+| Loïc Badé | 88 | Bundesliga | 29k coins | +33% | +34.5% | 5% |
+| Maëlle Garbino | 86 | D1 Arkema | 20k coins | +1.3% | +29% | 5% |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 106k coins | +8.2% | +27% | 95% |
+| Pierre Kalulu | 91 | Serie A TIM | 86k coins | +14% | +22.1% | 5% |
 | Laurent Blanc | 88 | Icons | 87k coins | +3.6% | +20.8% | 44% |
-| Ludovic Giuly | 88 | LALIGA EA SPORTS | 35k coins | +11.2% | +19.8% | 35% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 23k coins | +9.4% | +16.2% | 23% |
+| Moussa Sissoko | 88 | EFL Championship | 178k coins | +14.1% | +19.5% | 57% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 47k coins | +23.7% | +17.5% | 95% |
+| Alexandre Lacazette | 89 | Brasileirão | 43k coins | +7.5% | +14.7% | 18% |
+| Kadidiatou Diani | 91 | D1 Arkema | 158k coins | +2.6% | +14.5% | 53% |
 | Marcel Desailly | 88 | Icons | 79k coins | +5.3% | +12.9% | 18% |
-| Anaële Le Moguédec | 88 | D1 Arkema | 18k coins | +14.3% | +12.5% | 8% |
-| Selma Bacha | 87 | D1 Arkema | 21k coins | +6.4% | +7.8% | 95% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 22k coins | +12.7% | +11.2% | 23% |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 17k coins | +11.3% | +9.5% | 5% |
+| Sakina Karchaoui | 88 | D1 Arkema | 36k coins | +6.6% | +9% | 68% |
 | Ousmane Dembélé | 90 | Ligue 1 McDonald's | 54k coins | +2.8% | +6.9% | 63% |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 68k coins | +2.2% | +5.4% | 5% |
+| Hugo Ekitiké | 90 | Premier League | 179k coins | +20.1% | +5.3% | 52% |
 
 
 ## 📈 Análise dos destaques
 
-- **Bradley Barcola (90)** — 189k coins, **+89% em 7 dias** (+11.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Loïc Badé (88)** — 29k coins, **+34.5% em 7 dias** (+33% em 24h). Preço +18% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Moussa Sissoko (88)** — 189k coins, **+26% em 7 dias** (+27.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maëlle Garbino (86)** — 20k coins, **+29% em 7 dias** (+1.3% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Pierre Kalulu (91)** — 89k coins, **+23.6% em 7 dias** (+13.4% em 24h). Preço +17% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Ferland Mendy (87)** — 106k coins, **+27% em 7 dias** (+8.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Tara Elimbi Gilbert (86)** — 16k coins, **+23.5% em 7 dias** (+23.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pierre Kalulu (91)** — 86k coins, **+22.1% em 7 dias** (+14% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Kouadio Manu Koné (88)** — 106k coins, **+21.8% em 7 dias** (+19.1% em 24h). Preço em linha com a média de 7 dias (+7%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Laurent Blanc (88)** — 87k coins, **+20.8% em 7 dias** (+3.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +76,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/05/2026) no EA FC?**  
-Bradley Barcola (90, Ligue 1 McDonald's) lidera, com +89% em 7 dias a 189k coins no Console (PS), e o modelo dá 42% de chance de seguir subindo.
+Loïc Badé (88, Bundesliga) lidera, com +34.5% em 7 dias a 29k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -83,6 +84,8 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 **Com que frequência a lista de investimentos atualiza?**  
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
+
+> 🔔 Acompanhe o mercado do EA FC em tempo real e crie alertas no <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> — a mesma base que alimenta este blog.
 
 ---
 
