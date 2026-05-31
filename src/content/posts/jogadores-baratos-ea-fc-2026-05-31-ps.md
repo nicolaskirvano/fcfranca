@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:00.000Z
+pubDatetime: 2026-05-31T22:50:02.000Z
 title: "Jogadores baratos de Franceses no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 31/05/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (31/05/2026)?"
-    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
+    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **31/05/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -1.9% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -3.8% |
 | Enzo Millot | 89 | CAM | ROSHN Saudi League | 14k coins | -6.7% |
 | Marie Katoto | 89 | ST | Frauen-Bundesliga | 14k coins | -19.7% |
-| Marie Katoto | 88 | ST | D1 Arkema | 2k coins | +8.7% |
+| Marie Katoto | 88 | ST | D1 Arkema | 3k coins | +11.5% |
 | Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | +5.3% |
 | Claire Lavogez | 88 | ST | Liga F | 12k coins | -2% |
 | Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | +7.4% |
 | Sakina Karchaoui | 88 | CAM | D1 Arkema | 14k coins | -9.4% |
 | Mike Maignan | 88 | GK | Serie A TIM | 15k coins | -1.6% |
-| William Saliba | 87 | CB | Premier League | 2k coins | +31.2% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 2k coins | +10.5% |
+| William Saliba | 87 | CB | Premier League | 2k coins | +37.5% |
 | Mathilde Bourdieu | 87 | ST | D1 Arkema | 11k coins | -63.1% |
 | Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -59.6% |
 | Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 12k coins | -16.1% |
 | Karim Benzema | 87 | ST | ROSHN Saudi League | 12k coins | -14.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 13k coins | -1.9% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
 - **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **14k coins**
 
 - **Marie Katoto (89, ST)** da Frauen-Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marie Katoto (88, ST)** da D1 Arkema, a apenas **2k coins**
+- **Marie Katoto (88, ST)** da D1 Arkema, a apenas **3k coins**
 
 - **Kadidiatou Diani (88, RW)** da D1 Arkema, a apenas **4k coins**
 
@@ -73,7 +73,7 @@ Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (31/05/2026)?**  
-Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13k coins no Console (PS).
+Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

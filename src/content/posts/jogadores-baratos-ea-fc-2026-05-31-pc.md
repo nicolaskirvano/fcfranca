@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:01.000Z
+pubDatetime: 2026-05-31T22:50:03.000Z
 title: "Jogadores baratos de Franceses no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,19 +31,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Marie Katoto | 88 | ST | D1 Arkema | 4k coins | +5.6% |
 | Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | -4.4% |
-| Mike Maignan | 88 | GK | Serie A TIM | 14k coins | -6.7% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | +3.6% |
 | Sakina Karchaoui | 87 | CM | D1 Arkema | 2k coins | +25% |
 | William Saliba | 87 | CB | Premier League | 3k coins | +23.8% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | -6.4% |
-| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -73.4% |
-| Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -63.8% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 12k coins | -13.8% |
+| Sandy Baltimore | 87 | LW | Barclays WSL | 12k coins | -58.8% |
+| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 12k coins | -14.3% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | 0% |
 | Laura Georges | 87 | CB | D1 Arkema | 14k coins | +5.9% |
 | Michael Olise | 86 | RM | Bundesliga | 2k coins | -34.8% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -8.5% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
-| Adrien Rabiot | 86 | CM | Serie A TIM | 11k coins | -69% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -8.5% |
+| Wendie Renard | 86 | CB | D1 Arkema | 11k coins | -10.2% |
+| Benjamin Pavard | 86 | CB | Ligue 1 McDonald's | 11k coins | -71.4% |
+| Tristan Crama | 86 | CB | EFL Championship | 11k coins | -12% |
 
 
 ## 📈 Destaques
@@ -52,11 +52,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Kadidiatou Diani (88, RW)** da D1 Arkema, a apenas **4k coins**
 
-- **Mike Maignan (88, GK)** da Serie A TIM, a apenas **14k coins**
-
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
-
 - **Sakina Karchaoui (87, CM)** da D1 Arkema, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+
+- **William Saliba (87, CB)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
+
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
 
 ## Por que estas cartas?

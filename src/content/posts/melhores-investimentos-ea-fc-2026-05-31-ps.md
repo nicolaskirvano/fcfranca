@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:00.000Z
+pubDatetime: 2026-05-31T22:50:01.000Z
 title: "Melhores investimentos em Franceses no EA FC (31/05/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -34,17 +34,15 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | Loïc Badé | 88 | Bundesliga | 29k coins | +33% | +34.5% | 5% |
 | Maëlle Garbino | 86 | D1 Arkema | 20k coins | +1.3% | +29% | 5% |
 | Ferland Mendy | 87 | LALIGA EA SPORTS | 106k coins | +8.2% | +27% | 95% |
+| Eric Cantona | 89 | Icons | 122k coins | +10.9% | +22.6% | 56% |
 | Pierre Kalulu | 91 | Serie A TIM | 86k coins | +14% | +22.1% | 5% |
-| Laurent Blanc | 88 | Icons | 87k coins | +3.6% | +20.8% | 44% |
 | Moussa Sissoko | 88 | EFL Championship | 178k coins | +14.1% | +19.5% | 57% |
 | Antoine Griezmann | 87 | LALIGA EA SPORTS | 47k coins | +23.7% | +17.5% | 95% |
 | Alexandre Lacazette | 89 | Brasileirão | 43k coins | +7.5% | +14.7% | 18% |
 | Kadidiatou Diani | 91 | D1 Arkema | 158k coins | +2.6% | +14.5% | 53% |
-| Marcel Desailly | 88 | Icons | 79k coins | +5.3% | +12.9% | 18% |
 | Adrien Thomasson | 85 | Ligue 1 McDonald's | 22k coins | +12.7% | +11.2% | 23% |
 | Benjamin Pavard | 88 | Ligue 1 McDonald's | 17k coins | +11.3% | +9.5% | 5% |
 | Sakina Karchaoui | 88 | D1 Arkema | 36k coins | +6.6% | +9% | 68% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 54k coins | +2.8% | +6.9% | 63% |
 | Hugo Ekitiké | 90 | Premier League | 179k coins | +20.1% | +5.3% | 52% |
 
 
@@ -56,9 +54,9 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Ferland Mendy (87)** — 106k coins, **+27% em 7 dias** (+8.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Pierre Kalulu (91)** — 86k coins, **+22.1% em 7 dias** (+14% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Eric Cantona (89)** — 122k coins, **+22.6% em 7 dias** (+10.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Laurent Blanc (88)** — 87k coins, **+20.8% em 7 dias** (+3.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pierre Kalulu (91)** — 86k coins, **+22.1% em 7 dias** (+14% em 24h). Preço +11% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista

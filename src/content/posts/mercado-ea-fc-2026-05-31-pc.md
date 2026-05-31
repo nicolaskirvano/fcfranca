@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:01.000Z
+pubDatetime: 2026-05-31T22:50:02.000Z
 title: "Franceses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,69 +13,69 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "Désiré Doué (91, Ligue 1 McDonald's), com +46.3% em 24h, a 600k coins no PC."
+    a: "William Saliba (90, Premier League), com +58.1% em 24h, a 411k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Arthur Atta (85), -43.1% em 24h, a 45k coins."
+    a: "Rayan Cherki (87), -45.8% em 24h, a 71k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 59 cartas em alta contra 63 em queda (média 1.27%)."
+    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 58 cartas em alta contra 67 em queda (média 0.46%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **59 subiram** e **63 caíram**, com variação média de **1.27%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **67 caíram**, com variação média de **0.46%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Désiré Doué (91) **+46.3%** · 🔴 **Maior baixa:** Arthur Atta (85) **-43.1%**
+> 🟢 **Maior alta:** William Saliba (90) **+58.1%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-45.8%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 600k coins | +46.3% | +42.5% |
-| Theo Hernández | 88 | ROSHN Saudi League | 649k coins | +43% | +12.1% |
-| Khéphren Thuram | 87 | Serie A TIM | 140k coins | +40% | +7.7% |
-| William Saliba | 90 | Premier League | 434k coins | +38.7% | +4.1% |
-| N'Golo Kanté | 92 | Trendyol Süper Lig | 629k coins | +35.3% | -2.2% |
+| William Saliba | 90 | Premier League | 411k coins | +58.1% | +2% |
+| Pierre Kalulu | 91 | Serie A TIM | 100k coins | +50.8% | +65.8% |
+| Antoine Griezmann | 91 | LALIGA EA SPORTS | 170k coins | +46.6% | +6.2% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 593k coins | +36.3% | +40.9% |
 | David Ginola | 89 | Ligue 1 McDonald's | 693k coins | +32.2% | +65.4% |
-| Hugo Ekitiké | 87 | Premier League | 30k coins | +31.1% | -62.7% |
-| Sakina Karchaoui | 91 | D1 Arkema | 290k coins | +29.5% | -6.2% |
-| Jules Koundé | 94 | LALIGA EA SPORTS | 750k coins | +25.2% | +17.6% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 253k coins | +23.4% | +15% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 4.80M coins | +29.7% | +44.1% |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 35k coins | +25.9% | +8.5% |
+| Khéphren Thuram | 85 | Serie A TIM | 283k coins | +25.8% | +34.1% |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 27k coins | +25.3% | +137% |
+| Vicki Becho | 82 | D1 Arkema | 30k coins | +24% | +8.2% |
 
 
 ### Análise das altas
 
-- **Désiré Doué (91)** subiu **+46.3%** em 24h, a **600k coins** (faixa do dia: 400k–650k). Está +35% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **William Saliba (90)** subiu **+58.1%** em 24h, a **411k coins** (faixa do dia: 244k–440k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Theo Hernández (88)** subiu **+43%** em 24h, a **649k coins** (faixa do dia: 468k–649k). Está +10% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Pierre Kalulu (91)** subiu **+50.8%** em 24h, a **100k coins** (faixa do dia: 55k–100k). Está +66% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Khéphren Thuram (87)** subiu **+40%** em 24h, a **140k coins** (faixa do dia: 90k–140k). Está +38% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Antoine Griezmann (91)** subiu **+46.6%** em 24h, a **170k coins** (faixa do dia: 116k–260k). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Arthur Atta | 85 | Serie A TIM | 45k coins | -43.1% | -65.2% |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 30k coins | -33.3% | -32.2% |
-| Franck Honorat | 85 | Bundesliga | 20k coins | -31.1% | -6.8% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 55k coins | -30.4% | -31.2% |
-| Karim Benzema | 87 | ROSHN Saudi League | 34k coins | -29.1% | +135.1% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 29k coins | -26.1% | -12.1% |
-| Zinedine Zidane | 95 | Icons | 1.69M coins | -24.3% | +0.6% |
-| Camille Abily | 92 | Icons | 61k coins | -23.8% | -26.1% |
-| Laura Georges | 89 | D1 Arkema | 28k coins | -23.3% | -29.1% |
-| Ludovic Giuly | 88 | LALIGA EA SPORTS | 30k coins | -23.1% | -25% |
+| Rayan Cherki | 87 | Premier League | 71k coins | -45.8% | -52.7% |
+| Loïc Badé | 88 | Bundesliga | 28k coins | -45% | +39.2% |
+| Eli Junior Kroupi | 89 | Premier League | 35k coins | -35.3% | -22.5% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 6.50M coins | -35% | -3.7% |
+| Laura Georges | 89 | D1 Arkema | 20k coins | -31.7% | -48.8% |
+| Franck Honorat | 85 | Bundesliga | 21k coins | -29.4% | -10.6% |
+| Camille Abily | 92 | Icons | 54k coins | -28.7% | -60.1% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 465k coins | -28.2% | -57.2% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 37k coins | -25.6% | -35.1% |
+| Wilson Odobert | 87 | Premier League | 60k coins | -25.3% | -44.5% |
 
 
 ### Análise das baixas
 
-- **Arthur Atta (85)** caiu **-43.1%** em 24h, a **45k coins** (faixa do dia: 45k–120k). Está -43% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Rayan Cherki (87)** caiu **-45.8%** em 24h, a **71k coins** (faixa do dia: 71k–150k). Está -49% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Mattéo Guendouzi (91)** caiu **-33.3%** em 24h, a **30k coins** (faixa do dia: 29k–46k). Está -33% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 72% de probabilidade.
+- **Loïc Badé (88)** caiu **-45%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Franck Honorat (85)** caiu **-31.1%** em 24h, a **20k coins** (faixa do dia: 20k–30k). Está -26% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **recuperação** (reversão para alta), com 74% de probabilidade.
+- **Eli Junior Kroupi (89)** caiu **-35.3%** em 24h, a **35k coins** (faixa do dia: 30k–54k). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -86,13 +86,13 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
-Désiré Doué (91, Ligue 1 McDonald's), com +46.3% em 24h, a 600k coins no PC.
+William Saliba (90, Premier League), com +58.1% em 24h, a 411k coins no PC.
 
 **E a maior queda do dia?**  
-Arthur Atta (85), -43.1% em 24h, a 45k coins.
+Rayan Cherki (87), -45.8% em 24h, a 71k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 59 cartas em alta contra 63 em queda (média 1.27%).
+Hoje o mercado está em mercado lateral — sem direção clara, com 58 cartas em alta contra 67 em queda (média 0.46%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

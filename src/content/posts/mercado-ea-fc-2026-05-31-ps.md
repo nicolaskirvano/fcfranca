@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:28:00.000Z
+pubDatetime: 2026-05-31T22:50:01.000Z
 title: "Franceses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 321k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 59 cartas em alta contra 106 em queda (média -1.91%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 56 cartas em alta contra 110 em queda (média -1.87%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **59 subiram** e **106 caíram**, com variação média de **-1.91%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **56 subiram** e **110 caíram**, com variação média de **-1.87%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Laura Georges (89) **+57.6%** · 🔴 **Maior baixa:** Olivier Giroud (88) **-39.8%**
 
@@ -64,11 +64,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 964k coins | -35.7% | +1.8% |
 | Robert Pirès | 89 | Icons | 66k coins | -33.2% | -21.6% |
 | Kylian Mbappé | 92 | LALIGA EA SPORTS | 1.89M coins | -30.9% | -27% |
-| Emmanuel Petit | 87 | Icons | 94k coins | -29.5% | -21.2% |
 | Rayan Cherki | 87 | Premier League | 98k coins | -29% | -18.3% |
 | Paul Pogba | 92 | Ligue 1 McDonald's | 3.05M coins | -26.4% | -14.8% |
 | Hugo Ekitiké | 86 | Premier League | 40k coins | -24.1% | -30.6% |
 | Eli Junior Kroupi | 89 | Premier League | 54k coins | -21.6% | +52.4% |
+| Wilson Odobert | 87 | Premier League | 80k coins | -21.6% | -5.9% |
 
 
 ### Análise das baixas
@@ -87,7 +87,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Bradley Barcola | 87 | 321k coins | 432k coins | 95% |
-| Lilian Thuram | 88 | 250k coins | 297k coins | 95% |
+| Lilian Thuram | 88 | 235k coins | 279k coins | 95% |
 | Ferland Mendy | 87 | 106k coins | 126k coins | 95% |
 | Kouadio Manu Koné | 88 | 95k coins | 113k coins | 95% |
 | Franck Honorat | 85 | 15k coins | 19k coins | 95% |
@@ -102,13 +102,13 @@ Cartas com **maior probabilidade de desvalorizar** nas próximas 24h — evite c
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Florian Sotoca | 85 | 26k coins | -24.1% |
-| Emmanuel Petit | 87 | 94k coins | -17.5% |
+| Warren Zaïre-Emery | 93 | 297k coins | -17.4% |
 | Loïc Badé | 88 | 29k coins | -17.3% |
 | Sidney Govou | 87 | 61k coins | -29.1% |
 | Pierre Kalulu | 91 | 86k coins | -17.4% |
-| Blaise Matuidi | 86 | 123k coins | -29% |
+| Emmanuel Petit | 87 | 106k coins | -17.5% |
 | Tanguy Ndombele | 85 | 28k coins | -15.5% |
+| Florian Sotoca | 85 | 26k coins | -24.1% |
 | Maxence Lacroix | 87 | 136k coins | -29.2% |
 
 
@@ -129,7 +129,7 @@ Olivier Giroud (88), -39.8% em 24h, a 74k coins.
 Pelo modelo FutQuant, Bradley Barcola (87) — 95% de probabilidade de alta, a 321k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 59 cartas em alta contra 106 em queda (média -1.91%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 56 cartas em alta contra 110 em queda (média -1.87%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
