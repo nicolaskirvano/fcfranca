@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:50:03.000Z
+pubDatetime: 2026-06-01T13:50:03.000Z
 title: "Jogadores baratos de Franceses no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Marie Katoto | 88 | ST | D1 Arkema | 3k coins | -11.1% |
-| Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | -18.2% |
-| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 3k coins | +4% |
-| William Saliba | 87 | CB | Premier League | 3k coins | +40% |
-| Sandy Baltimore | 87 | LW | Barclays WSL | 11k coins | -64.5% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | -6.4% |
-| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -17% |
-| Karim Benzema | 87 | ST | ROSHN Saudi League | 12k coins | -79.8% |
-| Laura Georges | 87 | CB | D1 Arkema | 13k coins | -10.2% |
+| Marie Katoto | 88 | ST | D1 Arkema | 3k coins | -5.6% |
+| Kadidiatou Diani | 88 | RW | D1 Arkema | 4k coins | -9.1% |
+| Karim Benzema | 88 | ST | ROSHN Saudi League | 15k coins | 0% |
+| Mike Maignan | 87 | GK | Serie A TIM | 2k coins | -12% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 3k coins | +8% |
+| Sandy Baltimore | 87 | LW | Barclays WSL | 11k coins | -66.2% |
+| Florian Thauvin | 87 | RW | Ligue 1 McDonald's | 11k coins | -12% |
+| Karim Benzema | 87 | ST | ROSHN Saudi League | 12k coins | -79.5% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +4.3% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | -8.5% |
 | Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | 0% |
-| Mahdi Camara | 86 | CM | Ligue 1 McDonald's | 11k coins | -74.1% |
-| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -71.3% |
+| Wesley Saïd | 86 | LW | Ligue 1 McDonald's | 11k coins | -62.9% |
+| Adrien Rabiot | 86 | CM | Serie A TIM | 11k coins | -27.1% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
-| Mohamed Simakan | 86 | CB | ROSHN Saudi League | 11k coins | -14% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Wendie Renard | 86 | CB | D1 Arkema | 11k coins | -12.2% |
 
 
 ## 📈 Destaques
 
-- **Marie Katoto (88, ST)** da D1 Arkema, a apenas **3k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Marie Katoto (88, ST)** da D1 Arkema, a apenas **3k coins**
 
 - **Kadidiatou Diani (88, RW)** da D1 Arkema, a apenas **4k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Karim Benzema (88, ST)** da ROSHN Saudi League, a apenas **15k coins**
+
+- **Mike Maignan (87, GK)** da Serie A TIM, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **3k coins**
-
-- **William Saliba (87, CB)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Sandy Baltimore (87, LW)** da Barclays WSL, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

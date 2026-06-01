@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:50:02.000Z
+pubDatetime: 2026-06-01T13:50:02.000Z
 title: "Melhores investimentos em Franceses no EA FC (01/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
