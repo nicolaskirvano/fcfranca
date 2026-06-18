@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:27:19.000Z
+pubDatetime: 2026-06-18T19:50:21.000Z
 title: "Jogadores baratos de Franceses no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,13 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +1.9% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | 0% |
 | Jules Koundé | 87 | RB | LALIGA EA SPORTS | 4k coins | +200% |
-| Louisa Necib | 87 | LM | D1 Arkema | 13k coins | +15.9% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +7.4% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +15.9% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +3.6% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +9.3% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -6.1% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +9.3% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 4k coins | +10% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 4k coins | +12.5% |
 | Delphine Cascarino | 85 | RM | NWSL | 7k coins | +13.8% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | 0% |
 
@@ -46,11 +46,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **12k coins**
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
 
 ## Por que estas cartas?
@@ -60,8 +60,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 📊 Nossa metodologia em 30 segundos
+Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
 
 
 ## ❓ Perguntas frequentes

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:27:09.000Z
+pubDatetime: 2026-06-18T19:50:11.000Z
 title: "Jogadores baratos de Franceses no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,9 +29,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +4.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
 | Claire Lavogez | 88 | ST | Liga F | 14k coins | +18.4% |
-| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 4k coins | +137.5% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 5k coins | +137.5% |
 | Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +2.2% |
 | Laura Georges | 87 | CB | D1 Arkema | 13k coins | +4.1% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
@@ -39,8 +39,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.3% |
 | Maëlle Garbino | 86 | RM | D1 Arkema | 14k coins | +9.8% |
 | Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 15k coins | 0% |
-| Selma Bacha | 85 | LB | Arkema PL | 2k coins | +7.1% |
 | Dayot Upamecano | 85 | CB | Bundesliga | 2k coins | +16.7% |
+| Selma Bacha | 85 | LB | Arkema PL | 2k coins | +7.1% |
 | Delphine Cascarino | 85 | RM | NWSL | 3k coins | +15.4% |
 | Jade Le Guilly | 84 | RB | D1 Arkema | 15k coins | +17.6% |
 
@@ -51,7 +51,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
+- **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins**
 
@@ -65,8 +65,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - Filtramos preços anômalos para você não cair em cotação irreal.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 📊 Nossa metodologia em 30 segundos
+Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
 
 
 ## ❓ Perguntas frequentes

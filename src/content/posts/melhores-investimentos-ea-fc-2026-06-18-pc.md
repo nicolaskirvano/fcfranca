@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:27:17.000Z
+pubDatetime: 2026-06-18T19:50:19.000Z
 title: "Melhores investimentos em Franceses no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -33,19 +33,19 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 | --- | --- | --- | --- | --- | --- | --- |
 | Hugo Ekitiké | 86 | Premier League | 34k coins | +4.6% | +61.9% | 53% |
 | Dan-Axel Zagadou | 85 | Bundesliga | 38k coins | +33.3% | +49% | 58% |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 24k coins | +38% | +42% | 36% |
 | Camille Abily | 91 | Icons | 49k coins | +13.9% | +40.7% | 57% |
-| Hugo Ekitiké | 90 | Premier League | 76k coins | +16.2% | +38.5% | 55% |
-| Jade Le Guilly | 89 | D1 Arkema | 27k coins | +38% | +36.9% | 42% |
-| Benjamin Pavard | 88 | Ligue 1 McDonald's | 23k coins | +9.1% | +36.7% | 60% |
+| Tara Elimbi Gilbert | 86 | D1 Arkema | 24k coins | +33.8% | +37.7% | 36% |
+| Hugo Ekitiké | 90 | Premier League | 76k coins | +14.4% | +37.3% | 55% |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 23k coins | +6.9% | +36.7% | 60% |
 | Louisa Necib | 90 | D1 Arkema | 30k coins | +9.1% | +26.3% | 17% |
-| Laurent Blanc | 88 | Icons | 92k coins | +11% | +23.2% | 29% |
+| Anaële Le Moguédec | 88 | D1 Arkema | 22k coins | +32.4% | +25% | 50% |
+| Laurent Blanc | 88 | Icons | 92k coins | +11% | +22.4% | 29% |
 | Louisa Necib | 88 | D1 Arkema | 56k coins | +11% | +20.7% | 44% |
 | Blaise Matuidi | 86 | Ligue 1 McDonald's | 95k coins | +9.2% | +18.8% | 31% |
-| Enzo Millot | 89 | ROSHN Saudi League | 20k coins | +5.3% | +17.6% | 31% |
-| Jean-Philippe Mateta | 92 | Premier League | 52k coins | +4% | +16.2% | 42% |
-| Wendie Renard | 86 | D1 Arkema | 21k coins | +2.4% | +12% | 22% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 239k coins | +9.1% | +11.2% | 3% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 239k coins | +3.9% | +11.2% | 3% |
+| Enzo Millot | 89 | ROSHN Saudi League | 20k coins | +5.3% | +11.1% | 31% |
+| Emmanuel Petit | 87 | Icons | 86k coins | +5.1% | +9.4% | 49% |
+| Maxence Lacroix | 87 | Premier League | 130k coins | +16.8% | +6.9% | 55% |
 
 
 ## 📈 Análise dos destaques
@@ -54,11 +54,11 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Dan-Axel Zagadou (85)** — 38k coins, **+49% em 7 dias** (+33.3% em 24h). Preço +40% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Tara Elimbi Gilbert (86)** — 24k coins, **+42% em 7 dias** (+38% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
-
 - **Camille Abily (91)** — 49k coins, **+40.7% em 7 dias** (+13.9% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Hugo Ekitiké (90)** — 76k coins, **+38.5% em 7 dias** (+16.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Tara Elimbi Gilbert (86)** — 24k coins, **+37.7% em 7 dias** (+33.8% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+
+- **Hugo Ekitiké (90)** — 76k coins, **+37.3% em 7 dias** (+14.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -69,8 +69,8 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 - Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
 
 
-## 📐 Como o FutQuant gera estes dados
-Trabalhamos com **centenas de milhões de pontos de preço** do mercado do EA FC Ultimate Team, coletados de múltiplas fontes e atualizados várias vezes ao dia. Antes de publicar, removemos **anomalias** (cotações irreais de cartas extintas ou erros de coleta) e cruzamos preço atual, **médias móveis (24h e 7 dias)**, faixa do dia e tendência. É por isso que aqui você vê dado tratado — não número solto.
+## 📊 Nossa metodologia em 30 segundos
+Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de **centenas de milhoes de registros**. Removemos cotações irreais, comparamos o agora com a **média móvel** recente e medimos a volatilidade. Por isso o número que você lê vem com contexto: faixa, tendência e projeção.
 
 
 ## ❓ Perguntas frequentes
