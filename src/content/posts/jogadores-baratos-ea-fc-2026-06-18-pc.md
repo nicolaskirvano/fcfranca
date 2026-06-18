@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:11:33.000Z
+pubDatetime: 2026-06-18T22:51:48.000Z
 title: "Jogadores baratos de Franceses no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,29 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | 0% |
-| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 4k coins | +200% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | +9.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +3.6% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +9.3% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -6.1% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 15k coins | +44.2% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 4k coins | +12.5% |
-| Delphine Cascarino | 85 | RM | NWSL | 6k coins | +13.8% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | 0% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -1.9% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -5.2% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -4.2% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.7% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +39.5% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 11k coins | -15.4% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 14k coins | -56.1% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
-
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **12k coins**
+
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T20:11:31.000Z
+pubDatetime: 2026-06-18T22:51:46.000Z
 title: "Melhores investimentos em Franceses no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Dan-Axel Zagadou (85, Bundesliga) lidera, com +49% em 7 dias a 38k coins no PC, e o modelo dá 58% de chance de seguir subindo."
+    a: "Jean-Mattéo Bahoya (89, Bundesliga) lidera, com +59.8% em 7 dias a 159k coins no PC, e o modelo dá 28% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,17 +23,17 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Dan-Axel Zagadou (85) acumula **+49% em 7 dias** a 38k coins.
+> 🔝 **Destaque:** Jean-Mattéo Bahoya (89) acumula **+59.8% em 7 dias** a 159k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No mercado de EA FC Ultimate Team para PC, datado de 18/06/2026, a análise das tendências de valorização de 7 dias destaca oportunidades concretas entre jogadores franceses. Para investidores cautelosos, Dan-Axel Zagadou (85, Bundesliga) apresenta um crescimento robusto de 33.3% em 24 horas, posicionado a 38k coins. Com uma probabilidade de alta de 58%, esta carta oferece um equilíbrio atrativo entre risco e retorno, sendo uma entrada segura para portfólios diversificados que buscam estabilidade de curto prazo.
+No cenário do EA FC Ultimate Team em PC, a análise das cartas francesas para 18/06/2026 revela oportunidades distintas baseadas na tendência de valorização de 7 dias. Entre as opções de alto investimento, Antoine Griezmann (91, LALIGA EA SPORTS) destaca-se com um impressionante aumento de 16,6% em 24 horas, atingindo 168k coins. Apesar de seu preço elevado, a probabilidade de alta de 40% sugere solidez. Jean-Mattéo Bahoya (89, Bundesliga), a 159k coins, subiu 13,1% com 28% de chance de continuar subindo, enquanto Pierre Kalulu (91, Serie A TIM) apresenta 9,9% de alta e 31% de probabilidade, valendo 89k. Khéphren Thuram (85, Serie A TIM), a 110k, oferece uma entrada mais conservadora com 9% de alta e 14% de probabilidade.
 
-Outro candidato sólido é Sidney Govou (86, Ligue 1 McDonald's), que subiu 26.5% em 24 horas e custa apenas 15k coins. Apesar de ter uma probabilidade de alta de 50%, o baixo custo de entrada minimiza perdas potenciais, tornando-o uma opção interessante para quem deseja exposição ao mercado francês com capital reduzido. A combinação de volume de negociação e acessibilidade torna Govou um ativo líquido e manejável para traders iniciantes ou intermediários.
+Para quem busca retornos mais agressivos com menor capital inicial, as carteiras femininas da D1 Arkema e a Bundesliga oferecem os melhores indicadores de probabilidade. Florian Sotoca (85, Ligue 1 McDonald's) lidera com uma alta de 26% em 24 horas e uma robusta probabilidade de 65%, custando apenas 30k coins. Dan-Axel Zagadou (85, Bundesliga) segue com 16% de alta e 58% de probabilidade, a 36k. No segmento feminino, Louisa Necib (88, D1 Arkema) a 56k tem 44% de chance de alta, e Jade Le Guilly (89, D1 Arkema) a 41k oferece 42% de probabilidade, com alta de 3,8%.
 
-Para aqueles com maior tolerância a risco e capital, Hugo Ekitiké (90, Premier League) surge como a aposta mais agressiva. Com um aumento de 34.5% em 24 horas e preço de 85k coins, Ekitiké possui uma probabilidade de alta de 55%. A alta cota de 90 sugere demanda competitiva em squads de alto nível, potencializando ganhos significativos se a tendência se sustentar. Embora o investimento seja elevado, o retorno percentual é comparável ao de Zagadou, mas com impacto financeiro muito maior.
+Outras opções viáveis incluem a segunda carta de Jade Le Guilly (84, D1 Arkema), que sobe 5,7% com 49% de probabilidade a 19k, ideal para diversificação de baixo risco. Wendie Renard (86, D1 Arkema), a 26k, apresenta 10,6% de alta e 22% de probabilidade, sendo uma entrada acessível. A escolha entre essas cartas depende do perfil de risco: Griezmann e Bahoya para estabilidade em valores altos, enquanto Sotoca e Zagadou oferecem maior volatilidade positiva com entradas reduzidas.
 
-Finalmente, Camille Abily (91, Icons) merece atenção por ser a única carta francesa com probabilidade de alta superior a 57% (58%), subindo 12.6% em 24 horas a 45k coins. Como Ícone, sua volatilidade é menor, mas a consistência da tendência indica valorização estável. Enquanto cartas como Pierre Kalulu (31% de probabilidade) e Blaise Matuidi (31% de probabilidade) apresentam sinais mais fracos, Abily e Zagadou consolidam-se como as melhores entradas hoje, unindo dados técnicos favoráveis e potencial de crescimento sustentável no mercado atual.
+Em resumo, a tendência atual favorece jogadores com alta probabilidade de valorização acima de 40%, mesmo que o percentual de alta em 24h seja moderado, como visto em Sotoca e Necib. Cartas como Griezmann, apesar do preço, mantêm atratividade pela consistência. Investidores devem monitorar de perto as flutuações das ligas menores, onde a liquidez pode gerar oscilações rápidas, aproveitando a janela de oportunidade antes de possíveis correções.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -41,34 +41,31 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Dan-Axel Zagadou | 85 | Bundesliga | 38k coins | +33.3% | +49% | 58% |
-| Sidney Govou | 86 | Ligue 1 McDonald's | 15k coins | +26.5% | +44.2% | 50% |
-| Hugo Ekitiké | 90 | Premier League | 85k coins | +34.5% | +41.8% | 55% |
-| Kingsley Coman | 87 | ROSHN Saudi League | 42k coins | +12.7% | +40.8% | 55% |
-| Camille Abily | 91 | Icons | 45k coins | +12.6% | +40% | 57% |
-| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +4.1% | +38% | 31% |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 19k coins | +33.8% | +37.7% | 36% |
-| Anaële Le Moguédec | 88 | D1 Arkema | 22k coins | +18.4% | +25% | 50% |
-| Louisa Necib | 88 | D1 Arkema | 56k coins | +11% | +20.7% | 44% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 85k coins | +9.2% | +18.8% | 31% |
-| Laurent Blanc | 88 | Icons | 89k coins | +1.1% | +12.2% | 29% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 20k coins | +1.3% | +11.8% | 60% |
-| Enzo Millot | 89 | ROSHN Saudi League | 22k coins | +5.3% | +11.1% | 31% |
-| Camille Abily | 92 | Icons | 68k coins | +3.2% | +10.3% | 58% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 234k coins | +1.7% | +8.8% | 3% |
+| Jean-Mattéo Bahoya | 89 | Bundesliga | 159k coins | +13.1% | +59.8% | 28% |
+| Khéphren Thuram | 85 | Serie A TIM | 110k coins | +9% | +52.6% | 14% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 30k coins | +26% | +42.4% | 65% |
+| Jade Le Guilly | 89 | D1 Arkema | 41k coins | +3.8% | +42.2% | 42% |
+| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +9.9% | +41.3% | 31% |
+| Wendie Renard | 86 | D1 Arkema | 26k coins | +10.6% | +38.7% | 22% |
+| Dan-Axel Zagadou | 85 | Bundesliga | 36k coins | +16% | +36.8% | 58% |
+| Louisa Necib | 88 | D1 Arkema | 56k coins | +2.8% | +18.7% | 44% |
+| Antoine Griezmann | 91 | LALIGA EA SPORTS | 168k coins | +16.6% | +14.2% | 40% |
+| Jade Le Guilly | 84 | D1 Arkema | 19k coins | +5.7% | +13.8% | 49% |
+| Corentin Tolisso | 85 | Ligue 1 McDonald's | 18k coins | +16.9% | +11.8% | 60% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 240k coins | +4.3% | +9.1% | 3% |
 
 
 ## 📈 Análise dos destaques
 
-- **Dan-Axel Zagadou (85)** — 38k coins, **+49% em 7 dias** (+33.3% em 24h). Preço em linha com a média de 7 dias (-4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jean-Mattéo Bahoya (89)** — 159k coins, **+59.8% em 7 dias** (+13.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Sidney Govou (86)** — 15k coins, **+44.2% em 7 dias** (+26.5% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khéphren Thuram (85)** — 110k coins, **+52.6% em 7 dias** (+9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Hugo Ekitiké (90)** — 85k coins, **+41.8% em 7 dias** (+34.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Florian Sotoca (85)** — 30k coins, **+42.4% em 7 dias** (+26% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Kingsley Coman (87)** — 42k coins, **+40.8% em 7 dias** (+12.7% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jade Le Guilly (89)** — 41k coins, **+42.2% em 7 dias** (+3.8% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Camille Abily (91)** — 45k coins, **+40% em 7 dias** (+12.6% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pierre Kalulu (91)** — 89k coins, **+41.3% em 7 dias** (+9.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +83,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Dan-Axel Zagadou (85, Bundesliga) lidera, com +49% em 7 dias a 38k coins no PC, e o modelo dá 58% de chance de seguir subindo.
+Jean-Mattéo Bahoya (89, Bundesliga) lidera, com +59.8% em 7 dias a 159k coins no PC, e o modelo dá 28% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
