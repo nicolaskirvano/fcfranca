@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T19:50:21.000Z
+pubDatetime: 2026-06-18T20:11:33.000Z
 title: "Jogadores baratos de Franceses no EA FC (18/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,12 +31,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | 0% |
 | Jules Koundé | 87 | RB | LALIGA EA SPORTS | 4k coins | +200% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +15.9% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | +9.1% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +3.6% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +9.3% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -6.1% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 15k coins | +44.2% |
 | N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 4k coins | +12.5% |
-| Delphine Cascarino | 85 | RM | NWSL | 7k coins | +13.8% |
+| Delphine Cascarino | 85 | RM | NWSL | 6k coins | +13.8% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | 0% |
 
 
@@ -46,7 +47,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
