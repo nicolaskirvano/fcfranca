@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:51:46.000Z
+pubDatetime: 2026-06-19T01:53:43.000Z
 title: "Melhores investimentos em Franceses no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Jean-Mattéo Bahoya (89, Bundesliga) lidera, com +59.8% em 7 dias a 159k coins no PC, e o modelo dá 28% de chance de seguir subindo."
+    a: "Hugo Ekitiké (86, Premier League) lidera, com +64.7% em 7 dias a 35k coins no PC, e o modelo dá 53% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,17 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Jean-Mattéo Bahoya (89) acumula **+59.8% em 7 dias** a 159k coins.
+> 🔝 **Destaque:** Hugo Ekitiké (86) acumula **+64.7% em 7 dias** a 35k coins.
 
 
 ## 🔎 Análise do mercado hoje
-No cenário do EA FC Ultimate Team em PC, a análise das cartas francesas para 18/06/2026 revela oportunidades distintas baseadas na tendência de valorização de 7 dias. Entre as opções de alto investimento, Antoine Griezmann (91, LALIGA EA SPORTS) destaca-se com um impressionante aumento de 16,6% em 24 horas, atingindo 168k coins. Apesar de seu preço elevado, a probabilidade de alta de 40% sugere solidez. Jean-Mattéo Bahoya (89, Bundesliga), a 159k coins, subiu 13,1% com 28% de chance de continuar subindo, enquanto Pierre Kalulu (91, Serie A TIM) apresenta 9,9% de alta e 31% de probabilidade, valendo 89k. Khéphren Thuram (85, Serie A TIM), a 110k, oferece uma entrada mais conservadora com 9% de alta e 14% de probabilidade.
+Ao analisar o mercado de EA FC Ultimate Team em 18 de junho de 2026, com foco específico nos jogadores franceses disponíveis para PC, observamos uma dinâmica interessante de valorização baseada nos dados dos últimos sete dias. A estratégia de investimento atual deve priorizar cartas que apresentam não apenas um aumento percentual significativo em 24 horas, mas, crucialmente, uma probabilidade estatística elevada de continuidade dessa tendência. Entre as opções listadas, Florian Sotoca destaca-se imediatamente como a oportunidade mais sólida. Com uma valorização de 17,2% em apenas um dia e uma probabilidade de alta de 65%, este lateral-direito da Ligue 1 McDonald's está a 27k coins. Essa combinação de preço acessível e alta probabilidade de sucesso o torna o ativo mais seguro para entrada, sugerindo uma demanda consistente que não mostra sinais de saturação imediata.
 
-Para quem busca retornos mais agressivos com menor capital inicial, as carteiras femininas da D1 Arkema e a Bundesliga oferecem os melhores indicadores de probabilidade. Florian Sotoca (85, Ligue 1 McDonald's) lidera com uma alta de 26% em 24 horas e uma robusta probabilidade de 65%, custando apenas 30k coins. Dan-Axel Zagadou (85, Bundesliga) segue com 16% de alta e 58% de probabilidade, a 36k. No segmento feminino, Louisa Necib (88, D1 Arkema) a 56k tem 44% de chance de alta, e Jade Le Guilly (89, D1 Arkema) a 41k oferece 42% de probabilidade, com alta de 3,8%.
+Outro candidato de excelência é Hugo Ekitiké, cuja carta de 86 rating, vinculada à Premier League, registrou um aumento de 2,9% em 24 horas. Embora o percentual diário pareça modesto em comparação com outros nomes, a probabilidade de alta de 53% confere estabilidade ao investimento. Situado na faixa dos 35k coins, Ekitiké representa uma aposta equilibrada para quem busca mitigar riscos enquanto aproveita a tendência de valorização de jogadores de ligas de alto nível. A consistência da Premier League no meta do jogo frequentemente sustenta os preços desses ativos, tornando-o uma escolha racional para portfólios diversificados que buscam crescimento sustentável em vez de picos voláteis.
 
-Outras opções viáveis incluem a segunda carta de Jade Le Guilly (84, D1 Arkema), que sobe 5,7% com 49% de probabilidade a 19k, ideal para diversificação de baixo risco. Wendie Renard (86, D1 Arkema), a 26k, apresenta 10,6% de alta e 22% de probabilidade, sendo uma entrada acessível. A escolha entre essas cartas depende do perfil de risco: Griezmann e Bahoya para estabilidade em valores altos, enquanto Sotoca e Zagadou oferecem maior volatilidade positiva com entradas reduzidas.
+Jade Le Guilly também merece atenção, especialmente a sua versão de 89 rating da D1 Arkema. Com uma alta expressiva de 11,3% em 24h e uma probabilidade de 42%, a carta está cotada a 42k coins. Apesar de a probabilidade ser inferior à de Sotoca, o impulso recente é forte, indicando um interesse renovado da comunidade por defensores franceses de alto nível. Investidores mais agressivos podem considerar essa entrada, monitorando de perto os próximos movimentos de mercado para garantir que a tendência se mantenha, já que a probabilidade de 42% ainda indica uma chance maior de alta do que de queda.
 
-Em resumo, a tendência atual favorece jogadores com alta probabilidade de valorização acima de 40%, mesmo que o percentual de alta em 24h seja moderado, como visto em Sotoca e Necib. Cartas como Griezmann, apesar do preço, mantêm atratividade pela consistência. Investidores devem monitorar de perto as flutuações das ligas menores, onde a liquidez pode gerar oscilações rápidas, aproveitando a janela de oportunidade antes de possíveis correções.
+Para os que buscam oportunidades de alto risco e alto retorno, Armand Laurienté apresenta um cenário peculiar. Sua carta de 86 rating da Serie A TIM subiu impressionantes 25% em 24 horas, mas a probabilidade de alta é de apenas 15%, com preço a 38k coins. Esse descompasso entre o salto recente e a baixa probabilidade futura sugere uma possível correção ou estabilização. Portanto, embora a entrada possa ser tentadora devido ao momentum, a análise prudente indica cautela, recomendando-a apenas para traders experientes dispostos a assumir a volatilidade associada a essa discrepância estatística.
+
+Em contraste, Khéphren Thuram e Pierre Kalulu, apesar de suas valorizações de 9,3% e 10,4% respectivamente, apresentam probabilidades de alta muito baixas (14% e 31%). Thuram, a 99k coins, e Kalulu, a 85k coins, são ativos caros onde a probabilidade de continuarem subindo é escassa. O custo de entrada elevado combinado com a baixa probabilidade de retorno imediato os torna menos atraentes para investimento de curto prazo, servindo mais como ativos de longo prazo ou para uso direto em times de alta competitividade, do que como veículos de lucro rápido.
+
+Por fim, Malo Gusto e a versão de 84 rating de Jade Le Guilly oferecem alternativas de menor custo. Gusto, a 43k coins, tem apenas 19% de probabilidade de alta, enquanto Le Guilly (84 rating), a 18k coins, apresenta 49% de probabilidade. Esta última, com preço baixo e probabilidade quase equilibrada, pode ser uma entrada segura para quem deseja testar o mercado com capital reduzido. Em resumo, Florian Sotoca e Hugo Ekitiké se destacam como as melhores entradas hoje, equilibrando risco e recompensa de forma otimizada para o cenário de 18 de junho de 2026.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -41,31 +45,28 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 159k coins | +13.1% | +59.8% | 28% |
-| Khéphren Thuram | 85 | Serie A TIM | 110k coins | +9% | +52.6% | 14% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 30k coins | +26% | +42.4% | 65% |
-| Jade Le Guilly | 89 | D1 Arkema | 41k coins | +3.8% | +42.2% | 42% |
-| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +9.9% | +41.3% | 31% |
-| Wendie Renard | 86 | D1 Arkema | 26k coins | +10.6% | +38.7% | 22% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 36k coins | +16% | +36.8% | 58% |
-| Louisa Necib | 88 | D1 Arkema | 56k coins | +2.8% | +18.7% | 44% |
-| Antoine Griezmann | 91 | LALIGA EA SPORTS | 168k coins | +16.6% | +14.2% | 40% |
-| Jade Le Guilly | 84 | D1 Arkema | 19k coins | +5.7% | +13.8% | 49% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 18k coins | +16.9% | +11.8% | 60% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 240k coins | +4.3% | +9.1% | 3% |
+| Hugo Ekitiké | 86 | Premier League | 35k coins | +2.9% | +64.7% | 53% |
+| Jade Le Guilly | 89 | D1 Arkema | 42k coins | +11.3% | +52.7% | 42% |
+| Khéphren Thuram | 85 | Serie A TIM | 99k coins | +9.3% | +48.1% | 14% |
+| Pierre Kalulu | 91 | Serie A TIM | 85k coins | +10.4% | +40.5% | 31% |
+| Laura Georges | 89 | D1 Arkema | 30k coins | +11.2% | +36.8% | 20% |
+| Armand Laurienté | 86 | Serie A TIM | 38k coins | +25% | +33.9% | 15% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 27k coins | +17.2% | +28.2% | 65% |
+| Malo Gusto | 84 | Premier League | 43k coins | +8% | +23.2% | 19% |
+| Jade Le Guilly | 84 | D1 Arkema | 18k coins | +2.9% | +16.1% | 49% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jean-Mattéo Bahoya (89)** — 159k coins, **+59.8% em 7 dias** (+13.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Hugo Ekitiké (86)** — 35k coins, **+64.7% em 7 dias** (+2.9% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Khéphren Thuram (85)** — 110k coins, **+52.6% em 7 dias** (+9% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jade Le Guilly (89)** — 42k coins, **+52.7% em 7 dias** (+11.3% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Florian Sotoca (85)** — 30k coins, **+42.4% em 7 dias** (+26% em 24h). Preço +21% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khéphren Thuram (85)** — 99k coins, **+48.1% em 7 dias** (+9.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Jade Le Guilly (89)** — 41k coins, **+42.2% em 7 dias** (+3.8% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pierre Kalulu (91)** — 85k coins, **+40.5% em 7 dias** (+10.4% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Pierre Kalulu (91)** — 89k coins, **+41.3% em 7 dias** (+9.9% em 24h). Preço +38% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Laura Georges (89)** — 30k coins, **+36.8% em 7 dias** (+11.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +84,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Jean-Mattéo Bahoya (89, Bundesliga) lidera, com +59.8% em 7 dias a 159k coins no PC, e o modelo dá 28% de chance de seguir subindo.
+Hugo Ekitiké (86, Premier League) lidera, com +64.7% em 7 dias a 35k coins no PC, e o modelo dá 53% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
