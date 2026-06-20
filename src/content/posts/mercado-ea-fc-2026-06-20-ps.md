@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:50:53.000Z
+pubDatetime: 2026-06-20T19:50:50.000Z
 title: "Franceses no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Annaïg Butel (86, D1 Arkema), com +35.9% em 24h, a 22k coins no Console (PS)."
+    a: "Pierre Kalulu (91, Serie A TIM), com +35.9% em 24h, a 98k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ousmane Dembélé (86), -48.1% em 24h, a 26k coins."
+    a: "Patrick Vieira (90), -43.9% em 24h, a 461k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Ferland Mendy (87) — 95% de probabilidade de alta, a 34k coins."
+    a: "Pelo modelo FutQuant, Dan-Axel Zagadou (85) — 95% de probabilidade de alta, a 18k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 30 cartas em alta contra 88 em queda (média -10.16%)."
+    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 30 cartas em alta contra 88 em queda (média -7.51%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado de cartas francesas no console PlayStation apresenta um cenário de extrema volatilidade e pressão vendedora nesta segunda-feira, 20 de junho de 2026, caracterizado por uma dominância esmagadora das quedas em relação às altas, com um balanço final de 88 cartas em declínio contra apenas 30 em ascensão. A média ponderada das variações nas últimas 24 horas registra uma desvalorização generalizada de -10,16%, indicando que a liquidez está sendo drenada rapidamente pelos traders que aproveitam a incerteza do pré-temporada para realizar lucros ou cortar prejuízos em posições de risco. Este ambiente hostil exige uma leitura apurada das probabilidades de alta projetadas pelo algoritmo, pois nem todas as quedas representam oportunidades de compra imediata, especialmente quando a probabilidade de recuperação é baixa, como visto em vários ícones e cartas de elite feminina. O tom do dia é de cautela extrema, onde o capital deve ser alocado apenas em ativos com alta probabilidade de retorno, evitando-se armadilhas de valor em cartas que, apesar de estarem baratas, não possuem o catalisador necessário para reverter a tendência de baixa no curto prazo.
+O mercado de jogadores franceses em console PS apresenta um cenário extremamente hostil e deflacionário nesta terça-feira, 20 de junho de 2026, onde a pressão de venda é esmagadora e define completamente o tom das negociações. Os indicadores macroeconômicos do Ultimate Team mostram uma assimetria brutal, com apenas 30 altas registradas contra um impressionante volume de 88 quedas no período de 24 horas, resultando em uma média de variação negativa de -7.51% que afasta investidores indecisos e exige cautela extrema. Este ambiente de pânico vende não apenas ativos de baixo custo, mas também impacta duramente os valores de referência, forçando traders experientes a reavaliarem suas carteiras e evitarem compras impulsivas em ativos que parecem estar em livre queda. A dominância das quedas sugere uma liquidez excessiva sendo despejada no mercado, possivelmente devido a eventos de fim de semana ou fechamento de pacotes de conteúdo, criando oportunidades de compra para quem possui disciplina e capital de giro reservado. É fundamental entender que, neste contexto, a maioria dos ativos não possui suporte imediato, e a tentativa de segurar posições em queda livre pode resultar em perdas significativas se não houver um gatilho claro de recompra ou demanda de squad.
 
-> 🟢 **Maior alta:** Annaïg Butel (86) **+35.9%** · 🔴 **Maior baixa:** Ousmane Dembélé (86) **-48.1%**
+> 🟢 **Maior alta:** Pierre Kalulu (91) **+35.9%** · 🔴 **Maior baixa:** Patrick Vieira (90) **-43.9%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Annaïg Butel | 86 | D1 Arkema | 22k coins | +35.9% | +4.8% |
-| Maxence Lacroix | 87 | Premier League | 70k coins | +31.6% | -31.8% |
-| Louisa Necib | 90 | D1 Arkema | 45k coins | +25% | +48.8% |
-| Florian Thauvin | 83 | Ligue 1 McDonald's | 49k coins | +23.1% | -5.3% |
-| Wilson Odobert | 87 | Premier League | 44k coins | +18.9% | +14.3% |
-| Marco Essimi | 80 | Ligue 2 BKT | 48k coins | +18.8% | +2.2% |
-| Louisa Necib | 88 | D1 Arkema | 28k coins | +18.8% | +70.1% |
-| Marinette Pichon | 90 | Icons | 47k coins | +18.8% | -2.3% |
-| Thierry Henry | 91 | Icons | 995k coins | +17.8% | +6.8% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 25k coins | +15.7% | +15.7% |
+| Pierre Kalulu | 91 | Serie A TIM | 98k coins | +35.9% | +7.1% |
+| Maxence Lacroix | 87 | Premier League | 53k coins | +35.6% | -44.5% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 31k coins | +33.7% | +33.7% |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 26k coins | +30% | +52.9% |
+| Florian Thauvin | 83 | Ligue 1 McDonald's | 47k coins | +27% | -13% |
+| Yoan Bonny | 86 | Serie A TIM | 80k coins | +24% | +53.8% |
+| Laurent Blanc | 88 | Icons | 90k coins | +22.4% | -14.7% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 83k coins | +21.9% | +11.3% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 158k coins | +18.5% | -25.4% |
+| William Saliba | 90 | Premier League | 336k coins | +16.7% | +24.9% |
 
 
-Entre as poucas cartas que conseguiram defiar a gravidade do mercado, destaca-se Annaïg Butel, da D1 Arkema, que registrou uma alta impressionante de 35,9% em 24 horas, atingindo a marca de 22 mil moedas, impulsionada por uma probabilidade de alta de 45% que sugere sustentação técnica apesar da liquidez limitada. Maxence Lacroix, da Premier League, subiu 31,6% para 70 mil moedas, mas sua probabilidade de alta futura é de apenas 5%, caracterizando este movimento como uma fuga de poucos compradores especulativos sem respaldo fundamental sólido para continuidade. Louisa Necib, em sua versão de 90 rating da D1 Arkema, apreciou 25% chegando a 45 mil moedas, com uma probabilidade de alta de 16%, indicando que o interesse é pontual e pode se esgotar rapidamente sem novos anúncios de eventos. Florian Thauvin, da Ligue 1 McDonald's, apresentou uma alta de 23,1% para 49 mil moedas e se torna o ativo mais interessante deste grupo devido à sua probabilidade de alta de 60%, sugerindo que a demanda está sendo absorvida de forma mais organizada e com potencial de continuidade. Wilson Odobert, também da Premier League, subiu 18,9% para 44 mil moedas e possui a maior probabilidade de alta do grupo com 95%, tornando-o o candidato mais robusto para segurar posições de longo prazo entre os ativos em alta, ao lado de Marco Essimi, da Ligue 2 BKT, que subiu 18,8% para 48 mil moedas com 95% de probabilidade de alta, confirmando uma tendência de valorização em cartas de baixa liquidez que estão encontrando novos compradores institucionais.
+Dentro deste mar vermelho, destacam-se algumas exceções notáveis lideradas por Pierre Kalulu, cuja carta de 91 de rating da Serie A TIM disparou 35.9% em 24 horas, atingindo a marca de 98k coins, embora o modelo atribua apenas 5% de probabilidade de continuidade da alta, sugerindo um movimento especulativo de curto prazo ou manipulação de mercado. Maxence Lacroix, com 87 de rating da Premier League, acompanha o movimento com alta de 35.6% para 53k coins, também com baixa probabilidade de 5% de continuidade, indicando que esses saltos podem ser oportunidades de venda rápida para traders ágeis que conseguirem entrar antes da correção. Florian Sotoca, da Ligue 1 McDonald's, subiu 33.7% para 31k coins, reforçando a ideia de que defensores e médios de ligas menores estão sendo alvos de compras pontuais, talvez para squads específicos de eventos ou pacotes de fim de semana. Pierre Lees-Melou, outro da Ligue 1 McDonald's com 87 de rating, cresceu 30% para 26k coins e apresenta uma probabilidade de alta de 68%, o que o torna um ativo mais confiável para segurar do que os anteriores, possivelmente devido a uma escassez súbita de oferta ou demanda tática. Finalmente, Florian Thauvin, com 83 de rating, subiu 27% para 47k coins com 60% de probabilidade de alta, enquanto Yoan Bonny (86, Serie A TIM) e Laurent Blanc (88, Icons) mostraram resiliência com altas de 24% e 22.4% respectivamente, demonstrando que mesmo em dias de queda generalizada, ativos com utilidade de squad ou status de ícone podem manter valor ou apreciar ligeiramente devido à demanda orgânica de times competitivos.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ousmane Dembélé | 86 | Ligue 1 McDonald's | 26k coins | -48.1% | -50.5% |
-| Thierry Henry | 93 | Icons | 840k coins | -47.8% | -47.6% |
-| Sakina Karchaoui | 91 | D1 Arkema | 34k coins | -45.2% | -23.1% |
-| Sakina Karchaoui | 88 | D1 Arkema | 30k coins | -43.8% | -12.9% |
-| Zinedine Zidane | 95 | Icons | 566k coins | -41.6% | -55.5% |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 25k coins | -41.6% | -28.9% |
-| Franck Ribéry | 89 | Icons | 218k coins | -39.2% | -22.4% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 176k coins | -37.7% | -30.8% |
-| Kadidiatou Diani | 91 | D1 Arkema | 52k coins | -35.6% | -35.6% |
-| Eric Cantona | 89 | Icons | 78k coins | -35% | -26.4% |
+| Patrick Vieira | 90 | Icons | 461k coins | -43.9% | -58.4% |
+| Sakina Karchaoui | 88 | D1 Arkema | 26k coins | -42.6% | -7.6% |
+| Franck Ribéry | 89 | Icons | 285k coins | -39.7% | -27.8% |
+| Kadidiatou Diani | 91 | D1 Arkema | 54k coins | -37.5% | -51.6% |
+| Hugo Ekitiké | 86 | Premier League | 20k coins | -37.1% | -36% |
+| Lilian Thuram | 93 | Icons | 313k coins | -36% | -71.6% |
+| Sakina Karchaoui | 91 | D1 Arkema | 35k coins | -34.7% | -38.9% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 142k coins | -34.1% | -31% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 548k coins | -30.5% | -32.1% |
+| Hugo Ekitiké | 90 | Premier League | 34k coins | -29.5% | -25.8% |
 
 
-O lado das vendas foi devastador, com Ousmane Dembélé da Ligue 1 McDonald's liderando as quedas com uma queda brutal de 48,1% para 26 mil moedas, apesar de ter uma probabilidade de alta de 63%, o que indica uma oportunidade de compra agressiva para traders com perfil de risco elevado que acreditam na recuperação técnica rápida. Thierry Henry, ícone de 93 rating, despencou 47,8% para 840 mil moedas, com probabilidade de alta de apenas 38%, sinalizando que a venda de grandes quantias de inventário de alta faixa está pressionando o mercado sem sinais imediatos de estabilização. Sakina Karchaoui, em sua versão de 91 rating da D1 Arkema, caiu 45,2% para 34 mil moedas com probabilidade de alta de apenas 8%, representando um ativo de risco extremo que deve ser evitado a qualquer custo até que haja mudança estrutural no sentimento. Sua versão de 88 rating também caiu 43,8% para 30 mil moedas, mas com probabilidade de alta de 68%, o que cria um cenário divergente onde a carta mais fraca em rating pode ter mais suporte técnico que a mais forte. Zinedine Zidane, o ícone de 95 rating, registrou queda de 41,6% para 566 mil moedas com probabilidade de alta de 8%, confirmando a fuga de capitais de ativos premium que perdem atratividade para investimentos mais seguros. Kenny Lala, da Ligue 1 McDonald's, caiu 41,6% para 25 mil moedas, mas sua probabilidade de alta de 95% o transforma no ativo de compra mais atraente do dia, sugerindo que a queda foi puramente técnica e superexagerada. Franck Ribéry, ícone de 89 rating, caiu 39,2% para 218 mil moedas com probabilidade de 40%, enquanto N'Golo Kanté, da ROSHN Saudi League, despencou 37,7% para 176 mil moedas com probabilidade de apenas 8%, indicando que a venda de cartões de ligas menos populares está sendo executada sem resistência de compradores.
+O lado oposto do espectro é dominado por quedas severas que representam riscos imensos para quem tentou comprar no topo ou segurar sem stop-loss, sendo Patrick Vieira o exemplo mais dramático com uma queda de 43.9% para 461k coins, uma carta de 90 de rating de Icons que perdeu mais da metade do seu valor em um dia, possivelmente devido à exaustão de demanda de squads premium ou venda massiva por grandes traders. Sakina Karchaoui, com 88 de rating da D1 Arkema, despencou 42.6% para 26k coins, enquanto sua versão de 91 de rating caiu 34.7% para 35k coins, mostrando uma desvalorização generalizada da jogadora que pode estar ligada ao fim de um evento específico ou falta de utilidade no meta atual. Franck Ribéry, outro ícone com 89 de rating, sofreu queda de 39.7% para 285k coins, indicando que até mesmo nomes históricos estão vulneráveis a correções bruscas quando a liquidez seca e a oferta supera a demanda. Kadidiatou Diani, de 91 de rating da D1 Arkema, caiu 37.5% para 54k coins, e Hugo Ekitiké, da Premier League com 86 de rating, despencou 37.1% para 20k coins, apesar de ter 95% de probabilidade de alta no modelo, o que sugere que o preço atual pode ser um fundo técnico de curto prazo. Lilian Thuram (93, Icons) caiu 36% para 313k coins e N'Golo Kanté (89, ROSHN Saudi League) despencou 34.1% para 142k coins, ambos com baixas probabilidades de alta imediata, o que confirma que a pressão de venda está concentrada em ativos de alto custo e popularidade, onde a realização de perdas é mais dolorosa e massiva.
 
 
 ## 🔮 Radar de valorização (24h)
@@ -74,17 +74,17 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Ferland Mendy | 87 | 34k coins | 40k coins | 95% |
-| Kenny Lala | 87 | 25k coins | 30k coins | 95% |
-| Jean-Philippe Mateta | 84 | 40k coins | 54k coins | 95% |
-| Kouadio Manu Koné | 88 | 96k coins | 115k coins | 95% |
+| Dan-Axel Zagadou | 85 | 18k coins | 24k coins | 95% |
+| Lilian Thuram | 88 | 140k coins | 166k coins | 95% |
+| Kouadio Manu Koné | 88 | 83k coins | 99k coins | 95% |
 | Sandy Baltimore | 87 | 32k coins | 37k coins | 95% |
-| Bradley Barcola | 87 | 52k coins | 71k coins | 95% |
-| Franck Honorat | 85 | 18k coins | 22k coins | 95% |
-| Hugo Ekitiké | 86 | 20k coins | 23k coins | 95% |
+| Ferland Mendy | 87 | 47k coins | 56k coins | 95% |
+| Rayan Cherki | 85 | 40k coins | 46k coins | 95% |
+| Antoine Griezmann | 87 | 17k coins | 20k coins | 95% |
+| Olivier Giroud | 89 | 22k coins | 29k coins | 95% |
 
 
-O modelo de previsão indica uma forte probabilidade de alta de 95% para Ferland Mendy da LALIGA EA SPORTS, atualmente cotado a 34 mil moedas, sugerindo que a carta está subvalorizada e pronta para uma correção positiva significativa. Kenny Lala, da Ligue 1 McDonald's, também entra nesta lista de alta probabilidade a 25 mil moedas, reforçando a tese de compra iniciada na análise das baixas, onde a convergência de queda acentuada e alta probabilidade de recuperação cria uma oportunidade clássica de mean reversion. Jean-Philippe Mateta, da Premier League, é projetado para alta com 95% de chance a 40 mil moedas, indicando que a demanda por alas ofensivos da liga inglesa está sendo subapreciada pelo mercado atual. Kouadio Manu Koné, da Serie A TIM, aparece com 95% de probabilidade de alta a 96 mil moedas, um ativo de faixa média-alta que pode atrair investidores buscando diversificação fora das ligas tradicionais. Sandy Baltimore, da Barclays WSL, é outro ativo feminino com 95% de probabilidade de alta a 32 mil moedas, aproveitando a volatilidade do mercado feminino que viu quedas acentuadas em outras cartas como Sakina Karchaoui. Bradley Barcola, da Ligue 1 McDonald's, é projetado para subir com 95% de probabilidade a 52 mil moedas, consolidando-se como um dos ativos mais seguros do portfólio francês. Franck Honorat, da Bundesliga, a 18 mil moedas, e Hugo Ekitiké, da Premier League, a 20 mil moedas, completam a lista de ativos com 95% de probabilidade de alta, oferecendo exposição de baixo custo com potencial de retorno rápido para traders que buscam girar capital com menor risco de perda.
+O modelo preditivo identifica uma oportunidade clara de compra em ativos que estão sendo desprezados ou que estão prestes a reverter, destacando Dan-Axel Zagadou (85, Bundesliga) a 18k coins e Lilian Thuram (88, Icons) a 140k coins, ambos com 95% de probabilidade de alta, sugerindo que os preços atingiram um fundo sustentável onde a demanda de compra superará a oferta de venda. Kouadio Manu Koné (88, Serie A TIM) aparece novamente com 95% de probabilidade de alta a 83k coins, alinhando-se com seu recente desempenho de alta, o que indica uma tendência de sustentação de preço e potencial para novos ganhos. Sandy Baltimore (87, Barclays WSL) a 32k coins e Ferland Mendy (87, LALIGA EA SPORTS) a 47k coins também são indicados com 95% de probabilidade, oferecendo risco reduzido para traders que buscam ativos de médio porte com boa liquidez. Rayan Cherki (85, Premier League) a 40k coins, Antoine Griezmann (87, LALIGA EA SPORTS) a 17k coins e Olivier Giroud (89, Ligue 1 McDonald's) a 22k coins completam a lista com 95% de probabilidade, representando uma cesta diversificada de ativos franceses que o algoritmo considera subvalorizados em relação à sua utilidade futura e demanda esperada, sendo ideais para compras agressivas com horizonte de curto a médio prazo.
 
 
 ## ⚠️ Cuidado: o modelo projeta queda
@@ -93,18 +93,18 @@ O modelo vê **risco de queda** nestas nas próximas 24h — segure a compra:
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Melvine Malard | 84 | 50k coins | -17.3% |
-| Sidney Govou | 87 | 43k coins | -29.1% |
+| Sidney Govou | 87 | 38k coins | -29.1% |
 | Karim Benzema | 88 | 40k coins | -34.2% |
-| Florian Thauvin | 87 | 35k coins | -15.6% |
-| Hugo Ekitiké | 86 | 37k coins | -15.6% |
-| Maxence Lacroix | 87 | 70k coins | -29.2% |
-| Antoine Griezmann | 91 | 119k coins | -29.2% |
+| Florian Thauvin | 87 | 32k coins | -15.6% |
 | Emmanuel Petit | 87 | 74k coins | -17.5% |
+| Jade Le Guilly | 89 | 48k coins | -21.3% |
+| Pierre Kalulu | 91 | 98k coins | -17.4% |
+| Antoine Griezmann | 91 | 118k coins | -29.2% |
+| Maxence Lacroix | 87 | 53k coins | -29.2% |
 
 
 ## 🎯 O que fazer hoje
-A estratégia recomendada para hoje é focar exclusivamente na compra de ativos com probabilidade de alta superior a 90% que estão em fase de descompressão de preço, priorizando Kenny Lala, Wilson Odobert e Marco Essimi, que combinam quedas recentes ou altas sustentadas com máxima probabilidade de continuidade. Deve-se evitar completamente a compra de ícones em queda livre como Zinedine Zidane e Sakina Karchaoui de 91 rating, cuja baixa probabilidade de alta sugere que a tendência de venda ainda não encontrou fundo técnico. Posições em Annaïg Butel e Florian Thauvin podem ser mantidas para curto prazo, mas com stop-loss ajustado, dado que suas probabilidades de alta são moderadas e podem ser revertidas rapidamente em um mercado pressionado. A venda de ativos de alta faixa como Thierry Henry e Franck Ribéry deve ser evitada agora, pois vender no fundo de uma queda com probabilidade de alta moderada pode resultar em perda de oportunidade de recuperação, a menos que haja necessidade urgente de liquidez. O foco deve ser a acumulação de Kenny Lala e Ferland Mendy, que apresentam o melhor risco-retorno do dia, enquanto se aguarda a estabilização do mercado para reavaliar as posições em Louisa Necib e Maxence Lacroix. A disciplina é fundamental neste ambiente de -10,16% médio, onde a tentação de comprar quedas em ativos sem suporte probabilístico pode levar a perdas significativas em um mercado que ainda mostra sinais de pressão vendedora estrutural.
+A estratégia para hoje deve ser predominantemente defensiva, focando em evitar compras em ativos em queda livre como Vieira e Ribéry, a menos que haja uma confirmação de suporte em candles de menor tempo, e priorizando a venda de qualquer posição que esteja sofrendo pressão sem sinais claros de recompra. Recomenda-se fortemente a compra dos ativos listados na previsão com 95% de probabilidade, especialmente Griezmann e Giroud, que oferecem excelente relação risco-retorno devido aos seus preços baixos e alta utilidade de squad, servindo como proteção contra a volatilidade do mercado. Traders devem monitorar de perto Pierre Lees-Melou e Florian Thauvin para vendas rápidas, aproveitando as altas recentes antes que a probabilidade de reversão se torne mais provável, enquanto ativos como Kalulu e Lacroix devem ser tratados com extrema cautela devido à baixa probabilidade de continuidade. É crucial manter capital em reserva para aproveitar as quedas extremas de ícones como Thuram e Kanté, que podem apresentar oportunidades de arbitragem se a queda for desproporcional à utilidade real dos jogadores. No geral, o dia exige paciência e disciplina, evitando a FOMO em altas temporárias e focando na acumulação de ativos com previsão positiva para garantir lucros sustentáveis em um mercado dominado por vendas.
 
 
 ## ⚙️ A engine por tras deste post
@@ -114,16 +114,16 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Annaïg Butel (86, D1 Arkema), com +35.9% em 24h, a 22k coins no Console (PS).
+Pierre Kalulu (91, Serie A TIM), com +35.9% em 24h, a 98k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Ousmane Dembélé (86), -48.1% em 24h, a 26k coins.
+Patrick Vieira (90), -43.9% em 24h, a 461k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Ferland Mendy (87) — 95% de probabilidade de alta, a 34k coins.
+Pelo modelo FutQuant, Dan-Axel Zagadou (85) — 95% de probabilidade de alta, a 18k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 30 cartas em alta contra 88 em queda (média -10.16%).
+Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 30 cartas em alta contra 88 em queda (média -7.51%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

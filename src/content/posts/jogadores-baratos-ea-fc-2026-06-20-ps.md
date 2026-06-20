@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T16:51:20.000Z
+pubDatetime: 2026-06-20T19:51:13.000Z
 title: "Jogadores baratos de Franceses no EA FC (20/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 20/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (20/06/2026)?"
-    a: "Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
+    a: "Claire Lavogez (88, Liga F) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **20/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Enzo Millot (89) por apenas 12k coins.
+> 💰 **Melhor pechincha:** Claire Lavogez (88) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,31 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -16.7% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | +3.4% |
-| Claire Lavogez | 88 | ST | Liga F | 15k coins | +20.4% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +10.9% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | +20.4% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -10.2% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -9.5% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +2.2% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +18.8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +4.4% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +2.2% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | +2.2% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14k coins | -14.8% |
-| Delphine Cascarino | 85 | RM | NWSL | 2k coins | -12.1% |
-| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 13k coins | -17.7% |
-| Ouleymata Sarr | 83 | ST | NWSL | 10k coins | +177.8% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | 0% |
+| Hugo Ekitiké | 83 | ST | Bundesliga | 2k coins | +47.4% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 7k coins | +66.7% |
 
 
 ## 📈 Destaques
 
-- **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins**
 
-- **Grace Geyoro (86, CM)** da Arkema PL, a apenas **12k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
@@ -70,7 +69,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (20/06/2026)?**  
-Enzo Millot (89, ROSHN Saudi League) aparece como melhor custo-benefício, a 12k coins no Console (PS).
+Claire Lavogez (88, Liga F) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
