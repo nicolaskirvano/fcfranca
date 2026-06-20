@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:52:05.000Z
+pubDatetime: 2026-06-20T01:51:51.000Z
 title: "Melhores investimentos em Franceses no EA FC (19/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Louisa Necib (90, D1 Arkema) lidera, com +70.2% em 7 dias a 40k coins no Console (PS), e o modelo dá 16% de chance de seguir subindo."
+    a: "Sidney Govou (87, Ligue 1 McDonald's) lidera, com +62.9% em 7 dias a 53k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Louisa Necib (90) acumula **+70.2% em 7 dias** a 40k coins.
+> 🔝 **Destaque:** Sidney Govou (87) acumula **+62.9% em 7 dias** a 53k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-O mercado do EA FC Ultimate Team no console PlayStation apresenta, nesta segunda quinzena de junho de 2026, uma movimentação específica voltada para jogadores e ícones franceses. Ao analisarmos as tendências de valorização dos últimos sete dias, identificamos oportunidades claras para investidores que buscam ativos com alta probabilidade de apreciação de curto prazo. O foco principal deve recair sobre cartas que combinam crescimento recente de preço com indicadores estatísticos favoráveis, permitindo uma entrada estratégica antes que a demanda do mercado se intensifique ainda mais.
+O mercado de cartas francesas no EA FC Ultimate Team para consoles PlayStation apresenta um cenário dinâmico e atrativo na data de 19 de junho de 2026, com oportunidades distintas tanto para investidores de baixo risco quanto para aqueles dispostos a buscar retornos mais agressivos. A análise das tendências de valorização dos últimos sete dias revela que a volatilidade tem sido um aliado estratégico, especialmente para jogadores que monitoram as flutuações de preço em tempo real. Entre os destaques absolutos, Selma Bacha se impõe como a opção mais segura e lucrativa no curto prazo. Com uma impressionante valorização de 26,6% em apenas 24 horas e uma probabilidade de alta de 95%, esta carta de 87 rating do D1 Arkema está disponível por 25 mil moedas. A combinação de um preço de entrada acessível e uma probabilidade estatística quase garantida de continuidade na alta a torna o investimento racional por excelência para quem busca liquidez rápida e segurança.
 
-Entre os destaques absolutos, Enzo Millot surge como a oportunidade mais promissora para entrada imediata. A carta de 89 rating, atuando na ROSHN Saudi League, registrou um aumento de 10,8% em apenas 24 horas, cotada atualmente a 18.000 coins. O que realmente justifica a compra é a probabilidade de alta de 95%, o maior índice observado no grupo analisado. Essa combinação de preço acessível e expectativa quase certa de valorização torna Millot um ativo de baixo risco e alto retorno potencial, ideal para quem deseja lucros rápidos sem expor grandes quantias em coins.
+Em paralelo, Louisa Necib oferece uma proposta robusta para quem deseja equilibrar risco e retorno. A carta de 88 rating, também pertencente ao D1 Arkema, registrou um aumento de 26,2% nas últimas 24 horas, cotada atualmente em 29 mil moedas. Com uma probabilidade de alta de 65%, Necib apresenta um perfil interessante: o preço de entrada ainda é competitivo, mas o potencial de ganho é substancialmente maior do que o da própria Selma Bacha, considerando o rating superior. Para o investidor que não deseja se expor aos riscos extremos das cartas de ícone, mas quer superar o desempenho de opções mais baratas, Necib representa o ponto de equilíbrio ideal no mercado feminino francês.
 
-No segmento de alto valor, Blaise Matuidi se destaca como um investimento sólido, apesar do preço mais elevado. A carta de 87 rating, da Ligue 1 McDonald's, subiu 20,3% em 24 horas e está negociada a 189.000 coins. Com uma probabilidade de alta de 74%, Matuidi oferece segurança relativa para investidores com maior capital. A volatilidade recente sugere que a carta está em uma fase de consolidação de valor, e a forte tendência ascendente indica que há compradores dispostos a pagar prêmios pela sua performance no jogo, mantendo o preço firme ou em crescimento.
+Para os aventureiros dispostos a assumir riscos maiores em busca de retornos exponenciais, Sidney Govou surge como uma aposta de alto risco e alta recompensa. A carta de 87 rating da Ligue 1 McDonald's apresentou uma volatilidade extrema, com alta de 18,1% em 24 horas, porém com uma probabilidade de alta futura de apenas 5%. Cotada a 53 mil moedas, Govou é uma carta que exige timing perfeito de compra e venda. A tendência recente sugere um pico momentâneo, mas a baixa probabilidade de continuidade indica que qualquer lucro deve ser realizado rapidamente, antes que o mercado corrija os preços. É uma carta para especialistas que conseguem ler o sentimento do mercado em frações de segundos.
 
-Para quem busca diversificar com cartas femininas de elite, Louisa Necib (88 rating) apresenta um perfil interessante. Cotada a 24.000 coins, a jogadora da D1 Arkema teve alta de 6,7% em 24 horas e possui uma probabilidade de alta de 65%. Embora a variação percentual seja menor que a de Millot, a probabilidade de sucesso é significativamente alta, tornando-a uma aposta equilibrada. Já a versão de 90 rating de Necib, a 40.000 coins, mostra alta de 6% mas com probabilidade de alta de apenas 16%, o que a torna menos atrativa para investimento imediato em comparação com sua contraparte de 88 rating.
+Griedge Mbock, por sua vez, consolida a categoria de investimentos seguros no feminino. Com 86 rating e preço de 38 mil moedas, a jogadora do D1 Arkema teve alta de 14,6% em 24 horas e, assim como Selma Bacha, possui probabilidade de alta de 95%. Esta consistência sugere que há uma demanda sustentada por cartas femininas de bom custo-benefício, possivelmente impulsionada por promoções in-game ou meta de squads específicos. A entrada em Mbock é recomendada para portfólios que priorizam a estabilidade e o crescimento orgânico dos ativos sem a necessidade de monitoramento constante.
 
-Entre os ícones, Marinette Pichon e Eric Cantona merecem atenção, mas com cautela diferente. Pichon (90 rating, Icons) a 48.000 coins tem alta de 3,2% e probabilidade de alta de 84%, oferecendo estabilidade e expectativa de crescimento moderado. Já Cantona (89 rating, Icons) a 123.000 coins, com alta de 3,5% e probabilidade de 56%, representa um investimento mais arriscado devido ao preço elevado e à probabilidade de alta que fica abaixo da maioria dos concorrentes. A menos que haja uma meta específica envolvendo ele, outros ativos parecem oferecer melhor relação risco-retorno.
+Por outro lado, o segmento de ícones masculinos mostra sinais de cautela. Emmanuel Petit, com 87 rating e preço de 130 mil moedas, teve alta de 14% em 24 horas, mas a probabilidade de alta é de apenas 5%. Isso indica que a carta pode estar no topo de uma tendência de curto prazo e é provável que os preços se estabilizem ou caiam em breve, tornando-a uma compra arriscada para investimento imediato. Da mesma forma, Eric Cantona, com 89 rating e 120 mil moedas, apresentou alta modesta de 2,6% e probabilidade de alta de 56%. Embora Cantona tenha mais potencial de sustentação do que Petit, o mercado para ícones masculinos parece saturado ou em fase de correção, exigindo paciência.
 
-Por fim, Sidney Govou (87 rating) e Adrien Thomasson (85 rating) da Ligue 1 McDonald's, apesar de mostrarem altas de 12,1% e 2% respectivamente, possuem probabilidades de alta baixas (5% e 23%). Isso sugere que a recente valorização pode ser uma correção de curto prazo ou especulação momentânea, sem suporte estatístico forte para continuidade. Grace Kazadi (87 rating) também se enquadra nesse grupo de menor atratividade, com alta de 9,5% mas probabilidade de apenas 5%. Portanto, o foco deve permanecer em Millot, Matuidi e Necib (88), que oferecem a melhor conjugação de dados para lucratividade neste momento.
+Finalmente, Marinette Pichon, ícone feminina de 90 rating a 49 mil moedas, teve alta mínima de 1% em 24 horas, mas com probabilidade de alta de 84%. Este é um dos dados mais promissores para médio prazo. A baixa volatilidade recente combinada com alta probabilidade de valorização futura sugere que a carta está em fase de acumulação silenciosa. Para investidores que podem segurar a carta por alguns dias, Pichon oferece o melhor equilíbrio entre segurança (84% de probabilidade) e potencial de valorização significativa, superando as opções de ícones masculinos em termos de expectativa de retorno ajustado ao risco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,28 +45,26 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Louisa Necib | 90 | D1 Arkema | 40k coins | +6% | +70.2% | 16% |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 47k coins | +12.1% | +56.5% | 5% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 23k coins | +2% | +47.1% | 23% |
-| Blaise Matuidi | 87 | Ligue 1 McDonald's | 189k coins | +20.3% | +43.9% | 74% |
-| Grace Kazadi | 87 | D1 Arkema | 19k coins | +9.5% | +41.5% | 5% |
-| Louisa Necib | 88 | D1 Arkema | 24k coins | +6.7% | +29.7% | 65% |
-| Enzo Millot | 89 | ROSHN Saudi League | 18k coins | +10.8% | +22% | 95% |
-| Marinette Pichon | 90 | Icons | 48k coins | +3.2% | +17.1% | 84% |
-| Eric Cantona | 89 | Icons | 123k coins | +3.5% | +16.7% | 56% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 53k coins | +18.1% | +62.9% | 5% |
+| Selma Bacha | 87 | D1 Arkema | 25k coins | +26.6% | +53.8% | 95% |
+| Louisa Necib | 88 | D1 Arkema | 29k coins | +26.2% | +39.5% | 65% |
+| Emmanuel Petit | 87 | Icons | 130k coins | +14% | +31% | 5% |
+| Griedge Mbock | 86 | D1 Arkema | 38k coins | +14.6% | +26.6% | 95% |
+| Marinette Pichon | 90 | Icons | 49k coins | +1% | +19.5% | 84% |
+| Eric Cantona | 89 | Icons | 120k coins | +2.6% | +13.2% | 56% |
 
 
 ## 📈 Análise dos destaques
 
-- **Louisa Necib (90)** — 40k coins, **+70.2% em 7 dias** (+6% em 24h). Preço +29% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Sidney Govou (87)** — 53k coins, **+62.9% em 7 dias** (+18.1% em 24h). Preço +42% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Sidney Govou (87)** — 47k coins, **+56.5% em 7 dias** (+12.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Selma Bacha (87)** — 25k coins, **+53.8% em 7 dias** (+26.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Adrien Thomasson (85)** — 23k coins, **+47.1% em 7 dias** (+2% em 24h). Preço em linha com a média de 7 dias (+4%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Louisa Necib (88)** — 29k coins, **+39.5% em 7 dias** (+26.2% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Blaise Matuidi (87)** — 189k coins, **+43.9% em 7 dias** (+20.3% em 24h). Preço em linha com a média de 7 dias (+3%). 🔮 O modelo reforça a tese: **74% de chance de seguir subindo**.
+- **Emmanuel Petit (87)** — 130k coins, **+31% em 7 dias** (+14% em 24h). Preço +27% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Grace Kazadi (87)** — 19k coins, **+41.5% em 7 dias** (+9.5% em 24h). Preço em linha com a média de 7 dias (+5%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Griedge Mbock (86)** — 38k coins, **+26.6% em 7 dias** (+14.6% em 24h). Preço em linha com a média de 7 dias (+4%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
 
 ## Como usar esta lista
@@ -84,7 +82,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Louisa Necib (90, D1 Arkema) lidera, com +70.2% em 7 dias a 40k coins no Console (PS), e o modelo dá 16% de chance de seguir subindo.
+Sidney Govou (87, Ligue 1 McDonald's) lidera, com +62.9% em 7 dias a 53k coins no Console (PS), e o modelo dá 5% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

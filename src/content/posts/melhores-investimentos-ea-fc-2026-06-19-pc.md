@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T22:53:24.000Z
+pubDatetime: 2026-06-20T01:53:50.000Z
 title: "Melhores investimentos em Franceses no EA FC (19/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Jade Le Guilly (89, D1 Arkema) lidera, com +85.4% em 7 dias a 44k coins no PC, e o modelo dá 42% de chance de seguir subindo."
+    a: "Pierre Lees-Melou (87, Ligue 1 McDonald's) lidera, com +63.8% em 7 dias a 28k coins no PC, e o modelo dá 48% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Jade Le Guilly (89) acumula **+85.4% em 7 dias** a 44k coins.
+> 🔝 **Destaque:** Pierre Lees-Melou (87) acumula **+63.8% em 7 dias** a 28k coins.
 
 
 ## 🧠 Análise FutQuant do dia
-A análise do mercado de jogadores franceses no EA FC Ultimate Team para o dia 19 de junho de 2026 revela um cenário dinâmico, onde a volatilidade das últimas 24 horas indica oportunidades claras para investidores astutos. Ao observar a tendência de valorização de sete dias, é possível identificar cartas que estão em ascensão sustentada, impulsionadas tanto pela escassez quanto pela demanda de squads específicos. Neste contexto, a seleção dos ativos mais promissores requer uma leitura atenta não apenas do percentual de alta, mas da probabilidade estatística de continuidade dessa trajetória ascendente, garantindo que o capital aplicado tenha maior chance de retorno positivo no curto e médio prazos.
+O mercado de cartas francesas em EA FC Ultimate Team apresenta uma dinâmica interessante para investidores no PC nesta data de 19 de junho de 2026. Ao analisar as tendências de valorização dos últimos sete dias, identificamos oportunidades distintas entre cartas de baixo e alto custo. A volatilidade atual sugere que o timing é crucial, especialmente para aqueles que buscam retornos rápidos ou ganhos sustentáveis a longo prazo. Vamos focar nas cartas que demonstram maior potencial de apreciação imediata, baseando-nos estritamente nos dados de performance recentes.
 
-Entre as opções de entrada mais acessíveis e seguras, destaca-se Ludovic Giuly, com uma carta de 88 rating da LaLiga EA Sports. Apesar de um aumento modesto de 2,1% nas últimas 24 horas, sua probabilidade de alta é a mais robusta do grupo, atingindo 54%. Negociada por 22k coins, essa carta oferece uma relação risco-retorno extremamente favorável para quem busca estabilidade. Para investidores dispostos a assumir um risco ligeiramente maior em busca de ganhos mais agressivos, Pierre Lees-Melou, do Ligue 1 McDonald's, apresenta uma alta de 6,7% e uma probabilidade de continuidade de 48%. Com preço em 24k coins, é uma aposta sólida para quem deseja diversificar a carteira com ativos de baixo custo e potencial de valorização consistente.
+Pierre Lees-Melou se destaca como uma das apostas mais seguras para entrada imediata. A carta de 87 de Overall, da Ligue 1 McDonald's, registrou um aumento impressionante de 13% em apenas 24 horas. Com uma probabilidade de alta de 48% e um preço atual de 28k coins, ela oferece um equilíbrio atraente entre risco e recompensa. Para investidores com capital limitado, esta é uma das melhores opções para capitalizar sobre a tendência ascendente atual sem expor grandes quantias.
 
-No segmento intermediário, Louisa Necib e Jade Le Guilly, ambas da D1 Arkema, merecem atenção especial. Necib, com 88 rating, subiu 2,7% e possui 44% de probabilidade de alta, cotada a 57k coins, enquanto Le Guilly, de 89 rating, registrou alta de 6% com a mesma probabilidade de 42% e preço de 44k coins. Ambas as jogadoras femininas demonstram uma tendência de valorização estável, sugerindo que a demanda por squadings focados na D1 Arkema está em crescimento. A similaridade nas probabilidades indica que o mercado está equilibrado para essas duas cartas, tornando-as opções complementares para estratégias de investimento baseadas em ligas específicas.
+Outro nome que merece atenção é Olivier Giroud, também da Ligue 1 McDonald's, com 89 de Overall. Sua valorização de 12.3% em 24 horas, combinada com uma probabilidade de alta de 71%, indica uma forte demanda no mercado. Priced em 30k coins, Giroud representa uma oportunidade robusta para quem busca segurança na tendência de valorização. A alta probabilidade de continuação da alta sugere que esta carta pode ser uma das mais consistentes no curto prazo.
 
-Para os investidores com capital mais elevado, Emmanuel Petit e Blaise Matuidi se destacam como oportunidades de alto valor. Petit, uma Icon de 87 rating, registrou um forte aumento de 13,6% com uma probabilidade de alta de 49%, estando a 95k coins. Esse é um sinal claro de interesse renovado em lendas francesas. Já Matuidi, do Ligue 1 McDonald's, apresentou a maior oscilação positiva do grupo, com um impressionante salto de 32,5% nas últimas 24 horas, embora sua probabilidade de alta seja de apenas 31%. Negociada a 103k coins, Matuidi representa uma oportunidade de curto prazo de alta volatilidade, ideal para traders experientes que podem lucrar com a euforia momentânea do mercado antes de uma possível correção.
+Ludovic Giuly, da LALIGA EA SPORTS, oferece um caso interessante para investidores dispostos a assumir um pouco mais de risco. Com 88 de Overall e uma valorização de 29.2% em 24 horas, sua performance é notável. Apesar de ter uma probabilidade de alta de apenas 54%, o preço de 34k coins pode ser atraente para aqueles que acreditam na continuidade do movimento ascendente. A alta volatilidade pode gerar retornos significativos, mas requer vigilância constante.
 
-Outros nomes como Wilson Odobert (87, Premier League), com alta de 18,3% e probabilidade de 30% a 53k coins, e Allan Saint-Maximin (92, Ligue 1 McDonald's), com alta de 14,4% e probabilidade baixa de 17% a 120k coins, exigem cautela. A alta probabilidade de alta de Petit e a consistência de Giuly e Lees-Melou tornam-nas as escolhas mais racionais para a maioria dos jogadores. Por fim, Maghnes Akliouche, apesar da alta de 24,5%, possui probabilidade de apenas 6%, indicando um pico de preço que pode não se sustentar. Portanto, a recomendação principal recai sobre Giuly, Lees-Melou e Petit para uma carteira equilibrada entre segurança e potencial de lucro.
+Para investidores com maior capital, Emmanuel Petit, um Icon com 87 de Overall, apresenta uma valorização de 11.8% em 24 horas. Com uma probabilidade de alta de 49% e um preço de 94k coins, Petit é uma opção para quem busca estabilidade em ativos de alto valor. A tendência de alta, embora menos agressiva, sugere uma apreciação sólida, ideal para portfólios diversificados.
+
+Finalmente, Eric Cantona, outro Icon com 89 de Overall, registrou um aumento de 14.7% em 24 horas. Com uma probabilidade de alta de 31% e um preço de 92k coins, Cantona pode ser uma aposta de alto risco e alto retorno. Sua valorização recente indica interesse renovado no mercado, mas a probabilidade de alta mais baixa sugere cautela. Investidores devem considerar a volatilidade e a exposição ao risco antes de entrar.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,32 +45,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jade Le Guilly | 89 | D1 Arkema | 44k coins | +6% | +85.4% | 42% |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 24k coins | +6.7% | +60% | 48% |
-| Ludovic Giuly | 88 | LALIGA EA SPORTS | 22k coins | +2.1% | +58.9% | 54% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 103k coins | +32.5% | +37.7% | 31% |
-| Wilson Odobert | 87 | Premier League | 53k coins | +18.3% | +37.5% | 30% |
-| Emmanuel Petit | 87 | Icons | 95k coins | +13.6% | +31.5% | 49% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 120k coins | +14.4% | +28.6% | 17% |
-| Annaïg Butel | 86 | D1 Arkema | 24k coins | +2.1% | +25.6% | 35% |
-| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 18k coins | +24.5% | +24.5% | 6% |
-| Louisa Necib | 88 | D1 Arkema | 57k coins | +2.7% | +18.1% | 44% |
-| Camille Abily | 92 | Icons | 77k coins | +16.2% | +16.2% | 58% |
-| Enzo Millot | 89 | ROSHN Saudi League | 17k coins | +1.5% | +13.6% | 31% |
-| Laurent Blanc | 88 | Icons | 84k coins | +9.9% | +9.9% | 29% |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 28k coins | +13% | +63.8% | 48% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 30k coins | +12.3% | +60.8% | 71% |
+| Ludovic Giuly | 88 | LALIGA EA SPORTS | 34k coins | +29.2% | +52.2% | 54% |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 18k coins | +12.5% | +35.8% | 6% |
+| Emmanuel Petit | 87 | Icons | 94k coins | +11.8% | +30.1% | 49% |
+| Kingsley Coman | 87 | ROSHN Saudi League | 48k coins | +3.3% | +27.5% | 55% |
+| Khéphren Thuram | 87 | Serie A TIM | 70k coins | +12.9% | +26.1% | 36% |
+| Louisa Necib | 88 | D1 Arkema | 58k coins | +3.6% | +21.1% | 44% |
+| Eric Cantona | 89 | Icons | 92k coins | +14.7% | +19.1% | 31% |
+| Laurent Blanc | 88 | Icons | 90k coins | +1.1% | +17.8% | 29% |
+| Clara Mateo | 92 | D1 Arkema | 189k coins | +8% | +11.2% | 10% |
 
 
 ## 📈 Análise dos destaques
 
-- **Jade Le Guilly (89)** — 44k coins, **+85.4% em 7 dias** (+6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Pierre Lees-Melou (87)** — 28k coins, **+63.8% em 7 dias** (+13% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Pierre Lees-Melou (87)** — 24k coins, **+60% em 7 dias** (+6.7% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Olivier Giroud (89)** — 30k coins, **+60.8% em 7 dias** (+12.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Ludovic Giuly (88)** — 22k coins, **+58.9% em 7 dias** (+2.1% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Ludovic Giuly (88)** — 34k coins, **+52.2% em 7 dias** (+29.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Blaise Matuidi (86)** — 103k coins, **+37.7% em 7 dias** (+32.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maghnes Akliouche (84)** — 18k coins, **+35.8% em 7 dias** (+12.5% em 24h). Preço em linha com a média de 7 dias (+5%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Wilson Odobert (87)** — 53k coins, **+37.5% em 7 dias** (+18.3% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Emmanuel Petit (87)** — 94k coins, **+30.1% em 7 dias** (+11.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -86,7 +86,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Jade Le Guilly (89, D1 Arkema) lidera, com +85.4% em 7 dias a 44k coins no PC, e o modelo dá 42% de chance de seguir subindo.
+Pierre Lees-Melou (87, Ligue 1 McDonald's) lidera, com +63.8% em 7 dias a 28k coins no PC, e o modelo dá 48% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
