@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T19:51:46.000Z
+pubDatetime: 2026-06-20T22:51:52.000Z
 title: "Franceses no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,61 +13,61 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Corentin Tolisso (85, Ligue 1 McDonald's), com +58.8% em 24h, a 27k coins no PC."
+    a: "Ousmane Dembélé (91, Ligue 1 McDonald's), com +59.4% em 24h, a 1.60M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "William Saliba (94), -48.7% em 24h, a 494k coins."
+    a: "Wilson Odobert (87), -49.1% em 24h, a 30k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 50 cartas em alta contra 75 em queda (média -2.6%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 55 cartas em alta contra 72 em queda (média -1.28%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado francês em PC apresenta uma dinâmica extremamente hostil para os traders hoje, com um viés claramente defensivo e uma pressão vendedora que domina o cenário atual. Os dados indicam um desequilíbrio severo entre oferta e demanda, onde apenas 50 ativos registraram altas contra um impressionante total de 75 quedas, resultando em uma média negativa de -2.6% no período de 24 horas. Este sentimento de precaução sugere que os investidores estão priorizando a liquidez e a redução de exposição, evitando ativos com alta volatilidade ou percepção de risco elevado. A ausência de um catalisador forte para impulsionar o setor faz com que os preços reajustem para baixo, criando um ambiente onde apenas oportunidades muito específicas e temporárias merecem atenção. É fundamental operar com cautela, focando na rotação rápida de capital e evitando a acumulação de ativos que não demonstrem fundamentos claros de sustentação de preço.
+O mercado de jogadores franceses para PC nesta data de 20 de junho de 2026 apresenta um cenário de extrema volatilidade e indefinição, caracterizado por uma ausência clara de tendência dominante que exige cautela e análise granular por parte dos traders experientes. Com um balanço de 55 altas contra 72 quedas nas últimas 24 horas, o índice médio de variação fecha negativo em -1.28%, sinalizando uma pressão vendedora leve mas persistente sobre o segmento, onde a liquidez parece estar sendo absorvida por movimentos pontuais em vez de uma euforia generalizada. O trader deve estar atento à fragmentação do mercado, onde cards de diferentes ligas e raridades reagem de maneira quase antagônica, criando oportunidades de arbitragem para quem consegue identificar os desequilíbrios de oferta e demanda antes que eles se corrijam. A probabilidade de alta em muitos dos ativos em queda ainda permanece significativa, sugerindo que parte dessa desvalorização pode ser uma correção técnica ou uma venda excessiva após eventos in-game, enquanto as altas são impulsionadas por uma busca específica por performance em squads temáticos ou meta. Portanto, a estratégia do dia não deve ser baseada em FOMO, mas sim em uma abordagem cirúrgica, aproveitando a confusão do mercado para acumar posições em ativos de alta probabilidade que estão temporariamente descontados.
 
-> 🟢 **Maior alta:** Corentin Tolisso (85) **+58.8%** · 🔴 **Maior baixa:** William Saliba (94) **-48.7%**
+> 🟢 **Maior alta:** Ousmane Dembélé (91) **+59.4%** · 🔴 **Maior baixa:** Wilson Odobert (87) **-49.1%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 27k coins | +58.8% | +56.5% |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 35k coins | +51.6% | +31.8% |
-| Wendie Renard | 86 | D1 Arkema | 24k coins | +49.2% | +17.5% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 28k coins | +43.8% | +32.2% |
-| Melvine Malard | 84 | Barclays WSL | 104k coins | +43.4% | +38.7% |
-| Benjamin Pavard | 88 | Ligue 1 McDonald's | 23k coins | +40.3% | -9.6% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.70M coins | +39.5% | +94.2% |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 34k coins | +36% | +10.6% |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 42k coins | +29% | -2.4% |
-| Michael Olise | 88 | Bundesliga | 490k coins | +26.9% | +4.9% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.60M coins | +59.4% | +85.5% |
+| Dan-Axel Zagadou | 85 | Bundesliga | 32k coins | +59.4% | +93.7% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 26k coins | +41.6% | +25.3% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 2M coins | +41.2% | +38% |
+| Rayan Cherki | 87 | Premier League | 100k coins | +35.1% | +49.3% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 4.68M coins | +34.6% | -22% |
+| Maëlle Garbino | 86 | D1 Arkema | 28k coins | +28.7% | +67.2% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 27k coins | +27.5% | +5.5% |
+| Michael Olise | 88 | Bundesliga | 489k coins | +26.7% | +4.7% |
+| Khéphren Thuram | 85 | Serie A TIM | 100k coins | +24.4% | +45.3% |
 
 
-Entre as poucas exceções à regra de queda, destacam-se Corentin Tolisso e Tanguy Ndombele, que registraram altas expressivas de 58.8% e 51.6% respectivamente, atingindo patamares de 27k e 35k coins. Tolisso, com uma probabilidade de alta de 60%, demonstra uma força relativa no mercado de Ligue 1 McDonald's, sugerindo uma demanda pontual que pode ser explorada por traders ágeis. Ndombele, apesar de ter uma probabilidade de alta menor de 23%, ainda consegue manter o momentum positivo, indicando que há compradores dispostos a pagar o prêmio em um mercado geral de baixa. Florian Sotoca também se destaca com uma alta de 43.8% para 28k coins, apoiado por uma probabilidade de alta robusta de 65%, o que o torna um ativo interessante para operações de curto prazo. Benjamin Pavard e Ousmane Dembélé (IT) completam o grupo de altas, com 40.3% e 39.5% de variação, respectivamente, mostrando que até mesmo os ícones de maior valor estão sofrem ajustes, embora na direção oposta. É crucial observar que essas altas ocorrem em um mar de quedas, sendo portanto movimentos contrários à tendência predominante e, portanto, mais arriscados.
+Os movimentos de alta mais expressivos do dia foram liderados por Ousmane Dembélé (91, Ligue 1 McDonald's) e Dan-Axel Zagadou (85, Bundesliga), ambos registrando um aumento impressionante de 59.4% em 24 horas, embora com perfis de risco e recompensa distintos que merecem atenção separada. O card de Dembélé, que atingiu o patamar de 1.60 milhão de coins, apresenta uma probabilidade de alta de apenas 27%, o que sugere fortemente que esse movimento é um pico especulativo de curto prazo, possivelmente impulsionado por hype momentâneo ou necessidade de squad, tornando-o um ativo de venda imediata e não de acumulação. Em contraste, Dan-Axel Zagadou, que subiu para 32 mil coins com uma probabilidade de alta de 58%, oferece um perfil de risco muito mais atrativo para traders que buscam consistência, indicando que a demanda por esse card da Bundesliga está fundamentada em uma base de utilizadores reais que valorizam suas estatísticas para meta teams de baixo custo. Florian Sotoca (85, Ligue 1 McDonald's) também se destaca com alta de 41.6% para 26 mil coins e uma probabilidade de alta robusta de 65%, consolidando-se como uma das melhores oportunidades de buy-and-hold do dia, pois a combinação de preço acessível e alta probabilidade de continuidade do movimento sugere espaço para valorização adicional. Désiré Doué (91, Ligue 1 McDonald's) registrou alta de 41.2% para 2 milhões de coins, mas com probabilidade de alta de apenas 31%, o que indica uma saturação potencial no topo, onde a liquidez pode secar rapidamente, exigindo que os traders monitorem de perto qualquer sinal de reversão para realizar lucros. Rayan Cherki (87, Premier League) subiu 35.1% para 100 mil coins, mas sua baixa probabilidade de alta de 18% alerta para a possibilidade de uma correção iminente, caracterizando um movimento mais baseado em hype do que em fundamentos de uso constante, devendo ser tratado com extrema cautela e stop-loss apertado se comprado.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| William Saliba | 94 | Premier League | 494k coins | -48.7% | -49.4% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 44k coins | -47% | -35.4% |
-| Hugo Ekitiké | 86 | Premier League | 22k coins | -45.4% | -23.3% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 839k coins | -44.7% | -22.7% |
-| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 1.90M coins | -37.7% | -53.7% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 26k coins | -37.4% | -71.3% |
-| Lilian Thuram | 93 | Icons | 999k coins | -35% | -40% |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 27k coins | -34.9% | -9.8% |
-| Robert Pirès | 89 | Icons | 30k coins | -32.4% | -33.9% |
-| Thierry Henry | 86 | Icons | 1.62M coins | -32.1% | -11% |
+| Wilson Odobert | 87 | Premier League | 30k coins | -49.1% | -45.7% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 114k coins | -44% | -36.3% |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 39k coins | -32.3% | -41% |
+| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 1.74M coins | -30.4% | -55.3% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 99k coins | -30.2% | -13.4% |
+| Franck Ribéry | 89 | Icons | 185k coins | -30.2% | -36.2% |
+| Antoine Griezmann | 91 | LALIGA EA SPORTS | 113k coins | -30.2% | -34.4% |
+| Ludovic Giuly | 88 | LALIGA EA SPORTS | 25k coins | -27% | -8.3% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 46k coins | -26.4% | -33.8% |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 23k coins | -25.8% | +37.7% |
 
 
-O lado das baixas é dominado por quedas drásticas que refletem a força vendedora do mercado, com William Saliba liderando as perdas com uma queda brutal de 48.7% para 494k coins. Saliba, com uma probabilidade de alta de apenas 9%, está claramente sendo abandonado pelos investidores, indicando que não há suporte de preço imediato para reverter a tendência. Senny Mayulu e Hugo Ekitiké também sofreram quedas severas de 47% e 45.4%, caindo para 44k e 22k coins, respectivamente, o que sugere uma correção de preços inflacionados ou uma mudança na percepção de utilidade desses ativos. Ousmane Dembélé, em suas versões IT e TOTW, registrou quedas de 44.7% e 37.7%, atingindo 839k e 1.90M coins, demonstrando que até os ativos de altíssimo valor não estão imunes à pressão do mercado. Ferland Mendy e Lilian Thuram completam o cenário sombrio, com quedas de 37.4% e 35%, respectivamente, reforçando a ideia de que o mercado está em fase de desinflação generalizada. Esses movimentos indicam que a liquidez está fluindo para fora desses ativos, e tentar comprar na queda sem um sinal claro de reversão é uma estratégia de alto risco.
+As quedas mais significativas no mercado foram observadas em Wilson Odobert (87, Premier League), que despencou 49.1% para 30 mil coins, e Senny Mayulu (83, Ligue 1 McDonald's), com queda de 44% para 114 mil coins, movimentos que parecem refletir uma venda excessiva ou desilusão com a performance in-game desses ativos. A queda de Odobert é particularmente alarmante devido à magnitude, mas a probabilidade de alta de 30% sugere que o fundo pode ter sido atingido, criando uma oportunidade de contra-tendência para traders agressivos dispostos a assumir o risco de uma recuperação rápida. Mattéo Guendouzi (91, Trendyol Süper Lig) caiu 32.3% para 39 mil coins, mas é o ativo mais interessante entre as baixas, pois possui uma probabilidade de alta excepcional de 72%, indicando que a venda foi provavelmente uma oportunidade de compra de qualidade, já que o mercado ainda vê grande potencial de valorização futura para este card. Ousmane Dembélé (97, Ligue 1 McDonald's) também enfrentou pressão, caindo 30.4% para 1.74 milhão de coins, com probabilidade de alta de 38%, o que sugere que o card premium está em uma fase de consolidação ou leve desvalorização, mas ainda mantém uma probabilidade moderada de recuperação, devendo ser monitorado como um ativo de longo prazo. Allan Saint-Maximin (92, Ligue 1 McDonald's) e Franck Ribéry (89, Icons) caíram 30.2% cada, para 99 mil e 185 mil coins respectivamente, mas com probabilidades de alta baixas de 17% e 13%, o que indica que esses ativos podem estar entrando em um ciclo de desvalorização mais prolongado, devendo ser evitados por traders que buscam retornos rápidos. Antoine Griezmann (91, LALIGA EA SPORTS) caiu 30.2% para 113 mil coins, mas com probabilidade de alta de 40%, oferecendo um equilíbrio razoável entre risco e recompensa, enquanto Ludovic Giuly (88, LALIGA EA SPORTS) caiu 27% para 25 mil coins com probabilidade de alta de 54%, sendo uma opção de baixo custo e alto potencial de retorno percentual.
 
 
 ## 🎯 O que fazer hoje
-A estratégia para hoje deve ser predominantemente defensiva, focando na venda de ativos que ainda possuem valor residual e na compra seletiva de ativos com probabilidade de alta superior a 60%. Priorize a compra de Corentin Tolisso e Florian Sotoca, dado que suas probabilidades de alta de 60% e 65% oferecem uma margem de segurança maior em um mercado instável. Evite completamente a acumulação de William Saliba e Ousmane Dembélé, pois as quedas de 48.7% e 44.7%, respectivamente, indicam uma tendência de baixa forte sem sinais imediatos de reversão. Mantenha uma caixa de coins significativa para aproveitar possíveis oportunidades de compra em ativos que caiam excessivamente, como Hugo Ekitiké, mas apenas se houver confirmação de suporte técnico. O timing é crucial, pois operar em um mercado com média de -2.6% exige execução rápida e disciplina para cortar perdas caso a tendência se mantenha. Em resumo, seja um comerciante ágil, aproveite as altas pontuais de Tolisso e Sotoca, mas preserve seu capital evitando os ativos em queda livre.
+A estratégia recomendada para hoje é focar na acumulação seletiva de ativos com alta probabilidade de alta que sofreram quedas recentes, como Mattéo Guendouzi e Ludovic Giuly, que oferecem o melhor equilíbrio entre preço de entrada e potencial de valorização futura. Deve-se evitar a compra em topo de ativos como Ousmane Dembélé (91) e Rayan Cherki, cuja baixa probabilidade de alta sugere que os movimentos de alta são insustentáveis e propensos a correções bruscas. A venda imediata é aconselhada para Dan-Axel Zagadou e Florian Sotoca, aproveitando as altas de 59.4% e 41.6% respectivamente para realizar lucros antes que a probabilidade de alta se normalize e o preço se estabilize. Traders com capital maior devem considerar a compra de Ousmane Dembélé (97) e Antoine Griezmann em níveis de suporte, pois suas probabilidades de alta moderadas a altas sugerem que as quedas atuais são oportunidades de compra de longo prazo. O mercado está fragmentado, portanto, a diversificação entre cards de alta probabilidade de alta (como Guendouzi) e vendas de curto prazo (como Zagadou) é a chave para mitigar riscos e maximizar retornos neste dia de alta volatilidade.
 
 
 ## ⚙️ A engine por tras deste post
@@ -77,13 +77,13 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Corentin Tolisso (85, Ligue 1 McDonald's), com +58.8% em 24h, a 27k coins no PC.
+Ousmane Dembélé (91, Ligue 1 McDonald's), com +59.4% em 24h, a 1.60M coins no PC.
 
 **E a maior queda do dia?**  
-William Saliba (94), -48.7% em 24h, a 494k coins.
+Wilson Odobert (87), -49.1% em 24h, a 30k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado pressionado — as quedas dominam o dia, com 50 cartas em alta contra 75 em queda (média -2.6%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 55 cartas em alta contra 72 em queda (média -1.28%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
