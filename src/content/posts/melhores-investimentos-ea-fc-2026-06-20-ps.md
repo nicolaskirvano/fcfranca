@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:51:08.000Z
+pubDatetime: 2026-06-20T13:51:10.000Z
 title: "Melhores investimentos em Franceses no EA FC (20/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Louisa Necib (88, D1 Arkema) lidera, com +51.3% em 7 dias a 26k coins no Console (PS), e o modelo dá 65% de chance de seguir subindo."
+    a: "Olivier Giroud (89, Ligue 1 McDonald's) lidera, com +52.4% em 7 dias a 29k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Louisa Necib (88) acumula **+51.3% em 7 dias** a 26k coins.
+> 🔝 **Destaque:** Olivier Giroud (89) acumula **+52.4% em 7 dias** a 29k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário do EA FC Ultimate Team para consoles PlayStation, analisando o mercado da data de 20 de junho de 2026, observamos uma dinâmica interessante entre as seleções francesas e a performance das cartas no mercado secundário. Ao focar exclusivamente na tendência de valorização dos últimos sete dias, destacamos que apenas algumas opções oferecem uma probabilidade estatística robusta de continuidade na alta, o que é crucial para investidores cautelosos. A análise revela que, embora haja variações diárias significativas, a probabilidade de alta futura é o filtro mais importante para determinar quais cartas realmente valem a entrada neste momento específico.
+No cenário dinâmico do mercado do Ultimate Team em consoles PlayStation, a análise de 20 de junho de 2026 destaca uma oportunidade clara para investidores focados em jogadores franceses. A volatilidade recente indicou movimentos significativos em 24 horas, com probabilidades de alta que variam drasticamente entre os ativos. Para quem busca entradas seguras e com alto potencial de retorno, a atenção deve ser direcionada para cartas que combinam aumento percentual robusto com alta probabilidade de continuidade da tendência de valorização, evitando armadilhas de baixa probabilidade ou crescimento estagnado.
 
-Entre as opções mais promissoras, Selma Bacha, com um rating de 87 e jogando pelo D1 Arkema, surge como a oportunidade mais sólida do momento. Sua cotação atual de 20 mil coins reflete um aumento de 21,2% nas últimas 24 horas, mas o dado mais relevante é a probabilidade de alta de 95%. Essa margem de segurança extremamente alta sugere que a valorização não é apenas um impulso momentâneo, mas sim uma tendência estrutural no mercado, tornando-a uma das poucas cartas francesas com entrada recomendada para quem busca minimizar riscos em um mercado volátil.
+Entre as opções mais promissoras, Olivier Giroud, em sua versão 89 da Ligue 1 McDonald's, surge como um dos ativos mais atrativos. Com uma valorização de 30,6% em apenas um dia e uma probabilidade de alta impressionante de 95%, o atacante francês está cotado a 29k coins. A combinação de um salto percentual expressivo com uma quase certeza estatística de continuação da tendência torna o Giroud uma entrada de baixo risco relativo. O preço atual parece refletir uma fase inicial de apreciação, sugerindo que há espaço para escalada antes que o mercado se estabilize ou corriga.
 
-Griedge Mbock, também do D1 Arkema e com rating de 86, apresenta um perfil similar de segurança, embora com uma dinâmica de preço diferente. Com uma cotação mais elevada de 41 mil coins, a jogadora registrou um crescimento modesto de 4,5% em 24 horas. No entanto, assim como Selma Bacha, ela compartilha a probabilidade de alta de 95%, o que indica uma demanda constante e resiliente. Para investidores com maior capital disponível, Mbock oferece uma alternativa de baixo risco, onde a estabilidade do preço é tão valiosa quanto o potencial de lucro imediato, garantindo que a entrada seja feita em um ativo com fundamentos de mercado fortes.
+Outro destaque fundamental é Wilson Odobert, cuja carta 87 da Premier League registrou alta de 13,5% em 24 horas. O fator decisivo aqui não é apenas o percentual, mas a probabilidade de alta de 95%, idêntica à de Giroud. Cotado a 40k coins, Odobert oferece uma entrada sólida para quem busca carteiras com ativos de elite da Premier League. A alta probabilidade indica forte demanda sustentada, possivelmente ligada a metas ou eventos de jogo, tornando-o um ativo de "comprar e segurar" com boa expectativa de curto prazo.
 
-Claude Makélélé, ícone com rating de 87 e cotação de 71 mil coins, representa a terceira opção com alta probabilidade de valorização. O aumento de 7,5% em 24 horas, combinado com uma probabilidade de alta de 80%, posiciona este Ícone como um ativo premium confiável. Diferente das jogadoras ativas, a valorização de Ícones muitas vezes está ligada a eventos de longo prazo ou escassez, e os dados indicam que a tendência positiva de Makélélé tem fortes chances de se manter, oferecendo um equilíbrio entre risco e retorno para portfólios mais diversificados.
+Griedge Mbock, embora tenha apresentado um crescimento modesto de apenas 2,6% em 24 horas, compartilha a mesma probabilidade de alta de 95%. Sua carta 86 da D1 Arkema está avaliada em 40k coins. A baixa volatilidade recente combinada com altíssima probabilidade sugere um ativo em fase de consolidação ou crescimento lento, mas extremamente seguro. Para investidores avessos a riscos que preferem estabilidade sobre explosões súbitas, Mbock representa uma entrada defensiva, onde a probabilidade de perda é estatisticamente mínima.
 
-Por outro lado, é essencial evitar entradas em cartas que, apesar de apresentarem picos de valorização recentes, possuem baixa probabilidade de continuidade. Louisa Necib, por exemplo, embora tenha disparado 35,3% em 24 horas a 26 mil coins, possui apenas 65% de probabilidade de alta, o que a torna uma aposta de alto risco. Da mesma forma, Claire Lavogez (88, Liga F), com 8,5% de alta em 24 horas a 17 mil coins, tem apenas 5% de chance de continuar subindo, sugerindo que o movimento atual pode ser uma correção de preço ou um pico isolado sem sustentação.
+Por outro lado, é crucial evitar entradas prematuras em ativos com alta volatilidade mas baixa probabilidade de continuidade. Jean-Philippe Mateta (92, Premier League) subiu 36,3% para 49k coins, mas possui apenas 28% de probabilidade de alta. Da mesma forma, Louisa Necib (88, D1 Arkema) sobe 19,8% para 26k coins com 65% de probabilidade. Esses números indicam picos momentâneos, possivelmente seguidos de correção. Investir agora seria especular contra a tendência estatística, o que não se alinha a uma estratégia de investimento baseada em dados confiáveis.
 
-Finalmente, Mattéo Guendouzi (91, Trendyol Süper Lig), Moussa Diaby (90, ROSHN Saudi League) e Marinette Pichon (88, Icons) não recomendam entrada neste momento. Guendouzi, a 36 mil coins, tem apenas 27% de probabilidade de alta; Diaby, a 46 mil coins, apresenta um fraco crescimento de 1,8% com apenas 17% de chance de valorização futura; e Pichon, a 75 mil coins, apesar de 3,5% de alta, tem 52% de probabilidade, um dado insuficiente para justificar o risco em uma carta de alto valor. Portanto, a estratégia prudente para hoje concentra-se exclusivamente em Selma Bacha, Griedge Mbock e Claude Makélélé.
+Finalmente, ativos como Moussa Diaby (90, ROSHN Saudi League, 37k coins) e Florian Sotoca (85, Ligue 1 McDonald's, 26k coins) apresentam probabilidades de alta de 17% e 5%, respectivamente, apesar de seus aumentos percentuais. Esses dados sinalizam claramente que a tendência de alta provavelmente terminou. Portanto, as únicas entradas recomendadas hoje são Giroud, Odobert e Mbock, devido à convergência entre preço acessível e altíssima probabilidade de valorização futura, garantindo assim a preservação e o crescimento do capital no mercado do FC Ultimate Team.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,27 +45,26 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Louisa Necib | 88 | D1 Arkema | 26k coins | +35.3% | +51.3% | 65% |
-| Selma Bacha | 87 | D1 Arkema | 20k coins | +21.2% | +38.6% | 95% |
-| Griedge Mbock | 86 | D1 Arkema | 41k coins | +4.5% | +29.1% | 95% |
-| Claire Lavogez | 88 | Liga F | 17k coins | +8.5% | +25.5% | 5% |
-| Claude Makélélé | 87 | Icons | 71k coins | +7.5% | +21.3% | 80% |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 36k coins | +6.2% | +16% | 27% |
-| Moussa Diaby | 90 | ROSHN Saudi League | 46k coins | +1.8% | +12.5% | 17% |
-| Marinette Pichon | 88 | Icons | 75k coins | +3.5% | +9.8% | 52% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 29k coins | +30.6% | +52.4% | 95% |
+| Louisa Necib | 88 | D1 Arkema | 26k coins | +19.8% | +51.3% | 65% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 37k coins | +9% | +26.4% | 17% |
+| Griedge Mbock | 86 | D1 Arkema | 40k coins | +2.6% | +26.2% | 95% |
+| Jean-Philippe Mateta | 92 | Premier League | 49k coins | +36.3% | +17.1% | 28% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 26k coins | +8.3% | +16.9% | 5% |
+| Wilson Odobert | 87 | Premier League | 40k coins | +13.5% | +5% | 95% |
 
 
 ## 📈 Análise dos destaques
 
-- **Louisa Necib (88)** — 26k coins, **+51.3% em 7 dias** (+35.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Olivier Giroud (89)** — 29k coins, **+52.4% em 7 dias** (+30.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Selma Bacha (87)** — 20k coins, **+38.6% em 7 dias** (+21.2% em 24h). Preço em linha com a média de 7 dias (+2%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Louisa Necib (88)** — 26k coins, **+51.3% em 7 dias** (+19.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Griedge Mbock (86)** — 41k coins, **+29.1% em 7 dias** (+4.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Moussa Diaby (90)** — 37k coins, **+26.4% em 7 dias** (+9% em 24h). Preço em linha com a média de 7 dias (-8%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Claire Lavogez (88)** — 17k coins, **+25.5% em 7 dias** (+8.5% em 24h). Preço +12% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Griedge Mbock (86)** — 40k coins, **+26.2% em 7 dias** (+2.6% em 24h). Preço em linha com a média de 7 dias (+6%). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Claude Makélélé (87)** — 71k coins, **+21.3% em 7 dias** (+7.5% em 24h). Preço em linha com a média de 7 dias (-6%). 🔮 O modelo reforça a tese: **80% de chance de seguir subindo**.
+- **Jean-Philippe Mateta (92)** — 49k coins, **+17.1% em 7 dias** (+36.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
 
 ## Como usar esta lista
@@ -83,7 +82,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Louisa Necib (88, D1 Arkema) lidera, com +51.3% em 7 dias a 26k coins no Console (PS), e o modelo dá 65% de chance de seguir subindo.
+Olivier Giroud (89, Ligue 1 McDonald's) lidera, com +52.4% em 7 dias a 29k coins no Console (PS), e o modelo dá 95% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
