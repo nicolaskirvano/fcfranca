@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:52:15.000Z
+pubDatetime: 2026-06-21T01:52:25.000Z
 title: "Melhores investimentos em Franceses no EA FC (20/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 20/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/06/2026) no EA FC?"
-    a: "Pierre Kalulu (91, Serie A TIM) lidera, com +79% em 7 dias a 89k coins no PC, e o modelo dá 31% de chance de seguir subindo."
+    a: "Maëlle Garbino (86, D1 Arkema) lidera, com +46.3% em 7 dias a 24k coins no PC, e o modelo dá 62% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,21 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **20/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Pierre Kalulu (91) acumula **+79% em 7 dias** a 89k coins.
+> 🔝 **Destaque:** Maëlle Garbino (86) acumula **+46.3% em 7 dias** a 24k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário atual do mercado de EA FC Ultimate Team em PC, datado de 20 de junho de 2026, a análise dos jogadores franceses revela oportunidades distintas baseadas rigorosamente nas tendências de valorização dos últimos sete dias. Ao examinar o desempenho das cartas em tendência de alta nas últimas 24 horas, observamos uma volatilidade significativa que exige cautela e seleção criteriosa. Entre as opções disponíveis, destacam-se Maëlle Garbino e Kouadio Manu Koné como as apostas mais sólidas para entrada imediata, principalmente devido à combinação favorável entre o percentual de alta recente e a probabilidade estatística de continuação dessa tendência.
+O mercado de EA FC Ultimate Team no PC para a data de 20 de junho de 2026 apresenta um cenário fascinante para investidores que focam na nacionalidade francesa, com uma volatilidade distinta nos últimos 24 horas. Ao analisar as tendências de valorização, percebe-se que a demanda não está distribuída uniformemente, mas concentrada em cartas que oferecem o melhor equilíbrio entre risco e retorno imediato. Entre as opções disponíveis, Kouadio Manu Koné se destaca como a aposta mais segura para quem busca estabilidade, com uma probabilidade de alta de 69%. Sua carta de 88 rating na Serie A TIM, que já registrou um aumento de 19.7% em apenas um dia, está cotada a 70k coins. Essa combinação de probabilidade elevada e crescimento consistente sugere que a carta tem suporte forte da comunidade, tornando-a uma entrada sólida para portfólios que priorizam a segurança do capital investido.
 
-Maëlle Garbino, com uma carta de 86 de overall na D1 Arkema, apresenta uma alta impressionante de 28,7% em apenas 24 horas, posicionando seu preço em 28k coins. O que torna esta carta particularmente atrativa para investidores é a sua probabilidade de alta de 62%, um dos índices mais robustos do grupo analisado. Essa alta probabilidade sugere que o mercado ainda não saturou a demanda por este ativo, oferecendo uma margem de segurança maior para quem busca lucros de curto a médio prazo sem assumir riscos excessivos relacionados a correções bruscas de preço.
+Para os investidores dispostos a assumir riscos moderados em troca de potencial de lucro mais agressivo, Florian Sotoca e Dan-Axel Zagadou merecem atenção especial. Sotoca, com sua carta de 85 rating na Ligue 1 McDonald's, exibe uma taxa de crescimento impressionante de 35.1% em 24 horas, apoiada por uma probabilidade de alta de 65%. A 24k coins, ele representa uma oportunidade de entrada acessível com alto potencial de multiplicação. Similarmente, Zagadou, da Bundesliga, também com 85 rating, apresenta uma valorização de 34.9% e uma probabilidade de alta de 58%, estando disponível por 19k coins. Ambos os jogadores indicam uma tendência de curto prazo muito forte, ideal para estratégias de flip rápido ou holdings de alguns dias, aproveitando o momentum atual do mercado.
 
-Da mesma forma, Kouadio Manu Koné desponta como uma oportunidade de alto potencial. Sua carta de 88 overall, atuando na Serie A TIM, registrou um aumento de 17,6% em 24 horas, com o preço atualizando-se para 70k coins. A métrica mais crítica aqui é a probabilidade de alta de 69%, a maior entre todos os jogadores listados. Mesmo que o percentual de alta nas últimas horas seja inferior ao de Garbino, a forte probabilidade de continuidade indica que a valorização pode acelerar nos próximos dias, justificando a entrada neste ativo antes que a massa de investidores perceba a tendência.
+No entanto, é crucial analisar também as cartas de alto valor e as que apresentam discrepâncias entre crescimento e probabilidade. Maxence Lacroix, por exemplo, possui uma probabilidade de alta de 55% e subiu 25.2% em 24 horas, mas seu preço de 129k coins exige uma análise de liquidez mais cautelosa. Apesar da probabilidade ser saudável, o valor absoluto da carta pode limitar a velocidade de revenda. Por outro lado, Enzo Millot apresenta uma das maiores valorizações percentuais, com 38.9% em 24 horas, mas sua probabilidade de alta é de apenas 31%. Isso sugere um movimento especulativo de curto prazo que pode não se sustentar, tornando-o uma compra de risco elevado para investidores conservadores.
 
-Outra carta que merece atenção é Maghnes Akliouche. Com 88 de overall na Ligue 1 McDonald's, ele subiu 22,6% em 24 horas, atingindo 19k coins. Com uma probabilidade de alta de 49%, Akliouche oferece um ponto de entrada de baixo custo financeiro, o que reduz o risco absoluto em caso de reversão. A acessibilidade do preço, combinada com uma probabilidade próxima de 50% de continuação da alta, torna-o uma opção interessante para portfólios diversificados que buscam exposição a ativos de menor valor nominal.
+Cartas como Khéphren Thuram e Antoine Griezmann, apesar de serem nomes lendários ou estrelas atuais, mostram sinais de cautela. Thuram, a 86k coins, teve alta de 16%, mas com probabilidade de alta de apenas 14%, o que indica possível saturação ou falta de interesse sustentado. Griezmann, a 38k coins, segue padrão semelhante com 11.3% de alta e 16% de probabilidade. Para investidores focados em tendência de 7 dias, essas cartas podem não oferecer o retorno esperado em comparação com opções mais baratas e com maior momentum.
 
-Em contrapartida, é crucial exercitar extrema cautela com cartas de alto valor nominal e alta volatilidade, como Rayan Cherki e Khéphren Thuram. Cherki, apesar de registrar uma alta agressiva de 35,1% para 100k coins, possui uma probabilidade de alta de apenas 18%. Isso indica que a subida recente pode ser um pico especulativo de difícil sustentação. Da mesma forma, Thuram, também a 100k coins, teve alta de 24,4%, mas com probabilidade de apenas 14%. Entrar nessas cartas agora expõe o investidor a um risco significativo de correção, já que as probabilidades estatísticas favorecem uma estabilização ou queda.
+Jade Le Guilly, com 89 rating e preço de 42k coins, apresenta uma alta modesta de 4.4% e probabilidade de 42%, posicionando-se como uma opção neutra. Já Maëlle Garbino, com 86 rating e 24k coins, oferece uma probabilidade de alta de 62% e crescimento de 12.6%, sendo uma alternativa interessante para quem busca diversificar com cartas de futebol feminino, que historicamente têm menos volatilidade extrema.
 
-Por fim, cartas icônicas e de elite, como Lilian Thuram (189k coins) e Clara Mateo (181k coins), apresentam altas modestas de 10,1% e 5%, respectivamente, com probabilidades de alta de 27% e 10%. Esses ativos parecem estar em fase de consolidação ou baixa liquidez relativa para novas entradas. Portanto, considerando os dados disponíveis, a estratégia mais racional para 20/06/2026 foca na acumulação de Maëlle Garbino e Kouadio Manu Koné, aproveitando suas altas probabilidades de continuidade, enquanto se evita a perseguição às altas recentes de Cherki e Thuram, cujas métricas de risco são desproporcionalmente altas.
+Em resumo, as melhores entradas hoje são Kouadio Manu Koné pela segurança, e Florian Sotoca e Dan-Axel Zagadou pela agressividade do retorno. Maghnes Akliouche, com 31.1% de alta e 49% de probabilidade a 20k coins, também se destaca como uma opção equilibrada. O investidor deve priorizar as cartas com probabilidade de alta acima de 50% e crescimento superior a 15% para maximizar ganhos no curto prazo, evitando ativos com alta probabilidade de estagnação ou queda, como Thuram e Griezmann, neste momento específico do mercado.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,29 +45,30 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pierre Kalulu | 91 | Serie A TIM | 89k coins | +2.9% | +79% | 31% |
-| Maëlle Garbino | 86 | D1 Arkema | 28k coins | +28.7% | +67.2% | 62% |
-| Rayan Cherki | 87 | Premier League | 100k coins | +35.1% | +49.3% | 18% |
-| Khéphren Thuram | 85 | Serie A TIM | 100k coins | +24.4% | +45.3% | 14% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 70k coins | +17.6% | +40% | 69% |
-| Clara Mateo | 92 | D1 Arkema | 181k coins | +5% | +27% | 10% |
-| Wendie Renard | 91 | D1 Arkema | 28k coins | +5.6% | +23.9% | 48% |
-| Lilian Thuram | 88 | Icons | 189k coins | +10.1% | +7.4% | 27% |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 19k coins | +22.6% | +5.6% | 49% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 27k coins | +27.5% | +5.5% | 29% |
+| Maëlle Garbino | 86 | D1 Arkema | 24k coins | +12.6% | +46.3% | 62% |
+| Dan-Axel Zagadou | 85 | Bundesliga | 19k coins | +34.9% | +40% | 58% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 70k coins | +19.7% | +40% | 69% |
+| Jade Le Guilly | 89 | D1 Arkema | 42k coins | +4.4% | +39.2% | 42% |
+| Khéphren Thuram | 85 | Serie A TIM | 86k coins | +16% | +27% | 14% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 38k coins | +11.3% | +19.8% | 16% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 24k coins | +35.1% | +14.9% | 65% |
+| Enzo Millot | 89 | ROSHN Saudi League | 18k coins | +38.9% | +13.6% | 31% |
+| Maxence Lacroix | 87 | Premier League | 129k coins | +25.2% | +9.3% | 55% |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 20k coins | +31.1% | +8.1% | 49% |
+| Jade Le Guilly | 84 | D1 Arkema | 18k coins | +1.4% | +6.1% | 49% |
 
 
 ## 📈 Análise dos destaques
 
-- **Pierre Kalulu (91)** — 89k coins, **+79% em 7 dias** (+2.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Maëlle Garbino (86)** — 24k coins, **+46.3% em 7 dias** (+12.6% em 24h). Preço -17% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Maëlle Garbino (86)** — 28k coins, **+67.2% em 7 dias** (+28.7% em 24h). Preço em linha com a média de 7 dias (-2%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Dan-Axel Zagadou (85)** — 19k coins, **+40% em 7 dias** (+34.9% em 24h). Preço -36% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Rayan Cherki (87)** — 100k coins, **+49.3% em 7 dias** (+35.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Kouadio Manu Koné (88)** — 70k coins, **+40% em 7 dias** (+19.7% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Khéphren Thuram (85)** — 100k coins, **+45.3% em 7 dias** (+24.4% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Jade Le Guilly (89)** — 42k coins, **+39.2% em 7 dias** (+4.4% em 24h). Preço +19% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Kouadio Manu Koné (88)** — 70k coins, **+40% em 7 dias** (+17.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Khéphren Thuram (85)** — 86k coins, **+27% em 7 dias** (+16% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +86,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/06/2026) no EA FC?**  
-Pierre Kalulu (91, Serie A TIM) lidera, com +79% em 7 dias a 89k coins no PC, e o modelo dá 31% de chance de seguir subindo.
+Maëlle Garbino (86, D1 Arkema) lidera, com +46.3% em 7 dias a 24k coins no PC, e o modelo dá 62% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

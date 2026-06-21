@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:52:16.000Z
+pubDatetime: 2026-06-21T01:52:26.000Z
 title: "Jogadores baratos de Franceses no EA FC (20/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,29 +30,23 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +4.1% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -27.3% |
-| Claire Lavogez | 88 | ST | Liga F | 15k coins | -3.2% |
-| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 2k coins | +17.6% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -12.5% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -17.3% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +6.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -5.4% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +2.3% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 4k coins | +12.2% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | +36.8% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5k coins | +4.3% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +14% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins**
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **12k coins**
 
-- **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **5k coins**
 
 
 ## Por que estas cartas?
