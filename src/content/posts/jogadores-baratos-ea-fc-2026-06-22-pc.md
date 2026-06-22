@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-22T19:50:10.000Z
+pubDatetime: 2026-06-22T22:50:10.000Z
 title: "Jogadores baratos de Franceses no EA FC (22/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 22/06/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/06/2026)?"
-    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13k coins no PC."
+    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/06/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 13k coins.
+> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,30 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | -7.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -19% |
 | Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -43.8% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -47.6% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | -5.6% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -13.4% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -2.1% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +7% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +13% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +6.8% |
-| Delphine Cascarino | 85 | RM | NWSL | 8k coins | +8.5% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5k coins | +6.1% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -42.9% |
+| Claire Lavogez | 88 | ST | Liga F | 12k coins | -29.2% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | -23.4% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | -5.7% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -12.5% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -4.4% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -8.5% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +4.7% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 3k coins | +11.4% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5k coins | +14.3% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -69,7 +70,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/06/2026)?**  
-Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13k coins no PC.
+Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
