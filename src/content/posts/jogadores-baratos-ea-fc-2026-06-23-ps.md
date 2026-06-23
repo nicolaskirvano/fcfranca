@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T19:50:05.000Z
+pubDatetime: 2026-06-23T22:50:06.000Z
 title: "Jogadores baratos de Franceses no EA FC (23/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -11.1% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -38.5% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -35.1% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -26.5% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | -22.2% |
-| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -17.9% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | 0% |
-| Selma Bacha | 87 | LB | D1 Arkema | 13k coins | -34.2% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -15.3% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | -26.5% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 14k coins | -27.3% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 14k coins | -38.6% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | 0% |
+| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -21.4% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
+| Selma Bacha | 87 | LB | D1 Arkema | 11k coins | -30.4% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 13k coins | -36.1% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -9.6% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | +4.3% |
-| Delphine Cascarino | 85 | RM | NWSL | 2k coins | -26.7% |
-| Franck Honorat | 85 | RM | Bundesliga | 14k coins | -16.2% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | -6.5% |
+| Franck Honorat | 85 | RM | Bundesliga | 14k coins | -24% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 14k coins | -22.9% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 7k coins | +150% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins**
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
