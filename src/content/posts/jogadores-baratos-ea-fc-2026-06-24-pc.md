@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-24T13:50:09.000Z
+pubDatetime: 2026-06-24T16:50:10.000Z
 title: "Jogadores baratos de Franceses no EA FC (24/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,15 +29,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -5.8% |
-| Marie Katoto | 88 | ST | Arkema PL | 2k coins | -48.3% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -45.5% |
-| Louisa Necib | 87 | LM | D1 Arkema | 13k coins | -21.4% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Marie Katoto | 88 | ST | Arkema PL | 2k coins | -42.9% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -39.4% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 2k coins | -60% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | -5.4% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -15.4% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | +4.1% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +15.9% |
-| Delphine Cascarino | 85 | RM | NWSL | 7k coins | +2.8% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -17.3% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +20.5% |
+| Delphine Cascarino | 85 | RM | NWSL | 8k coins | +8.5% |
 
 
 ## 📈 Destaques
@@ -48,9 +48,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
 
 ## Por que estas cartas?
