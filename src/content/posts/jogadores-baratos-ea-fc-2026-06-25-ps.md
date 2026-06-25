@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T16:50:05.000Z
+pubDatetime: 2026-06-25T19:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,32 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -9.8% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 15k coins | -6.2% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -5.9% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14k coins | -31.1% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 11k coins | -21.8% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -4.3% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | 0% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -5.9% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | +1.5% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | -4.3% |
+| Laura Georges | 87 | CB | D1 Arkema | 13k coins | -2% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -3.3% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | 0% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | 0% |
-| Franck Honorat | 85 | RM | Bundesliga | 14k coins | -6.2% |
-| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 12k coins | -34.7% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 13k coins | -26.1% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 6k coins | -24.7% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -4.3% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +4.3% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -17.5% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | -8.8% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | -4.8% |
+| Adrien Thomasson | 85 | CM | Ligue 1 McDonald's | 14k coins | -42.4% |
+| Franck Honorat | 85 | RM | Bundesliga | 15k coins | -4.8% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **15k coins**
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins**
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **12k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **13k coins**
 
-- **Selma Bacha (87, LB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
 
 ## Por que estas cartas?
