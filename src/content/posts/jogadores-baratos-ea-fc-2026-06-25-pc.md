@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T13:50:09.000Z
+pubDatetime: 2026-06-25T16:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (25/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,28 +29,31 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -7.7% |
-| Marie Katoto | 88 | ST | Arkema PL | 2k coins | -30% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | -8.7% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | -23% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 11k coins | -54.7% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | 0% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +16.7% |
-| Delphine Cascarino | 85 | RM | NWSL | 8k coins | +4.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -13.5% |
+| Marie Katoto | 88 | ST | Arkema PL | 2k coins | -10.5% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | +4.3% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 2k coins | -61.5% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | +27.7% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -8.2% |
+| Laura Georges | 87 | CB | D1 Arkema | 15k coins | -13% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -4.4% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -6.5% |
+| Franck Honorat | 85 | RM | Bundesliga | 12k coins | -37.8% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 15k coins | -7.7% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 6k coins | +28.9% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Marie Katoto (88, ST)** da Arkema PL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Grace Kazadi (87, RB)** da D1 Arkema, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?

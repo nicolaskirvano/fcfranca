@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T13:50:05.000Z
+pubDatetime: 2026-06-25T16:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -5.9% |
-| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -11.8% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | -4.3% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 12k coins | -40.7% |
-| Selma Bacha | 87 | LB | D1 Arkema | 12k coins | -29.7% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -11.7% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -6.4% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -9.8% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 15k coins | -6.2% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -5.9% |
+| Selma Bacha | 87 | LB | D1 Arkema | 14k coins | -31.1% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 11k coins | -21.8% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -4.3% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | 0% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -17.5% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | -1.7% |
-| Delphine Cascarino | 85 | RM | NWSL | 2k coins | -45.2% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | +9.1% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 12k coins | -26.1% |
-| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 12k coins | -33.3% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | 0% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | 0% |
+| Franck Honorat | 85 | RM | Bundesliga | 14k coins | -6.2% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 12k coins | -34.7% |
+| Jade Le Guilly | 84 | RB | D1 Arkema | 13k coins | -26.1% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 6k coins | -24.7% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **15k coins**
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
-- **Grace Kazadi (87, RB)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **12k coins**
 
-- **Selma Bacha (87, LB)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Selma Bacha (87, LB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
