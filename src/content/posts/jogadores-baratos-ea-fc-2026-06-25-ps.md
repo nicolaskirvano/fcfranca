@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T10:50:05.000Z
+pubDatetime: 2026-06-25T13:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 25/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/06/2026)?"
-    a: "Wendie Renard (91, D1 Arkema) aparece como melhor custo-benefício, a 15k coins no Console (PS)."
+    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Wendie Renard (91) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,32 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Wendie Renard | 91 | CB | D1 Arkema | 15k coins | -37.3% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | -6.4% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +2% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -17.2% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 13k coins | -44.1% |
-| Selma Bacha | 87 | LB | D1 Arkema | 13k coins | -17.8% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | -6.5% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -5.9% |
+| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -11.8% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | -4.3% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 12k coins | -40.7% |
+| Selma Bacha | 87 | LB | D1 Arkema | 12k coins | -29.7% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -11.7% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -6.4% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -23.7% |
-| Delphine Cascarino | 85 | RM | NWSL | 2k coins | -38.7% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 4k coins | +10.9% |
-| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 12k coins | -29.7% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -17.5% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | -1.7% |
+| Delphine Cascarino | 85 | RM | NWSL | 2k coins | -45.2% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | +9.1% |
+| Jade Le Guilly | 84 | RB | D1 Arkema | 12k coins | -26.1% |
+| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 12k coins | -33.3% |
 
 
 ## 📈 Destaques
 
-- **Wendie Renard (91, CB)** da D1 Arkema, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **12k coins**
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Grace Kazadi (87, RB)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Selma Bacha (87, LB)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -71,7 +73,7 @@ Este conteudo roda sobre **centenas de milhões de cotações** do mercado do EA
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/06/2026)?**  
-Wendie Renard (91, D1 Arkema) aparece como melhor custo-benefício, a 15k coins no Console (PS).
+Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
