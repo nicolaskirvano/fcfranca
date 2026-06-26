@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T16:50:05.000Z
+pubDatetime: 2026-06-26T19:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -4% |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 14k coins | -22.2% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | +23.1% |
-| Claire Lavogez | 88 | ST | Liga F | 13k coins | -10.2% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 15k coins | +3.3% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +6.7% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -8.5% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14k coins | -46.6% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | -18.1% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -4.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2% |
+| Anaële Le Moguédec | 88 | CM | D1 Arkema | 12k coins | -35.1% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | -10.9% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 15k coins | -1.5% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | +4.5% |
+| Selma Bacha | 87 | LB | D1 Arkema | 12k coins | -40% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -6.9% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | 0% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +6.8% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -7.7% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +11.8% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -4% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | +2.1% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +17.6% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | +25% |
+| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 14k coins | -35.2% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Enzo Millot (89, CAM)** da ROSHN Saudi League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Anaële Le Moguédec (88, CM)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **15k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **15k coins**
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
 
 ## Por que estas cartas?

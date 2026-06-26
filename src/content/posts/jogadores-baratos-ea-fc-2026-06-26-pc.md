@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T16:50:09.000Z
+pubDatetime: 2026-06-26T19:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,27 +30,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -11.8% |
-| Marie Katoto | 88 | ST | Arkema PL | 2k coins | +90% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | +76.9% |
-| Mike Maignan | 87 | GK | Serie A Enilive | 2k coins | +66.7% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 13k coins | -8.8% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | +6.1% |
-| Franck Honorat | 85 | RM | Bundesliga | 14k coins | -40.2% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 6k coins | +22.9% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | +46.2% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 15k coins | -50.8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -49% |
+| Delphine Cascarino | 85 | RM | NWSL | 8k coins | +5.5% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 6k coins | +20.8% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marie Katoto (88, ST)** da Arkema PL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Mike Maignan (87, GK)** da Serie A Enilive, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
