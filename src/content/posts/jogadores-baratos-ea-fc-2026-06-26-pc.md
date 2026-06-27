@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T22:50:09.000Z
+pubDatetime: 2026-06-27T01:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (26/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,29 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -7.8% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -2% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -14.5% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +15.6% |
-| Delphine Cascarino | 85 | RM | NWSL | 8k coins | +5.5% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -11.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -12% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -1.6% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -4.4% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13k coins | +15.9% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 13k coins | -8.8% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +10.9% |
+| Delphine Cascarino | 85 | RM | NWSL | 8k coins | +9.6% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | +2% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 14k coins | -20.5% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 6k coins | +14.6% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5k coins | +14.6% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **12k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **11k coins**
 
-- **Delphine Cascarino (85, RM)** da NWSL, a apenas **8k coins**
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
