@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-27T22:50:05.000Z
+pubDatetime: 2026-06-28T01:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (27/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -17.7% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -5.2% |
-| Sonia Bompastor | 88 | LB | D1 Arkema | 14k coins | +11.7% |
-| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -21.4% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | +2.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12k coins | -16.7% |
-| Selma Bacha | 87 | LB | D1 Arkema | 13k coins | +4% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | 0% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
-| Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -16.7% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | -3.6% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11k coins | -18.6% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | -6.4% |
+| Selma Bacha | 87 | LB | D1 Arkema | 12k coins | 0% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 11k coins | -8.3% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.2% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | 0% |
-| Delphine Cascarino | 85 | RM | NWSL | 2k coins | -31% |
-| Maghnes Akliouche | 84 | CAM | Ligue 1 McDonald's | 14k coins | -1.8% |
+| Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -6.4% |
+| Wendie Renard | 86 | CB | D1 Arkema | 12k coins | -10.3% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 15k coins | +11.3% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +38.5% |
+| Delphine Cascarino | 85 | RM | NWSL | 2k coins | -32.1% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
 
-- **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **14k coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Loïc Badé (88, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
 
 ## Por que estas cartas?
