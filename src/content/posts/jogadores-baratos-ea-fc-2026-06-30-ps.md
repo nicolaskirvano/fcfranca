@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T16:50:05.000Z
+pubDatetime: 2026-06-30T19:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,19 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +2.1% |
-| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -16.7% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -7.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12k coins | -19.4% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -5.5% |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +12.5% |
 | Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 15k coins | -29.8% |
-| Claire Lavogez | 88 | ST | Liga F | 15k coins | +7.1% |
+| Claire Lavogez | 88 | ST | Liga F | 15k coins | +5.3% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | +2% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | 0% |
 | Selma Bacha | 87 | LB | D1 Arkema | 13k coins | +2% |
 | Laura Georges | 87 | CB | D1 Arkema | 14k coins | +22.2% |
 | Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | +14% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -8.3% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -11.5% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -8% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | +4.3% |
 
