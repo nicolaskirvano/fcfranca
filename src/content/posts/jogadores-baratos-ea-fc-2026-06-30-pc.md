@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T19:50:10.000Z
+pubDatetime: 2026-06-30T22:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,18 +29,17 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +15.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +17.8% |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -52.7% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 13k coins | -58.9% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -3.3% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | -24.7% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -8.9% |
-| Laura Georges | 87 | CB | D1 Arkema | 14k coins | -6.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | -8.3% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 11k coins | +2.3% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +18.6% |
-| Delphine Cascarino | 85 | RM | NWSL | 10k coins | +24.7% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +15.9% |
+| Delphine Cascarino | 85 | RM | NWSL | 10k coins | +31.5% |
 | Jade Le Guilly | 84 | RB | D1 Arkema | 13k coins | -28.8% |
 
 
@@ -52,7 +51,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
