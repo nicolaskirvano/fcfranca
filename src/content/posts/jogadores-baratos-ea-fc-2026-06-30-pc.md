@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:50:09.000Z
+pubDatetime: 2026-06-30T13:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (30/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,12 +31,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +15.2% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 13k coins | -57.1% |
+| Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 14k coins | -19.4% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -8.9% |
 | Laura Georges | 87 | CB | D1 Arkema | 14k coins | -1.8% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | -2.3% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 11k coins | -40.5% |
 | Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +18.6% |
+| Wendie Renard | 86 | CB | D1 Arkema | 15k coins | -36.2% |
 | Delphine Cascarino | 85 | RM | NWSL | 10k coins | +24.7% |
 | Jade Le Guilly | 84 | RB | D1 Arkema | 13k coins | -27.8% |
 
@@ -47,11 +50,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Ludovic Giuly (88, RM)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **14k coins**
 
 
 ## Por que estas cartas?
