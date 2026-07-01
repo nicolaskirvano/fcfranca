@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T19:50:05.000Z
+pubDatetime: 2026-07-01T22:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (01/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,33 +30,33 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -6% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12k coins | -24.2% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | +1.8% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12k coins | -5.8% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -4% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13k coins | -8.9% |
+| Anaële Le Moguédec | 88 | CM | D1 Arkema | 15k coins | -6.8% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +2.2% |
 | Laura Georges | 87 | CB | D1 Arkema | 12k coins | 0% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +4.3% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 13k coins | +24% |
-| Selma Bacha | 87 | LB | D1 Arkema | 13k coins | +5.6% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +8.7% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12k coins | -5.9% |
+| Selma Bacha | 87 | LB | D1 Arkema | 13k coins | -12.7% |
 | Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | 0% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | +11.4% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 12k coins | -22.4% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +6.8% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | +9.1% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 13k coins | -24.6% |
 | Delphine Cascarino | 85 | RM | NWSL | 2k coins | 0% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | +1.7% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **11k coins**
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **12k coins**
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Anaële Le Moguédec (88, CM)** da D1 Arkema, a apenas **15k coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins**
 
 
 ## Por que estas cartas?
