@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-01T10:50:09.000Z
+pubDatetime: 2026-07-01T13:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (01/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 01/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (01/07/2026)?"
-    a: "Bixente Lizarazu (88, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC."
+    a: "Loïc Badé (88, Bundesliga) aparece como melhor custo-benefício, a 12k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **01/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Bixente Lizarazu (88) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Loïc Badé (88) por apenas 12k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,26 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -27.5% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | +4.5% |
-| Laura Georges | 87 | CB | D1 Arkema | 13k coins | -11.7% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -7.7% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +3.9% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 11k coins | -17.3% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 15k coins | -17.8% |
+| Loïc Badé | 88 | CB | Bundesliga | 12k coins | -47% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | -22.2% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 14k coins | -37% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
+| Laura Georges | 87 | CB | D1 Arkema | 13k coins | -20% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -2.3% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -5.9% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 9k coins | -33.1% |
+| Delphine Cascarino | 85 | RM | NWSL | 10k coins | +23.4% |
+| Jade Le Guilly | 84 | RB | D1 Arkema | 15k coins | -11.8% |
 
 
 ## 📈 Destaques
 
+- **Loïc Badé (88, CB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
-
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **5k coins**
 
 
 ## Por que estas cartas?
@@ -65,7 +69,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (01/07/2026)?**  
-Bixente Lizarazu (88, Bundesliga) aparece como melhor custo-benefício, a 14k coins no PC.
+Loïc Badé (88, Bundesliga) aparece como melhor custo-benefício, a 12k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
