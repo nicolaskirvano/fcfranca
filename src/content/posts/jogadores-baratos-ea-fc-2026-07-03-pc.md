@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-03T16:50:09.000Z
+pubDatetime: 2026-07-03T19:50:10.000Z
 title: "Jogadores baratos de Franceses no EA FC (03/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,30 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +4.3% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -25.6% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 15k coins | -33.3% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -4.3% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13k coins | -17.5% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | +6.7% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -53% |
+| Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 13k coins | -37.3% |
+| Claire Lavogez | 88 | ST | Liga F | 15k coins | 0% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | +4.4% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | 0% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -14.3% |
 | Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | -33.3% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -6% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -2% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14k coins | -33.7% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 3k coins | -48% |
-| Delphine Cascarino | 85 | RM | NWSL | 10k coins | +16.9% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14k coins | -37.6% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 3k coins | -43.1% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 12k coins | -9.6% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (88, RM)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **15k coins**
 
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **12k coins**
 
