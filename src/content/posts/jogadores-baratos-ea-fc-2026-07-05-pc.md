@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-05T22:50:09.000Z
+pubDatetime: 2026-07-06T01:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (05/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,11 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +1.9% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13k coins | +3.9% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
 | Laura Georges | 87 | CB | D1 Arkema | 14k coins | +20% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | +2.3% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5k coins | -12.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | +11.6% |
+| Delphine Cascarino | 85 | RM | NWSL | 10k coins | 0% |
 
 
 ## 📈 Destaques
@@ -44,9 +46,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins**
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
-- **Pauline Peyraud-Magnin (83, GK)** da Calcio A Femminile, a apenas **5k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins**
 
 
 ## Por que estas cartas?
