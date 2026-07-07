@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T13:50:05.000Z
+pubDatetime: 2026-07-07T16:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rayane Messi | 89 | LM | Brasileirão | 12k coins | -23.3% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14k coins | +9.6% |
-| Loïc Badé | 88 | CB | Bundesliga | 14k coins | -24.1% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 15k coins | +28.3% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 15k coins | +5.3% |
-| Selma Bacha | 87 | LB | D1 Arkema | 15k coins | +32.7% |
+| Rayane Messi | 89 | LM | Brasileirão | 12k coins | -31.5% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14k coins | +24.5% |
+| Alexandre Lacazette | 89 | ST | Brasileirão | 14k coins | +7.7% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | +26.1% |
+| Loïc Badé | 88 | CB | Bundesliga | 13k coins | -26.6% |
+| Selma Bacha | 87 | LB | D1 Arkema | 13k coins | -1.9% |
+| Laura Georges | 87 | CB | D1 Arkema | 13k coins | +5.5% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +13.7% |
+| Louisa Necib | 87 | LM | D1 Arkema | 14k coins | +25% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | +5.3% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 14k coins | +25% |
 | Wendie Renard | 86 | CB | D1 Arkema | 14k coins | -9.7% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14k coins | +1.8% |
-| Annaïg Butel | 86 | CB | D1 Arkema | 14k coins | +8.9% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 15k coins | +13% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 15k coins | -13.3% |
 | Dayot Upamecano | 85 | CB | Bundesliga | 2k coins | +86.7% |
-| Delphine Cascarino | 85 | RM | NWSL | 2k coins | -5.3% |
-| Corentin Tolisso | 85 | CM | Ligue 1 McDonald's | 15k coins | +39.5% |
-| Theo Hernández | 84 | LB | Serie A Enilive | 2k coins | +125% |
 
 
 ## 📈 Destaques
 
 - **Rayane Messi (89, LM)** da Brasileirão, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Maghnes Akliouche (88, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Loïc Badé (88, CB)** da Bundesliga, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alexandre Lacazette (89, ST)** da Brasileirão, a apenas **14k coins**
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Grace Kazadi (87, RB)** da D1 Arkema, a apenas **15k coins**
+- **Loïc Badé (88, CB)** da Bundesliga, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
