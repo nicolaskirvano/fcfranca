@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T22:50:09.000Z
+pubDatetime: 2026-07-08T01:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (07/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 07/07/2026 (PC): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (07/07/2026)?"
-    a: "Bixente Lizarazu (88, Bundesliga) aparece como melhor custo-benefício, a 15k coins no PC."
+    a: "Kadidiatou Diani (88, Arkema PL) aparece como melhor custo-benefício, a 2k coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **07/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Bixente Lizarazu (88) por apenas 15k coins.
+> 💰 **Melhor pechincha:** Kadidiatou Diani (88) por apenas 2k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,18 +29,19 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 15k coins | +19.6% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | +2.3% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | +77.8% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
 | Laura Georges | 87 | CB | D1 Arkema | 12k coins | -3.9% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +7% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | +6.2% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | +8.5% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13k coins | 0% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 4k coins | -9.4% |
+| Delphine Cascarino | 85 | RM | NWSL | 10k coins | +6.5% |
 
 
 ## 📈 Destaques
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
@@ -65,7 +66,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (07/07/2026)?**  
-Bixente Lizarazu (88, Bundesliga) aparece como melhor custo-benefício, a 15k coins no PC.
+Kadidiatou Diani (88, Arkema PL) aparece como melhor custo-benefício, a 2k coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
