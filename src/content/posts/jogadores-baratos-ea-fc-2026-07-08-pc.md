@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T16:50:09.000Z
+pubDatetime: 2026-07-08T19:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (08/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,11 +31,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Kadidiatou Diani | 88 | RW | Arkema PL | 2k coins | +88.9% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
-| Laura Georges | 87 | CB | D1 Arkema | 13k coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13k coins | +6.6% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 3k coins | -44.1% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +16.7% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | +20.9% |
+| Wendie Renard | 86 | CB | D1 Arkema | 15k coins | -25.3% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 13k coins | +35.9% |
 
 
 ## 📈 Destaques
@@ -44,11 +43,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **13k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins**
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+- **Wendie Renard (86, CB)** da D1 Arkema, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
