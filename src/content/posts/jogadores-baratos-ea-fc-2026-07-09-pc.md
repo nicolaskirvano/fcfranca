@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T19:50:09.000Z
+pubDatetime: 2026-07-09T22:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (09/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,11 +30,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
-| Laura Georges | 87 | CB | D1 Arkema | 15k coins | +31.2% |
-| Selma Bacha | 87 | LB | D1 Arkema | 15k coins | -11.1% |
+| Laura Georges | 87 | CB | D1 Arkema | 15k coins | +20.4% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Delphine Cascarino | 85 | RM | NWSL | 10k coins | +7.6% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 14k coins | +15.3% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Maëlle Garbino | 86 | RM | D1 Arkema | 14k coins | -38.5% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +9.3% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 6k coins | +31.3% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 2k coins | -66.1% |
 
 
 ## 📈 Destaques
@@ -43,11 +45,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Selma Bacha (87, LB)** da D1 Arkema, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
-- **Delphine Cascarino (85, RM)** da NWSL, a apenas **10k coins**
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+
+- **Maëlle Garbino (86, RM)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
