@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-10T22:50:10.000Z
+pubDatetime: 2026-07-11T01:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (10/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,25 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | 0% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14k coins | +3.6% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 6k coins | +96.6% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 9k coins | -24.9% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2.1% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -10% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | +23.4% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -4.4% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -2% |
+| Wendie Renard | 86 | CB | D1 Arkema | 14k coins | -31.4% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 6k coins | +89.7% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12k coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Tara Elimbi Gilbert (86, LB)** da D1 Arkema, a apenas **14k coins**
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **6k coins** — já **valorizando**, sinal de procura crescente.
+- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins**
 
 
 ## Por que estas cartas?
