@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:50:05.000Z
+pubDatetime: 2026-07-11T13:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,20 +29,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2% |
-| Rayane Messi | 89 | LM | Brasileirão | 14k coins | +5.5% |
-| Loïc Badé | 88 | CB | Bundesliga | 14k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +9.3% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11k coins | -6.4% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -3.9% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +9.4% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Rayane Messi | 89 | LM | Brasileirão | 14k coins | +3.8% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 13k coins | 0% |
+| Loïc Badé | 88 | CB | Bundesliga | 14k coins | +7.4% |
+| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -17% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | -4.3% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12k coins | +5.5% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 13k coins | +8.5% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14k coins | +12% |
-| Delphine Cascarino | 85 | RM | NWSL | 2k coins | +5.3% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 5k coins | -13.3% |
-| Jade Le Guilly | 84 | RB | D1 Arkema | 14k coins | +3.8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | +2.2% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 13k coins | +4.1% |
+| Wendie Renard | 86 | CB | D1 Arkema | 13k coins | -7% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2k coins | +12.5% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 5k coins | -15% |
 
 
 ## 📈 Destaques
@@ -51,11 +51,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Rayane Messi (89, LM)** da Brasileirão, a apenas **14k coins**
 
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13k coins**
+
 - **Loïc Badé (88, CB)** da Bundesliga, a apenas **14k coins**
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins**
-
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

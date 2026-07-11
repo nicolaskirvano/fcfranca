@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T10:50:10.000Z
+pubDatetime: 2026-07-11T13:50:10.000Z
 title: "Jogadores baratos de Franceses no EA FC (11/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -30,25 +30,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -10% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 11k coins | -10.2% |
-| Laura Georges | 87 | CB | D1 Arkema | 13k coins | +10.2% |
-| Louisa Necib | 87 | LM | D1 Arkema | 14k coins | +22.7% |
+| Laura Georges | 87 | CB | D1 Arkema | 13k coins | +6% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -10.4% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | +2.3% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 6k coins | +96.6% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +103.7% |
+| Delphine Cascarino | 85 | RM | NWSL | 7k coins | -33.3% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5k coins | -6.8% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **13k coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
 - **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **5k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
