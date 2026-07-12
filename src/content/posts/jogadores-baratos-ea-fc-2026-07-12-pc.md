@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T10:50:10.000Z
+pubDatetime: 2026-07-12T13:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (12/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -31,11 +31,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -4.3% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -3.3% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -17.3% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -4.4% |
-| Maëlle Garbino | 86 | RM | D1 Arkema | 12k coins | -50.5% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -15.7% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -2.3% |
 | N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5k coins | +72.4% |
-| Delphine Cascarino | 85 | RM | NWSL | 9k coins | -7.3% |
 
 
 ## 📈 Destaques
@@ -44,11 +43,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
 
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
+
 - **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **11k coins**
-
-- **Maëlle Garbino (86, RM)** da D1 Arkema, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
