@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T16:50:05.000Z
+pubDatetime: 2026-07-13T19:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,34 +29,34 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -9.6% |
-| Rayane Messi | 89 | LM | Brasileirão | 14k coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -13.2% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | -5.1% |
-| Claire Lavogez | 88 | ST | Liga F | 13k coins | -11.7% |
-| Anaële Le Moguédec | 88 | CM | D1 Arkema | 14k coins | -18.6% |
-| Sonia Bompastor | 88 | LB | D1 Arkema | 15k coins | -12.9% |
-| Loïc Badé | 88 | CB | Bundesliga | 15k coins | +15.3% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12k coins | -15.5% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -5.8% |
+| Rayane Messi | 89 | LM | Brasileirão | 14k coins | +5.7% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -12.5% |
+| Anaële Le Moguédec | 88 | CM | D1 Arkema | 13k coins | -25.7% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | -8.5% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 14k coins | -16.2% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -5.9% |
 | Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +4.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -4% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14k coins | +3.4% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 15k coins | -11.8% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14k coins | -11.9% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | +1.8% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | -8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | -7.8% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | -2.1% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | 0% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -10.9% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12k coins**
 
 - **Rayane Messi (89, LM)** da Brasileirão, a apenas **14k coins**
 
 - **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Anaële Le Moguédec (88, CM)** da D1 Arkema, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?

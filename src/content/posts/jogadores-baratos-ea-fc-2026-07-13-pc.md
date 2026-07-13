@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T16:50:09.000Z
+pubDatetime: 2026-07-13T19:50:09.000Z
 title: "Jogadores baratos de Franceses no EA FC (13/07/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,27 +29,28 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -3.8% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14k coins | +7.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11k coins | -15.1% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11k coins | 0% |
-| Laura Georges | 87 | CB | D1 Arkema | 11k coins | -13.7% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -7.8% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11k coins | -8.5% |
+| Laura Georges | 87 | CB | D1 Arkema | 14k coins | -13.7% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 15k coins | -40.6% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11k coins | 0% |
-| Delphine Cascarino | 85 | RM | NWSL | 10k coins | -5.1% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | 0% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -10.4% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 3k coins | +300% |
+| Delphine Cascarino | 85 | RM | NWSL | 10k coins | -3% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins**
-
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14k coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11k coins**
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14k coins**
+- **Pierre Lees-Melou (87, CDM)** da Ligue 1 McDonald's, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11k coins**
 
 
 ## Por que estas cartas?
