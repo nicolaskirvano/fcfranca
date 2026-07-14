@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T22:50:05.000Z
+pubDatetime: 2026-07-14T01:50:05.000Z
 title: "Jogadores baratos de Franceses no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,20 +30,20 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12k coins | -2% |
-| Rayane Messi | 89 | LM | Brasileirão | 14k coins | -1.9% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -12.3% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13k coins | +1.7% |
-| Claire Lavogez | 88 | ST | Liga F | 14k coins | -6.9% |
-| Sonia Bompastor | 88 | LB | D1 Arkema | 14k coins | -15.2% |
-| Loïc Badé | 88 | CB | Bundesliga | 15k coins | +26.3% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | +6.4% |
-| Selma Bacha | 87 | LB | D1 Arkema | 12k coins | -11.7% |
-| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -2% |
-| Grace Kazadi | 87 | RB | D1 Arkema | 13k coins | -13.8% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -8.8% |
+| Rayane Messi | 89 | LM | Brasileirão | 14k coins | 0% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12k coins | -17.5% |
+| Claire Lavogez | 88 | ST | Liga F | 14k coins | -11.7% |
+| Anaële Le Moguédec | 88 | CM | D1 Arkema | 14k coins | -23.5% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12k coins | -2% |
+| Laura Georges | 87 | CB | D1 Arkema | 12k coins | -3.9% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14k coins | -6.9% |
+| Selma Bacha | 87 | LB | D1 Arkema | 14k coins | 0% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11k coins | -12% |
 | Grace Geyoro | 86 | CM | Arkema PL | 12k coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | -2% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12k coins | +4.2% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12k coins | -7.3% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12k coins | -9.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12k coins | -3.9% |
+| Wendie Renard | 86 | CB | D1 Arkema | 14k coins | +3.6% |
 
 
 ## 📈 Destaques
@@ -54,9 +54,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13k coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **14k coins**
+- **Anaële Le Moguédec (88, CM)** da D1 Arkema, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
