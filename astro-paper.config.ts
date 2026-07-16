@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcfranca.pages.dev/",
     title: "France FUT Market",
     description:
-      "Precos e mercado dos jogadores franceses no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores franceses no EA FC Ultimate Team, todos os dias.",
     author: "France FUT Market",
-    profile: "https://fcfranca.pages.dev/",
+    profile: "https://fcfranca.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "France FUT Market",
