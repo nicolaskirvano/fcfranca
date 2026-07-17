@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:50:19.000Z
+pubDatetime: 2026-07-17T13:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Ludovic Giuly (87, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13.500 coins no PC."
+    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 14.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Ludovic Giuly (87) por apenas 13.500 coins.
+> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 14.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Franceses em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 10.325 coins.
-- **Posição mais frequente:** RM, com 2 cartas.
-- **Faixa real:** 3.800 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 10.233 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 1.700 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.500 coins | -11.9% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.000 coins | -14.3% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12.000 coins | +6.5% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 3.800 coins | +7.7% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.000 coins | -9.7% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.700 coins | +6.7% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12.000 coins | -2% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.000 coins | +4.3% |
+| Delphine Cascarino | 85 | RM | NWSL | 8.700 coins | +8.4% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 13.000 coins | +32.7% |
 
 
 ## 📈 Destaques
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12.000 coins**
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **12.000 coins**
 
 - **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **12.000 coins**
 
-- **Désiré Doué (85, RW)** da Ligue 1 McDonald's, a apenas **3.800 coins**
+- **Delphine Cascarino (85, RM)** da NWSL, a apenas **8.700 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
 - **Defesa:** Sonia Bompastor (86, LB) por 12.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Ludovic Giuly (87, RM) por 13.500 coins é a referência de rating deste recorte.
+- **Meio:** Delphine Cascarino (85, RM) por 8.700 coins é a referência de rating deste recorte.
 
-- **Ataque:** Désiré Doué (85, RW) por 3.800 coins é a referência de rating deste recorte.
+- **Ataque:** Jean-Pierre Papin (89, ST) por 14.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -82,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Ludovic Giuly (87, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13.500 coins no PC.
+Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 14.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

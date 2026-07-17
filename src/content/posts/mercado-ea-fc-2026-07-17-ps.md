@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T10:50:08.000Z
+pubDatetime: 2026-07-17T13:50:08.000Z
 title: "Mercado EA FC em 17/07: Franceses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 17/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (17/07/2026)?"
-    a: "Patrick Vieira (90, Icons), com +38.9% em 24h, a 750k coins no Console (PS)."
+    a: "Karim Benzema (88, ROSHN Saudi League), com +51.2% em 24h, a 130k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Rayan Cherki (87), -39.8% em 24h, a 65k coins."
+    a: "Leny Yoro (86), -45.7% em 24h, a 88k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 69 cartas em alta contra 61 em queda (média 3.12%)."
+    a: "Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 68 cartas em alta contra 59 em queda (média 2.15%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **69 em alta** e **61 em queda**, média de **3.12%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **68 em alta** e **59 em queda**, média de **2.15%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Patrick Vieira (90) **+38.9%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-39.8%**
+> 🟢 **Maior alta:** Karim Benzema (88) **+51.2%** · 🔴 **Maior baixa:** Leny Yoro (86) **-45.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 17/07: Franceses — Console (PS)](/charts/mercado-ea-fc-2026-07-17-ps.svg)
 
@@ -35,65 +35,65 @@ Panorama de **17/07/2026** (Console (PS)): mercado **aquecido** — as altas dom
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 78.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 53.1% entre as cartas que se moveram; o universo observado reúne 157 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 7 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 96.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 53.5% entre as cartas que se moveram; o universo observado reúne 154 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Patrick Vieira | 90 | Icons | 750k coins | +38.9% | +68.5% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 30k coins | +34.8% | -22.1% |
-| Marie Katoto | 89 | Frauen-Bundesliga | 66k coins | +34.5% | -49.1% |
-| Sakina Karchaoui | 88 | D1 Arkema | 80k coins | +33.3% | +80.8% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 60k coins | +29.8% | +3.7% |
-| Lilian Thuram | 93 | Icons | 600k coins | +27.4% | +63.7% |
-| Marinette Pichon | 90 | Icons | 80k coins | +27.2% | +77.7% |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 38k coins | +26.7% | +108.2% |
-| David Ginola | 90 | Ligue 1 McDonald's | 5.50M coins | +24.4% | +57.2% |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 39k coins | +21.7% | +4.8% |
+| Karim Benzema | 88 | ROSHN Saudi League | 130k coins | +51.2% | +47.7% |
+| Arthur Atta | 85 | Serie A TIM | 53k coins | +44.7% | +52.8% |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 38k coins | +39.3% | +31.1% |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 22k coins | +38.7% | +30.3% |
+| Patrick Vieira | 90 | Icons | 740k coins | +37.9% | +68.5% |
+| Anaële Le Moguédec | 88 | D1 Arkema | 27k coins | +37.5% | +83.3% |
+| Armand Laurienté | 86 | Serie A TIM | 30k coins | +36.8% | +19% |
+| Sakina Karchaoui | 88 | D1 Arkema | 80k coins | +31.9% | +72.9% |
+| Lilian Thuram | 93 | Icons | 590k coins | +27.4% | +63.7% |
+| Eli Junior Kroupi | 89 | Premier League | 60k coins | +25.7% | +6.1% |
 
 
 ### Análise das altas
 
-- **Patrick Vieira (90)** subiu **+38.9%** em 24h, a **750k coins** (faixa do dia: 540k–750k). Está +45% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Karim Benzema (88)** subiu **+51.2%** em 24h, a **130k coins** (faixa do dia: 75k–130k). Está +39% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Blaise Matuidi (86)** subiu **+34.8%** em 24h, a **30k coins** (faixa do dia: 19.750–40k). Está em linha com a média de 7 dias (-5%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Arthur Atta (85)** subiu **+44.7%** em 24h, a **53k coins** (faixa do dia: 23k–55k). Está +53% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Marie Katoto (89)** subiu **+34.5%** em 24h, a **66k coins** (faixa do dia: 43k–73k). Está -12% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Olivier Giroud (89)** subiu **+39.3%** em 24h, a **38k coins** (faixa do dia: 20k–40k). Está +24% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rayan Cherki | 87 | Premier League | 65k coins | -39.8% | -56.8% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 43k coins | -30% | +19.7% |
-| N'Golo Kanté | 93 | Trendyol Süper Lig | 170k coins | -21.6% | +10.3% |
-| William Saliba | 90 | Premier League | 230k coins | -21% | -15.2% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 1.24M coins | -20.7% | +4.5% |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 32k coins | -17.9% | -8.6% |
-| Mathilde Bourdieu | 87 | D1 Arkema | 36k coins | -17.2% | -5.9% |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 130k coins | -15.6% | +69.8% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 2.92M coins | -14% | -0.3% |
-| Marco Essimi | 80 | Ligue 2 BKT | 41k coins | -13.2% | +2.5% |
+| Leny Yoro | 86 | Premier League | 88k coins | -45.7% | +62.4% |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 42k coins | -38.6% | +16.7% |
+| Thierry Henry | 91 | Icons | 1.19M coins | -33.1% | -24.3% |
+| William Saliba | 90 | Premier League | 189k coins | -26.3% | -26% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 22k coins | -23% | +1.2% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 117k coins | -21.8% | +44.7% |
+| Hugo Ekitiké | 87 | Premier League | 60k coins | -19.2% | -6.2% |
+| Enzo Millot | 89 | ROSHN Saudi League | 20k coins | -16.5% | +12.5% |
+| Lilian Thuram | 88 | Icons | 146k coins | -14.3% | +65.7% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 2.88M coins | -13.7% | -9.9% |
 
 
 ### Análise das baixas
 
-- **Rayan Cherki (87)** caiu **-39.8%** em 24h, a **65k coins** (faixa do dia: 40k–65k). Está -18% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Leny Yoro (86)** caiu **-45.7%** em 24h, a **88k coins** (faixa do dia: 86k–163k). Está em linha com a média de 7 dias (+4%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Ousmane Dembélé (90)** caiu **-30%** em 24h, a **43k coins** (faixa do dia: 42k–65k). Está +23% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Ferland Mendy (87)** caiu **-38.6%** em 24h, a **42k coins** (faixa do dia: 34k–60k). Está +11% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **N'Golo Kanté (93)** caiu **-21.6%** em 24h, a **170k coins** (faixa do dia: 134k–204k). Está em linha com a média de 7 dias (+3%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
+- **Thierry Henry (91)** caiu **-33.1%** em 24h, a **1.19M coins** (faixa do dia: 1.16M–1.55M). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Patrick Vieira já avançou 38.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Karim Benzema já avançou 51.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Rayan Cherki recuou -39.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Leny Yoro recuou -45.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +105,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (17/07/2026)?**  
-Patrick Vieira (90, Icons), com +38.9% em 24h, a 750k coins no Console (PS).
+Karim Benzema (88, ROSHN Saudi League), com +51.2% em 24h, a 130k coins no Console (PS).
 
 **E a maior queda do dia?**  
-Rayan Cherki (87), -39.8% em 24h, a 65k coins.
+Leny Yoro (86), -45.7% em 24h, a 88k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 69 cartas em alta contra 61 em queda (média 3.12%).
+Hoje o mercado está em mercado aquecido — as altas dominam o dia, com 68 cartas em alta contra 59 em queda (média 2.15%).
 
 **Posso confiar nos preços e previsões do FutQuant?**  
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
