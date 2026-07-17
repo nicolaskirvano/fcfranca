@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "France FUT Market"
 pubDatetime: 2026-06-01T01:50:03.000Z
-title: "Franceses no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
+title: "Franceses no EA FC em 31/05: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 31/05/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (31/05/2026)?"
-    a: "William Saliba (90, Premier League), com +58.1% em 24h, a 411k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Rayan Cherki (87), -45.8% em 24h, a 71k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 58 cartas em alta contra 67 em queda (média 0.46%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 31/05/2026 no PC: William Saliba liderou as altas e Rayan Cherki as baixas em Franceses. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 31/05/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **67 caíram**, com variação média de **0.46%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **William Saliba** registrou o maior movimento de 24h (+58,1%), enquanto **Rayan Cherki** marcou o menor (-45,8%). A distância entre os extremos foi de **103,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-0,7%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Franceses no EA FC em 31/05: altas e baixas — PC](/charts/mercado-ea-fc-2026-05-31-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **67 caíram**, com variação média de **0.46%** nas últimas 24 horas. O recorte mostrava viés comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** William Saliba (90) **+58.1%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-45.8%**
 
@@ -46,11 +51,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **William Saliba (90)** subiu **+58.1%** em 24h, a **411k coins** (faixa do dia: 244k–440k). Está +15% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **William Saliba (90)** subiu **+58.1%** em 24h, a **411k coins** (faixa do dia: 244k–440k). Está +15% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Pierre Kalulu (91)** subiu **+50.8%** em 24h, a **100k coins** (faixa do dia: 55k–100k). Está +66% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Pierre Kalulu (91)** subiu **+50.8%** em 24h, a **100k coins** (faixa do dia: 55k–100k). Está +66% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Antoine Griezmann (91)** subiu **+46.6%** em 24h, a **170k coins** (faixa do dia: 116k–260k). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
+- **Antoine Griezmann (91)** subiu **+46.6%** em 24h, a **170k coins** (faixa do dia: 116k–260k). Está em linha com a média de 7 dias (-1%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -71,11 +76,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Rayan Cherki (87)** caiu **-45.8%** em 24h, a **71k coins** (faixa do dia: 71k–150k). Está -49% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Rayan Cherki (87)** caiu **-45.8%** em 24h, a **71k coins** (faixa do dia: 71k–150k). Está -49% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Loïc Badé (88)** caiu **-45%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Loïc Badé (88)** caiu **-45%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está +13% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Eli Junior Kroupi (89)** caiu **-35.3%** em 24h, a **35k coins** (faixa do dia: 30k–54k). Está -20% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Eli Junior Kroupi (89)** caiu **-35.3%** em 24h, a **35k coins** (faixa do dia: 30k–54k). Está -20% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -85,16 +90,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (31/05/2026)?**  
+**Qual foi a maior alta do EA FC hoje (31/05/2026)?**
 William Saliba (90, Premier League), com +58.1% em 24h, a 411k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Rayan Cherki (87), -45.8% em 24h, a 71k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 58 cartas em alta contra 67 em queda (média 0.46%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava lateral — sem direção clara, com 58 cartas em alta contra 67 em queda (média 0.46%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -103,3 +108,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 31/05/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Franceses baratos no EA FC em 31/05 — PC](/posts/jogadores-baratos-ea-fc-2026-05-31-pc/)
+- [Momentum de Franceses no EA FC em 31/05 — PC](/posts/melhores-investimentos-ea-fc-2026-05-31-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

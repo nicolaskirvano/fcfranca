@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "France FUT Market"
 pubDatetime: 2026-06-19T01:53:00.000Z
-title: "Franceses no EA FC hoje (18/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Franceses no EA FC em 18/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,19 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 18/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (18/06/2026)?"
-    a: "Alexandre Lacazette (89, Brasileirão), com +53.8% em 24h, a 45k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Laurent Blanc (88), -43.7% em 24h, a 90k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 43 cartas em alta contra 81 em queda (média -1.55%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 18/06/2026 no PC: Alexandre Lacazette liderou as altas e Laurent Blanc as baixas em Franceses. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 18/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 20 cartas destacadas nas tabelas, **Alexandre Lacazette** registrou o maior movimento de 24h (+53,8%), enquanto **Laurent Blanc** marcou o menor (-43,7%). A distância entre os extremos foi de **97,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-3,2%**: 10 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Franceses no EA FC em 18/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-18-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O cenário do mercado de jogadores franceses para PC em 18 de junho de 2026 apresenta uma dinâmica de forte desequilíbrio, marcada por um sentimento predominantemente negativo que reflete a cautela excessiva dos traders e a falta de volume de compra sustentável nas camadas intermediárias e superiores. Com um saldo diário drasticamente viciado para o lado das quedas, registrando apenas 43 altas contra um impressionante número de 81 quedas, o indicador médio de variação fechou em -1.55% nas últimas 24 horas, sinalizando uma liquidez fraca e uma tendência de desvalorização generalizada nos ativos do elenco nacional galo. Esse ambiente hostil para investidores de curto prazo exige uma leitura atenta dos poucos polos de resistência, onde especulações pontuais ou necessidades específicas de SQUADs impulsionam preços isoladamente, enquanto a grande massa do mercado sofre com a pressão vendedora decorrente da falta de eventos imediatos que justifiquem a retenção de capital. A volatilidade observada não é aleatória, mas sim estrutural, indicando que os poucos aumentos de preço são frequentemente reversionistas ou baseados em probabilidades baixas de alta sustentada, enquanto as quedas refletem uma correção natural de preços que haviam sido inflacionados em momentos anteriores de maior euforia ou escassez artificial de oferta. Portanto, a estratégia para este ciclo deve ser extremamente seletiva, evitando expor capital em ativos sem suporte fundamental claro e focando nas oportunidades de compra em fundo de queda, onde a probabilidade de recuperação futura é estatisticamente mais favorável do que tentar comprar no topo de movimentos efêmeros que o mercado atual tem demonstrado não conseguir sustentar por longos períodos.
 
@@ -76,16 +81,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (18/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (18/06/2026)?**
 Alexandre Lacazette (89, Brasileirão), com +53.8% em 24h, a 45k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Laurent Blanc (88), -43.7% em 24h, a 90k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 43 cartas em alta contra 81 em queda (média -1.55%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 43 cartas em alta contra 81 em queda (média -1.55%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -94,3 +99,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 18/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Franceses baratos no EA FC em 18/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-18-pc/)
+- [Momentum de Franceses no EA FC em 18/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-18-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
