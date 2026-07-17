@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:19:35.000Z
+pubDatetime: 2026-07-17T19:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 17/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 17/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (17/07/2026)?"
-    a: "Sonia Bompastor (86, D1 Arkema) aparece como melhor custo-benefício, a 12.250 coins no PC."
+    a: "Marie Katoto (88, Arkema PL) aparece como melhor custo-benefício, a 1.600 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **17/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Sonia Bompastor (86) por apenas 12.250 coins.
+> 💰 **Melhor pechincha:** Marie Katoto (88) por apenas 1.600 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Franceses em 17/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-17-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 4.662 coins.
-- **Posição mais frequente:** LB, com 1 cartas.
-- **Faixa real:** 1.800 a 12.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 7.740 coins.
+- **Posição mais frequente:** RM, com 2 cartas.
+- **Faixa real:** 1.600 a 11.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,30 +40,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12.250 coins | +9.1% |
-| Wendie Renard | 85 | CB | Arkema PL | 1.800 coins | 0% |
-| Delphine Cascarino | 85 | RM | Barclays Women’s Super League | 1.900 coins | +5.6% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 2.700 coins | +13.9% |
+| Marie Katoto | 88 | ST | Arkema PL | 1.600 coins | +40% |
+| Laura Georges | 87 | CB | D1 Arkema | 11.000 coins | 0% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.000 coins | -8.3% |
+| Delphine Cascarino | 85 | RM | NWSL | 9.900 coins | +5.3% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5.200 coins | +59.5% |
 
 
 ## 📈 Destaques
 
-- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **12.250 coins**
+- **Marie Katoto (88, ST)** da Arkema PL, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Wendie Renard (85, CB)** da Arkema PL, a apenas **1.800 coins** — já **valorizando**, sinal de procura crescente.
+- **Laura Georges (87, CB)** da D1 Arkema, a apenas **11.000 coins**
 
-- **Delphine Cascarino (85, RM)** da Barclays Women’s Super League, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11.000 coins**
 
-- **Désiré Doué (85, RW)** da Ligue 1 McDonald's, a apenas **2.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Delphine Cascarino (85, RM)** da NWSL, a apenas **9.900 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Pauline Peyraud-Magnin (83, GK)** da Calcio A Femminile, a apenas **5.200 coins** A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sonia Bompastor (86, LB) por 12.250 coins é a referência de rating deste recorte.
+- **Defesa:** Laura Georges (87, CB) por 11.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Delphine Cascarino (85, RM) por 1.900 coins é a referência de rating deste recorte.
+- **Meio:** Ludovic Giuly (86, RM) por 11.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Désiré Doué (85, RW) por 2.700 coins é a referência de rating deste recorte.
+- **Ataque:** Marie Katoto (88, ST) por 1.600 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -82,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (17/07/2026)?**  
-Sonia Bompastor (86, D1 Arkema) aparece como melhor custo-benefício, a 12.250 coins no PC.
+Marie Katoto (88, Arkema PL) aparece como melhor custo-benefício, a 1.600 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

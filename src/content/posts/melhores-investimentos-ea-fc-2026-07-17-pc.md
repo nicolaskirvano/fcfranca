@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T17:19:34.000Z
+pubDatetime: 2026-07-17T19:50:18.000Z
 title: "Investimentos EA FC: Franceses em 17/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.3% em 24h** e **+29.1% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+23.4% em 24h** e **+24.8% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Yoan Bonny | 86 | Serie A TIM | 80k coins | +17.8% | +76.7% | Esticada |
-| Moussa Diaby | 90 | ROSHN Saudi League | 55k coins | +5.3% | +57.9% | Momentum moderado |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 78k coins | +4.3% | +49.7% | Momentum moderado |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 69k coins | +26.6% | +49.2% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 63k coins | +28.6% | +41.6% | Esticada |
-| Robert Pirès | 89 | Icons | 70k coins | +33.9% | +33.9% | Esticada |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 49k coins | +15.9% | +33.1% | Momentum moderado |
-| Franck Honorat | 85 | Bundesliga | 24k coins | +13.3% | +29.1% | Momentum moderado |
-| Enzo Millot | 89 | ROSHN Saudi League | 26k coins | +25% | +26.5% | Esticada |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 20k coins | +21.2% | +25% | Esticada |
-| Rayane Messi | 89 | Brasileirão | 20k coins | +12.7% | +25% | Momentum moderado |
-| Sonia Bompastor | 88 | D1 Arkema | 30k coins | +7.2% | +17.5% | Momentum moderado |
-| Kouadio Manu Koné | 88 | Serie A TIM | 110k coins | +5.5% | +15% | Momentum moderado |
-| Antoine Griezmann | 91 | LALIGA EA SPORTS | 140k coins | +8.5% | +10.7% | Momentum moderado |
-| Jean-Philippe Mateta | 84 | Premier League | 49k coins | +10.5% | +10.5% | Momentum moderado |
+| Yoan Bonny | 86 | Serie A TIM | 80k coins | +19.5% | +76.7% | Esticada |
+| Selma Bacha | 94 | D1 Arkema | 156k coins | +37.6% | +61% | Esticada |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 20k coins | +37% | +50% | Esticada |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 58k coins | +34.6% | +49.7% | Esticada |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 42k coins | +6.2% | +42.9% | Momentum moderado |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 48k coins | +19.4% | +33.1% | Momentum moderado |
+| Rayane Messi | 89 | Brasileirão | 20k coins | +12.7% | +31.1% | Momentum moderado |
+| Robert Pirès | 89 | Icons | 64k coins | +36% | +24.8% | Esticada |
+| Enzo Millot | 89 | ROSHN Saudi League | 26k coins | +29.1% | +24.4% | Esticada |
+| Tara Elimbi Gilbert | 86 | D1 Arkema | 20k coins | +23.4% | +23.4% | Esticada |
+| Jade Le Guilly | 84 | D1 Arkema | 21k coins | +31.7% | +22.1% | Esticada |
+| Marinette Pichon | 90 | Icons | 50k coins | +9.5% | +19.5% | Momentum moderado |
+| Louisa Necib | 90 | D1 Arkema | 50k coins | +5.9% | +11.9% | Momentum moderado |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 42k coins | +11.1% | +11.7% | Momentum moderado |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 37k coins | +34.5% | +8.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Yoan Bonny (86)** — 80k coins, **+76.7% em 7 dias** (+17.8% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yoan Bonny (86)** — 80k coins, **+76.7% em 7 dias** (+19.5% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moussa Diaby (90)** — 55k coins, **+57.9% em 7 dias** (+5.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Selma Bacha (94)** — 156k coins, **+61% em 7 dias** (+37.6% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jean-Mattéo Bahoya (89)** — 78k coins, **+49.7% em 7 dias** (+4.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Pavard (88)** — 20k coins, **+50% em 7 dias** (+37% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ferland Mendy (87)** — 69k coins, **+49.2% em 7 dias** (+26.6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ferland Mendy (87)** — 58k coins, **+49.7% em 7 dias** (+34.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pierre Kalulu (91)** — 63k coins, **+41.6% em 7 dias** (+28.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Dembélé (90)** — 42k coins, **+42.9% em 7 dias** (+6.2% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
