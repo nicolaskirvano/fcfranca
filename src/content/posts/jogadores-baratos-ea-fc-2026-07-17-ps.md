@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:50:10.000Z
+pubDatetime: 2026-07-17T17:19:26.000Z
 title: "Jogadores baratos EA FC: Franceses em 17/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 13 opções:** 10.681 coins.
+- **Preço médio das 12 opções:** 10.383 coins.
 - **Posição mais frequente:** LB, com 3 cartas.
-- **Faixa real:** 2.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.750 coins | +5.9% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +18% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14.000 coins | -14.7% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.750 coins | +7.8% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +3.6% |
 | Louisa Necib | 87 | LM | D1 Arkema | 12.250 coins | +4.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.250 coins | +2.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.750 coins | +3.6% |
+| Laura Georges | 87 | CB | D1 Arkema | 12.250 coins | 0% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.500 coins | +7.3% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.250 coins | +6.4% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12.500 coins | +4.2% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | +10.2% |
-| Delphine Cascarino | 85 | RM | NWSL | 2.000 coins | 0% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | +8% |
+| Delphine Cascarino | 85 | RM | NWSL | 2.000 coins | +5.3% |
 | N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 3.000 coins | +11.1% |
-| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 3.100 coins | +6.2% |
+| Désiré Doué | 85 | RW | Ligue 1 McDonald's | 3.100 coins | +3.1% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.750 coins**
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
 
 - **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14.000 coins**
-
-- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12.250 coins**
 
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **12.250 coins**
+
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14.500 coins**
 
 
 ## Como distribuir a banca
@@ -102,7 +101,7 @@ Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-b
 Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias.
 
 
-> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
+> **Link patrocinado:** 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
 
 ---
 

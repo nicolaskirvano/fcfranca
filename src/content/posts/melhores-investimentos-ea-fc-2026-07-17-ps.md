@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T16:50:09.000Z
+pubDatetime: 2026-07-17T17:19:25.000Z
 title: "Investimentos EA FC: Franceses em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.4% em 24h** e **+36.0% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+9.9% em 24h** e **+30.7% em 7 dias**.
+- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Sakina Karchaoui | 91 | D1 Arkema | 110k coins | +10.6% | +84.9% | Esticada |
-| Sakina Karchaoui | 88 | D1 Arkema | 80k coins | +14.3% | +81.8% | Esticada |
-| Marinette Pichon | 90 | Icons | 74k coins | +7.9% | +70.6% | Esticada |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 34k coins | +21.6% | +65.3% | Esticada |
-| Dan-Axel Zagadou | 85 | Bundesliga | 31k coins | +39.2% | +61.8% | Esticada |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 220k coins | +2.7% | +58% | Momentum moderado |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 35k coins | +21.6% | +50% | Esticada |
-| Hugo Ekitiké | 90 | Premier League | 56k coins | +12.5% | +36% | Momentum moderado |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 86k coins | +6% | +35.6% | Momentum moderado |
-| Wendie Renard | 86 | D1 Arkema | 49k coins | +11% | +29.5% | Momentum moderado |
-| Sakina Karchaoui | 88 | D1 Arkema | 50k coins | +9.9% | +29% | Momentum moderado |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 31k coins | +32.4% | +80% | Esticada |
+| Marinette Pichon | 90 | Icons | 74k coins | +6.4% | +68.4% | Esticada |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 28k coins | +8.3% | +58.5% | Momentum moderado |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 30k coins | +25.9% | +50% | Esticada |
+| Malo Gusto | 84 | Premier League | 54k coins | +20.7% | +39.4% | Esticada |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 79k coins | +6.7% | +35.6% | Momentum moderado |
+| Sakina Karchaoui | 88 | D1 Arkema | 50k coins | +9.9% | +30.7% | Momentum moderado |
+| Kadidiatou Diani | 91 | D1 Arkema | 148k coins | +4.4% | +30% | Momentum moderado |
+| Hugo Ekitiké | 90 | Premier League | 52k coins | +11% | +29.1% | Momentum moderado |
 | Franck Ribéry | 88 | Icons | 185k coins | +3.9% | +27.6% | Momentum moderado |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 39k coins | +11.4% | +25.8% | Momentum moderado |
-| Hugo Ekitiké | 86 | Premier League | 51k coins | +11.5% | +23.6% | Momentum moderado |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 95k coins | +12.1% | +23.1% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 49k coins | +9.3% | +27.6% | Momentum moderado |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 33k coins | +18.2% | +25.8% | Momentum moderado |
+| Hugo Ekitiké | 86 | Premier League | 51k coins | +10.3% | +23.6% | Momentum moderado |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 85k coins | +9.3% | +23.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Sakina Karchaoui (91)** — 110k coins, **+84.9% em 7 dias** (+10.6% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sakina Karchaoui (88)** — 80k coins, **+81.8% em 7 dias** (+14.3% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Thauvin (85)** — 31k coins, **+80% em 7 dias** (+32.4% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marinette Pichon (90)** — 74k coins, **+70.6% em 7 dias** (+7.9% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marinette Pichon (90)** — 74k coins, **+68.4% em 7 dias** (+6.4% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (85)** — 34k coins, **+65.3% em 7 dias** (+21.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maghnes Akliouche (84)** — 28k coins, **+58.5% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan-Axel Zagadou (85)** — 31k coins, **+61.8% em 7 dias** (+39.2% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Sotoca (85)** — 30k coins, **+50% em 7 dias** (+25.9% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -97,7 +97,7 @@ Não. São probabilidades baseadas em dados históricos; o mercado pode mudar co
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
-> 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
+> **Link patrocinado:** 🎯 Para montar seus snipes com o mercado ao vivo e o histórico de cada jogador, use o <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a>.
 
 ---
 
