@@ -1,7 +1,7 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T22:50:16.000Z
-title: "Franceses no EA FC hoje (16/07/2026): mercado, altas, baixas e previsões — PC"
+pubDatetime: 2026-07-17T00:06:01.000Z
+title: "Mercado EA FC em 16/07: Franceses — PC"
 draft: false
 featured: true
 tags:
@@ -10,84 +10,92 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 16/07/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
+description: "Dados de 16/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (16/07/2026)?"
-    a: "Kadidiatou Diani (91, D1 Arkema), com +58.4% em 24h, a 300k coins no PC."
+    a: "Kadidiatou Diani (91, D1 Arkema), com +57.9% em 24h, a 295k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Senny Mayulu (83), -38.8% em 24h, a 50k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Hugo Ekitiké (86) — 66% de probabilidade de alta, a 40k coins."
+    a: "Theo Hernández (88), -35.7% em 24h, a 118k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 56 em queda (média 3.82%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 53 cartas em alta contra 65 em queda (média 3.47%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **16/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **51 subiram** e **56 caíram**, com variação média de **3.82%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **16/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **53 subiram** e **65 caíram**, com variação média de **3.47%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Kadidiatou Diani (91) **+58.4%** · 🔴 **Maior baixa:** Senny Mayulu (83) **-38.8%**
+> 🟢 **Maior alta:** Kadidiatou Diani (91) **+57.9%** · 🔴 **Maior baixa:** Theo Hernández (88) **-35.7%**
+
+![Gráfico de variação em 24h para os destaques de Mercado EA FC em 16/07: Franceses — PC](/charts/mercado-ea-fc-2026-07-16-pc.svg)
+
+*Visualização gerada com os mesmos valores da tabela deste artigo.*
+
+
+## Leitura específica deste recorte
+
+- **Amplitude do dia:** 93.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.9% entre as cartas que se moveram; o universo observado reúne 157 cartas.
+- **Concentração:** Icons aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kadidiatou Diani | 91 | D1 Arkema | 300k coins | +58.4% | +1.3% |
-| Alexandre Lacazette | 89 | Brasileirão | 28k coins | +55.7% | -2.4% |
-| Emmanuel Petit | 87 | Icons | 115k coins | +48.4% | +64.3% |
-| Camille Abily | 91 | Icons | 60k coins | +41.2% | +11.1% |
+| Kadidiatou Diani | 91 | D1 Arkema | 295k coins | +57.9% | +3.8% |
+| Alexandre Lacazette | 89 | Brasileirão | 30k coins | +50.6% | -6.3% |
+| Emmanuel Petit | 87 | Icons | 115k coins | +47.4% | +64.3% |
+| Camille Abily | 91 | Icons | 60k coins | +41.2% | +10.1% |
+| Franck Ribéry | 89 | Icons | 400k coins | +35.6% | +48.1% |
+| Emelyne Laurent | 86 | D1 Arkema | 46k coins | +33.3% | -1.1% |
 | Tristan Crama | 86 | EFL Championship | 50k coins | +32.5% | +2.6% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 70k coins | +30.8% | +40% |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 306k coins | +30.4% | +11.8% |
-| Armand Laurienté | 86 | Serie A TIM | 42k coins | +29.3% | +20.3% |
-| Thierry Henry | 86 | Icons | 2.06M coins | +25.8% | +22.1% |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 50k coins | +25% | +37% |
+| Thierry Henry | 86 | Icons | 2.10M coins | +26.5% | +19.9% |
+| Karim Benzema | 88 | ROSHN Saudi League | 128k coins | +26.1% | +40% |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 50k coins | +25% | +1.5% |
 
 
 ### Análise das altas
 
-- **Kadidiatou Diani (91)** subiu **+58.4%** em 24h, a **300k coins** (faixa do dia: 178k–330k). Está em linha com a média de 7 dias (+5%). O modelo vê **estabilização** no curto prazo.
+- **Kadidiatou Diani (91)** subiu **+57.9%** em 24h, a **295k coins** (faixa do dia: 178k–330k). Está em linha com a média de 7 dias (+3%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Alexandre Lacazette (89)** subiu **+55.7%** em 24h, a **28k coins** (faixa do dia: 20k–48k). Está -12% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Alexandre Lacazette (89)** subiu **+50.6%** em 24h, a **30k coins** (faixa do dia: 19.750–48k). Está em linha com a média de 7 dias (-7%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Emmanuel Petit (87)** subiu **+48.4%** em 24h, a **115k coins** (faixa do dia: 76k–129k). Está +12% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Emmanuel Petit (87)** subiu **+47.4%** em 24h, a **115k coins** (faixa do dia: 76k–129k). Está +11% acima da média de 7 dias (aquecida). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 50k coins | -38.8% | -49.2% |
-| Marinette Pichon | 90 | Icons | 80k coins | -36.7% | +6.1% |
+| Theo Hernández | 88 | ROSHN Saudi League | 118k coins | -35.7% | -21.5% |
+| Pierre Kalulu | 91 | Serie A TIM | 48k coins | -33.3% | +9.8% |
 | Sandy Baltimore | 87 | Barclays WSL | 34k coins | -33% | -25.6% |
 | Blaise Matuidi | 87 | Ligue 1 McDonald's | 298k coins | -30.7% | -5.4% |
-| Griedge Mbock | 86 | D1 Arkema | 44k coins | -29.2% | -4.8% |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 46k coins | -23.6% | -22.1% |
-| Marcel Desailly | 88 | Icons | 86k coins | -21.7% | 0% |
-| Louisa Necib | 88 | D1 Arkema | 64k coins | -21.2% | -13.3% |
-| Eric Cantona | 89 | Icons | 158k coins | -20.5% | +55.9% |
-| Hugo Ekitiké | 86 | Premier League | 40k coins | -19.6% | -25.2% |
+| Selma Bacha | 94 | D1 Arkema | 98k coins | -29.1% | -25.4% |
+| Griedge Mbock | 86 | D1 Arkema | 44k coins | -26.2% | -2.7% |
+| Marcel Desailly | 88 | Icons | 84k coins | -24.8% | -3.4% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 54k coins | -24.6% | -50.8% |
+| Patrick Vieira | 86 | Icons | 1.41M coins | -21.1% | +35.2% |
+| Eric Cantona | 89 | Icons | 176k coins | -20.1% | +55.9% |
 
 
 ### Análise das baixas
 
-- **Senny Mayulu (83)** caiu **-38.8%** em 24h, a **50k coins** (faixa do dia: 50k–70k). Está -42% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Theo Hernández (88)** caiu **-35.7%** em 24h, a **118k coins** (faixa do dia: 60k–130k). Está em linha com a média de 7 dias (+1%). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Marinette Pichon (90)** caiu **-36.7%** em 24h, a **80k coins** (faixa do dia: 48k–75k). Está +64% acima da média de 7 dias (aquecida). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Pierre Kalulu (91)** caiu **-33.3%** em 24h, a **48k coins** (faixa do dia: 40k–85k). Está -16% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
-- **Sandy Baltimore (87)** caiu **-33%** em 24h, a **34k coins** (faixa do dia: 32k–50k). Está -19% abaixo da média de 7 dias (descontada). ⚠️ O modelo projeta **continuidade da queda** — ainda não encontrou fundo.
+- **Sandy Baltimore (87)** caiu **-33%** em 24h, a **34k coins** (faixa do dia: 32k–50k). Está -19% abaixo da média de 7 dias (descontada). Sem projeção recente válida; a leitura considera apenas preço e tendência.
 
 
-## 🔮 Projeções do modelo para 24h
+## Decisão prática para hoje
 
-Os nomes com **melhor leitura de valorização** segundo o modelo (confiança alta):
+- **Evite perseguir topo:** Kadidiatou Diani já avançou 57.9% em 24h; espere nova cotação antes de entrar.
 
-| Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
-| --- | --- | --- | --- | --- |
-| Hugo Ekitiké | 86 | 40k coins | 43k coins | 66% |
-| Eli Junior Kroupi | 89 | 62k coins | 64k coins | 45% |
+- **Queda não é compra automática:** Theo Hernández recuou -35.7%; confirme estabilização e liquidez.
+
+- Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
 
 ## 📐 Como o FutQuant le o mercado
@@ -97,16 +105,13 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (16/07/2026)?**  
-Kadidiatou Diani (91, D1 Arkema), com +58.4% em 24h, a 300k coins no PC.
+Kadidiatou Diani (91, D1 Arkema), com +57.9% em 24h, a 295k coins no PC.
 
 **E a maior queda do dia?**  
-Senny Mayulu (83), -38.8% em 24h, a 50k coins.
-
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Hugo Ekitiké (86) — 66% de probabilidade de alta, a 40k coins.
+Theo Hernández (88), -35.7% em 24h, a 118k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 51 cartas em alta contra 56 em queda (média 3.82%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 53 cartas em alta contra 65 em queda (média 3.47%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -117,3 +122,11 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ---
 
 *Preços de PC, referência de 16/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v1 -->
+## Continue a análise
+
+- [Jogadores baratos EA FC: Franceses em 16/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-16-pc/)
+- [Investimentos EA FC: Franceses em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver todas as análises recentes](/posts/)
+- [Conheça a metodologia e os limites dos dados](/about/)
