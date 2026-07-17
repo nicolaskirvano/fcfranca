@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T19:50:09.000Z
+pubDatetime: 2026-07-17T22:50:09.000Z
 title: "Investimentos EA FC: Franceses em 17/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 17/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (17/07/2026) no EA FC?"
-    a: "Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +88% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mattéo Guendouzi (91) acumula **+83.3% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mattéo Guendouzi (91) acumula **+88% em 7 dias** a 55k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 17/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-17-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **17/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.7% em 24h** e **+34.4% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.9% em 24h** e **+25.0% em 7 dias**.
+- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 55k coins | +10.6% | +83.3% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 82k coins | +38.6% | +64.5% | Esticada |
-| Lilian Thuram | 88 | Icons | 149k coins | +4.6% | +55.3% | Momentum moderado |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 31k coins | +26.4% | +42.6% | Esticada |
-| Sakina Karchaoui | 88 | D1 Arkema | 36k coins | +11.1% | +38.9% | Momentum moderado |
-| Eli Junior Kroupi | 89 | Premier League | 60k coins | +19% | +38.4% | Momentum moderado |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 29k coins | +17% | +37.6% | Momentum moderado |
-| Moussa Diaby | 90 | ROSHN Saudi League | 70k coins | +9.5% | +34.4% | Momentum moderado |
-| Selma Bacha | 87 | D1 Arkema | 20k coins | +17.1% | +32.3% | Momentum moderado |
-| Camille Abily | 90 | Icons | 82k coins | +31.6% | +31.6% | Esticada |
-| Kadidiatou Diani | 91 | D1 Arkema | 136k coins | +14.3% | +30.9% | Momentum moderado |
-| Loïc Badé | 88 | Bundesliga | 18.500 coins | +4.2% | +25% | Entrada a observar |
-| Franck Ribéry | 88 | Icons | 200k coins | +5.9% | +24.3% | Momentum moderado |
-| Malo Gusto | 84 | Premier League | 48k coins | +11.7% | +23.2% | Momentum moderado |
-| Moussa Sissoko | 88 | EFL Championship | 200k coins | +8.1% | +19.8% | Momentum moderado |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 55k coins | +10% | +88% | Esticada |
+| Moussa Diaby | 90 | ROSHN Saudi League | 70k coins | +13.8% | +52.2% | Momentum moderado |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 160k coins | +7.9% | +42.4% | Momentum moderado |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 30k coins | +19% | +41.7% | Momentum moderado |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 28k coins | +6.7% | +38.8% | Momentum moderado |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 35k coins | +23.9% | +30.8% | Esticada |
+| Emelyne Laurent | 86 | D1 Arkema | 42k coins | +8.4% | +25.6% | Momentum moderado |
+| Khéphren Thuram | 85 | Serie A TIM | 80k coins | +1.3% | +25% | Entrada a observar |
+| Franck Ribéry | 88 | Icons | 160k coins | +5.9% | +25% | Momentum moderado |
+| Han-Noah Massengo | 84 | Bundesliga | 42k coins | +14.3% | +20% | Momentum moderado |
+| Karim Benzema | 87 | ROSHN Saudi League | 72k coins | +10.8% | +18.5% | Momentum moderado |
+| Marcel Desailly | 88 | Icons | 74k coins | +10.9% | +14.3% | Momentum moderado |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 18.750 coins | +17.2% | +13.6% | Momentum moderado |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 38k coins | +14.7% | +8.2% | Momentum moderado |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 30k coins | +17.4% | +7.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Mattéo Guendouzi (91)** — 55k coins, **+83.3% em 7 dias** (+10.6% em 24h). Preço +55% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mattéo Guendouzi (91)** — 55k coins, **+88% em 7 dias** (+10% em 24h). Preço +53% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pierre Kalulu (91)** — 82k coins, **+64.5% em 7 dias** (+38.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moussa Diaby (90)** — 70k coins, **+52.2% em 7 dias** (+13.8% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lilian Thuram (88)** — 149k coins, **+55.3% em 7 dias** (+4.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (87)** — 160k coins, **+42.4% em 7 dias** (+7.9% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Sotoca (85)** — 31k coins, **+42.6% em 7 dias** (+26.4% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adrien Thomasson (85)** — 30k coins, **+41.7% em 7 dias** (+19% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sakina Karchaoui (88)** — 36k coins, **+38.9% em 7 dias** (+11.1% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sidney Govou (87)** — 28k coins, **+38.8% em 7 dias** (+6.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (17/07/2026) no EA FC?**  
-Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +83.3% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +88% em 7 dias a 55k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
