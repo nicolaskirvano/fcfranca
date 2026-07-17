@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-17T00:05:53.000Z
+pubDatetime: 2026-07-17T01:50:09.000Z
 title: "Investimentos EA FC: Franceses em 16/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 16/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (16/07/2026) no EA FC?"
-    a: "Theo Hernández (88, ROSHN Saudi League) lidera, com +75.6% em 7 dias a 115k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Eric Cantona (89, Icons) lidera, com +67.8% em 7 dias a 149k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Theo Hernández (88) acumula **+75.6% em 7 dias** a 115k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Eric Cantona (89) acumula **+67.8% em 7 dias** a 149k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 16/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-16-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.5% em 24h** e **+34.5% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+15.9% em 24h** e **+33.9% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Theo Hernández | 88 | ROSHN Saudi League | 115k coins | +27.8% | +75.6% | Esticada |
-| Marinette Pichon | 90 | Icons | 80k coins | +17.5% | +66% | Esticada |
-| Sakina Karchaoui | 88 | D1 Arkema | 48k coins | +18.8% | +47.5% | Momentum moderado |
-| Antoine Griezmann | 91 | LALIGA EA SPORTS | 210k coins | +14.9% | +44.8% | Momentum moderado |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 104k coins | +3.1% | +42.9% | Momentum moderado |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 79k coins | +28.5% | +41.5% | Esticada |
-| Hugo Ekitiké | 90 | Premier League | 54k coins | +4.4% | +35.6% | Momentum moderado |
-| Rayane Messi | 89 | Brasileirão | 18.500 coins | +23.3% | +34.5% | Esticada |
-| Loïc Badé | 88 | Bundesliga | 17.750 coins | +16.1% | +33.3% | Momentum moderado |
-| Yoan Bonny | 86 | Serie A TIM | 74k coins | +18.5% | +27.8% | Momentum moderado |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 70k coins | +2.9% | +26.6% | Momentum moderado |
+| Eric Cantona | 89 | Icons | 149k coins | +28% | +67.8% | Esticada |
+| Marinette Pichon | 90 | Icons | 61k coins | +1.3% | +66% | Esticada |
+| Sakina Karchaoui | 88 | D1 Arkema | 48k coins | +35.7% | +57% | Esticada |
+| Wilson Odobert | 87 | Premier League | 55k coins | +32.5% | +51.4% | Esticada |
+| Theo Hernández | 88 | ROSHN Saudi League | 98k coins | +10.6% | +51.1% | Momentum moderado |
+| Franck Ribéry | 88 | Icons | 219k coins | +15.9% | +47% | Momentum moderado |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 24k coins | +8.9% | +38% | Momentum moderado |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 85k coins | +23.4% | +33.9% | Esticada |
+| Rayane Messi | 89 | Brasileirão | 15.500 coins | +25.9% | +32.7% | Esticada |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 19.750 coins | +9.6% | +27% | Momentum moderado |
 | Jean-Philippe Mateta | 84 | Premier League | 45k coins | +21.8% | +25.2% | Esticada |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 26k coins | +9.1% | +25% | Momentum moderado |
-| Kadidiatou Diani | 91 | D1 Arkema | 137k coins | +12.3% | +24.5% | Momentum moderado |
-| Annaïg Butel | 86 | D1 Arkema | 24k coins | +24.4% | +21.2% | Esticada |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 34k coins | +12.1% | +24.4% | Momentum moderado |
+| Kadidiatou Diani | 91 | D1 Arkema | 135k coins | +6.2% | +23.6% | Momentum moderado |
+| Annaïg Butel | 86 | D1 Arkema | 24k coins | +26% | +21.2% | Esticada |
+| Ludovic Giuly | 87 | Ligue 1 McDonald's | 16.250 coins | +12.1% | +20.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Theo Hernández (88)** — 115k coins, **+75.6% em 7 dias** (+27.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (89)** — 149k coins, **+67.8% em 7 dias** (+28% em 24h). Preço +52% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marinette Pichon (90)** — 80k coins, **+66% em 7 dias** (+17.5% em 24h). Preço +74% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marinette Pichon (90)** — 61k coins, **+66% em 7 dias** (+1.3% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sakina Karchaoui (88)** — 48k coins, **+47.5% em 7 dias** (+18.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (88)** — 48k coins, **+57% em 7 dias** (+35.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Antoine Griezmann (91)** — 210k coins, **+44.8% em 7 dias** (+14.9% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wilson Odobert (87)** — 55k coins, **+51.4% em 7 dias** (+32.5% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aurélien Tchouaméni (87)** — 104k coins, **+42.9% em 7 dias** (+3.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Theo Hernández (88)** — 98k coins, **+51.1% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (16/07/2026) no EA FC?**  
-Theo Hernández (88, ROSHN Saudi League) lidera, com +75.6% em 7 dias a 115k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Eric Cantona (89, Icons) lidera, com +67.8% em 7 dias a 149k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
