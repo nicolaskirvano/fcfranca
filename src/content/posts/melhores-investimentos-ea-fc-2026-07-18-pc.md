@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:37:48.000Z
+pubDatetime: 2026-07-18T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 18/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.8% em 24h** e **+38.0% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.1% em 24h** e **+38.0% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,10 +43,10 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 21k coins | +35.5% | +86.7% | Esticada |
-| Marinette Pichon | 90 | Icons | 80k coins | +25% | +73% | Esticada |
+| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 21k coins | +37.7% | +86.7% | Esticada |
+| Marinette Pichon | 90 | Icons | 80k coins | +26% | +73% | Esticada |
 | Moussa Diaby | 90 | ROSHN Saudi League | 60k coins | +3.4% | +64.4% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 82k coins | +6.9% | +57.4% | Momentum moderado |
+| Pierre Kalulu | 91 | Serie A TIM | 82k coins | +21.4% | +56% | Esticada |
 | Selma Bacha | 87 | D1 Arkema | 26k coins | +36.4% | +54.4% | Esticada |
 | Anaële Le Moguédec | 88 | D1 Arkema | 19.000 coins | +30.9% | +43.5% | Esticada |
 | Emmanuel Petit | 87 | Icons | 120k coins | +4.3% | +42.9% | Momentum moderado |
@@ -56,19 +56,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Khéphren Thuram | 87 | Serie A TIM | 75k coins | +3.4% | +28.2% | Momentum moderado |
 | Sandy Baltimore | 87 | Barclays WSL | 50k coins | +5.8% | +27.4% | Momentum moderado |
 | Tara Elimbi Gilbert | 86 | D1 Arkema | 18.250 coins | +5.9% | +24.1% | Momentum moderado |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 44k coins | +8.8% | +16.8% | Momentum moderado |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 43k coins | +8.8% | +16.8% | Momentum moderado |
 | Grace Kazadi | 87 | D1 Arkema | 18.750 coins | +16.7% | +16.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Jean-Pierre Papin (89)** — 21k coins, **+86.7% em 7 dias** (+35.5% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jean-Pierre Papin (89)** — 21k coins, **+86.7% em 7 dias** (+37.7% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marinette Pichon (90)** — 80k coins, **+73% em 7 dias** (+25% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marinette Pichon (90)** — 80k coins, **+73% em 7 dias** (+26% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Moussa Diaby (90)** — 60k coins, **+64.4% em 7 dias** (+3.4% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pierre Kalulu (91)** — 82k coins, **+57.4% em 7 dias** (+6.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Kalulu (91)** — 82k coins, **+56% em 7 dias** (+21.4% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Selma Bacha (87)** — 26k coins, **+54.4% em 7 dias** (+36.4% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

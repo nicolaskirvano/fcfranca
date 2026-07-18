@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:37:39.000Z
+pubDatetime: 2026-07-18T10:50:09.000Z
 title: "Investimentos EA FC: Franceses em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.3% em 24h** e **+34.7% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.4% em 24h** e **+35.0% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **ROSHN Saudi League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Moussa Diaby | 90 | ROSHN Saudi League | 70k coins | +8.8% | +81.3% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 130k coins | +7.9% | +77.8% | Esticada |
+| Moussa Diaby | 90 | ROSHN Saudi League | 70k coins | +12.4% | +81.3% | Esticada |
+| Karim Benzema | 88 | ROSHN Saudi League | 98k coins | +7.9% | +77.8% | Esticada |
+| Hugo Ekitiké | 86 | Premier League | 54k coins | +20% | +60% | Esticada |
 | Alexandre Lacazette | 89 | Brasileirão | 26k coins | +32.2% | +57.5% | Esticada |
-| Dan-Axel Zagadou | 85 | Bundesliga | 30k coins | +26.9% | +53.2% | Esticada |
-| Wendie Renard | 86 | D1 Arkema | 22k coins | +6.2% | +45.8% | Momentum moderado |
-| Franck Honorat | 85 | Bundesliga | 21k coins | +30.3% | +43.3% | Esticada |
-| Claude Makélélé | 87 | Icons | 94k coins | +31.2% | +35% | Esticada |
-| Franck Ribéry | 88 | Icons | 190k coins | +2.1% | +34.7% | Momentum moderado |
-| Enzo Millot | 89 | ROSHN Saudi League | 18.500 coins | +13.2% | +34.4% | Momentum moderado |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 184k coins | +3.4% | +33.1% | Momentum moderado |
-| Kadidiatou Diani | 91 | D1 Arkema | 142k coins | +3.8% | +32.7% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 46k coins | +38.3% | +31.4% | Esticada |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 40k coins | +1.3% | +28% | Momentum moderado |
+| Dan-Axel Zagadou | 85 | Bundesliga | 29k coins | +28.3% | +53.2% | Esticada |
+| Wendie Renard | 86 | D1 Arkema | 20k coins | +6.2% | +45.8% | Momentum moderado |
+| Franck Honorat | 85 | Bundesliga | 21k coins | +34.4% | +43.3% | Esticada |
+| Claude Makélélé | 87 | Icons | 100k coins | +31.2% | +35% | Esticada |
+| Franck Ribéry | 88 | Icons | 186k coins | +2.1% | +34.7% | Momentum moderado |
+| Kadidiatou Diani | 91 | D1 Arkema | 140k coins | +3.8% | +32.7% | Momentum moderado |
+| Enzo Millot | 89 | ROSHN Saudi League | 18.500 coins | +10.5% | +31.2% | Momentum moderado |
+| Adrien Rabiot | 86 | Serie A TIM | 44k coins | +38.3% | +29.6% | Esticada |
+| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 180k coins | +2.8% | +28.5% | Momentum moderado |
 | Antoine Griezmann | 87 | LALIGA EA SPORTS | 40k coins | +33.3% | +27% | Esticada |
-| Maëlle Garbino | 86 | D1 Arkema | 23k coins | +12.3% | +26.4% | Momentum moderado |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 26k coins | +8.3% | +26.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Moussa Diaby (90)** — 70k coins, **+81.3% em 7 dias** (+8.8% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moussa Diaby (90)** — 70k coins, **+81.3% em 7 dias** (+12.4% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (88)** — 130k coins, **+77.8% em 7 dias** (+7.9% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 98k coins, **+77.8% em 7 dias** (+7.9% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Hugo Ekitiké (86)** — 54k coins, **+60% em 7 dias** (+20% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Alexandre Lacazette (89)** — 26k coins, **+57.5% em 7 dias** (+32.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan-Axel Zagadou (85)** — 30k coins, **+53.2% em 7 dias** (+26.9% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Wendie Renard (86)** — 22k coins, **+45.8% em 7 dias** (+6.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dan-Axel Zagadou (85)** — 29k coins, **+53.2% em 7 dias** (+28.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

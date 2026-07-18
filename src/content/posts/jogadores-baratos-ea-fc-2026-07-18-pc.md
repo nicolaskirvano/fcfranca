@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T10:37:50.000Z
+pubDatetime: 2026-07-18T10:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 18/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 10.175 coins.
+- **Preço médio das 4 opções:** 10.300 coins.
 - **Posição mais frequente:** RM, com 2 cartas.
-- **Faixa real:** 5.500 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 6.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,8 +41,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.000 coins | +1.7% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5.500 coins | 0% |
-| Delphine Cascarino | 85 | RM | NWSL | 8.200 coins | -3.3% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 6.000 coins | 0% |
+| Delphine Cascarino | 85 | RM | NWSL | 8.200 coins | 0% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 13.000 coins | 0% |
 
 
@@ -50,7 +50,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14.000 coins**
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **5.500 coins**
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **6.000 coins**
 
 - **Delphine Cascarino (85, RM)** da NWSL, a apenas **8.200 coins**
 
