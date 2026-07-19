@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:40:13.000Z
+pubDatetime: 2026-07-19T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 19/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.9% em 24h** e **+25.9% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+18.4% em 24h** e **+25.9% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -48,14 +48,14 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Bradley Barcola | 87 | Ligue 1 McDonald's | 200k coins | +25% | +42.9% | Esticada |
 | Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 105k coins | +32.5% | +40% | Esticada |
 | Grace Kazadi | 87 | D1 Arkema | 20k coins | +1.2% | +32.8% | Momentum moderado |
-| Laurent Blanc | 88 | Icons | 98k coins | +17.9% | +32% | Momentum moderado |
+| Laurent Blanc | 88 | Icons | 98k coins | +17.9% | +31.1% | Momentum moderado |
 | Lilian Thuram | 88 | Icons | 180k coins | +18.4% | +30.4% | Momentum moderado |
 | Ludovic Giuly | 87 | Ligue 1 McDonald's | 18.250 coins | +21.7% | +25.9% | Esticada |
 | Leny Yoro | 86 | Premier League | 130k coins | +30% | +20.4% | Esticada |
-| Claude Makélélé | 87 | Icons | 114k coins | +5.6% | +20% | Momentum moderado |
+| Claude Makélélé | 87 | Icons | 113k coins | +5.6% | +17.5% | Momentum moderado |
 | Anaële Le Moguédec | 88 | D1 Arkema | 22k coins | +17.1% | +17.1% | Momentum moderado |
 | Maxence Lacroix | 87 | Premier League | 99k coins | +21.1% | +15.3% | Esticada |
-| Marcel Desailly | 88 | Icons | 76k coins | +2.6% | +13.8% | Entrada a observar |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 28k coins | +23.9% | +15.2% | Esticada |
 | Mike Maignan | 88 | Serie A TIM | 50k coins | +8.2% | +13.1% | Momentum moderado |
 | Sakina Karchaoui | 88 | D1 Arkema | 54k coins | +25.3% | +13% | Esticada |
 

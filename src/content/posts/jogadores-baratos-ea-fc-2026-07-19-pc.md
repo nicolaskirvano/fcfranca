@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:40:14.000Z
+pubDatetime: 2026-07-19T10:50:19.000Z
 title: "Jogadores baratos EA FC: Franceses em 19/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 7.958 coins.
+- **Preço médio das 6 opções:** 7.942 coins.
 - **Posição mais frequente:** CDM, com 2 cartas.
-- **Faixa real:** 2.100 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,7 +44,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Laura Georges | 87 | CB | D1 Arkema | 11.000 coins | -8.3% |
 | N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 6.800 coins | +36.4% |
 | Delphine Cascarino | 85 | RM | NWSL | 8.700 coins | +6.1% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.100 coins | +36.4% |
+| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.000 coins | +36.4% |
 | Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5.900 coins | +3.4% |
 
 
@@ -58,7 +58,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Delphine Cascarino (85, RM)** da NWSL, a apenas **8.700 coins**
 
-- **Aurélien Tchouaméni (84, CDM)** da LALIGA EA SPORTS, a apenas **2.100 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Aurélien Tchouaméni (84, CDM)** da LALIGA EA SPORTS, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca

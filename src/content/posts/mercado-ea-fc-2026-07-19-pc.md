@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:40:12.000Z
+pubDatetime: 2026-07-19T10:50:17.000Z
 title: "Mercado EA FC em 19/07: Franceses — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Ayyoub Bouaddi (86), -48.5% em 24h, a 26k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 67 cartas em alta contra 56 em queda (média 4.75%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 65 cartas em alta contra 56 em queda (média 4.61%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **67 valorizações** contra **56 quedas** entre as cartas relevantes, com média de **4.75%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **65 valorizações** contra **56 quedas** entre as cartas relevantes, com média de **4.61%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Sakina Karchaoui (88) **+58.9%** · 🔴 **Maior baixa:** Ayyoub Bouaddi (86) **-48.5%**
 
@@ -36,7 +36,7 @@ Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 107.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 54.5% entre as cartas que se moveram; o universo observado reúne 160 cartas.
+- **Participação das altas:** 53.7% entre as cartas que se moveram; o universo observado reúne 160 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -44,15 +44,15 @@ Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Sakina Karchaoui | 88 | D1 Arkema | 70k coins | +58.9% | +35% |
-| Hugo Ekitiké | 86 | Premier League | 46k coins | +58% | +16% |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 28k coins | +52% | +20% |
+| Hugo Ekitiké | 86 | Premier League | 39k coins | +58% | +16% |
 | Jade Le Guilly | 89 | D1 Arkema | 44k coins | +51.7% | +29.7% |
 | Franck Honorat | 85 | Bundesliga | 30k coins | +50.6% | +24% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 124k coins | +50.3% | -8.1% |
-| Moussa Sissoko | 88 | EFL Championship | 350k coins | +49.6% | +1.2% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 124k coins | +50.3% | -4.9% |
+| Moussa Sissoko | 88 | EFL Championship | 350k coins | +48.9% | +1.2% |
 | Wendie Renard | 86 | D1 Arkema | 24k coins | +48.4% | +41.8% |
 | Matthieu Udol | 84 | Ligue 1 McDonald's | 65k coins | +47.2% | 0% |
 | Maghnes Akliouche | 88 | Ligue 1 McDonald's | 22k coins | +43.5% | -1.1% |
+| Griedge Mbock | 86 | D1 Arkema | 75k coins | +37.6% | +11.9% |
 
 
 ### Análise das altas
@@ -63,9 +63,9 @@ Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 - **Sakina Karchaoui (88)** subiu **+58.9%** em 24h, a **70k coins** (faixa do dia: 44k–85k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Hugo Ekitiké (86)** subiu **+58%** em 24h, a **46k coins** (faixa do dia: 31k–55k). Está em linha com a média de 7 dias (+8%).
+- **Hugo Ekitiké (86)** subiu **+58%** em 24h, a **39k coins** (faixa do dia: 31k–55k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Florian Thauvin (85)** subiu **+52%** em 24h, a **28k coins** (faixa do dia: 20k–35k). Está em linha com a média de 7 dias (-0%).
+- **Jade Le Guilly (89)** subiu **+51.7%** em 24h, a **44k coins** (faixa do dia: 27k–48k). Está +52% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -74,14 +74,14 @@ Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 | --- | --- | --- | --- | --- | --- |
 | Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 26k coins | -48.5% | -8% |
 | Hugo Ekitiké | 90 | Premier League | 39k coins | -36.7% | -21.1% |
-| Karim Benzema | 88 | ROSHN Saudi League | 100k coins | -35.5% | +8.1% |
+| Karim Benzema | 88 | ROSHN Saudi League | 100k coins | -33.8% | +8.1% |
 | Paul Pogba | 89 | Ligue 1 McDonald's | 999k coins | -33.4% | -15.9% |
 | Camille Abily | 91 | Icons | 40k coins | -33.3% | 0% |
-| Kadidiatou Diani | 91 | D1 Arkema | 300k coins | -29.4% | -33% |
-| Adrien Rabiot | 86 | Serie A TIM | 48k coins | -27.1% | -7.1% |
+| Kadidiatou Diani | 91 | D1 Arkema | 199k coins | -29.4% | -33% |
 | Kouadio Manu Koné | 88 | Serie A TIM | 88k coins | -26.7% | -16.2% |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 32k coins | -25.3% | -27% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 45k coins | -25% | -13.5% |
+| Adrien Rabiot | 86 | Serie A TIM | 48k coins | -25.6% | -4% |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 32k coins | -24.9% | -27% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 24k coins | -24.6% | 0% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 - **Hugo Ekitiké (90)** caiu **-36.7%** em 24h, a **39k coins** (faixa do dia: 39k–65k). Está -30% abaixo da média de 7 dias (descontada).
 
-- **Karim Benzema (88)** caiu **-35.5%** em 24h, a **100k coins** (faixa do dia: 96k–155k). Está -15% abaixo da média de 7 dias (descontada).
+- **Karim Benzema (88)** caiu **-33.8%** em 24h, a **100k coins** (faixa do dia: 96k–155k). Está -15% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Sakina Karchaoui (88, D1 Arkema), com +58.9% em 24h, a 70k coins no PC.
 Ayyoub Bouaddi (86), -48.5% em 24h, a 26k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 67 cartas em alta contra 56 em queda (média 4.75%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 65 cartas em alta contra 56 em queda (média 4.61%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

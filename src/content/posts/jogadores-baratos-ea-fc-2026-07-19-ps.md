@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:40:05.000Z
+pubDatetime: 2026-07-19T10:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 10.329 coins.
+- **Preço médio das 11 opções:** 10.800 coins.
 - **Posição mais frequente:** RM, com 3 cartas.
-- **Faixa real:** 1.800 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.800 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,30 +41,29 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 13.500 coins | -1.8% |
-| Loïc Badé | 88 | CB | Bundesliga | 14.750 coins | +1.7% |
+| Loïc Badé | 88 | CB | Bundesliga | 14.000 coins | +1.7% |
 | Louisa Necib | 87 | LM | D1 Arkema | 12.000 coins | -2.1% |
 | Laura Georges | 87 | CB | D1 Arkema | 12.500 coins | 0% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.750 coins | -8.2% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.000 coins | -8.2% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 11.750 coins | -4% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.250 coins | +8.9% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12.250 coins | +2.1% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12.500 coins | -4% |
 | Delphine Cascarino | 85 | RM | NWSL | 1.800 coins | -10% |
 | N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2.500 coins | -9.1% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 5.400 coins | -1.8% |
 
 
 ## 📈 Destaques
 
 - **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13.500 coins**
 
-- **Loïc Badé (88, CB)** da Bundesliga, a apenas **14.750 coins**
+- **Loïc Badé (88, CB)** da Bundesliga, a apenas **14.000 coins**
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12.000 coins**
 
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **12.500 coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13.750 coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14.000 coins**
 
 
 ## Como distribuir a banca
@@ -73,7 +72,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Louisa Necib (87, LM) por 12.000 coins é a referência de rating deste recorte.
 
-- **Ataque:** Sidney Govou (86, ST) por 11.750 coins é a referência de rating deste recorte.
+- **Ataque:** Sidney Govou (86, ST) por 12.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
