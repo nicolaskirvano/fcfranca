@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:50:09.000Z
+pubDatetime: 2026-07-19T01:50:09.000Z
 title: "Investimentos EA FC: Franceses em 18/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 18/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/07/2026) no EA FC?"
-    a: "Jade Le Guilly (89, D1 Arkema) lidera, com +74.6% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sakina Karchaoui (91, D1 Arkema) lidera, com +81.8% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jade Le Guilly (89) acumula **+74.6% em 7 dias** a 24k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sakina Karchaoui (91) acumula **+81.8% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 18/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-18-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **18/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.3% em 24h** e **+28.0% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.9% em 24h** e **+27.3% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jade Le Guilly | 89 | D1 Arkema | 24k coins | +5.4% | +74.6% | Esticada |
-| Sakina Karchaoui | 91 | D1 Arkema | 98k coins | +5.4% | +68.7% | Esticada |
-| Enzo Millot | 89 | ROSHN Saudi League | 21k coins | +18.4% | +57.9% | Momentum moderado |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 34k coins | +30% | +32.2% | Esticada |
-| Karim Benzema | 87 | ROSHN Saudi League | 65k coins | +18.1% | +31.8% | Momentum moderado |
-| Laurent Blanc | 88 | Icons | 100k coins | +14.4% | +30.9% | Momentum moderado |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 22k coins | +1.1% | +30.4% | Momentum moderado |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 15.500 coins | +12.3% | +28% | Momentum moderado |
-| Maxence Lacroix | 87 | Premier League | 109k coins | +26.2% | +26.2% | Esticada |
-| Annaïg Butel | 86 | D1 Arkema | 24k coins | +20.5% | +25.3% | Esticada |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 127k coins | +18.4% | +23.9% | Momentum moderado |
-| Hugo Ekitiké | 87 | Premier League | 50k coins | +12.1% | +18.2% | Momentum moderado |
-| Emmanuel Petit | 87 | Icons | 88k coins | +7.3% | +16.6% | Momentum moderado |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 84k coins | +9.3% | +14.2% | Momentum moderado |
-| Rayan Cherki | 87 | Premier League | 94k coins | +12.2% | +14.2% | Momentum moderado |
+| Sakina Karchaoui | 91 | D1 Arkema | 100k coins | +11.1% | +81.8% | Esticada |
+| Pierre Kalulu | 91 | Serie A TIM | 85k coins | +9.4% | +80.6% | Esticada |
+| Rayan Cherki | 87 | Premier League | 90k coins | +26.8% | +73.3% | Esticada |
+| Sakina Karchaoui | 88 | D1 Arkema | 50k coins | +14.9% | +63.9% | Esticada |
+| Sakina Karchaoui | 88 | D1 Arkema | 58k coins | +24% | +41.7% | Esticada |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 39k coins | +32.5% | +32.5% | Esticada |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 22k coins | +1.2% | +29.9% | Momentum moderado |
+| Jade Le Guilly | 84 | D1 Arkema | 25k coins | +29.2% | +27.3% | Esticada |
+| Loïc Badé | 88 | Bundesliga | 18.500 coins | +8.8% | +25.4% | Momentum moderado |
+| Annaïg Butel | 86 | D1 Arkema | 24k coins | +27% | +25.3% | Esticada |
+| Sandy Baltimore | 87 | Barclays WSL | 45k coins | +19.2% | +25% | Momentum moderado |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 86k coins | +7.3% | +24.6% | Momentum moderado |
+| Yanis Issoufou | 84 | Ligue 2 BKT | 44k coins | +16.4% | +22.1% | Momentum moderado |
+| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 15.000 coins | +8.9% | +22% | Momentum moderado |
+| Laurent Blanc | 88 | Icons | 108k coins | +2.2% | +22% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Jade Le Guilly (89)** — 24k coins, **+74.6% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (91)** — 100k coins, **+81.8% em 7 dias** (+11.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sakina Karchaoui (91)** — 98k coins, **+68.7% em 7 dias** (+5.4% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Kalulu (91)** — 85k coins, **+80.6% em 7 dias** (+9.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Millot (89)** — 21k coins, **+57.9% em 7 dias** (+18.4% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rayan Cherki (87)** — 90k coins, **+73.3% em 7 dias** (+26.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Olivier Giroud (89)** — 34k coins, **+32.2% em 7 dias** (+30% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (88)** — 50k coins, **+63.9% em 7 dias** (+14.9% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (87)** — 65k coins, **+31.8% em 7 dias** (+18.1% em 24h). Preço -11% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (88)** — 58k coins, **+41.7% em 7 dias** (+24% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/07/2026) no EA FC?**  
-Jade Le Guilly (89, D1 Arkema) lidera, com +74.6% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sakina Karchaoui (91, D1 Arkema) lidera, com +81.8% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

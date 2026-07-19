@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-18T22:50:07.000Z
+pubDatetime: 2026-07-19T01:50:07.000Z
 title: "Mercado EA FC em 18/07: Franceses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 18/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (18/07/2026)?"
-    a: "Jade Le Guilly (84, D1 Arkema), com +52.3% em 24h, a 25k coins no Console (PS)."
+    a: "Florian Sotoca (85, Ligue 1 McDonald's), com +43.7% em 24h, a 40k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Michael Olise (87), -32.5% em 24h, a 280k coins."
+    a: "Camille Abily (92), -39.7% em 24h, a 35k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 60 cartas em alta contra 65 em queda (média 1.23%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 49 cartas em alta contra 65 em queda (média -0.06%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **60 cartas subiram** e **65 caíram** (80+ acima de 5k coins), variação média de **1.23%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **49 cartas subiram** e **65 caíram** (80+ acima de 5k coins), variação média de **-0.06%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Jade Le Guilly (84) **+52.3%** · 🔴 **Maior baixa:** Michael Olise (87) **-32.5%**
+> 🟢 **Maior alta:** Florian Sotoca (85) **+43.7%** · 🔴 **Maior baixa:** Camille Abily (92) **-39.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 18/07: Franceses — Console (PS)](/charts/mercado-ea-fc-2026-07-18-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **lateral
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 84.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.0% entre as cartas que se moveram; o universo observado reúne 149 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 83.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.0% entre as cartas que se moveram; o universo observado reúne 143 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Jade Le Guilly | 84 | D1 Arkema | 25k coins | +52.3% | +50% |
-| Laura Georges | 89 | D1 Arkema | 30k coins | +50.6% | +38.4% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 400k coins | +42.9% | +59.4% |
-| Sakina Karchaoui | 88 | D1 Arkema | 80k coins | +40.6% | +57% |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 20k coins | +31.3% | 0% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 34k coins | +30% | +32.2% |
-| Maxence Lacroix | 87 | Premier League | 109k coins | +26.2% | +26.2% |
-| Pierre Kalulu | 91 | Serie A TIM | 100k coins | +21.3% | +99% |
-| Annaïg Butel | 86 | D1 Arkema | 24k coins | +20.5% | +25.3% |
-| Enzo Millot | 89 | ROSHN Saudi League | 21k coins | +18.4% | +57.9% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 40k coins | +43.7% | +27.6% |
+| Sonia Bompastor | 88 | D1 Arkema | 23k coins | +42.4% | +40.3% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 1.34M coins | +34.9% | +27.4% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 39k coins | +32.5% | +32.5% |
+| Jade Le Guilly | 84 | D1 Arkema | 25k coins | +29.2% | +27.3% |
+| Annaïg Butel | 86 | D1 Arkema | 24k coins | +27% | +25.3% |
+| Rayan Cherki | 87 | Premier League | 90k coins | +26.8% | +73.3% |
+| Sakina Karchaoui | 88 | D1 Arkema | 58k coins | +24% | +41.7% |
+| Sandy Baltimore | 87 | Barclays WSL | 45k coins | +19.2% | +25% |
+| Patrick Vieira | 86 | Icons | 747k coins | +18.7% | +11% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **18/07/2026** no Console (PS) com mercado **lateral
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Jade Le Guilly (84)** subiu **+52.3%** em 24h, a **25k coins** (faixa do dia: 14.750–25k). Está +44% acima da média de 7 dias (aquecida).
+- **Florian Sotoca (85)** subiu **+43.7%** em 24h, a **40k coins** (faixa do dia: 24k–40k). Está +28% acima da média de 7 dias (aquecida).
 
-- **Laura Georges (89)** subiu **+50.6%** em 24h, a **30k coins** (faixa do dia: 22k–33k). Está +36% acima da média de 7 dias (aquecida).
+- **Sonia Bompastor (88)** subiu **+42.4%** em 24h, a **23k coins** (faixa do dia: 14.250–28k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Eduardo Camavinga (87)** subiu **+42.9%** em 24h, a **400k coins** (faixa do dia: 260k–410k). Está +16% acima da média de 7 dias (aquecida).
+- **Ousmane Dembélé (90)** subiu **+34.9%** em 24h, a **1.34M coins** (faixa do dia: 998k–1.37M). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Michael Olise | 87 | Bundesliga | 280k coins | -32.5% | -46.1% |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 20k coins | -31.5% | -17.8% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 34k coins | -30% | -52.7% |
-| Malo Gusto | 84 | Premier League | 40k coins | -25% | +1.2% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 2.60M coins | -23.4% | -25.8% |
-| Moussa Diaby | 90 | ROSHN Saudi League | 50k coins | -22.6% | +79.7% |
-| Jean-Philippe Mateta | 92 | Premier League | 32k coins | -21% | -25.1% |
-| Kylian Mbappé | 96 | LALIGA EA SPORTS | 1.95M coins | -20% | -35.6% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 590k coins | -20% | -23% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 40k coins | -18.7% | +5.9% |
+| Camille Abily | 92 | Icons | 35k coins | -39.7% | -24.7% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 30k coins | -39.6% | +70.6% |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 42k coins | -30% | +2.8% |
+| Malo Gusto | 84 | Premier League | 40k coins | -25.9% | 0% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 120k coins | -25.2% | -47.5% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 1.88M coins | -24.2% | -39% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 210k coins | -23% | +201.4% |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 257k coins | -21.6% | +35.1% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 3.33M coins | -19.5% | -26.1% |
+| Michael Olise | 87 | Bundesliga | 217k coins | -19.1% | -39.3% |
 
 
 ### Análise das baixas
 
-- **Michael Olise (87)** caiu **-32.5%** em 24h, a **280k coins** (faixa do dia: 178k–298k). Está -16% abaixo da média de 7 dias (descontada).
+- **Camille Abily (92)** caiu **-39.7%** em 24h, a **35k coins** (faixa do dia: 33k–76k). Está -35% abaixo da média de 7 dias (descontada).
 
-- **Sidney Govou (87)** caiu **-31.5%** em 24h, a **20k coins** (faixa do dia: 16.000–27k). Está -16% abaixo da média de 7 dias (descontada).
+- **Ayyoub Bouaddi (86)** caiu **-39.6%** em 24h, a **30k coins** (faixa do dia: 21k–55k). Está em linha com a média de 7 dias (-7%).
 
-- **Aurélien Tchouaméni (87)** caiu **-30%** em 24h, a **34k coins** (faixa do dia: 34k–60k). Está -62% abaixo da média de 7 dias (descontada).
+- **Wesley Saïd (86)** caiu **-30%** em 24h, a **42k coins** (faixa do dia: 32k–58k). Está +8% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Jade Le Guilly já avançou 52.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Florian Sotoca já avançou 43.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Michael Olise recuou -32.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Camille Abily recuou -39.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (18/07/2026)?**
-Jade Le Guilly (84, D1 Arkema), com +52.3% em 24h, a 25k coins no Console (PS).
+Florian Sotoca (85, Ligue 1 McDonald's), com +43.7% em 24h, a 40k coins no Console (PS).
 
 **E a maior queda do dia?**
-Michael Olise (87), -32.5% em 24h, a 280k coins.
+Camille Abily (92), -39.7% em 24h, a 35k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 60 cartas em alta contra 65 em queda (média 1.23%).
+Hoje o mercado está lateral — sem direção clara, com 49 cartas em alta contra 65 em queda (média -0.06%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
