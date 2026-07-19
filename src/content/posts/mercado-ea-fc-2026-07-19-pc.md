@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T13:50:17.000Z
+pubDatetime: 2026-07-19T16:50:17.000Z
 title: "Mercado EA FC em 19/07: Franceses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 19/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/07/2026)?"
-    a: "Moussa Sissoko (88, EFL Championship), com +48.9% em 24h, a 350k coins no PC."
+    a: "Franck Honorat (85, Bundesliga), com +49.3% em 24h, a 26k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Hugo Ekitiké (90), -34.6% em 24h, a 60k coins."
+    a: "Florian Sotoca (85), -32.3% em 24h, a 22k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 59 em queda (média 4.49%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 59 cartas em alta contra 59 em queda (média 3.58%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **58 valorizações** contra **59 quedas** entre as cartas relevantes, com média de **4.49%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **59 valorizações** contra **59 quedas** entre as cartas relevantes, com média de **3.58%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Moussa Sissoko (88) **+48.9%** · 🔴 **Maior baixa:** Hugo Ekitiké (90) **-34.6%**
+> 🟢 **Maior alta:** Franck Honorat (85) **+49.3%** · 🔴 **Maior baixa:** Florian Sotoca (85) **-32.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 19/07: Franceses — PC](/charts/mercado-ea-fc-2026-07-19-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 83.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.6% entre as cartas que se moveram; o universo observado reúne 161 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 81.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 50.0% entre as cartas que se moveram; o universo observado reúne 156 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Moussa Sissoko | 88 | EFL Championship | 350k coins | +48.9% | +1.2% |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 63k coins | +47.7% | -3.1% |
-| Sonia Bompastor | 88 | D1 Arkema | 26k coins | +47.3% | +109.6% |
-| Jean-Mattéo Bahoya | 89 | Bundesliga | 62k coins | +43.3% | -32.2% |
-| Arthur Atta | 85 | Serie A TIM | 63k coins | +42.4% | -1.6% |
-| Griedge Mbock | 86 | D1 Arkema | 68k coins | +41.5% | +11.9% |
-| Estéban Lepaul | 83 | Ligue 1 McDonald's | 60k coins | +41.2% | 0% |
-| Wilson Odobert | 87 | Premier League | 31k coins | +36.8% | +44.4% |
-| Armand Laurienté | 86 | Serie A TIM | 31k coins | +33.7% | -15.3% |
-| Tara Elimbi Gilbert | 85 | D1 Arkema | 30k coins | +33.3% | 0% |
+| Franck Honorat | 85 | Bundesliga | 26k coins | +49.3% | +7.3% |
+| Moussa Sissoko | 88 | EFL Championship | 349k coins | +47.9% | +2.3% |
+| Sandy Baltimore | 87 | Barclays WSL | 47k coins | +39% | +32.2% |
+| Robert Pirès | 89 | Icons | 54k coins | +36.2% | +1.8% |
+| Tara Elimbi Gilbert | 85 | D1 Arkema | 27k coins | +33.3% | 0% |
+| Karim Benzema | 88 | ROSHN Saudi League | 157k coins | +33.3% | +73% |
+| Wilson Odobert | 87 | Premier League | 28k coins | +32.2% | +40.7% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +31.3% | +38.5% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 220k coins | +31.1% | +60.4% |
+| Hugo Ekitiké | 86 | Premier League | 45k coins | +30.4% | -4.3% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **19/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Moussa Sissoko (88)** subiu **+48.9%** em 24h, a **350k coins** (faixa do dia: 233k–350k). Está +9% acima da média de 7 dias (aquecida).
+- **Franck Honorat (85)** subiu **+49.3%** em 24h, a **26k coins** (faixa do dia: 15.000–30k). Está +11% acima da média de 7 dias (aquecida).
 
-- **Matthieu Udol (84)** subiu **+47.7%** em 24h, a **63k coins** (faixa do dia: 43k–70k). Está +9% acima da média de 7 dias (aquecida).
+- **Moussa Sissoko (88)** subiu **+47.9%** em 24h, a **349k coins** (faixa do dia: 349k–350k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Sonia Bompastor (88)** subiu **+47.3%** em 24h, a **26k coins** (faixa do dia: 17.000–30k). Está +52% acima da média de 7 dias (aquecida).
+- **Sandy Baltimore (87)** subiu **+39%** em 24h, a **47k coins** (faixa do dia: 32k–47k). Está +14% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Hugo Ekitiké | 90 | Premier League | 60k coins | -34.6% | -22.3% |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 999k coins | -33.4% | -15.9% |
-| Camille Abily | 91 | Icons | 40k coins | -33.3% | 0% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.50M coins | -31% | -5% |
-| Florian Sotoca | 85 | Ligue 1 McDonald's | 22k coins | -29.2% | -6.1% |
-| Kadidiatou Diani | 91 | D1 Arkema | 196k coins | -28.9% | -35.2% |
-| Selma Bacha | 94 | D1 Arkema | 105k coins | -26.9% | +6% |
-| Kouadio Manu Koné | 88 | Serie A TIM | 88k coins | -26.7% | -16.2% |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 32k coins | -23.5% | -27% |
-| Marcel Desailly | 88 | Icons | 72k coins | -21.5% | +6.6% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 22k coins | -32.3% | -10.2% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.07M coins | -28.3% | -1.4% |
+| Selma Bacha | 94 | D1 Arkema | 116k coins | -26.6% | +13.6% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 49k coins | -26.1% | -64.7% |
+| Louisa Necib | 90 | D1 Arkema | 43k coins | -21.4% | +50.4% |
+| Jean-Philippe Mateta | 84 | Premier League | 36k coins | -18.1% | -19.4% |
+| Moussa Diaby | 90 | ROSHN Saudi League | 52k coins | -17.1% | +24.4% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 2.85M coins | -16.2% | -43% |
+| Arthur Atta | 85 | Serie A TIM | 63k coins | -16% | -1.6% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 1.43M coins | -15.8% | -8.3% |
 
 
 ### Análise das baixas
 
-- **Hugo Ekitiké (90)** caiu **-34.6%** em 24h, a **60k coins** (faixa do dia: 37k–65k). Está em linha com a média de 7 dias (+8%).
+- **Florian Sotoca (85)** caiu **-32.3%** em 24h, a **22k coins** (faixa do dia: 16.000–32k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Paul Pogba (89)** caiu **-33.4%** em 24h, a **999k coins** (faixa do dia: 870k–1.40M). Está -21% abaixo da média de 7 dias (descontada).
+- **Ousmane Dembélé (91)** caiu **-28.3%** em 24h, a **1.07M coins** (faixa do dia: 1.01M–1.50M). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Camille Abily (91)** caiu **-33.3%** em 24h, a **40k coins** (faixa do dia: 40k–60k). Está -18% abaixo da média de 7 dias (descontada).
+- **Selma Bacha (94)** caiu **-26.6%** em 24h, a **116k coins** (faixa do dia: 105k–153k). Está em linha com a média de 7 dias (-3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Moussa Sissoko já avançou 48.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Franck Honorat já avançou 49.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Hugo Ekitiké recuou -34.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Florian Sotoca recuou -32.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/07/2026)?**
-Moussa Sissoko (88, EFL Championship), com +48.9% em 24h, a 350k coins no PC.
+Franck Honorat (85, Bundesliga), com +49.3% em 24h, a 26k coins no PC.
 
 **E a maior queda do dia?**
-Hugo Ekitiké (90), -34.6% em 24h, a 60k coins.
+Florian Sotoca (85), -32.3% em 24h, a 22k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 58 cartas em alta contra 59 em queda (média 4.49%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 59 cartas em alta contra 59 em queda (média 3.58%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -130,7 +130,6 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Franceses em 19/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-19-pc/)
 - [Investimentos EA FC: Franceses em 19/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-19-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
