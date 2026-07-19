@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:50:19.000Z
+pubDatetime: 2026-07-19T13:50:19.000Z
 title: "Jogadores baratos EA FC: Franceses em 19/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 19/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (19/07/2026)?"
-    a: "Bixente Lizarazu (88, Bundesliga) aparece como melhor custo-benefício, a 13.250 coins no PC."
+    a: "Ludovic Giuly (86, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **19/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Bixente Lizarazu (88) por apenas 13.250 coins.
+> 💰 **Melhor pechincha:** Ludovic Giuly (86) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Franceses em 19/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-19-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 7.942 coins.
-- **Posição mais frequente:** CDM, com 2 cartas.
-- **Faixa real:** 2.000 a 13.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 9.950 coins.
+- **Posição mais frequente:** RM, com 2 cartas.
+- **Faixa real:** 6.600 a 12.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,32 +40,28 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13.250 coins | -10.3% |
-| Laura Georges | 87 | CB | D1 Arkema | 11.000 coins | -8.3% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 6.800 coins | +36.4% |
-| Delphine Cascarino | 85 | RM | NWSL | 8.700 coins | +6.1% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.000 coins | +36.4% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5.900 coins | +3.4% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.750 coins | 0% |
+| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 6.600 coins | +29.4% |
+| Delphine Cascarino | 85 | RM | NWSL | 8.700 coins | +20.8% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 12.750 coins | +10.6% |
 
 
 ## 📈 Destaques
 
-- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11.750 coins**
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **11.000 coins**
+- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **6.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **N'Golo Kanté (85, CDM)** da ROSHN Saudi League, a apenas **6.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Delphine Cascarino (85, RM)** da NWSL, a apenas **8.700 coins** A alta de 24h pede uma nova checagem antes da compra.
 
-- **Delphine Cascarino (85, RM)** da NWSL, a apenas **8.700 coins**
-
-- **Aurélien Tchouaméni (84, CDM)** da LALIGA EA SPORTS, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **12.750 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Bixente Lizarazu (88, LB) por 13.250 coins é a referência de rating deste recorte.
+- **Meio:** Ludovic Giuly (86, RM) por 11.750 coins é a referência de rating deste recorte.
 
-- **Meio:** N'Golo Kanté (85, CDM) por 6.800 coins é a referência de rating deste recorte.
+- **Ataque:** Karim Benzema (85, ST) por 12.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -84,7 +80,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (19/07/2026)?**  
-Bixente Lizarazu (88, Bundesliga) aparece como melhor custo-benefício, a 13.250 coins no PC.
+Ludovic Giuly (86, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
