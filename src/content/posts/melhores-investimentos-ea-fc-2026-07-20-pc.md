@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:40:45.000Z
+pubDatetime: 2026-07-20T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 20/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.2% em 24h** e **+37.5% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.0% em 24h** e **+37.5% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,31 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Jade Le Guilly | 89 | D1 Arkema | 48k coins | +5.6% | +69.6% | Esticada |
-| Eric Cantona | 89 | Icons | 200k coins | +22.7% | +66.7% | Esticada |
 | Mattéo Guendouzi | 91 | Trendyol Süper Lig | 70k coins | +20.7% | +64.7% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 67k coins | +3.7% | +51.1% | Momentum moderado |
+| Eric Cantona | 89 | Icons | 193k coins | +18.4% | +60.8% | Esticada |
+| Wendie Renard | 86 | D1 Arkema | 48k coins | +5.6% | +53.2% | Momentum moderado |
 | Moussa Diaby | 90 | ROSHN Saudi League | 55k coins | +14% | +51% | Momentum moderado |
 | Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 140k coins | +40% | +40% | Esticada |
 | Benjamin Pavard | 86 | Ligue 1 McDonald's | 47k coins | +11.2% | +38% | Momentum moderado |
-| Bradley Barcola | 87 | Ligue 1 McDonald's | 220k coins | +10% | +37.5% | Momentum moderado |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 219k coins | +10% | +37.5% | Momentum moderado |
 | Clara Mateo | 86 | D1 Arkema | 50k coins | +8.7% | +33.3% | Momentum moderado |
-| Louisa Necib | 88 | D1 Arkema | 96k coins | +7.1% | +31.3% | Momentum moderado |
+| Louisa Necib | 88 | D1 Arkema | 94k coins | +4.9% | +28.7% | Momentum moderado |
 | Jean-Philippe Mateta | 92 | Premier League | 66k coins | +4.8% | +23.4% | Entrada a observar |
-| Selma Bacha | 94 | D1 Arkema | 116k coins | +6.4% | +20% | Momentum moderado |
+| Selma Bacha | 94 | D1 Arkema | 116k coins | +8.3% | +20% | Momentum moderado |
 | Hugo Ekitiké | 86 | Premier League | 53k coins | +18.2% | +18.9% | Momentum moderado |
+| Kylian Mbappé | 91 | LALIGA EA SPORTS | 249k coins | +1.9% | +18.5% | Entrada a observar |
 | Mohamed Simakan | 86 | ROSHN Saudi League | 42k coins | +16.4% | +18.1% | Momentum moderado |
-| Emmanuel Petit | 87 | Icons | 131k coins | +26.4% | +14.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Jade Le Guilly (89)** — 48k coins, **+69.6% em 7 dias** (+5.6% em 24h). Preço +51% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Eric Cantona (89)** — 200k coins, **+66.7% em 7 dias** (+22.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
 - **Mattéo Guendouzi (91)** — 70k coins, **+64.7% em 7 dias** (+20.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pierre Kalulu (91)** — 67k coins, **+51.1% em 7 dias** (+3.7% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (89)** — 193k coins, **+60.8% em 7 dias** (+18.4% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Wendie Renard (86)** — 48k coins, **+53.2% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Moussa Diaby (90)** — 55k coins, **+51% em 7 dias** (+14% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -106,6 +106,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Franceses em 20/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-20-pc/)
 - [Mercado EA FC em 20/07: Franceses — PC](/posts/mercado-ea-fc-2026-07-20-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
