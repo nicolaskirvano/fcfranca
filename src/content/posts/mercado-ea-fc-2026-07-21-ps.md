@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:50:07.000Z
+pubDatetime: 2026-07-21T13:50:07.000Z
 title: "Mercado EA FC em 21/07: Franceses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Kouadio Manu Koné (88, Serie A TIM), com +60% em 24h, a 79k coins no Console (PS)."
+    a: "Theo Hernández (88, ROSHN Saudi League), com +58.3% em 24h, a 93k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Rayan Cherki (87), -40.6% em 24h, a 47k coins."
+    a: "Rayan Cherki (87), -38.2% em 24h, a 46k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 67 cartas em alta contra 66 em queda (média 2.24%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 64 cartas em alta contra 76 em queda (média 1.24%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **67 subiram** e **66 caíram**, com variação média de **2.24%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **lateral** — sem direção clara: das cartas relevantes (80+ acima de 5k coins), **64 subiram** e **76 caíram**, com variação média de **1.24%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Kouadio Manu Koné (88) **+60%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-40.6%**
+> 🟢 **Maior alta:** Theo Hernández (88) **+58.3%** · 🔴 **Maior baixa:** Rayan Cherki (87) **-38.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Franceses — Console (PS)](/charts/mercado-ea-fc-2026-07-21-ps.svg)
 
@@ -35,24 +35,24 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.4% entre as cartas que se moveram; o universo observado reúne 158 cartas.
+- **Amplitude do dia:** 96.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.7% entre as cartas que se moveram; o universo observado reúne 161 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kouadio Manu Koné | 88 | Serie A TIM | 79k coins | +60% | -4.8% |
-| Theo Hernández | 88 | ROSHN Saudi League | 99k coins | +55.5% | -3.4% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 310k coins | +55% | +24.5% |
-| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 55k coins | +50.8% | +88.5% |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 470k coins | +45.7% | +42.7% |
-| Wendie Renard | 86 | D1 Arkema | 28k coins | +45% | +61.1% |
-| Camille Abily | 91 | Icons | 70k coins | +38.9% | +77.3% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 52k coins | +38.3% | +62.3% |
-| Maëlle Garbino | 86 | D1 Arkema | 25k coins | +34.7% | +61.7% |
-| Kadidiatou Diani | 91 | D1 Arkema | 136k coins | +33% | +9.6% |
+| Theo Hernández | 88 | ROSHN Saudi League | 93k coins | +58.3% | -5% |
+| Camille Abily | 91 | Icons | 60k coins | +39.7% | +77.3% |
+| Wendie Renard | 86 | D1 Arkema | 25k coins | +35.9% | +47.2% |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 364k coins | +31.7% | -5.2% |
+| Marie Katoto | 89 | Frauen-Bundesliga | 65k coins | +30.2% | +4.5% |
+| Yoan Bonny | 86 | Serie A TIM | 47k coins | +25% | +25.8% |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 48k coins | +23.1% | +24.7% |
+| Karim Benzema | 88 | ROSHN Saudi League | 84k coins | +22.3% | -2.9% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 2.02M coins | +21.9% | -33.7% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 318k coins | +21.3% | -15.9% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Kouadio Manu Koné (88)** subiu **+60%** em 24h, a **79k coins** (faixa do dia: 64k–141k). Está -25% abaixo da média de 7 dias (descontada).
+- **Theo Hernández (88)** subiu **+58.3%** em 24h, a **93k coins** (faixa do dia: 55k–116k). Está em linha com a média de 7 dias (-2%).
 
-- **Theo Hernández (88)** subiu **+55.5%** em 24h, a **99k coins** (faixa do dia: 55k–116k). Está em linha com a média de 7 dias (+4%).
+- **Camille Abily (91)** subiu **+39.7%** em 24h, a **60k coins** (faixa do dia: 42k–70k). Está +24% acima da média de 7 dias (aquecida).
 
-- **Désiré Doué (87)** subiu **+55%** em 24h, a **310k coins** (faixa do dia: 155k–345k). Está +38% acima da média de 7 dias (aquecida).
+- **Wendie Renard (86)** subiu **+35.9%** em 24h, a **25k coins** (faixa do dia: 16.250–30k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Rayan Cherki | 87 | Premier League | 47k coins | -40.6% | -56.7% |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 167k coins | -27.4% | -13.3% |
-| Arthur Atta | 85 | Serie A TIM | 29k coins | -25.6% | -19.4% |
-| William Saliba | 90 | Premier League | 200k coins | -24.7% | -18.5% |
-| Michael Olise | 87 | Bundesliga | 180k coins | -24.4% | -48.9% |
-| Malo Gusto | 84 | Premier League | 37k coins | -22.6% | -18.8% |
-| Hugo Ekitiké | 86 | Premier League | 30k coins | -22.5% | -23% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 485k coins | -18.9% | -38.1% |
-| Franck Ribéry | 88 | Icons | 149k coins | -18.1% | -15.8% |
-| Sakina Karchaoui | 91 | D1 Arkema | 100k coins | -17.9% | -10.6% |
+| Rayan Cherki | 87 | Premier League | 46k coins | -38.2% | -56.7% |
+| Olivier Giroud | 88 | Ligue 1 McDonald's | 176k coins | -28.2% | -13.4% |
+| Lilian Thuram | 88 | Icons | 113k coins | -27.7% | -25.3% |
+| Franck Ribéry | 88 | Icons | 135k coins | -24.4% | -23.2% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 63k coins | -21.2% | -21.2% |
+| Eli Junior Kroupi | 89 | Premier League | 47k coins | -20.5% | +16.9% |
+| Hugo Ekitiké | 86 | Premier League | 40k coins | -20.1% | -7.4% |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 34k coins | -19.9% | -13.5% |
+| William Saliba | 90 | Premier League | 239k coins | -19.7% | -39.5% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 499k coins | -18.1% | -42.9% |
 
 
 ### Análise das baixas
 
-- **Rayan Cherki (87)** caiu **-40.6%** em 24h, a **47k coins** (faixa do dia: 40k–78k). Está -39% abaixo da média de 7 dias (descontada).
+- **Rayan Cherki (87)** caiu **-38.2%** em 24h, a **46k coins** (faixa do dia: 40k–76k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Olivier Giroud (88)** caiu **-27.4%** em 24h, a **167k coins** (faixa do dia: 163k–234k). Está -25% abaixo da média de 7 dias (descontada).
+- **Olivier Giroud (88)** caiu **-28.2%** em 24h, a **176k coins** (faixa do dia: 163k–225k). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Arthur Atta (85)** caiu **-25.6%** em 24h, a **29k coins** (faixa do dia: 21k–40k). Está -26% abaixo da média de 7 dias (descontada).
+- **Lilian Thuram (88)** caiu **-27.7%** em 24h, a **113k coins** (faixa do dia: 113k–159k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Kouadio Manu Koné já avançou 60% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Theo Hernández já avançou 58.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Rayan Cherki recuou -40.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Rayan Cherki recuou -38.2%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Kouadio Manu Koné (88, Serie A TIM), com +60% em 24h, a 79k coins no Console (PS).
+Theo Hernández (88, ROSHN Saudi League), com +58.3% em 24h, a 93k coins no Console (PS).
 
 **E a maior queda do dia?**
-Rayan Cherki (87), -40.6% em 24h, a 47k coins.
+Rayan Cherki (87), -38.2% em 24h, a 46k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 67 cartas em alta contra 66 em queda (média 2.24%).
+Hoje o mercado está lateral — sem direção clara, com 64 cartas em alta contra 76 em queda (média 1.24%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
