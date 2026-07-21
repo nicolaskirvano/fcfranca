@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T19:50:17.000Z
+pubDatetime: 2026-07-21T22:50:17.000Z
 title: "Mercado EA FC em 21/07: Franceses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 21/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (21/07/2026)?"
-    a: "Camille Abily (91, Icons), com +58.8% em 24h, a 63k coins no PC."
+    a: "Eli Junior Kroupi (89, Premier League), com +59.6% em 24h, a 41k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Aurélien Tchouaméni (87), -41.2% em 24h, a 49k coins."
+    a: "Senny Mayulu (83), -43.7% em 24h, a 35k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em baixa — predominam as quedas, com 43 cartas em alta contra 76 em queda (média -0.39%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 58 cartas em alta contra 64 em queda (média 2.98%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **43 subiram** e **76 caíram**, com variação média de **-0.39%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **58 subiram** e **64 caíram**, com variação média de **2.98%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Camille Abily (91) **+58.8%** · 🔴 **Maior baixa:** Aurélien Tchouaméni (87) **-41.2%**
+> 🟢 **Maior alta:** Eli Junior Kroupi (89) **+59.6%** · 🔴 **Maior baixa:** Senny Mayulu (83) **-43.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 21/07: Franceses — PC](/charts/mercado-ea-fc-2026-07-21-pc.svg)
 
@@ -35,24 +35,24 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em bai
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 36.1% entre as cartas que se moveram; o universo observado reúne 151 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.5% entre as cartas que se moveram; o universo observado reúne 151 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Camille Abily | 91 | Icons | 63k coins | +58.8% | +59.7% |
+| Eli Junior Kroupi | 89 | Premier League | 41k coins | +59.6% | +16.7% |
+| William Saliba | 94 | Premier League | 600k coins | +57.9% | +1.9% |
 | Ousmane Dembélé | 90 | Ligue 1 McDonald's | 4.10M coins | +57.7% | 0% |
-| Wendie Renard | 91 | D1 Arkema | 62k coins | +38.5% | +127.5% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 118k coins | +38.4% | -1.7% |
-| Khéphren Thuram | 87 | Serie A TIM | 74k coins | +38.3% | +30.3% |
-| Jean-Philippe Mateta | 84 | Premier League | 50k coins | +37% | +28.2% |
-| Claire Lavogez | 88 | Liga F | 21k coins | +31.2% | +23.5% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 20k coins | +30.3% | -17.3% |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +30.1% | +38.7% |
-| Laurent Blanc | 88 | Icons | 137k coins | +28.4% | +23.9% |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 69k coins | +53.3% | -5.5% |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 28k coins | +48.7% | +22.1% |
+| David Ginola | 90 | Ligue 1 McDonald's | 2.80M coins | +47.4% | +47.4% |
+| Franck Ribéry | 89 | Icons | 399k coins | +43% | +50% |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +37.7% | 0% |
+| Khéphren Thuram | 87 | Serie A TIM | 78k coins | +37.4% | +27.4% |
+| Robert Pirès | 89 | Icons | 70k coins | +33.3% | +81.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **21/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **em bai
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Camille Abily (91)** subiu **+58.8%** em 24h, a **63k coins** (faixa do dia: 40k–80k). Está +16% acima da média de 7 dias (aquecida).
+- **Eli Junior Kroupi (89)** subiu **+59.6%** em 24h, a **41k coins** (faixa do dia: 28k–70k). Está -18% abaixo da média de 7 dias (descontada).
+
+- **William Saliba (94)** subiu **+57.9%** em 24h, a **600k coins** (faixa do dia: 350k–600k). Está +26% acima da média de 7 dias (aquecida).
 
 - **Ousmane Dembélé (90)** subiu **+57.7%** em 24h, a **4.10M coins** (faixa do dia: 2.50M–4.10M). Está +10% acima da média de 7 dias (aquecida).
-
-- **Wendie Renard (91)** subiu **+38.5%** em 24h, a **62k coins** (faixa do dia: 45k–65k). Está +39% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 49k coins | -41.2% | -68.6% |
-| Maëlle Garbino | 86 | D1 Arkema | 30k coins | -40.5% | +20.5% |
-| Selma Bacha | 94 | D1 Arkema | 76k coins | -39.2% | -27.6% |
-| Sakina Karchaoui | 88 | D1 Arkema | 46k coins | -36% | +31.5% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 173k coins | -32% | -15% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 966k coins | -31.7% | +5.3% |
-| Jean-Philippe Mateta | 92 | Premier League | 42k coins | -29% | -48.5% |
-| Patrick Vieira | 88 | Icons | 224k coins | -28.2% | -35.4% |
-| Hugo Ekitiké | 87 | Premier League | 54k coins | -25.7% | +22.9% |
-| Robert Pirès | 89 | Icons | 40k coins | -23.8% | +3.9% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 35k coins | -43.7% | -59.9% |
+| Sakina Karchaoui | 88 | D1 Arkema | 46k coins | -39% | +25.3% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 58k coins | -33.7% | +12% |
+| Emelyne Laurent | 86 | D1 Arkema | 32k coins | -31.7% | -20.1% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 198k coins | -30.6% | -38.8% |
+| Hugo Ekitiké | 86 | Premier League | 35k coins | -30.2% | -28.9% |
+| Hugo Ekitiké | 87 | Premier League | 53k coins | -26.2% | +16.3% |
+| Camille Abily | 91 | Icons | 59k coins | -23.8% | +68.3% |
+| Louisa Necib | 90 | D1 Arkema | 35k coins | -23.5% | +17.6% |
+| Enzo Millot | 89 | ROSHN Saudi League | 23k coins | -22.7% | +13.6% |
 
 
 ### Análise das baixas
 
-- **Aurélien Tchouaméni (87)** caiu **-41.2%** em 24h, a **49k coins** (faixa do dia: 49k–95k). Está -57% abaixo da média de 7 dias (descontada).
+- **Senny Mayulu (83)** caiu **-43.7%** em 24h, a **35k coins** (faixa do dia: 35k–63k). Está -51% abaixo da média de 7 dias (descontada).
 
-- **Maëlle Garbino (86)** caiu **-40.5%** em 24h, a **30k coins** (faixa do dia: 22k–42k). Está em linha com a média de 7 dias (-0%).
+- **Sakina Karchaoui (88)** caiu **-39%** em 24h, a **46k coins** (faixa do dia: 31k–74k). Está em linha com a média de 7 dias (-4%).
 
-- **Selma Bacha (94)** caiu **-39.2%** em 24h, a **76k coins** (faixa do dia: 76k–125k). Está -35% abaixo da média de 7 dias (descontada).
+- **Antoine Griezmann (87)** caiu **-33.7%** em 24h, a **58k coins** (faixa do dia: 35k–85k). Está em linha com a média de 7 dias (+5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Camille Abily já avançou 58.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Eli Junior Kroupi já avançou 59.6% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aurélien Tchouaméni recuou -41.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Senny Mayulu recuou -43.7%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (21/07/2026)?**
-Camille Abily (91, Icons), com +58.8% em 24h, a 63k coins no PC.
+Eli Junior Kroupi (89, Premier League), com +59.6% em 24h, a 41k coins no PC.
 
 **E a maior queda do dia?**
-Aurélien Tchouaméni (87), -41.2% em 24h, a 49k coins.
+Senny Mayulu (83), -43.7% em 24h, a 35k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em baixa — predominam as quedas, com 43 cartas em alta contra 76 em queda (média -0.39%).
+Hoje o mercado está em alta — predominam as valorizações, com 58 cartas em alta contra 64 em queda (média 2.98%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

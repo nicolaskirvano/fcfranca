@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Louisa Necib</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wendie Renard</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+83.5%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mattéo Guendouzi</text>
-<rect x="285" y="153" width="325" height="28" rx="7" fill="#22c55e"/>
-<text x="620" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+56.5%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Khéphren Thuram</text>
-<rect x="285" y="211" width="256" height="28" rx="7" fill="#22c55e"/>
-<text x="551" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.5%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre Lees-Melou</text>
-<rect x="285" y="269" width="183" height="28" rx="7" fill="#22c55e"/>
-<text x="478" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.8%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jean-Pierre Papin</text>
-<rect x="285" y="327" width="110" height="28" rx="7" fill="#22c55e"/>
-<text x="405" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.2%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
-<rect x="285" y="385" width="106" height="28" rx="7" fill="#22c55e"/>
-<text x="401" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.4%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+73.1%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Louisa Necib</text>
+<rect x="285" y="153" width="438" height="28" rx="7" fill="#22c55e"/>
+<text x="733" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+66.7%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Ousmane Dembélé</text>
+<rect x="285" y="211" width="425" height="28" rx="7" fill="#22c55e"/>
+<text x="720" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+64.7%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Laura Georges</text>
+<rect x="285" y="269" width="358" height="28" rx="7" fill="#22c55e"/>
+<text x="653" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+54.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Karim Benzema</text>
+<rect x="285" y="327" width="202" height="28" rx="7" fill="#22c55e"/>
+<text x="497" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.7%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mathilde Bourdieu</text>
+<rect x="285" y="385" width="167" height="28" rx="7" fill="#22c55e"/>
+<text x="462" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.5%</text>
 </svg>
