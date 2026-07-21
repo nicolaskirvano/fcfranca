@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T16:50:18.000Z
+pubDatetime: 2026-07-21T19:50:18.000Z
 title: "Investimentos EA FC: Franceses em 21/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Malo Gusto (84, Premier League) lidera, com +40.1% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Camille Abily (92, Icons) lidera, com +72.4% em 7 dias a 74k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Malo Gusto (84) acumula **+40.1% em 7 dias** a 55k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Camille Abily (92) acumula **+72.4% em 7 dias** a 74k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 21/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-21-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.8% em 24h** e **+28.6% em 7 dias**.
-- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.0% em 24h** e **+23.9% em 7 dias**.
+- **6 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,29 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Malo Gusto | 84 | Premier League | 55k coins | +22.9% | +40.1% | Esticada |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +12.4% | +38.7% | Momentum moderado |
-| Mathilde Bourdieu | 87 | D1 Arkema | 65k coins | +35.6% | +37.9% | Esticada |
-| Laurent Blanc | 88 | Icons | 127k coins | +35.8% | +33.3% | Esticada |
-| Clara Mateo | 86 | D1 Arkema | 50k coins | +7% | +29% | Momentum moderado |
+| Camille Abily | 92 | Icons | 74k coins | +2% | +72.4% | Esticada |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +30.1% | +38.7% | Esticada |
+| Khéphren Thuram | 87 | Serie A TIM | 74k coins | +38.3% | +30.3% | Esticada |
+| Clara Mateo | 86 | D1 Arkema | 50k coins | +9.3% | +29% | Momentum moderado |
+| Grace Kazadi | 87 | D1 Arkema | 19.500 coins | +6.6% | +28.6% | Momentum moderado |
 | Jean-Philippe Mateta | 84 | Premier League | 50k coins | +37% | +28.2% | Esticada |
-| Griedge Mbock | 86 | D1 Arkema | 64k coins | +6.6% | +17.3% | Momentum moderado |
-| Kenny Lala | 87 | Ligue 1 McDonald's | 37k coins | +7.2% | +16.5% | Momentum moderado |
-| Anaële Le Moguédec | 88 | D1 Arkema | 16.000 coins | +3.4% | +13.8% | Entrada a observar |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 45k coins | +13.2% | +12.5% | Momentum moderado |
+| Laurent Blanc | 88 | Icons | 137k coins | +28.4% | +23.9% | Esticada |
+| Yanis Issoufou | 84 | Ligue 2 BKT | 47k coins | +7.5% | +23.8% | Momentum moderado |
+| Claire Lavogez | 88 | Liga F | 21k coins | +31.2% | +23.5% | Esticada |
+| Pierre Kalulu | 91 | Serie A TIM | 68k coins | +7.1% | +22.5% | Momentum moderado |
+| Ludovic Giuly | 87 | Ligue 1 McDonald's | 19.500 coins | +8.7% | +21% | Momentum moderado |
+| Kenny Lala | 87 | Ligue 1 McDonald's | 37k coins | +7.2% | +19.4% | Momentum moderado |
+| Mathilde Bourdieu | 87 | D1 Arkema | 46k coins | +19.6% | +17% | Momentum moderado |
+| Jean-Mattéo Bahoya | 89 | Bundesliga | 60k coins | +4.9% | +6.7% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Malo Gusto (84)** — 55k coins, **+40.1% em 7 dias** (+22.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Camille Abily (92)** — 74k coins, **+72.4% em 7 dias** (+2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Benjamin Pavard (86)** — 48k coins, **+38.7% em 7 dias** (+12.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Pavard (86)** — 48k coins, **+38.7% em 7 dias** (+30.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mathilde Bourdieu (87)** — 65k coins, **+37.9% em 7 dias** (+35.6% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Khéphren Thuram (87)** — 74k coins, **+30.3% em 7 dias** (+38.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Laurent Blanc (88)** — 127k coins, **+33.3% em 7 dias** (+35.8% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Clara Mateo (86)** — 50k coins, **+29% em 7 dias** (+9.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Clara Mateo (86)** — 50k coins, **+29% em 7 dias** (+7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grace Kazadi (87)** — 19.500 coins, **+28.6% em 7 dias** (+6.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -83,7 +87,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Malo Gusto (84, Premier League) lidera, com +40.1% em 7 dias a 55k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Camille Abily (92, Icons) lidera, com +72.4% em 7 dias a 74k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
