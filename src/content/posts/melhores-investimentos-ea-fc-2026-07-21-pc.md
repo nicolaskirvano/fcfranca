@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:40:40.000Z
+pubDatetime: 2026-07-21T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 21/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **21/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+19.4% em 24h** e **+40.4% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+20.7% em 24h** e **+42.0% em 7 dias**.
+- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -46,18 +46,18 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Robert Pirès | 89 | Icons | 74k coins | +34.8% | +89.9% | Esticada |
 | Moussa Diaby | 90 | ROSHN Saudi League | 75k coins | +36.4% | +88.7% | Esticada |
 | Louisa Necib | 90 | D1 Arkema | 50k coins | +9.3% | +86.9% | Esticada |
-| Camille Abily | 91 | Icons | 75k coins | +25% | +75.4% | Esticada |
-| Hugo Ekitiké | 87 | Premier League | 65k coins | +21.6% | +57% | Esticada |
+| Camille Abily | 91 | Icons | 72k coins | +25% | +75.4% | Esticada |
+| Hugo Ekitiké | 87 | Premier League | 65k coins | +20.7% | +55.8% | Esticada |
+| Sakina Karchaoui | 88 | D1 Arkema | 64k coins | +40% | +55.6% | Esticada |
 | Camille Abily | 92 | Icons | 75k coins | +9.5% | +53.1% | Momentum moderado |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 76k coins | +3.6% | +42% | Momentum moderado |
+| Olivier Giroud | 89 | Ligue 1 McDonald's | 79k coins | +5.2% | +42% | Momentum moderado |
 | Dan-Axel Zagadou | 85 | Bundesliga | 40k coins | +19.4% | +40.4% | Momentum moderado |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 49k coins | +7.1% | +32.2% | Momentum moderado |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 50k coins | +7.1% | +32.2% | Momentum moderado |
 | Jean-Philippe Mateta | 84 | Premier League | 50k coins | +37.9% | +28.2% | Esticada |
 | Malo Gusto | 84 | Premier League | 55k coins | +22.9% | +22.2% | Esticada |
-| Laura Georges | 87 | D1 Arkema | 15.000 coins | +4.9% | +20.8% | Entrada a observar |
 | Antoine Griezmann | 91 | LALIGA EA SPORTS | 222k coins | +9% | +20.4% | Momentum moderado |
 | Florian Thauvin | 85 | Ligue 1 McDonald's | 30k coins | +13.2% | +20% | Momentum moderado |
-| Ludovic Giuly | 87 | Ligue 1 McDonald's | 19.500 coins | +30% | +18.2% | Esticada |
+| Ludovic Giuly | 87 | Ligue 1 McDonald's | 19.500 coins | +32.2% | +18.2% | Esticada |
 
 
 ## 📈 Análise dos destaques
@@ -68,9 +68,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Louisa Necib (90)** — 50k coins, **+86.9% em 7 dias** (+9.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Camille Abily (91)** — 75k coins, **+75.4% em 7 dias** (+25% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Camille Abily (91)** — 72k coins, **+75.4% em 7 dias** (+25% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Ekitiké (87)** — 65k coins, **+57% em 7 dias** (+21.6% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (87)** — 65k coins, **+55.8% em 7 dias** (+20.7% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

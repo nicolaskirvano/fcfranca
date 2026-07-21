@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:40:30.000Z
+pubDatetime: 2026-07-21T10:50:08.000Z
 title: "Investimentos EA FC: Franceses em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -34,8 +34,8 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 ## O que os números desta lista mostram
 
 - A mediana é de **+24.1% em 24h** e **+37.5% em 7 dias**.
-- **10 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **11 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -46,18 +46,18 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Eli Junior Kroupi | 89 | Premier League | 56k coins | +17% | +78.2% | Esticada |
 | Mattéo Guendouzi | 91 | Trendyol Süper Lig | 53k coins | +11% | +77.9% | Esticada |
 | Camille Abily | 91 | Icons | 70k coins | +38.9% | +77.3% | Esticada |
-| Maëlle Garbino | 86 | D1 Arkema | 24k coins | +34.7% | +61.7% | Esticada |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 56k coins | +38.3% | +61.2% | Esticada |
-| Laura Georges | 89 | D1 Arkema | 35k coins | +9.4% | +52.2% | Momentum moderado |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 20k coins | +34.3% | +42.4% | Esticada |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 52k coins | +38.3% | +62.3% | Esticada |
+| Maëlle Garbino | 86 | D1 Arkema | 25k coins | +34.7% | +61.7% | Esticada |
+| Laura Georges | 89 | D1 Arkema | 35k coins | +27.5% | +51.1% | Esticada |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 16.000 coins | +32.9% | +40.9% | Esticada |
 | Rayane Messi | 89 | Brasileirão | 18.000 coins | +13.2% | +37.5% | Momentum moderado |
 | Moussa Diaby | 90 | ROSHN Saudi League | 55k coins | +19.6% | +37.5% | Momentum moderado |
-| Jade Le Guilly | 84 | D1 Arkema | 18.000 coins | +25.4% | +37% | Esticada |
 | Enzo Millot | 89 | ROSHN Saudi League | 24k coins | +28.2% | +35.1% | Esticada |
+| Jade Le Guilly | 84 | D1 Arkema | 18.000 coins | +22% | +33.3% | Esticada |
 | Melvine Malard | 84 | Barclays WSL | 54k coins | +30.2% | +29.4% | Esticada |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 50k coins | +24.1% | +28% | Esticada |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 54k coins | +24.1% | +28% | Esticada |
+| Claire Lavogez | 88 | Liga F | 17.250 coins | +15% | +23.2% | Momentum moderado |
 | Florian Thauvin | 87 | Ligue 1 McDonald's | 48k coins | +7.5% | +22.7% | Momentum moderado |
-| Wendie Renard | 86 | D1 Arkema | 44k coins | +7.8% | +19.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -68,9 +68,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Camille Abily (91)** — 70k coins, **+77.3% em 7 dias** (+38.9% em 24h). Preço +46% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maëlle Garbino (86)** — 24k coins, **+61.7% em 7 dias** (+34.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 52k coins, **+62.3% em 7 dias** (+38.3% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Blaise Matuidi (86)** — 56k coins, **+61.2% em 7 dias** (+38.3% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maëlle Garbino (86)** — 25k coins, **+61.7% em 7 dias** (+34.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

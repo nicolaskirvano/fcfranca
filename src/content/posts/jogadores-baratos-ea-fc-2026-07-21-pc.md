@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:40:41.000Z
+pubDatetime: 2026-07-21T10:50:19.000Z
 title: "Jogadores baratos EA FC: Franceses em 21/07 — PC"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 8.233 coins.
+- **Preço médio das 6 opções:** 8.167 coins.
 - **Posição mais frequente:** RB, com 1 cartas.
 - **Faixa real:** 1.900 a 14.250 coins; nenhuma carta custa 15 mil.
 
@@ -41,8 +41,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Grace Kazadi | 87 | RB | D1 Arkema | 14.250 coins | +7% |
-| Dayot Upamecano | 85 | CB | Bundesliga | 2.300 coins | +33.3% |
-| Delphine Cascarino | 85 | RM | NWSL | 9.200 coins | 0% |
+| Dayot Upamecano | 85 | CB | Bundesliga | 2.300 coins | +53.3% |
+| Delphine Cascarino | 85 | RM | NWSL | 8.800 coins | -5.2% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 11.750 coins | -9.6% |
 | Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 1.900 coins | +46.2% |
 | Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 10.000 coins | 0% |
@@ -54,7 +54,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Dayot Upamecano (85, CB)** da Bundesliga, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Delphine Cascarino (85, RM)** da NWSL, a apenas **9.200 coins**
+- **Delphine Cascarino (85, RM)** da NWSL, a apenas **8.800 coins**
 
 - **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **11.750 coins** — já **valorizando**, sinal de procura crescente.
 
@@ -65,7 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** Grace Kazadi (87, RB) por 14.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Delphine Cascarino (85, RM) por 9.200 coins é a referência de rating deste recorte.
+- **Meio:** Delphine Cascarino (85, RM) por 8.800 coins é a referência de rating deste recorte.
 
 - **Ataque:** Karim Benzema (85, ST) por 11.750 coins é a referência de rating deste recorte.
 
