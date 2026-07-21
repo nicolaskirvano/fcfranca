@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:50:17.000Z
+pubDatetime: 2026-07-21T01:50:17.000Z
 title: "Mercado EA FC em 20/07: Franceses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Bixente Lizarazu (88, Bundesliga), com +58.5% em 24h, a 25k coins no PC."
+    a: "Laurent Blanc (88, Icons), com +59.3% em 24h, a 109k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Sonia Bompastor (88), -49.6% em 24h, a 25k coins."
+    a: "Mattéo Guendouzi (91), -48.3% em 24h, a 70k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 45 cartas em alta contra 71 em queda (média -1.21%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 60 cartas em alta contra 66 em queda (média 3.22%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**20/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas dominam o dia — **45 subiram**, **71 caíram** (80+ e 5k+ coins), média de **-1.21%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**20/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **60 subiram**, **66 caíram** (80+ e 5k+ coins), média de **3.22%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Bixente Lizarazu (88) **+58.5%** · 🔴 **Maior baixa:** Sonia Bompastor (88) **-49.6%**
+> 🟢 **Maior alta:** Laurent Blanc (88) **+59.3%** · 🔴 **Maior baixa:** Mattéo Guendouzi (91) **-48.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Franceses — PC](/charts/mercado-ea-fc-2026-07-20-pc.svg)
 
@@ -35,24 +35,24 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas do
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 38.8% entre as cartas que se moveram; o universo observado reúne 149 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 107.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.6% entre as cartas que se moveram; o universo observado reúne 158 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 7 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Bixente Lizarazu | 88 | Bundesliga | 25k coins | +58.5% | +47.1% |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 26k coins | +53.6% | -9.4% |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 20k coins | +48.1% | +5.3% |
-| Adrien Rabiot | 86 | Serie A TIM | 46k coins | +43.8% | -3.6% |
-| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +38.9% | +135.7% |
-| Kingsley Coman | 87 | ROSHN Saudi League | 30k coins | +37.4% | -21.9% |
-| Claire Lavogez | 88 | Liga F | 22k coins | +36.4% | +20% |
-| Griedge Mbock | 86 | D1 Arkema | 66k coins | +36.4% | 0% |
-| Jade Le Guilly | 84 | D1 Arkema | 20k coins | +35.6% | +17.6% |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 22k coins | +28.6% | +13.9% |
+| Laurent Blanc | 88 | Icons | 109k coins | +59.3% | +83.7% |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 66k coins | +58.9% | -0.7% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 26k coins | +47.8% | -13.6% |
+| Bixente Lizarazu | 88 | Bundesliga | 22k coins | +47.5% | +28.6% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 50k coins | +42.9% | +37% |
+| Yanis Issoufou | 84 | Ligue 2 BKT | 47k coins | +42.7% | +16.9% |
+| Jean-Philippe Mateta | 84 | Premier League | 50k coins | +37.9% | +28.2% |
+| Kingsley Coman | 87 | ROSHN Saudi League | 28k coins | +34.5% | -41.5% |
+| Franck Ribéry | 89 | Icons | 279k coins | +33.5% | -6.4% |
+| Camille Abily | 91 | Icons | 80k coins | +33.3% | +45.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Hoje (**20/07/2026**, PC) o Ultimate Team está **pressionado** — as quedas do
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Bixente Lizarazu (88)** subiu **+58.5%** em 24h, a **25k coins** (faixa do dia: 11.000–30k). Está +44% acima da média de 7 dias (aquecida).
+- **Laurent Blanc (88)** subiu **+59.3%** em 24h, a **109k coins** (faixa do dia: 97k–180k). Está em linha com a média de 7 dias (+0%).
 
-- **Adrien Thomasson (85)** subiu **+53.6%** em 24h, a **26k coins** (faixa do dia: 12.750–32k). Está em linha com a média de 7 dias (+4%).
+- **Matthieu Udol (84)** subiu **+58.9%** em 24h, a **66k coins** (faixa do dia: 32k–70k). Está +23% acima da média de 7 dias (aquecida).
 
-- **Tara Elimbi Gilbert (86)** subiu **+48.1%** em 24h, a **20k coins** (faixa do dia: 12.750–24k). Está +10% acima da média de 7 dias (aquecida).
+- **Adrien Thomasson (85)** subiu **+47.8%** em 24h, a **26k coins** (faixa do dia: 12.750–32k). Está em linha com a média de 7 dias (+4%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Sonia Bompastor | 88 | D1 Arkema | 25k coins | -49.6% | -17.1% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 50k coins | -40.4% | -1% |
-| Camille Abily | 90 | Icons | 149k coins | -37.3% | +30.9% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 35k coins | -28.3% | -25.3% |
-| Arthur Atta | 85 | Serie A TIM | 54k coins | -28% | -8.5% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 1.08M coins | -27.3% | -53% |
-| Mike Maignan | 88 | Serie A TIM | 40k coins | -25% | -32.3% |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 34k coins | -24.9% | +3.6% |
-| Franck Honorat | 85 | Bundesliga | 22k coins | -24.2% | +2.2% |
-| William Saliba | 94 | Premier League | 380k coins | -24% | -9.5% |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 70k coins | -48.3% | -10.5% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 61k coins | -44.1% | -34.2% |
+| Camille Abily | 90 | Icons | 89k coins | -39.9% | +30.9% |
+| Yoan Bonny | 86 | Serie A TIM | 32k coins | -38.2% | -56.2% |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 31k coins | -32% | -10.2% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 22k coins | -30.5% | -34.1% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 86k coins | -29.5% | -16.7% |
+| Enzo Millot | 89 | ROSHN Saudi League | 32k coins | -29.2% | -3.4% |
+| Pierre Kalulu | 91 | Serie A TIM | 68k coins | -27.8% | +24.5% |
+| Franck Honorat | 85 | Bundesliga | 22k coins | -26.7% | +3.5% |
 
 
 ### Análise das baixas
 
-- **Sonia Bompastor (88)** caiu **-49.6%** em 24h, a **25k coins** (faixa do dia: 13.500–29k). Está +29% acima da média de 7 dias (aquecida).
+- **Mattéo Guendouzi (91)** caiu **-48.3%** em 24h, a **70k coins** (faixa do dia: 38k–80k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Olivier Giroud (89)** caiu **-40.4%** em 24h, a **50k coins** (faixa do dia: 50k–83k). Está -21% abaixo da média de 7 dias (descontada).
+- **Senny Mayulu (83)** caiu **-44.1%** em 24h, a **61k coins** (faixa do dia: 61k–130k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Camille Abily (90)** caiu **-37.3%** em 24h, a **149k coins** (faixa do dia: 80k–180k). Está +86% acima da média de 7 dias (aquecida).
+- **Camille Abily (90)** caiu **-39.9%** em 24h, a **89k coins** (faixa do dia: 80k–180k). Está +9% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Bixente Lizarazu já avançou 58.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Laurent Blanc já avançou 59.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Sonia Bompastor recuou -49.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Mattéo Guendouzi recuou -48.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Bixente Lizarazu (88, Bundesliga), com +58.5% em 24h, a 25k coins no PC.
+Laurent Blanc (88, Icons), com +59.3% em 24h, a 109k coins no PC.
 
 **E a maior queda do dia?**
-Sonia Bompastor (88), -49.6% em 24h, a 25k coins.
+Mattéo Guendouzi (91), -48.3% em 24h, a 70k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 45 cartas em alta contra 71 em queda (média -1.21%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 60 cartas em alta contra 66 em queda (média 3.22%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
@@ -130,7 +130,6 @@ Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados co
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Franceses em 20/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-20-pc/)
 - [Investimentos EA FC: Franceses em 20/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-20-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
