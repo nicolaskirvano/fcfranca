@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T16:50:18.000Z
+pubDatetime: 2026-07-22T19:50:18.000Z
 title: "Investimentos EA FC: Franceses em 22/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 22/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (22/07/2026) no EA FC?"
-    a: "Marinette Pichon (90, Icons) lidera, com +63.2% em 7 dias a 76k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Camille Abily (91, Icons) lidera, com +64.7% em 7 dias a 66k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marinette Pichon (90) acumula **+63.2% em 7 dias** a 76k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Camille Abily (91) acumula **+64.7% em 7 dias** a 66k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 22/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-22-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.8% em 24h** e **+21.4% em 7 dias**.
-- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.3% em 24h** e **+15.9% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marinette Pichon | 90 | Icons | 76k coins | +5.4% | +63.2% | Esticada |
-| Moussa Diaby | 90 | ROSHN Saudi League | 66k coins | +20% | +50.9% | Esticada |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 130k coins | +32.6% | +37.9% | Esticada |
-| Maxence Lacroix | 87 | Premier League | 140k coins | +34.8% | +36% | Esticada |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 66k coins | +38.2% | +32% | Esticada |
-| Claire Lavogez | 88 | Liga F | 22k coins | +2.2% | +23.7% | Entrada a observar |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 45k coins | +2.3% | +22.4% | Entrada a observar |
-| Pierre Kalulu | 91 | Serie A TIM | 85k coins | +25% | +21.4% | Esticada |
-| Antoine Griezmann | 91 | LALIGA EA SPORTS | 230k coins | +4.5% | +15% | Entrada a observar |
-| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +17.8% | +14.6% | Momentum moderado |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 44k coins | +16.4% | +14.2% | Momentum moderado |
-| Yanis Issoufou | 84 | Ligue 2 BKT | 47k coins | +7.5% | +14% | Momentum moderado |
-| Sandy Baltimore | 87 | Barclays WSL | 52k coins | +36.4% | +12% | Esticada |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 50k coins | +11.8% | +11.1% | Momentum moderado |
-| Robert Pirès | 89 | Icons | 58k coins | +27.4% | +11% | Esticada |
+| Camille Abily | 91 | Icons | 66k coins | +14.8% | +64.7% | Esticada |
+| Marinette Pichon | 90 | Icons | 40k coins | +5.8% | +48.5% | Momentum moderado |
+| Moussa Diaby | 90 | ROSHN Saudi League | 62k coins | +18.3% | +46.6% | Momentum moderado |
+| Louisa Necib | 87 | D1 Arkema | 15.000 coins | +14.8% | +37.3% | Momentum moderado |
+| Pierre Kalulu | 91 | Serie A TIM | 80k coins | +25% | +25% | Esticada |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 30k coins | +25.3% | +18.1% | Esticada |
+| Selma Bacha | 87 | D1 Arkema | 16.750 coins | +31.8% | +17.6% | Esticada |
+| Tristan Crama | 86 | EFL Championship | 43k coins | +25% | +15.9% | Esticada |
+| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +17.8% | +15.2% | Momentum moderado |
+| Antoine Griezmann | 91 | LALIGA EA SPORTS | 225k coins | +4.5% | +15% | Entrada a observar |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 42k coins | +25% | +13.9% | Esticada |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 50k coins | +19% | +13.6% | Momentum moderado |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 42k coins | +7.5% | +13.2% | Momentum moderado |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 24k coins | +28.8% | +9.3% | Esticada |
+| Han-Noah Massengo | 84 | Bundesliga | 42k coins | +6.2% | +5.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Marinette Pichon (90)** — 76k coins, **+63.2% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Camille Abily (91)** — 66k coins, **+64.7% em 7 dias** (+14.8% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moussa Diaby (90)** — 66k coins, **+50.9% em 7 dias** (+20% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marinette Pichon (90)** — 40k coins, **+48.5% em 7 dias** (+5.8% em 24h). Preço -47% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Blaise Matuidi (86)** — 130k coins, **+37.9% em 7 dias** (+32.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moussa Diaby (90)** — 62k coins, **+46.6% em 7 dias** (+18.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maxence Lacroix (87)** — 140k coins, **+36% em 7 dias** (+34.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Louisa Necib (87)** — 15.000 coins, **+37.3% em 7 dias** (+14.8% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (87)** — 66k coins, **+32% em 7 dias** (+38.2% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Kalulu (91)** — 80k coins, **+25% em 7 dias** (+25% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (22/07/2026) no EA FC?**  
-Marinette Pichon (90, Icons) lidera, com +63.2% em 7 dias a 76k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Camille Abily (91, Icons) lidera, com +64.7% em 7 dias a 66k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
