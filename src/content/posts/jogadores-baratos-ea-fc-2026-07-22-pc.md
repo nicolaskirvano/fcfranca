@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:50:19.000Z
+pubDatetime: 2026-07-22T13:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 22/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 22/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/07/2026)?"
-    a: "Laura Georges (87, D1 Arkema) aparece como melhor custo-benefício, a 12.750 coins no PC."
+    a: "Ludovic Giuly (87, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 11.000 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Laura Georges (87) por apenas 12.750 coins.
+> 💰 **Melhor pechincha:** Ludovic Giuly (87) por apenas 11.000 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Franceses em 22/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-22-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 10.464 coins.
-- **Posição mais frequente:** CB, com 2 cartas.
-- **Faixa real:** 1.900 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 9.308 coins.
+- **Posição mais frequente:** ST, com 2 cartas.
+- **Faixa real:** 1.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,33 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Laura Georges | 87 | CB | D1 Arkema | 12.750 coins | -1.8% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.750 coins | -3.8% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.500 coins | +16.7% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14.750 coins | -11.8% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 1.900 coins | 0% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11.000 coins | +9.1% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 10.750 coins | 0% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.250 coins | +1.7% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 11.750 coins | 0% |
+| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 1.500 coins | +22.2% |
 | Benjamin Pavard | 84 | CB | Serie A Enilive | 7.600 coins | 0% |
-| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 10.000 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **12.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **11.000 coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
+- **Sidney Govou (86, ST)** da Ligue 1 McDonald's, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **12.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Tara Elimbi Gilbert (86, LB)** da D1 Arkema, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Tara Elimbi Gilbert (86, LB)** da D1 Arkema, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Karim Benzema (85, ST)** da ROSHN Saudi League, a apenas **11.750 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Aurélien Tchouaméni (84, CDM)** da LALIGA EA SPORTS, a apenas **1.900 coins** — já **valorizando**, sinal de procura crescente.
+- **Aurélien Tchouaméni (84, CDM)** da LALIGA EA SPORTS, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Laura Georges (87, CB) por 12.750 coins é a referência de rating deste recorte.
+- **Defesa:** Tara Elimbi Gilbert (86, LB) por 13.250 coins é a referência de rating deste recorte.
 
-- **Meio:** Ludovic Giuly (87, RM) por 13.750 coins é a referência de rating deste recorte.
+- **Meio:** Ludovic Giuly (87, RM) por 11.000 coins é a referência de rating deste recorte.
+
+- **Ataque:** Sidney Govou (86, ST) por 10.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -85,7 +86,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/07/2026)?**  
-Laura Georges (87, D1 Arkema) aparece como melhor custo-benefício, a 12.750 coins no PC.
+Ludovic Giuly (87, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 11.000 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.

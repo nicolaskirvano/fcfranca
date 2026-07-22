@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:50:17.000Z
+pubDatetime: 2026-07-22T13:50:17.000Z
 title: "Mercado EA FC em 22/07: Franceses — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
     a: "Benjamin Pavard (86, Ligue 1 McDonald's), com +54.5% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Dan-Axel Zagadou (85), -45.9% em 24h, a 20k coins."
+    a: "Antoine Griezmann (87), -33.1% em 24h, a 53k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 61 cartas em alta contra 68 em queda (média 3.55%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 50 cartas em alta contra 74 em queda (média 2.55%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **61 em alta** e **68 em queda**, média de **3.55%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **50 em alta** e **74 em queda**, média de **2.55%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Benjamin Pavard (86) **+54.5%** · 🔴 **Maior baixa:** Dan-Axel Zagadou (85) **-45.9%**
+> 🟢 **Maior alta:** Benjamin Pavard (86) **+54.5%** · 🔴 **Maior baixa:** Antoine Griezmann (87) **-33.1%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Franceses — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.3% entre as cartas que se moveram; o universo observado reúne 156 cartas.
-- **Concentração:** D1 Arkema aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 87.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.3% entre as cartas que se moveram; o universo observado reúne 153 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +54.5% | 0% |
-| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 740k coins | +51.5% | -0.1% |
-| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 46k coins | +42.9% | +13.3% |
-| Grace Kazadi | 87 | D1 Arkema | 20k coins | +39.3% | +10.4% |
-| Khéphren Thuram | 87 | Serie A TIM | 64k coins | +39.1% | +10.5% |
-| Selma Bacha | 94 | D1 Arkema | 112k coins | +38.7% | -11% |
-| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 107k coins | +38.5% | -16.3% |
-| Franck Ribéry | 89 | Icons | 399k coins | +33.9% | +50% |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 20k coins | +31.2% | +16.7% |
-| Griedge Mbock | 86 | D1 Arkema | 75k coins | +30.4% | +11.9% |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 737k coins | +50.9% | -0.5% |
+| Selma Bacha | 94 | D1 Arkema | 110k coins | +42.3% | -16.5% |
+| Jade Le Guilly | 84 | D1 Arkema | 25k coins | +38.9% | +44.9% |
+| Franck Ribéry | 89 | Icons | 399k coins | +37.6% | +50% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 30k coins | +36.2% | +54.2% |
+| Ayyoub Bouaddi | 86 | Ligue 1 McDonald's | 40k coins | +34.5% | +6% |
+| Khéphren Thuram | 87 | Serie A TIM | 57k coins | +34.4% | +2.4% |
+| Allan Saint-Maximin | 92 | Ligue 1 McDonald's | 102k coins | +33.3% | -18.1% |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 23k coins | +28.8% | -3.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Benjamin Pavard (86)** subiu **+54.5%** em 24h, a **48k coins** (faixa do dia: 31k–48k). Está +9% acima da média de 7 dias (aquecida).
+- **Benjamin Pavard (86)** subiu **+54.5%** em 24h, a **48k coins** (faixa do dia: 45k–48k). Está +9% acima da média de 7 dias (aquecida).
 
-- **Aurélien Tchouaméni (86)** subiu **+51.5%** em 24h, a **740k coins** (faixa do dia: 489k–750k). Está +21% acima da média de 7 dias (aquecida).
+- **Aurélien Tchouaméni (86)** subiu **+50.9%** em 24h, a **737k coins** (faixa do dia: 489k–750k). Está +21% acima da média de 7 dias (aquecida).
 
-- **Ayyoub Bouaddi (86)** subiu **+42.9%** em 24h, a **46k coins** (faixa do dia: 15.750–50k). Está +13% acima da média de 7 dias (aquecida).
+- **Selma Bacha (94)** subiu **+42.3%** em 24h, a **110k coins** (faixa do dia: 76k–122k). Está em linha com a média de 7 dias (-6%).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Dan-Axel Zagadou | 85 | Bundesliga | 20k coins | -45.9% | -8.5% |
-| Patrick Vieira | 88 | Icons | 180k coins | -41.1% | -41.3% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 36k coins | -41.1% | -77.2% |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 50k coins | -40.8% | +6.4% |
-| Sakina Karchaoui | 88 | D1 Arkema | 40k coins | -32.7% | -8.2% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 3M coins | -32.4% | -52.8% |
-| Michael Olise | 88 | Bundesliga | 700k coins | -30% | -5.4% |
-| Moussa Diaby | 90 | ROSHN Saudi League | 75k coins | -30% | +20% |
-| Clara Mateo | 92 | D1 Arkema | 340k coins | -26.2% | +5.4% |
-| Mathilde Bourdieu | 87 | D1 Arkema | 48k coins | -26.2% | +2.1% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 53k coins | -33.1% | +10.3% |
+| N'Golo Kanté | 93 | Trendyol Süper Lig | 245k coins | -27.9% | -25.9% |
+| Mathilde Bourdieu | 87 | D1 Arkema | 46k coins | -27.3% | +0.5% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 1.50M coins | -27.1% | -48.3% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 40k coins | -25.9% | -54.5% |
+| Blaise Matuidi | 87 | Ligue 1 McDonald's | 290k coins | -23.7% | -32.6% |
+| Laurent Blanc | 88 | Icons | 115k coins | -23.1% | +15% |
+| Wendie Renard | 86 | D1 Arkema | 25k coins | -23.1% | +33.3% |
+| Arthur Atta | 85 | Serie A TIM | 44k coins | -22.6% | +54.7% |
+| Karim Benzema | 87 | ROSHN Saudi League | 118k coins | -20.7% | +28.6% |
 
 
 ### Análise das baixas
 
-- **Dan-Axel Zagadou (85)** caiu **-45.9%** em 24h, a **20k coins** (faixa do dia: 10.750–39k). Está -24% abaixo da média de 7 dias (descontada).
+- **Antoine Griezmann (87)** caiu **-33.1%** em 24h, a **53k coins** (faixa do dia: 35k–75k). Está em linha com a média de 7 dias (-4%).
 
-- **Patrick Vieira (88)** caiu **-41.1%** em 24h, a **180k coins** (faixa do dia: 180k–339k). Está -38% abaixo da média de 7 dias (descontada).
+- **N'Golo Kanté (93)** caiu **-27.9%** em 24h, a **245k coins** (faixa do dia: 200k–310k). Está -8% abaixo da média de 7 dias (descontada).
 
-- **Aurélien Tchouaméni (87)** caiu **-41.1%** em 24h, a **36k coins** (faixa do dia: 36k–62k). Está -65% abaixo da média de 7 dias (descontada).
+- **Mathilde Bourdieu (87)** caiu **-27.3%** em 24h, a **46k coins** (faixa do dia: 45k–61k). Está em linha com a média de 7 dias (+0%).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Benjamin Pavard já avançou 54.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Dan-Axel Zagadou recuou -45.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Antoine Griezmann recuou -33.1%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Benjamin Pavard (86, Ligue 1 McDonald's), com +54.5% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**
-Dan-Axel Zagadou (85), -45.9% em 24h, a 20k coins.
+Antoine Griezmann (87), -33.1% em 24h, a 53k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 61 cartas em alta contra 68 em queda (média 3.55%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 50 cartas em alta contra 74 em queda (média 2.55%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
