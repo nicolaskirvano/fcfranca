@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:50:17.000Z
+pubDatetime: 2026-07-22T22:50:17.000Z
 title: "Mercado EA FC em 22/07: Franceses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 22/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
-    a: "Louisa Necib (90, D1 Arkema), com +57.1% em 24h, a 55k coins no PC."
+    a: "Michael Olise (88, Bundesliga), com +56.9% em 24h, a 1.10M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Pierre Lees-Melou (87), -36.1% em 24h, a 24k coins."
+    a: "Désiré Doué (87), -50% em 24h, a 122k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 53 cartas em alta contra 63 em queda (média 1.82%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 52 cartas em alta contra 63 em queda (média 0.03%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas subiu. Entre as cartas relevantes (80+ e acima de 5k coins), foram **53 em alta** e **63 em queda**, média de **1.82%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **22/07/2026** (PC): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **52 em alta** e **63 em queda**, média de **0.03%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Louisa Necib (90) **+57.1%** · 🔴 **Maior baixa:** Pierre Lees-Melou (87) **-36.1%**
+> 🟢 **Maior alta:** Michael Olise (88) **+56.9%** · 🔴 **Maior baixa:** Désiré Doué (87) **-50%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Franceses — PC](/charts/mercado-ea-fc-2026-07-22-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas su
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 93.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.7% entre as cartas que se moveram; o universo observado reúne 146 cartas.
-- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 106.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 45.2% entre as cartas que se moveram; o universo observado reúne 148 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Louisa Necib | 90 | D1 Arkema | 55k coins | +57.1% | +89.7% |
-| Annaïg Butel | 86 | D1 Arkema | 28k coins | +55.3% | +21.6% |
-| Kadidiatou Diani | 91 | D1 Arkema | 326k coins | +54.5% | +19.9% |
-| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 732k coins | +49.9% | -1.2% |
-| Sandy Baltimore | 87 | Barclays WSL | 52k coins | +47.1% | +12% |
-| Sakina Karchaoui | 88 | D1 Arkema | 67k coins | +46.4% | +37.4% |
-| Hugo Ekitiké | 86 | Premier League | 40k coins | +32.2% | -11.1% |
-| Eric Cantona | 89 | Icons | 180k coins | +32.1% | -6.7% |
-| Camille Abily | 92 | Icons | 95k coins | +29.3% | +130.3% |
-| William Saliba | 94 | Premier League | 529k coins | +28.9% | +29.2% |
+| Michael Olise | 88 | Bundesliga | 1.10M coins | +56.9% | +37.1% |
+| Corentin Tolisso | 85 | Ligue 1 McDonald's | 22k coins | +55.2% | -25% |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 730k coins | +49.5% | -1.5% |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 32k coins | +47.1% | +17.4% |
+| Sakina Karchaoui | 88 | D1 Arkema | 67k coins | +46.4% | +48.1% |
+| Annaïg Butel | 86 | D1 Arkema | 26k coins | +42.1% | +17.4% |
+| Armand Laurienté | 86 | Serie A TIM | 21k coins | +37.1% | -42.2% |
+| Sandy Baltimore | 87 | Barclays WSL | 45k coins | +34.6% | +48.2% |
+| Moussa Sissoko | 88 | EFL Championship | 362k coins | +34.1% | +9.4% |
+| Hugo Ekitiké | 86 | Premier League | 34k coins | +31.7% | -7.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Panorama de **22/07/2026** (PC): clima **comprador** — a maioria das cartas su
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Louisa Necib (90)** subiu **+57.1%** em 24h, a **55k coins** (faixa do dia: 35k–55k). Está +23% acima da média de 7 dias (aquecida).
+- **Michael Olise (88)** subiu **+56.9%** em 24h, a **1.10M coins** (faixa do dia: 550k–1.10M). Está +31% acima da média de 7 dias (aquecida).
 
-- **Annaïg Butel (86)** subiu **+55.3%** em 24h, a **28k coins** (faixa do dia: 16.750–30k). Está +39% acima da média de 7 dias (aquecida).
+- **Corentin Tolisso (85)** subiu **+55.2%** em 24h, a **22k coins** (faixa do dia: 11.750–28k). Está -16% abaixo da média de 7 dias (descontada).
 
-- **Kadidiatou Diani (91)** subiu **+54.5%** em 24h, a **326k coins** (faixa do dia: 226k–326k). Está +23% acima da média de 7 dias (aquecida).
+- **Aurélien Tchouaméni (86)** subiu **+49.5%** em 24h, a **730k coins** (faixa do dia: 489k–750k). Está +20% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 24k coins | -36.1% | +15.2% |
-| Patrick Vieira | 88 | Icons | 285k coins | -31.7% | -49.9% |
-| Hugo Ekitiké | 90 | Premier League | 65k coins | -29.6% | -22.8% |
-| Patrick Vieira | 86 | Icons | 800k coins | -26.6% | -54.8% |
-| Malo Gusto | 84 | Premier League | 40k coins | -26.4% | -25% |
-| Karim Benzema | 88 | ROSHN Saudi League | 164k coins | -24.3% | +18% |
-| Jules Koundé | 94 | LALIGA EA SPORTS | 300k coins | -24.1% | -34% |
-| Franck Ribéry | 88 | Icons | 190k coins | -23.2% | +19.2% |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 51k coins | -22% | -13.4% |
-| Laurent Blanc | 88 | Icons | 110k coins | -19.6% | +8.8% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 122k coins | -50% | -52.5% |
+| Alexandre Lacazette | 89 | Brasileirão | 39k coins | -48.6% | -51% |
+| Thierry Henry | 86 | Icons | 999k coins | -46.8% | -59.4% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 2M coins | -36.3% | -73.5% |
+| Franck Ribéry | 88 | Icons | 173k coins | -34.7% | +4.8% |
+| Emmanuel Petit | 87 | Icons | 100k coins | -32% | -14.5% |
+| Maxence Lacroix | 87 | Premier League | 76k coins | -30.5% | -31.7% |
+| Camille Abily | 90 | Icons | 100k coins | -29.5% | +54.4% |
+| Robert Pirès | 89 | Icons | 67k coins | -28.9% | -8.7% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 365k coins | -25.5% | -46% |
 
 
 ### Análise das baixas
 
-- **Pierre Lees-Melou (87)** caiu **-36.1%** em 24h, a **24k coins** (faixa do dia: 19.000–30k). Está +25% acima da média de 7 dias (aquecida).
+- **Désiré Doué (87)** caiu **-50%** em 24h, a **122k coins** (faixa do dia: 94k–200k). Está -36% abaixo da média de 7 dias (descontada).
 
-- **Patrick Vieira (88)** caiu **-31.7%** em 24h, a **285k coins** (faixa do dia: 168k–308k). Está em linha com a média de 7 dias (+1%).
+- **Alexandre Lacazette (89)** caiu **-48.6%** em 24h, a **39k coins** (faixa do dia: 19.000–55k). Está +15% acima da média de 7 dias (aquecida).
 
-- **Hugo Ekitiké (90)** caiu **-29.6%** em 24h, a **65k coins** (faixa do dia: 44k–65k). Está +11% acima da média de 7 dias (aquecida).
+- **Thierry Henry (86)** caiu **-46.8%** em 24h, a **999k coins** (faixa do dia: 739k–1.48M). Está -29% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Louisa Necib já avançou 57.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Michael Olise já avançou 56.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Pierre Lees-Melou recuou -36.1%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Désiré Doué recuou -50%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (22/07/2026)?**
-Louisa Necib (90, D1 Arkema), com +57.1% em 24h, a 55k coins no PC.
+Michael Olise (88, Bundesliga), com +56.9% em 24h, a 1.10M coins no PC.
 
 **E a maior queda do dia?**
-Pierre Lees-Melou (87), -36.1% em 24h, a 24k coins.
+Désiré Doué (87), -50% em 24h, a 122k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 53 cartas em alta contra 63 em queda (média 1.82%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 52 cartas em alta contra 63 em queda (média 0.03%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T19:50:10.000Z
+pubDatetime: 2026-07-22T22:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 12 opções:** 11.417 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 2.300 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.587 coins.
+- **Posição mais frequente:** LB, com 4 cartas.
+- **Faixa real:** 1.600 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,38 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.500 coins | -10% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.500 coins | 0% |
-| Louisa Necib | 87 | LM | D1 Arkema | 13.000 coins | -12.5% |
-| Selma Bacha | 87 | LB | D1 Arkema | 13.000 coins | -11.9% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.750 coins | -7.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.500 coins | -11.9% |
+| Rayane Messi | 89 | LM | Brasileirão | 14.750 coins | -5.8% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.600 coins | -11.1% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +9.3% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 14.250 coins | -8.5% |
+| Laura Georges | 87 | CB | D1 Arkema | 11.750 coins | -9.6% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12.250 coins | -2% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.500 coins | -11.9% |
+| Selma Bacha | 87 | LB | D1 Arkema | 14.750 coins | -7.8% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.750 coins | -11.3% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12.000 coins | -14.3% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12.500 coins | -1.9% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | +5.7% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 7.700 coins | +36.4% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 2.300 coins | +20% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.000 coins | -5.9% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12.750 coins | -1.9% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 13.000 coins | -3.7% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 13.500 coins | -3.6% |
+| Delphine Cascarino | 85 | RM | NWSL | 1.700 coins | +25% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.500 coins**
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **12.500 coins**
+- **Rayane Messi (89, LM)** da Brasileirão, a apenas **14.750 coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **13.000 coins**
+- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Selma Bacha (87, LB)** da D1 Arkema, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Bixente Lizarazu (88, LB)** da Bundesliga, a apenas **14.000 coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **14.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Laura Georges (87, CB) por 12.500 coins é a referência de rating deste recorte.
+- **Defesa:** Bixente Lizarazu (88, LB) por 14.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Louisa Necib (87, LM) por 13.000 coins é a referência de rating deste recorte.
+- **Meio:** Rayane Messi (89, LM) por 14.750 coins é a referência de rating deste recorte.
 
 - **Ataque:** Jean-Pierre Papin (89, ST) por 13.500 coins é a referência de rating deste recorte.
 
