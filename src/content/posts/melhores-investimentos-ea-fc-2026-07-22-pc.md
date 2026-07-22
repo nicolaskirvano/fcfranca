@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:40:24.000Z
+pubDatetime: 2026-07-22T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 22/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.5% em 24h** e **+16.7% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+14.0% em 24h** e **+16.7% em 7 dias**.
+- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,29 +44,29 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Louisa Necib | 90 | D1 Arkema | 55k coins | +10% | +89.7% | Esticada |
-| Wendie Renard | 91 | D1 Arkema | 62k coins | +2.5% | +74.8% | Esticada |
-| Arthur Atta | 85 | Serie A TIM | 47k coins | +2.7% | +54.4% | Momentum moderado |
+| Wendie Renard | 91 | D1 Arkema | 62k coins | +2.5% | +73.6% | Esticada |
+| Arthur Atta | 85 | Serie A TIM | 47k coins | +4.9% | +54.4% | Momentum moderado |
 | Sonia Bompastor | 88 | D1 Arkema | 20k coins | +19.7% | +34.9% | Momentum moderado |
 | Blaise Matuidi | 86 | Ligue 1 McDonald's | 114k coins | +18.6% | +33.3% | Momentum moderado |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 47k coins | +5.4% | +21.2% | Momentum moderado |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 48k coins | +5.4% | +21.2% | Momentum moderado |
 | Jonathan Ikoné | 86 | Ligue 1 McDonald's | 46k coins | +4% | +20.4% | Entrada a observar |
-| Ludovic Giuly | 86 | Ligue 1 McDonald's | 16.000 coins | +16.7% | +16.7% | Momentum moderado |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 30k coins | +31.2% | +16.7% | Esticada |
-| Claude Makélélé | 87 | Icons | 101k coins | +19.8% | +16.4% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +13.4% | +14.6% | Momentum moderado |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 20k coins | +31.2% | +16.7% | Esticada |
+| Claude Makélélé | 87 | Icons | 101k coins | +20.5% | +16.4% | Esticada |
+| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +14% | +14.6% | Momentum moderado |
+| Kylian Mbappé | 91 | LALIGA EA SPORTS | 240k coins | +1.6% | +14.1% | Entrada a observar |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 50k coins | +1.5% | +13.6% | Entrada a observar |
-| Emmanuel Petit | 87 | Icons | 118k coins | +16.5% | +12.1% | Momentum moderado |
+| Emmanuel Petit | 87 | Icons | 118k coins | +20% | +12.1% | Esticada |
 | Griedge Mbock | 86 | D1 Arkema | 75k coins | +30.4% | +11.9% | Esticada |
-| Khéphren Thuram | 87 | Serie A TIM | 65k coins | +39.4% | +11.3% | Esticada |
+| Khéphren Thuram | 87 | Serie A TIM | 64k coins | +39.1% | +10.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Louisa Necib (90)** — 55k coins, **+89.7% em 7 dias** (+10% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wendie Renard (91)** — 62k coins, **+74.8% em 7 dias** (+2.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wendie Renard (91)** — 62k coins, **+73.6% em 7 dias** (+2.5% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Arthur Atta (85)** — 47k coins, **+54.4% em 7 dias** (+2.7% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Arthur Atta (85)** — 47k coins, **+54.4% em 7 dias** (+4.9% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Sonia Bompastor (88)** — 20k coins, **+34.9% em 7 dias** (+19.7% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

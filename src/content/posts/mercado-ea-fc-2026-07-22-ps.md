@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:40:14.000Z
+pubDatetime: 2026-07-22T10:50:07.000Z
 title: "Mercado EA FC em 22/07: Franceses — Console (PS)"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (22/07/2026)?"
     a: "Aurélien Tchouaméni (86, LALIGA EA SPORTS), com +42.9% em 24h, a 400k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Eduardo Camavinga (87), -47.5% em 24h, a 228k coins."
+    a: "Eduardo Camavinga (87), -46.6% em 24h, a 251k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 54 cartas em alta contra 81 em queda (média -2.65%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 50 cartas em alta contra 82 em queda (média -3.8%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **22/07/2026** (Console (PS)): clima **vendedor** — a maioria das cartas recuou. Entre as cartas relevantes (80+ e acima de 5k coins), foram **54 em alta** e **81 em queda**, média de **-2.65%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **22/07/2026** (Console (PS)): clima **vendedor** — a maioria das cartas recuou. Entre as cartas relevantes (80+ e acima de 5k coins), foram **50 em alta** e **82 em queda**, média de **-3.8%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Aurélien Tchouaméni (86) **+42.9%** · 🔴 **Maior baixa:** Eduardo Camavinga (87) **-47.5%**
+> 🟢 **Maior alta:** Aurélien Tchouaméni (86) **+42.9%** · 🔴 **Maior baixa:** Eduardo Camavinga (87) **-46.6%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 22/07: Franceses — Console (PS)](/charts/mercado-ea-fc-2026-07-22-ps.svg)
 
@@ -35,8 +35,8 @@ Panorama de **22/07/2026** (Console (PS)): clima **vendedor** — a maioria das 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 90.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.0% entre as cartas que se moveram; o universo observado reúne 162 cartas.
+- **Amplitude do dia:** 89.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 37.9% entre as cartas que se moveram; o universo observado reúne 159 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -44,15 +44,15 @@ Panorama de **22/07/2026** (Console (PS)): clima **vendedor** — a maioria das 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 400k coins | +42.9% | +10.5% |
-| Enzo Millot | 89 | ROSHN Saudi League | 22k coins | +41% | +17% |
-| Sakina Karchaoui | 91 | D1 Arkema | 112k coins | +30.3% | +24.7% |
-| Grace Kazadi | 87 | D1 Arkema | 20k coins | +29.7% | +12.2% |
-| Malo Gusto | 84 | Premier League | 41k coins | +29.1% | +25.7% |
-| Arthur Atta | 85 | Serie A TIM | 35k coins | +28.7% | -27.6% |
+| Enzo Millot | 89 | ROSHN Saudi League | 22k coins | +30.8% | +8.5% |
 | Mattéo Guendouzi | 91 | Trendyol Süper Lig | 66k coins | +28.4% | +63.7% |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 21k coins | +25% | -16.7% |
+| Sakina Karchaoui | 91 | D1 Arkema | 112k coins | +27% | +21.5% |
 | Florian Thauvin | 85 | Ligue 1 McDonald's | 24k coins | +22.5% | -4.9% |
+| Arthur Atta | 85 | Serie A TIM | 35k coins | +21.9% | -27.6% |
 | Selma Bacha | 86 | D1 Arkema | 255k coins | +21.4% | +4.5% |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +18.8% | +17.3% |
+| Yoan Bonny | 86 | Serie A TIM | 58k coins | +18.6% | +6.5% |
+| Yanis Issoufou | 84 | Ligue 2 BKT | 39k coins | +18.3% | +12% |
 
 
 ### Análise das altas
@@ -63,41 +63,41 @@ Panorama de **22/07/2026** (Console (PS)): clima **vendedor** — a maioria das 
 
 - **Aurélien Tchouaméni (86)** subiu **+42.9%** em 24h, a **400k coins** (faixa do dia: 315k–405k). Está +19% acima da média de 7 dias (aquecida).
 
-- **Enzo Millot (89)** subiu **+41%** em 24h, a **22k coins** (faixa do dia: 15.000–34k). Está em linha com a média de 7 dias (+3%).
+- **Enzo Millot (89)** subiu **+30.8%** em 24h, a **22k coins** (faixa do dia: 15.000–34k). Está em linha com a média de 7 dias (+3%).
 
-- **Sakina Karchaoui (91)** subiu **+30.3%** em 24h, a **112k coins** (faixa do dia: 70k–119k). Está +16% acima da média de 7 dias (aquecida).
+- **Mattéo Guendouzi (91)** subiu **+28.4%** em 24h, a **66k coins** (faixa do dia: 40k–70k). Está +26% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 228k coins | -47.5% | -28.3% |
+| Eduardo Camavinga | 87 | LALIGA EA SPORTS | 251k coins | -46.6% | -28.1% |
 | Désiré Doué | 87 | Ligue 1 McDonald's | 169k coins | -42.6% | -28.8% |
+| Clara Mateo | 92 | D1 Arkema | 306k coins | -41.6% | -19.7% |
 | Tanguy Ndombele | 85 | Ligue 1 McDonald's | 30k coins | -39.6% | +5.2% |
 | Jean-Mattéo Bahoya | 89 | Bundesliga | 31k coins | -37.5% | -37.5% |
 | Kylian Mbappé | 92 | LALIGA EA SPORTS | 1.36M coins | -35.9% | -53.8% |
 | Antoine Griezmann | 87 | LALIGA EA SPORTS | 20k coins | -34.8% | -35.8% |
-| Hugo Ekitiké | 86 | Premier League | 29k coins | -33.8% | -35.3% |
-| Kadidiatou Diani | 91 | D1 Arkema | 117k coins | -31.2% | -28% |
-| Lilian Thuram | 93 | Icons | 495k coins | -28.3% | -8.5% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 242k coins | -27.9% | -43.7% |
+| Kadidiatou Diani | 91 | D1 Arkema | 100k coins | -31.2% | -28% |
+| William Saliba | 94 | Premier League | 188k coins | -31.1% | -45.3% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 242k coins | -28.8% | -44.4% |
 
 
 ### Análise das baixas
 
-- **Eduardo Camavinga (87)** caiu **-47.5%** em 24h, a **228k coins** (faixa do dia: 205k–320k). Está -32% abaixo da média de 7 dias (descontada).
+- **Eduardo Camavinga (87)** caiu **-46.6%** em 24h, a **251k coins** (faixa do dia: 205k–320k). Está -25% abaixo da média de 7 dias (descontada).
 
 - **Désiré Doué (87)** caiu **-42.6%** em 24h, a **169k coins** (faixa do dia: 140k–347k). Está -22% abaixo da média de 7 dias (descontada).
 
-- **Tanguy Ndombele (85)** caiu **-39.6%** em 24h, a **30k coins** (faixa do dia: 24k–50k). Está -10% abaixo da média de 7 dias (descontada).
+- **Clara Mateo (92)** caiu **-41.6%** em 24h, a **306k coins** (faixa do dia: 289k–639k). Está -25% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Aurélien Tchouaméni já avançou 42.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Eduardo Camavinga recuou -47.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Eduardo Camavinga recuou -46.6%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Aurélien Tchouaméni (86, LALIGA EA SPORTS), com +42.9% em 24h, a 400k coins no Console (PS).
 
 **E a maior queda do dia?**
-Eduardo Camavinga (87), -47.5% em 24h, a 228k coins.
+Eduardo Camavinga (87), -46.6% em 24h, a 251k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 54 cartas em alta contra 81 em queda (média -2.65%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 50 cartas em alta contra 82 em queda (média -3.8%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

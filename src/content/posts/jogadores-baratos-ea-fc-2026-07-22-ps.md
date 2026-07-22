@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:40:16.000Z
+pubDatetime: 2026-07-22T10:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 11.491 coins.
+- **Preço médio das 11 opções:** 11.500 coins.
 - **Posição mais frequente:** LB, com 3 cartas.
-- **Faixa real:** 1.900 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,7 +41,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 13.250 coins | 0% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12.500 coins | +4.2% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12.500 coins | -5.7% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.000 coins | -3.6% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.750 coins | 0% |
@@ -49,7 +49,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Sonia Bompastor | 86 | LB | D1 Arkema | 13.000 coins | +6.1% |
 | Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.750 coins | 0% |
 | Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14.000 coins | +19.2% |
-| Delphine Cascarino | 85 | RM | NWSL | 1.900 coins | 0% |
+| Delphine Cascarino | 85 | RM | NWSL | 2.000 coins | 0% |
 | Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 10.000 coins | +4.2% |
 
 

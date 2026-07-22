@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:40:15.000Z
+pubDatetime: 2026-07-22T10:50:09.000Z
 title: "Investimentos EA FC: Franceses em 22/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **22/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.6% em 24h** e **+25.0% em 7 dias**.
-- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 7 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.6% em 24h** e **+21.1% em 7 dias**.
+- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -45,19 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Laura Georges | 89 | D1 Arkema | 36k coins | +8.4% | +79.7% | Esticada |
 | Mattéo Guendouzi | 91 | Trendyol Süper Lig | 66k coins | +28.4% | +63.7% | Esticada |
-| Wendie Renard | 86 | D1 Arkema | 27k coins | +5.9% | +43.7% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 27k coins | +7.8% | +43.7% | Momentum moderado |
 | Sakina Karchaoui | 88 | D1 Arkema | 71k coins | +13.6% | +42% | Momentum moderado |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 48k coins | +17.4% | +32.4% | Momentum moderado |
-| Clara Mateo | 86 | D1 Arkema | 42k coins | +8.5% | +29.3% | Momentum moderado |
-| Malo Gusto | 84 | Premier League | 41k coins | +29.1% | +25.7% | Esticada |
 | Laura Georges | 87 | D1 Arkema | 15.000 coins | +9.1% | +25% | Momentum moderado |
-| Sakina Karchaoui | 91 | D1 Arkema | 112k coins | +30.3% | +24.7% | Esticada |
+| Sakina Karchaoui | 91 | D1 Arkema | 112k coins | +27% | +21.5% | Esticada |
 | Claire Lavogez | 88 | Liga F | 15.500 coins | +11.3% | +21.1% | Momentum moderado |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 15.250 coins | +19.6% | +17.3% | Momentum moderado |
+| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 15.500 coins | +19.6% | +17.3% | Momentum moderado |
 | Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +18.8% | +17.3% | Momentum moderado |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 44k coins | +7.1% | +13% | Momentum moderado |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 38k coins | +7.1% | +13% | Momentum moderado |
+| Mike Maignan | 88 | Serie A TIM | 45k coins | +11.8% | +12.5% | Momentum moderado |
 | Adrien Rabiot | 86 | Serie A TIM | 50k coins | +16.9% | +12.3% | Momentum moderado |
 | Sakina Karchaoui | 88 | D1 Arkema | 60k coins | +4.4% | +12.3% | Entrada a observar |
+| Yanis Issoufou | 84 | Ligue 2 BKT | 39k coins | +18.3% | +12% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -66,7 +66,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Mattéo Guendouzi (91)** — 66k coins, **+63.7% em 7 dias** (+28.4% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wendie Renard (86)** — 27k coins, **+43.7% em 7 dias** (+5.9% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wendie Renard (86)** — 27k coins, **+43.7% em 7 dias** (+7.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Sakina Karchaoui (88)** — 71k coins, **+42% em 7 dias** (+13.6% em 24h). Preço +56% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
