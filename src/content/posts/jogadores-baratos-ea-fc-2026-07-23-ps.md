@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:50:10.000Z
+pubDatetime: 2026-07-23T22:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 23/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 14 opções:** 9.796 coins.
+- **Preço médio das 15 opções:** 11.173 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.600 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.700 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,40 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.500 coins | -1.9% |
-| Sonia Bompastor | 88 | LB | D1 Arkema | 12.000 coins | -8.8% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.000 coins | -8% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.500 coins | +7.7% |
-| Louisa Necib | 87 | LM | D1 Arkema | 13.250 coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.000 coins | -2.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.500 coins | +3.8% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13.500 coins | 0% |
+| Claire Lavogez | 88 | ST | Liga F | 14.000 coins | -7.9% |
+| Louisa Necib | 87 | LM | D1 Arkema | 13.000 coins | +6.1% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.000 coins | +1.8% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14.500 coins | -9.1% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12.000 coins | -5.6% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12.500 coins | +2.1% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.500 coins | +3.8% |
-| Antoine Griezmann | 85 | ST | LALIGA EA SPORTS | 1.600 coins | -10.5% |
-| Delphine Cascarino | 85 | RM | NWSL | 1.700 coins | -15% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 7.900 coins | +29% |
-| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.200 coins | -14.8% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.000 coins | +2.1% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 12.000 coins | 0% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 14.000 coins | +3.9% |
+| Armand Laurienté | 86 | LW | Serie A TIM | 14.000 coins | 0% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14.500 coins | +3.7% |
+| Delphine Cascarino | 85 | RM | NWSL | 1.700 coins | -5.6% |
+| Antoine Griezmann | 85 | ST | LALIGA EA SPORTS | 2.000 coins | -10.5% |
+| Dayot Upamecano | 85 | CB | Bundesliga | 3.400 coins | +39.1% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.500 coins**
 
-- **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **12.000 coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14.000 coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **12.500 coins**
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **13.000 coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **13.250 coins**
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Sonia Bompastor (88, LB) por 12.000 coins é a referência de rating deste recorte.
+- **Defesa:** Benjamin Pavard (88, CB) por 13.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Ludovic Giuly (87, RM) por 12.500 coins é a referência de rating deste recorte.
+- **Meio:** Louisa Necib (87, LM) por 13.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Jean-Pierre Papin (89, ST) por 13.500 coins é a referência de rating deste recorte.
 
