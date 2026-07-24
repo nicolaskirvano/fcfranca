@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T19:50:18.000Z
+pubDatetime: 2026-07-24T22:50:17.000Z
 title: "Mercado EA FC em 24/07: Franceses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Armand Laurienté (86, Serie A TIM), com +50% em 24h, a 50k coins no PC."
+    a: "Armand Laurienté (86, Serie A TIM), com +57.9% em 24h, a 48k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Aurélien Tchouaméni (87), -48.8% em 24h, a 41k coins."
+    a: "Bradley Barcola (87), -41.9% em 24h, a 106k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 48 cartas em alta contra 64 em queda (média -0.88%)."
+    a: "Hoje o mercado está em baixa — predominam as quedas, com 46 cartas em alta contra 75 em queda (média -4.03%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **24/07/2026** no PC: mercado **lateral** — sem direção clara. **48 valorizações** contra **64 quedas** entre as cartas relevantes, com média de **-0.88%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **24/07/2026** no PC: mercado **em baixa** — predominam as quedas. **46 valorizações** contra **75 quedas** entre as cartas relevantes, com média de **-4.03%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Armand Laurienté (86) **+50%** · 🔴 **Maior baixa:** Aurélien Tchouaméni (87) **-48.8%**
+> 🟢 **Maior alta:** Armand Laurienté (86) **+57.9%** · 🔴 **Maior baixa:** Bradley Barcola (87) **-41.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Franceses — PC](/charts/mercado-ea-fc-2026-07-24-pc.svg)
 
@@ -35,24 +35,24 @@ Resumo de **24/07/2026** no PC: mercado **lateral** — sem direção clara. **4
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 98.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 42.9% entre as cartas que se moveram; o universo observado reúne 141 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 99.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 38.0% entre as cartas que se moveram; o universo observado reúne 149 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Armand Laurienté | 86 | Serie A TIM | 50k coins | +50% | +68.2% |
-| Lilian Thuram | 88 | Icons | 143k coins | +44% | +10.8% |
-| Maxence Lacroix | 87 | Premier League | 149k coins | +42.2% | +46.5% |
-| Laurent Blanc | 88 | Icons | 120k coins | +40.7% | +50.6% |
-| Claude Makélélé | 87 | Icons | 90k coins | +38.3% | +31.8% |
-| Kingsley Coman | 87 | ROSHN Saudi League | 48k coins | +38.2% | +65.8% |
-| Yoan Bonny | 86 | Serie A TIM | 70k coins | +34.3% | -8.8% |
-| Florian Thauvin | 83 | Ligue 1 McDonald's | 44k coins | +33.3% | -20% |
-| Sandy Baltimore | 87 | Barclays WSL | 46k coins | +31.4% | -2.6% |
+| Armand Laurienté | 86 | Serie A TIM | 48k coins | +57.9% | +86% |
+| Patrick Vieira | 90 | Icons | 900k coins | +50% | +30.4% |
+| Franck Honorat | 85 | Bundesliga | 24k coins | +39.7% | +21.8% |
+| Mike Maignan | 88 | Serie A TIM | 50k coins | +32.9% | +27.3% |
 | Rayan Philippe | 80 | Bundesliga | 42k coins | +30.8% | -10.5% |
+| Maxence Lacroix | 87 | Premier League | 130k coins | +30% | +30% |
+| Wilson Odobert | 87 | Premier League | 40k coins | +29% | +33.3% |
+| Laurent Blanc | 88 | Icons | 140k coins | +27.3% | +67.7% |
+| Marco Essimi | 80 | Ligue 2 BKT | 48k coins | +26.7% | 0% |
+| Wendie Renard | 86 | D1 Arkema | 45k coins | +25.9% | 0% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **24/07/2026** no PC: mercado **lateral** — sem direção clara. **4
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Armand Laurienté (86)** subiu **+50%** em 24h, a **50k coins** (faixa do dia: 26k–50k). Está +70% acima da média de 7 dias (aquecida).
+- **Armand Laurienté (86)** subiu **+57.9%** em 24h, a **48k coins** (faixa do dia: 26k–50k). Está +61% acima da média de 7 dias (aquecida).
 
-- **Lilian Thuram (88)** subiu **+44%** em 24h, a **143k coins** (faixa do dia: 88k–147k). Está em linha com a média de 7 dias (+1%).
+- **Patrick Vieira (90)** subiu **+50%** em 24h, a **900k coins** (faixa do dia: 510k–900k). Está +34% acima da média de 7 dias (aquecida).
 
-- **Maxence Lacroix (87)** subiu **+42.2%** em 24h, a **149k coins** (faixa do dia: 77k–153k). Está +32% acima da média de 7 dias (aquecida).
+- **Franck Honorat (85)** subiu **+39.7%** em 24h, a **24k coins** (faixa do dia: 15.000–24k). Está +11% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 41k coins | -48.8% | -55.9% |
-| Paul Pogba | 92 | Ligue 1 McDonald's | 900k coins | -48.5% | -64.8% |
-| Louisa Necib | 90 | D1 Arkema | 29k coins | -47.3% | -41.4% |
-| Robert Pirès | 89 | Icons | 39k coins | -39.6% | -29.3% |
-| Hugo Ekitiké | 86 | Premier League | 32k coins | -35.9% | -32.8% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 46k coins | -35.5% | -49.3% |
-| Alexandre Lacazette | 89 | Brasileirão | 27k coins | -32.1% | -20% |
-| Jean-Philippe Mateta | 92 | Premier League | 48k coins | -29% | -30.6% |
-| Camille Abily | 90 | Icons | 68k coins | -28.8% | 0% |
-| Moussa Sissoko | 88 | EFL Championship | 270k coins | -27% | -18.2% |
+| Bradley Barcola | 87 | Ligue 1 McDonald's | 106k coins | -41.9% | -52.4% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 41k coins | -41% | -57.5% |
+| Alexandre Lacazette | 89 | Brasileirão | 27k coins | -31.6% | -20% |
+| Paul Pogba | 92 | Ligue 1 McDonald's | 901k coins | -28.7% | -66% |
+| Michael Olise | 87 | Bundesliga | 250k coins | -26.8% | -36.5% |
+| Patrick Vieira | 88 | Icons | 201k coins | -26.8% | -24.1% |
+| Hugo Ekitiké | 87 | Premier League | 52k coins | -26.2% | +24.4% |
+| David Ginola | 89 | Ligue 1 McDonald's | 230k coins | -24.8% | -31.3% |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 21k coins | -23.7% | -3.3% |
+| Clara Mateo | 86 | D1 Arkema | 40k coins | -20% | -18.8% |
 
 
 ### Análise das baixas
 
-- **Aurélien Tchouaméni (87)** caiu **-48.8%** em 24h, a **41k coins** (faixa do dia: 41k–81k). Está -42% abaixo da média de 7 dias (descontada).
+- **Bradley Barcola (87)** caiu **-41.9%** em 24h, a **106k coins** (faixa do dia: 90k–199k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Paul Pogba (92)** caiu **-48.5%** em 24h, a **900k coins** (faixa do dia: 891k–1.77M). Está -59% abaixo da média de 7 dias (descontada).
+- **Aurélien Tchouaméni (87)** caiu **-41%** em 24h, a **41k coins** (faixa do dia: 38k–70k). Está -41% abaixo da média de 7 dias (descontada).
 
-- **Louisa Necib (90)** caiu **-47.3%** em 24h, a **29k coins** (faixa do dia: 26k–55k). Está -36% abaixo da média de 7 dias (descontada).
+- **Alexandre Lacazette (89)** caiu **-31.6%** em 24h, a **27k coins** (faixa do dia: 25k–54k). Está -23% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Armand Laurienté já avançou 50% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Armand Laurienté já avançou 57.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Aurélien Tchouaméni recuou -48.8%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Bradley Barcola recuou -41.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Armand Laurienté (86, Serie A TIM), com +50% em 24h, a 50k coins no PC.
+Armand Laurienté (86, Serie A TIM), com +57.9% em 24h, a 48k coins no PC.
 
 **E a maior queda do dia?**
-Aurélien Tchouaméni (87), -48.8% em 24h, a 41k coins.
+Bradley Barcola (87), -41.9% em 24h, a 106k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 48 cartas em alta contra 64 em queda (média -0.88%).
+Hoje o mercado está em baixa — predominam as quedas, com 46 cartas em alta contra 75 em queda (média -4.03%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
