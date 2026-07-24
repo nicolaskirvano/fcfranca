@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:50:18.000Z
+pubDatetime: 2026-07-24T19:50:19.000Z
 title: "Investimentos EA FC: Franceses em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Emmanuel Petit (87, Icons) lidera, com +74.3% em 7 dias a 188k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Emmanuel Petit (87, Icons) lidera, com +72.2% em 7 dias a 185k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Emmanuel Petit (87) acumula **+74.3% em 7 dias** a 188k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Emmanuel Petit (87) acumula **+72.2% em 7 dias** a 185k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+20.6% em 24h** e **+34.3% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.9% em 24h** e **+25.3% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Emmanuel Petit | 87 | Icons | 188k coins | +22.6% | +74.3% | Esticada |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 70k coins | +27.3% | +67.7% | Esticada |
-| Kingsley Coman | 87 | ROSHN Saudi League | 54k coins | +2.8% | +62.7% | Esticada |
-| Hugo Ekitiké | 87 | Premier League | 68k coins | +9.3% | +54.1% | Momentum moderado |
-| Karim Benzema | 87 | ROSHN Saudi League | 128k coins | +25.7% | +38.9% | Esticada |
-| Laurent Blanc | 88 | Icons | 129k coins | +27.5% | +37.6% | Esticada |
-| Claude Makélélé | 87 | Icons | 98k coins | +39.2% | +34.5% | Esticada |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 21k coins | +38.5% | +34.3% | Esticada |
-| Selma Bacha | 87 | D1 Arkema | 25k coins | +5.2% | +31.2% | Momentum moderado |
-| Hugo Ekitiké | 86 | Premier League | 55k coins | +17% | +31% | Momentum moderado |
-| Ludovic Giuly | 87 | Ligue 1 McDonald's | 17.500 coins | +4.1% | +28.8% | Momentum moderado |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 48k coins | +5.8% | +26.6% | Momentum moderado |
-| Yanis Issoufou | 84 | Ligue 2 BKT | 45k coins | +1.6% | +25% | Entrada a observar |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 36k coins | +25.7% | +23.5% | Esticada |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 30k coins | +20.6% | +23% | Esticada |
+| Emmanuel Petit | 87 | Icons | 185k coins | +24% | +72.2% | Esticada |
+| Kingsley Coman | 87 | ROSHN Saudi League | 48k coins | +38.2% | +65.8% | Esticada |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 60k coins | +21.8% | +60.5% | Esticada |
+| Marinette Pichon | 90 | Icons | 85k coins | +6.2% | +46.6% | Momentum moderado |
+| Claude Makélélé | 87 | Icons | 90k coins | +38.3% | +31.8% | Esticada |
+| Hugo Ekitiké | 86 | Premier League | 55k coins | +17% | +28.7% | Momentum moderado |
+| Malo Gusto | 84 | Premier League | 50k coins | +1.5% | +25.9% | Momentum moderado |
+| Selma Bacha | 87 | D1 Arkema | 24k coins | +3.1% | +25.3% | Momentum moderado |
+| Karim Benzema | 87 | ROSHN Saudi League | 120k coins | +12.7% | +24% | Momentum moderado |
+| Jade Le Guilly | 84 | D1 Arkema | 27k coins | +26.9% | +23.8% | Esticada |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 36k coins | +1.4% | +23.5% | Entrada a observar |
+| Karim Benzema | 88 | ROSHN Saudi League | 50k coins | +12.9% | +22.3% | Momentum moderado |
+| Grace Kazadi | 87 | D1 Arkema | 20k coins | +9.6% | +9.6% | Momentum moderado |
+| Loïc Badé | 88 | Bundesliga | 37k coins | +22.2% | +8.9% | Esticada |
+| Jean-Philippe Mateta | 84 | Premier League | 50k coins | +3.1% | +5.3% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Emmanuel Petit (87)** — 188k coins, **+74.3% em 7 dias** (+22.6% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Petit (87)** — 185k coins, **+72.2% em 7 dias** (+24% em 24h). Preço +44% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ousmane Dembélé (90)** — 70k coins, **+67.7% em 7 dias** (+27.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kingsley Coman (87)** — 48k coins, **+65.8% em 7 dias** (+38.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Kingsley Coman (87)** — 54k coins, **+62.7% em 7 dias** (+2.8% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Dembélé (90)** — 60k coins, **+60.5% em 7 dias** (+21.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Ekitiké (87)** — 68k coins, **+54.1% em 7 dias** (+9.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marinette Pichon (90)** — 85k coins, **+46.6% em 7 dias** (+6.2% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (87)** — 128k coins, **+38.9% em 7 dias** (+25.7% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claude Makélélé (87)** — 90k coins, **+31.8% em 7 dias** (+38.3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Emmanuel Petit (87, Icons) lidera, com +74.3% em 7 dias a 188k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Emmanuel Petit (87, Icons) lidera, com +72.2% em 7 dias a 185k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,6 +106,7 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Franceses em 24/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-24-pc/)
 - [Mercado EA FC em 24/07: Franceses — PC](/posts/mercado-ea-fc-2026-07-24-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
