@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:50:18.000Z
+pubDatetime: 2026-07-24T01:50:18.000Z
 title: "Investimentos EA FC: Franceses em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Sonia Bompastor (88, D1 Arkema) lidera, com +62.2% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Karim Benzema (87, ROSHN Saudi League) lidera, com +85.7% em 7 dias a 126k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sonia Bompastor (88) acumula **+62.2% em 7 dias** a 32k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Karim Benzema (87) acumula **+85.7% em 7 dias** a 126k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.6% em 24h** e **+19.5% em 7 dias**.
+- A mediana é de **+13.6% em 24h** e **+33.0% em 7 dias**.
 - **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Ligue 1 McDonald's** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sonia Bompastor | 88 | D1 Arkema | 32k coins | +27.7% | +62.2% | Esticada |
-| Jean-Philippe Mateta | 92 | Premier League | 115k coins | +27% | +55% | Esticada |
-| Pierre Kalulu | 91 | Serie A TIM | 85k coins | +32.8% | +45.3% | Esticada |
-| Enzo Millot | 89 | ROSHN Saudi League | 19.000 coins | +37.5% | +39.2% | Esticada |
-| Jade Le Guilly | 84 | D1 Arkema | 17.500 coins | +4.5% | +29.6% | Momentum moderado |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +5.6% | +28.4% | Momentum moderado |
-| Franck Ribéry | 88 | Icons | 200k coins | +15.6% | +20.5% | Momentum moderado |
-| Eric Cantona | 89 | Icons | 191k coins | +24.8% | +19.5% | Esticada |
-| Louisa Necib | 88 | D1 Arkema | 92k coins | +2.2% | +19.4% | Entrada a observar |
-| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 45k coins | +7.1% | +18.4% | Momentum moderado |
-| Matthieu Udol | 84 | Ligue 1 McDonald's | 60k coins | +20.6% | +15.4% | Esticada |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 40k coins | +14.3% | +15.1% | Momentum moderado |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 46k coins | +15.2% | +11.8% | Momentum moderado |
-| Malo Gusto | 84 | Premier League | 49k coins | +23.3% | +8.9% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 155k coins | +6% | +6% | Momentum moderado |
+| Karim Benzema | 87 | ROSHN Saudi League | 126k coins | +23.8% | +85.7% | Esticada |
+| Sonia Bompastor | 88 | D1 Arkema | 32k coins | +17.1% | +75.7% | Esticada |
+| Pierre Lees-Melou | 87 | Ligue 1 McDonald's | 27k coins | +33.8% | +62.1% | Esticada |
+| Loïc Badé | 88 | Bundesliga | 38k coins | +10.3% | +61.3% | Esticada |
+| Rayane Messi | 89 | Brasileirão | 27k coins | +10.9% | +45.5% | Momentum moderado |
+| Moussa Diaby | 90 | ROSHN Saudi League | 75k coins | +13.6% | +37.6% | Momentum moderado |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 25k coins | +6.4% | +33.3% | Momentum moderado |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 28k coins | +1.7% | +33% | Momentum moderado |
+| Enzo Millot | 89 | ROSHN Saudi League | 26k coins | +36.8% | +31.6% | Esticada |
+| Ludovic Giuly | 86 | Ligue 1 McDonald's | 15.000 coins | +17.6% | +25% | Momentum moderado |
+| Yanis Issoufou | 84 | Ligue 2 BKT | 42k coins | +1.6% | +25% | Entrada a observar |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 70k coins | +21.4% | +20.2% | Esticada |
+| Grace Kazadi | 87 | D1 Arkema | 20k coins | +5.3% | +15.9% | Momentum moderado |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 45k coins | +7.8% | +13.9% | Momentum moderado |
+| Yoan Bonny | 86 | Serie A TIM | 89k coins | +29% | +11.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Sonia Bompastor (88)** — 32k coins, **+62.2% em 7 dias** (+27.7% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (87)** — 126k coins, **+85.7% em 7 dias** (+23.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jean-Philippe Mateta (92)** — 115k coins, **+55% em 7 dias** (+27% em 24h). Preço +73% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sonia Bompastor (88)** — 32k coins, **+75.7% em 7 dias** (+17.1% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pierre Kalulu (91)** — 85k coins, **+45.3% em 7 dias** (+32.8% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pierre Lees-Melou (87)** — 27k coins, **+62.1% em 7 dias** (+33.8% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Millot (89)** — 19.000 coins, **+39.2% em 7 dias** (+37.5% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Loïc Badé (88)** — 38k coins, **+61.3% em 7 dias** (+10.3% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jade Le Guilly (84)** — 17.500 coins, **+29.6% em 7 dias** (+4.5% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rayane Messi (89)** — 27k coins, **+45.5% em 7 dias** (+10.9% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Sonia Bompastor (88, D1 Arkema) lidera, com +62.2% em 7 dias a 32k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Karim Benzema (87, ROSHN Saudi League) lidera, com +85.7% em 7 dias a 126k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
