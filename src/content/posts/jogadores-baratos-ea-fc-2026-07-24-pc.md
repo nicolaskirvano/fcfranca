@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:39:39.000Z
+pubDatetime: 2026-07-24T10:50:19.000Z
 title: "Jogadores baratos EA FC: Franceses em 24/07 — PC"
 draft: false
 featured: false
@@ -43,7 +43,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.500 coins | -10.8% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11.000 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.000 coins | +2.3% |
-| Delphine Cascarino | 85 | RM | NWSL | 9.500 coins | -12.1% |
+| Delphine Cascarino | 85 | RM | NWSL | 9.500 coins | -4% |
 | Karim Benzema | 85 | ST | ROSHN Saudi League | 13.000 coins | 0% |
 | Benjamin Pavard | 84 | CB | Serie A Enilive | 7.600 coins | 0% |
 

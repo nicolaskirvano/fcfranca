@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:39:37.000Z
+pubDatetime: 2026-07-24T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 24/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.7% em 24h** e **+26.4% em 7 dias**.
+- A mediana é de **+12.0% em 24h** e **+26.4% em 7 dias**.
 - **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,31 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Jade Le Guilly | 84 | D1 Arkema | 24k coins | +1% | +79.6% | Esticada |
-| Jean-Philippe Mateta | 92 | Premier League | 80k coins | +29.2% | +68% | Esticada |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 24k coins | +37.3% | +51.5% | Esticada |
+| Jean-Philippe Mateta | 92 | Premier League | 78k coins | +29.2% | +68% | Esticada |
 | Jade Le Guilly | 89 | D1 Arkema | 46k coins | +23% | +50.4% | Esticada |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 24k coins | +32% | +45.6% | Esticada |
 | Wendie Renard | 91 | D1 Arkema | 65k coins | +1.6% | +44.4% | Momentum moderado |
 | Moussa Diaby | 90 | ROSHN Saudi League | 74k coins | +12.9% | +39.3% | Momentum moderado |
 | Maghnes Akliouche | 84 | Ligue 1 McDonald's | 24k coins | +3.2% | +28% | Momentum moderado |
-| Mike Maignan | 88 | Serie A TIM | 55k coins | +10.6% | +26.4% | Momentum moderado |
+| Mike Maignan | 88 | Serie A TIM | 46k coins | +10.6% | +26.4% | Momentum moderado |
 | Tanguy Ndombele | 85 | Ligue 1 McDonald's | 38k coins | +15.4% | +25% | Momentum moderado |
 | Yanis Issoufou | 84 | Ligue 2 BKT | 48k coins | +1.6% | +25% | Entrada a observar |
 | Mattéo Guendouzi | 91 | Trendyol Süper Lig | 95k coins | +24.4% | +24.4% | Esticada |
 | Sidney Govou | 87 | Ligue 1 McDonald's | 34k coins | +21.4% | +23.5% | Esticada |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 60k coins | +10.1% | +17.6% | Momentum moderado |
-| Khéphren Thuram | 87 | Serie A TIM | 84k coins | +12.7% | +16.6% | Momentum moderado |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 42k coins | +8.8% | +13% | Momentum moderado |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 60k coins | +11.1% | +17.6% | Momentum moderado |
+| Khéphren Thuram | 87 | Serie A TIM | 84k coins | +12% | +15.9% | Momentum moderado |
+| Grace Kazadi | 87 | D1 Arkema | 20k coins | +5.3% | +12.7% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Jade Le Guilly (84)** — 24k coins, **+79.6% em 7 dias** (+1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jean-Philippe Mateta (92)** — 80k coins, **+68% em 7 dias** (+29.2% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Maghnes Akliouche (88)** — 24k coins, **+51.5% em 7 dias** (+37.3% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jean-Philippe Mateta (92)** — 78k coins, **+68% em 7 dias** (+29.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Jade Le Guilly (89)** — 46k coins, **+50.4% em 7 dias** (+23% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Maghnes Akliouche (88)** — 24k coins, **+45.6% em 7 dias** (+32% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Wendie Renard (91)** — 65k coins, **+44.4% em 7 dias** (+1.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

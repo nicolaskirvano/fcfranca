@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:39:29.000Z
+pubDatetime: 2026-07-24T10:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -31,8 +31,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 ## Retrato do recorte de hoje
 
 - **Preço médio das 15 opções:** 10.483 coins.
-- **Posição mais frequente:** RM, com 4 cartas.
-- **Faixa real:** 1.600 a 14.500 coins; nenhuma carta custa 15 mil.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 1.700 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.250 coins | +1.9% |
 | Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13.500 coins | -3.4% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11.500 coins | 0% |
+| Claire Lavogez | 88 | ST | Liga F | 14.500 coins | -6.2% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11.500 coins | -2.1% |
 | Laura Georges | 87 | CB | D1 Arkema | 11.750 coins | +4.4% |
 | Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.000 coins | -7.1% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14.500 coins | +5.2% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.000 coins | +4.3% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12.250 coins | -3.8% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 12.500 coins | +28.3% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12.500 coins | -11.1% |
 | Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12.500 coins | -3.8% |
-| Antoine Griezmann | 85 | ST | LALIGA EA SPORTS | 1.600 coins | +5.9% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 12.500 coins | +28.3% |
+| Antoine Griezmann | 85 | ST | LALIGA EA SPORTS | 1.700 coins | 0% |
 | Delphine Cascarino | 85 | RM | NWSL | 1.800 coins | +5.9% |
-| Dayot Upamecano | 85 | CB | Bundesliga | 3.100 coins | +29.2% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 10.000 coins | +6.4% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 5.500 coins | -11.3% |
 
 
 ## 📈 Destaques
@@ -63,11 +63,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Benjamin Pavard (88, CB)** da Ligue 1 McDonald's, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14.500 coins**
+
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11.500 coins**
 
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **11.750 coins**
-
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
