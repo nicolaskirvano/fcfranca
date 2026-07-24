@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:50:18.000Z
+pubDatetime: 2026-07-24T13:50:18.000Z
 title: "Investimentos EA FC: Franceses em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Jade Le Guilly (84, D1 Arkema) lidera, com +79.6% em 7 dias a 24k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ousmane Dembélé (90, Ligue 1 McDonald's) lidera, com +70.7% em 7 dias a 69k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Jade Le Guilly (84) acumula **+79.6% em 7 dias** a 24k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Ousmane Dembélé (90) acumula **+70.7% em 7 dias** a 69k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.0% em 24h** e **+26.4% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.3% em 24h** e **+26.7% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Jade Le Guilly | 84 | D1 Arkema | 24k coins | +1% | +79.6% | Esticada |
-| Jean-Philippe Mateta | 92 | Premier League | 78k coins | +29.2% | +68% | Esticada |
-| Jade Le Guilly | 89 | D1 Arkema | 46k coins | +23% | +50.4% | Esticada |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 24k coins | +32% | +45.6% | Esticada |
-| Wendie Renard | 91 | D1 Arkema | 65k coins | +1.6% | +44.4% | Momentum moderado |
-| Moussa Diaby | 90 | ROSHN Saudi League | 74k coins | +12.9% | +39.3% | Momentum moderado |
-| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 24k coins | +3.2% | +28% | Momentum moderado |
-| Mike Maignan | 88 | Serie A TIM | 46k coins | +10.6% | +26.4% | Momentum moderado |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 69k coins | +27.3% | +70.7% | Esticada |
+| Jade Le Guilly | 89 | D1 Arkema | 46k coins | +26.4% | +68.5% | Esticada |
+| Maxence Lacroix | 87 | Premier League | 150k coins | +31.6% | +53.8% | Esticada |
+| Marie Katoto | 89 | Frauen-Bundesliga | 160k coins | +2.6% | +45.5% | Momentum moderado |
+| Ludovic Giuly | 87 | Ligue 1 McDonald's | 20k coins | +12.3% | +43.9% | Momentum moderado |
+| Jean-Philippe Mateta | 92 | Premier League | 65k coins | +11.3% | +38% | Momentum moderado |
+| Laurent Blanc | 88 | Icons | 134k coins | +16.1% | +34% | Momentum moderado |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 24k coins | +20.3% | +26.7% | Esticada |
 | Tanguy Ndombele | 85 | Ligue 1 McDonald's | 38k coins | +15.4% | +25% | Momentum moderado |
 | Yanis Issoufou | 84 | Ligue 2 BKT | 48k coins | +1.6% | +25% | Entrada a observar |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 95k coins | +24.4% | +24.4% | Esticada |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 34k coins | +21.4% | +23.5% | Esticada |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 60k coins | +11.1% | +17.6% | Momentum moderado |
+| Sonia Bompastor | 88 | D1 Arkema | 22k coins | +1.1% | +24.3% | Entrada a observar |
+| Hugo Ekitiké | 86 | Premier League | 50k coins | +6.4% | +22% | Momentum moderado |
 | Khéphren Thuram | 87 | Serie A TIM | 84k coins | +12% | +15.9% | Momentum moderado |
-| Grace Kazadi | 87 | D1 Arkema | 20k coins | +5.3% | +12.7% | Momentum moderado |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 92k coins | +15% | +15% | Momentum moderado |
+| Lilian Thuram | 88 | Icons | 147k coins | +5% | +13.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Jade Le Guilly (84)** — 24k coins, **+79.6% em 7 dias** (+1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ousmane Dembélé (90)** — 69k coins, **+70.7% em 7 dias** (+27.3% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jean-Philippe Mateta (92)** — 78k coins, **+68% em 7 dias** (+29.2% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jade Le Guilly (89)** — 46k coins, **+68.5% em 7 dias** (+26.4% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jade Le Guilly (89)** — 46k coins, **+50.4% em 7 dias** (+23% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maxence Lacroix (87)** — 150k coins, **+53.8% em 7 dias** (+31.6% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maghnes Akliouche (88)** — 24k coins, **+45.6% em 7 dias** (+32% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marie Katoto (89)** — 160k coins, **+45.5% em 7 dias** (+2.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wendie Renard (91)** — 65k coins, **+44.4% em 7 dias** (+1.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ludovic Giuly (87)** — 20k coins, **+43.9% em 7 dias** (+12.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Jade Le Guilly (84, D1 Arkema) lidera, com +79.6% em 7 dias a 24k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ousmane Dembélé (90, Ligue 1 McDonald's) lidera, com +70.7% em 7 dias a 69k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
@@ -106,7 +106,6 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Franceses em 24/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-24-pc/)
 - [Mercado EA FC em 24/07: Franceses — PC](/posts/mercado-ea-fc-2026-07-24-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
