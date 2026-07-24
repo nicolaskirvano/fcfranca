@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T13:50:10.000Z
+pubDatetime: 2026-07-24T16:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 24/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.597 coins.
-- **Posição mais frequente:** RM, com 4 cartas.
+- **Preço médio das 15 opções:** 12.493 coins.
+- **Posição mais frequente:** RM, com 5 cartas.
 - **Faixa real:** 1.900 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -40,41 +40,41 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | +17% |
-| Selma Bacha | 87 | LB | D1 Arkema | 11.750 coins | -7.4% |
-| Louisa Necib | 87 | LM | D1 Arkema | 12.750 coins | +6.4% |
-| Laura Georges | 87 | CB | D1 Arkema | 13.000 coins | +2.2% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.500 coins | +8% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | 0% |
+| Claire Lavogez | 88 | ST | Liga F | 14.000 coins | +11.1% |
+| Sonia Bompastor | 88 | LB | D1 Arkema | 14.500 coins | +1.8% |
+| Louisa Necib | 87 | LM | D1 Arkema | 12.500 coins | +2% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.750 coins | +6% |
+| Laura Georges | 87 | CB | D1 Arkema | 13.500 coins | +17.4% |
+| Selma Bacha | 87 | LB | D1 Arkema | 14.750 coins | 0% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.000 coins | -2.1% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 12.750 coins | -4.1% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.500 coins | 0% |
-| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 14.250 coins | -9.1% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14.750 coins | +16.7% |
-| Delphine Cascarino | 85 | RM | NWSL | 1.900 coins | +18.8% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2.300 coins | +50% |
-| Dayot Upamecano | 85 | CB | Bundesliga | 3.200 coins | +34.8% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 8.800 coins | -1.1% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.000 coins | +2.1% |
+| Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12.250 coins | -7.5% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 13.250 coins | +3.8% |
+| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.250 coins | -1.9% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 13.750 coins | +12.2% |
+| Maëlle Garbino | 86 | RM | D1 Arkema | 14.500 coins | -9.1% |
+| Delphine Cascarino | 85 | RM | NWSL | 1.900 coins | +11.8% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.000 coins**
 
-- **Selma Bacha (87, LB)** da D1 Arkema, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **14.000 coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12.750 coins**
+- **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **14.500 coins**
 
-- **Laura Georges (87, CB)** da D1 Arkema, a apenas **13.000 coins**
+- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12.500 coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **12.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Selma Bacha (87, LB) por 11.750 coins é a referência de rating deste recorte.
+- **Defesa:** Sonia Bompastor (88, LB) por 14.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Louisa Necib (87, LM) por 12.750 coins é a referência de rating deste recorte.
+- **Meio:** Louisa Necib (87, LM) por 12.500 coins é a referência de rating deste recorte.
 
 - **Ataque:** Jean-Pierre Papin (89, ST) por 13.000 coins é a referência de rating deste recorte.
 
