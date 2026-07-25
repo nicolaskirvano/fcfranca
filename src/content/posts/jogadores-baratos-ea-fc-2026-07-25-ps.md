@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T19:50:10.000Z
+pubDatetime: 2026-07-25T22:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 12.183 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 11.000 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.187 coins.
+- **Posição mais frequente:** RW, com 3 cartas.
+- **Faixa real:** 1.800 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,19 +42,19 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | -8% |
+| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
-| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | -13.2% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.800 coins | -5.9% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 11.000 coins | -13.7% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.000 coins | -9.1% |
-| Claire Lavogez | 88 | ST | Liga F | 14.750 coins | -13.8% |
+| Claire Lavogez | 88 | ST | Liga F | 11.250 coins | -12.5% |
+| Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 11.750 coins | -5.8% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13.250 coins | +10.4% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 11.750 coins | -1.3% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.500 coins | -9.6% |
-| Selma Bacha | 87 | LB | D1 Arkema | 14.750 coins | +13.5% |
-| Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.750 coins | -6% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 12.250 coins | -3.8% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11.750 coins | -7.4% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.750 coins | -5.8% |
+| Laura Georges | 87 | CB | D1 Arkema | 13.750 coins | -9.8% |
 
 
 ## 📈 Destaques
