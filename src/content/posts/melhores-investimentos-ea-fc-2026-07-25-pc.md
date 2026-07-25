@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:50:18.000Z
+pubDatetime: 2026-07-25T19:50:18.000Z
 title: "Investimentos EA FC: Franceses em 25/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Florian Thauvin (87, Ligue 1 McDonald's) lidera, com +40.9% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Louisa Necib (88, D1 Arkema) lidera, com +80.2% em 7 dias a 86k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Florian Thauvin (87) acumula **+40.9% em 7 dias** a 60k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Louisa Necib (88) acumula **+80.2% em 7 dias** a 86k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 25/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-25-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.6% em 24h** e **+11.7% em 7 dias**.
-- **2 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.4% em 24h** e **+19.7% em 7 dias**.
+- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 60k coins | +28.3% | +40.9% | Esticada |
+| Louisa Necib | 88 | D1 Arkema | 86k coins | +13.1% | +80.2% | Esticada |
+| Maghnes Akliouche | 84 | Ligue 1 McDonald's | 24k coins | +33.3% | +28% | Esticada |
+| Hugo Ekitiké | 86 | Premier League | 53k coins | +6% | +26.2% | Momentum moderado |
 | Han-Noah Massengo | 84 | Bundesliga | 42k coins | +5.6% | +21.4% | Momentum moderado |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +7.1% | +13.2% | Momentum moderado |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 36k coins | +26.6% | +11.7% | Esticada |
-| Tara Elimbi Gilbert | 86 | D1 Arkema | 19.000 coins | +9.6% | +9.6% | Momentum moderado |
-| Florian Thauvin | 85 | Ligue 1 McDonald's | 35k coins | +18.9% | +8.2% | Momentum moderado |
-| Yanis Issoufou | 84 | Ligue 2 BKT | 47k coins | +3.3% | +6.9% | Entrada a observar |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 58k coins | +18% | +18% | Momentum moderado |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 50k coins | +11.7% | +15.6% | Momentum moderado |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +8.4% | +9.1% | Momentum moderado |
+| Rayane Messi | 89 | Brasileirão | 20k coins | +23.1% | +6.7% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Florian Thauvin (87)** — 60k coins, **+40.9% em 7 dias** (+28.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Louisa Necib (88)** — 86k coins, **+80.2% em 7 dias** (+13.1% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Maghnes Akliouche (84)** — 24k coins, **+28% em 7 dias** (+33.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Hugo Ekitiké (86)** — 53k coins, **+26.2% em 7 dias** (+6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Han-Noah Massengo (84)** — 42k coins, **+21.4% em 7 dias** (+5.6% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Benjamin Pavard (86)** — 45k coins, **+13.2% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Mohamed Simakan (86)** — 36k coins, **+11.7% em 7 dias** (+26.6% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Tara Elimbi Gilbert (86)** — 19.000 coins, **+9.6% em 7 dias** (+9.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Thauvin (87)** — 58k coins, **+18% em 7 dias** (+18% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +81,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Florian Thauvin (87, Ligue 1 McDonald's) lidera, com +40.9% em 7 dias a 60k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Louisa Necib (88, D1 Arkema) lidera, com +80.2% em 7 dias a 86k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
