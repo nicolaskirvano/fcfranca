@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:40:05.000Z
+pubDatetime: 2026-07-25T10:50:17.000Z
 title: "Mercado EA FC em 25/07: Franceses — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Camille Abily (91), -50% em 24h, a 30k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 49 cartas em alta contra 73 em queda (média -7.52%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 50 cartas em alta contra 73 em queda (média -7.49%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Hoje (**25/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **49 subiram**, **73 caíram** (80+ e 5k+ coins), média de **-7.52%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Hoje (**25/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maioria das cartas recuou — **50 subiram**, **73 caíram** (80+ e 5k+ coins), média de **-7.49%** em 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
 > 🟢 **Maior alta:** Thierry Henry (91) **+53.4%** · 🔴 **Maior baixa:** Camille Abily (91) **-50%**
 
@@ -36,7 +36,7 @@ Hoje (**25/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 103.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.2% entre as cartas que se moveram; o universo observado reúne 152 cartas.
+- **Participação das altas:** 40.7% entre as cartas que se moveram; o universo observado reúne 152 cartas.
 - **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -48,11 +48,11 @@ Hoje (**25/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 | Désiré Doué | 91 | Ligue 1 McDonald's | 300k coins | +37.8% | -39.9% |
 | Désiré Doué | 91 | Ligue 1 McDonald's | 2M coins | +34.7% | +33.8% |
 | Mohamed Simakan | 86 | ROSHN Saudi League | 42k coins | +29.7% | +14.5% |
-| Claire Lavogez | 88 | Liga F | 30k coins | +25% | -2.6% |
+| Corentin Tolisso | 85 | Ligue 1 McDonald's | 29k coins | +27.5% | +34.9% |
+| Claire Lavogez | 88 | Liga F | 29k coins | +25% | -2.6% |
 | Han-Noah Massengo | 84 | Bundesliga | 42k coins | +21.4% | +21.4% |
 | Jade Le Guilly | 89 | D1 Arkema | 55k coins | +20.9% | +103.7% |
 | Pablo Pagis | 80 | Ligue 1 McDonald's | 48k coins | +18.8% | +8% |
-| David Ginola | 90 | Ligue 1 McDonald's | 3.20M coins | +18.5% | +68.4% |
 
 
 ### Análise das altas
@@ -75,13 +75,13 @@ Hoje (**25/07/2026**, PC) o Ultimate Team está em clima **vendedor** — a maio
 | Camille Abily | 91 | Icons | 30k coins | -50% | -50% |
 | Ferland Mendy | 87 | LALIGA EA SPORTS | 24k coins | -48.4% | -59.2% |
 | Karim Benzema | 88 | ROSHN Saudi League | 112k coins | -44.8% | -24.8% |
-| Antoine Griezmann | 91 | LALIGA EA SPORTS | 117k coins | -44% | -46.8% |
 | Sakina Karchaoui | 88 | D1 Arkema | 45k coins | -43.1% | -45.2% |
+| Antoine Griezmann | 91 | LALIGA EA SPORTS | 117k coins | -42.9% | -46.8% |
 | William Saliba | 94 | Premier League | 311k coins | -37.8% | -30.9% |
+| Arthur Atta | 85 | Serie A TIM | 48k coins | -34% | -2.5% |
 | Patrick Vieira | 90 | Icons | 400k coins | -33.3% | -42% |
-| Arthur Atta | 85 | Serie A TIM | 48k coins | -33% | -1% |
 | Hugo Ekitiké | 86 | Premier League | 23k coins | -32.4% | -30.4% |
-| Michael Olise | 87 | Bundesliga | 270k coins | -32.3% | -41.9% |
+| Michael Olise | 87 | Bundesliga | 270k coins | -32% | -41.9% |
 
 
 ### Análise das baixas
@@ -115,7 +115,7 @@ Thierry Henry (91, Icons), com +53.4% em 24h, a 2.30M coins no PC.
 Camille Abily (91), -50% em 24h, a 30k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 49 cartas em alta contra 73 em queda (média -7.52%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 50 cartas em alta contra 73 em queda (média -7.49%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

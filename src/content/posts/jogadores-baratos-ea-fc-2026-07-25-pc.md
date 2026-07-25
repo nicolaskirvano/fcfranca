@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:40:07.000Z
+pubDatetime: 2026-07-25T10:50:19.000Z
 title: "Jogadores baratos EA FC: Franceses em 25/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 10.210 coins.
+- **Preço médio das 6 opções:** 8.758 coins.
 - **Posição mais frequente:** ST, com 1 cartas.
-- **Faixa real:** 7.600 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,7 +40,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | -10.3% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | -3.7% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 1.500 coins | +36.4% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11.000 coins | 0% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 10.750 coins | -6.5% |
 | Delphine Cascarino | 85 | RM | NWSL | 8.700 coins | +2.1% |
@@ -51,18 +52,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
+- **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Delphine Cascarino (85, RM)** da NWSL, a apenas **8.700 coins**
 
-- **Benjamin Pavard (84, CB)** da Serie A Enilive, a apenas **7.600 coins**
-
 
 ## Como distribuir a banca
 
-- **Defesa:** Sonia Bompastor (86, LB) por 10.750 coins é a referência de rating deste recorte.
+- **Defesa:** Jules Koundé (87, RB) por 1.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Louisa Necib (87, LM) por 11.000 coins é a referência de rating deste recorte.
 

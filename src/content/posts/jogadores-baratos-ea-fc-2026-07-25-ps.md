@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:39:58.000Z
+pubDatetime: 2026-07-25T10:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 9.993 coins.
+- **Preço médio das 15 opções:** 9.427 coins.
 - **Posição mais frequente:** ST, com 5 cartas.
-- **Faixa real:** 1.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.600 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.250 coins | -7.1% |
-| Claire Lavogez | 88 | ST | Liga F | 13.500 coins | -6.7% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.250 coins | -5.5% |
+| Claire Lavogez | 88 | ST | Liga F | 13.000 coins | -6.7% |
 | Louisa Necib | 87 | LM | D1 Arkema | 12.000 coins | +2.1% |
 | Laura Georges | 87 | CB | D1 Arkema | 13.500 coins | +14.9% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 14.250 coins | +5.6% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.000 coins | +4.2% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
 | Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 12.250 coins | +8% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 12.500 coins | +4.2% |
-| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14.750 coins | -6.8% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 13.750 coins | -6.8% |
+| Maëlle Garbino | 86 | RM | D1 Arkema | 14.250 coins | +7.1% |
 | Antoine Griezmann | 85 | ST | LALIGA EA SPORTS | 1.700 coins | +6.2% |
 | N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 2.100 coins | -12.5% |
-| Karim Benzema | 85 | ST | ROSHN Saudi League | 10.000 coins | -1% |
+| Karim Benzema | 85 | ST | ROSHN Saudi League | 5.900 coins | -1% |
 | Florian Thauvin | 85 | ST | Ligue 1 McDonald's | 13.500 coins | -3.4% |
-| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.000 coins | +16.7% |
-| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 3.100 coins | +43.8% |
+| Aurélien Tchouaméni | 84 | CDM | LALIGA EA SPORTS | 1.600 coins | +43.8% |
+| Benjamin Pavard | 84 | CB | Ligue 1 McDonald's | 2.100 coins | +16.7% |
 
 
 ## 📈 Destaques
 
 - **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Claire Lavogez (88, ST)** da Liga F, a apenas **13.500 coins**
+- **Claire Lavogez (88, ST)** da Liga F, a apenas **13.000 coins**
 
 - **Louisa Necib (87, LM)** da D1 Arkema, a apenas **12.000 coins**
 
 - **Laura Georges (87, CB)** da D1 Arkema, a apenas **13.500 coins**
 
-- **Ludovic Giuly (87, RM)** da Ligue 1 McDonald's, a apenas **14.250 coins**
+- **Ludovic Giuly (86, RM)** da Ligue 1 McDonald's, a apenas **11.000 coins**
 
 
 ## Como distribuir a banca

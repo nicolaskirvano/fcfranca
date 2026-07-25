@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:39:57.000Z
+pubDatetime: 2026-07-25T10:50:09.000Z
 title: "Investimentos EA FC: Franceses em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+11.1% em 24h** e **+22.0% em 7 dias**.
-- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.2% em 24h** e **+18.7% em 7 dias**.
+- **3 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,32 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Annaïg Butel | 86 | D1 Arkema | 30k coins | +22.7% | +45.1% | Esticada |
-| Grace Kazadi | 87 | D1 Arkema | 23k coins | +10.6% | +34.3% | Momentum moderado |
-| Emelyne Laurent | 86 | D1 Arkema | 47k coins | +39% | +31.2% | Esticada |
-| Han-Noah Massengo | 84 | Bundesliga | 45k coins | +11.1% | +28.6% | Momentum moderado |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 45k coins | +7.1% | +28.4% | Momentum moderado |
-| Tristan Crama | 86 | EFL Championship | 48k coins | +18.4% | +26.8% | Momentum moderado |
-| Wendie Renard | 86 | D1 Arkema | 46k coins | +39.4% | +26.1% | Esticada |
+| Grace Kazadi | 87 | D1 Arkema | 23k coins | +13.3% | +34.3% | Momentum moderado |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 50k coins | +9.6% | +29.8% | Momentum moderado |
+| Han-Noah Massengo | 84 | Bundesliga | 45k coins | +12.5% | +28.6% | Momentum moderado |
+| Tristan Crama | 86 | EFL Championship | 48k coins | +19.7% | +28.2% | Momentum moderado |
 | Matthieu Udol | 84 | Ligue 1 McDonald's | 50k coins | +25% | +22% | Esticada |
-| Sonia Bompastor | 86 | D1 Arkema | 15.250 coins | +20.8% | +20.8% | Esticada |
-| Louisa Necib | 88 | D1 Arkema | 29k coins | +3.4% | +17.6% | Entrada a observar |
-| Mike Maignan | 88 | Serie A TIM | 42k coins | +27.5% | +16.6% | Esticada |
+| Sonia Bompastor | 86 | D1 Arkema | 15.250 coins | +18.4% | +20.8% | Momentum moderado |
+| Mike Maignan | 88 | Serie A TIM | 42k coins | +25.7% | +16.6% | Esticada |
+| Louisa Necib | 88 | D1 Arkema | 29k coins | +3.4% | +16.5% | Entrada a observar |
 | Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +6.1% | +16.4% | Momentum moderado |
-| Wilson Odobert | 87 | Premier League | 36k coins | +9.8% | +13.3% | Momentum moderado |
 | Yanis Issoufou | 84 | Ligue 2 BKT | 38k coins | +3.7% | +11.8% | Entrada a observar |
-| Laurent Blanc | 88 | Icons | 92k coins | +2.7% | +7.3% | Entrada a observar |
+| Wilson Odobert | 87 | Premier League | 36k coins | +9.8% | +11.5% | Momentum moderado |
+| Robert Pirès | 87 | Icons | 70k coins | +6.8% | +6.8% | Momentum moderado |
+| Laurent Blanc | 88 | Icons | 91k coins | +2.7% | +6.1% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
 - **Annaïg Butel (86)** — 30k coins, **+45.1% em 7 dias** (+22.7% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Grace Kazadi (87)** — 23k coins, **+34.3% em 7 dias** (+10.6% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Grace Kazadi (87)** — 23k coins, **+34.3% em 7 dias** (+13.3% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emelyne Laurent (86)** — 47k coins, **+31.2% em 7 dias** (+39% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Thauvin (87)** — 50k coins, **+29.8% em 7 dias** (+9.6% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Han-Noah Massengo (84)** — 45k coins, **+28.6% em 7 dias** (+11.1% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Han-Noah Massengo (84)** — 45k coins, **+28.6% em 7 dias** (+12.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (87)** — 45k coins, **+28.4% em 7 dias** (+7.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tristan Crama (86)** — 48k coins, **+28.2% em 7 dias** (+19.7% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

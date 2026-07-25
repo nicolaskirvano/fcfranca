@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:40:06.000Z
+pubDatetime: 2026-07-25T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 25/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.2% em 24h** e **+20.0% em 7 dias**.
-- **3 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+7.1% em 24h** e **+20.0% em 7 dias**.
+- **4 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Laurent Blanc | 88 | Icons | 140k coins | +4.5% | +85.4% | Esticada |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 74k coins | +6.4% | +56% | Momentum moderado |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 75k coins | +6.4% | +56% | Momentum moderado |
 | Armand Laurienté | 86 | Serie A TIM | 33k coins | +4.8% | +36.1% | Momentum moderado |
+| Corentin Tolisso | 85 | Ligue 1 McDonald's | 29k coins | +27.5% | +34.9% | Esticada |
+| Franck Honorat | 85 | Bundesliga | 24k coins | +1.1% | +29.7% | Momentum moderado |
 | Theo Hernández | 88 | ROSHN Saudi League | 144k coins | +2.1% | +29.7% | Momentum moderado |
 | Han-Noah Massengo | 84 | Bundesliga | 42k coins | +21.4% | +21.4% | Esticada |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 29k coins | +14.3% | +20.9% | Momentum moderado |
 | Lilian Raolisoa | 84 | Ligue 1 McDonald's | 45k coins | +13.9% | +20% | Momentum moderado |
 | Mike Maignan | 88 | Serie A TIM | 52k coins | +17.3% | +20% | Momentum moderado |
 | Khéphren Thuram | 87 | Serie A TIM | 90k coins | +7.1% | +20% | Momentum moderado |
 | Tristan Crama | 86 | EFL Championship | 49k coins | +8.2% | +17.3% | Momentum moderado |
+| Adrien Thomasson | 85 | Ligue 1 McDonald's | 23k coins | +6.9% | +16.2% | Momentum moderado |
 | Yoan Bonny | 86 | Serie A TIM | 80k coins | +2.9% | +14.6% | Entrada a observar |
 | Mohamed Simakan | 86 | ROSHN Saudi League | 42k coins | +29.7% | +14.5% | Esticada |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 23k coins | +6.9% | +10.7% | Momentum moderado |
 | Jonathan Ikoné | 86 | Ligue 1 McDonald's | 47k coins | +8.6% | +9.2% | Momentum moderado |
-| Emelyne Laurent | 86 | D1 Arkema | 45k coins | +9.5% | +7.5% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Laurent Blanc (88)** — 140k coins, **+85.4% em 7 dias** (+4.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (87)** — 74k coins, **+56% em 7 dias** (+6.4% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Florian Thauvin (87)** — 75k coins, **+56% em 7 dias** (+6.4% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Armand Laurienté (86)** — 33k coins, **+36.1% em 7 dias** (+4.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Theo Hernández (88)** — 144k coins, **+29.7% em 7 dias** (+2.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Corentin Tolisso (85)** — 29k coins, **+34.9% em 7 dias** (+27.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Han-Noah Massengo (84)** — 42k coins, **+21.4% em 7 dias** (+21.4% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franck Honorat (85)** — 24k coins, **+29.7% em 7 dias** (+1.1% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
