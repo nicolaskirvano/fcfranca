@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:50:19.000Z
+pubDatetime: 2026-07-25T13:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 25/07 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 25/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/07/2026)?"
-    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13.000 coins no PC."
+    a: "Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12.500 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 13.000 coins.
+> 💰 **Melhor pechincha:** Jean-Pierre Papin (89) por apenas 12.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Franceses em 25/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-25-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 8.758 coins.
-- **Posição mais frequente:** ST, com 1 cartas.
-- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 6 opções:** 11.342 coins.
+- **Posição mais frequente:** RM, com 2 cartas.
+- **Faixa real:** 7.600 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 13.000 coins | -3.7% |
-| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 1.500 coins | +36.4% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11.000 coins | 0% |
-| Sonia Bompastor | 86 | LB | D1 Arkema | 10.750 coins | -6.5% |
-| Delphine Cascarino | 85 | RM | NWSL | 8.700 coins | +2.1% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12.500 coins | 0% |
+| Grace Kazadi | 87 | RB | D1 Arkema | 14.000 coins | 0% |
+| Ludovic Blas | 86 | RM | Ligue 1 McDonald's | 14.750 coins | -3.3% |
+| Delphine Cascarino | 85 | RM | NWSL | 9.200 coins | -5.2% |
 | Benjamin Pavard | 84 | CB | Serie A Enilive | 7.600 coins | 0% |
+| Pauline Peyraud-Magnin | 83 | GK | Calcio A Femminile | 10.000 coins | +42.9% |
 
 
 ## 📈 Destaques
 
-- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Jean-Pierre Papin (89, ST)** da Ligue 1 McDonald's, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Jules Koundé (87, RB)** da LALIGA EA SPORTS, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Grace Kazadi (87, RB)** da D1 Arkema, a apenas **14.000 coins**
 
-- **Louisa Necib (87, LM)** da D1 Arkema, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Ludovic Blas (86, RM)** da Ligue 1 McDonald's, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sonia Bompastor (86, LB)** da D1 Arkema, a apenas **10.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Delphine Cascarino (85, RM)** da NWSL, a apenas **9.200 coins**
 
-- **Delphine Cascarino (85, RM)** da NWSL, a apenas **8.700 coins**
+- **Benjamin Pavard (84, CB)** da Serie A Enilive, a apenas **7.600 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Jules Koundé (87, RB) por 1.500 coins é a referência de rating deste recorte.
+- **Defesa:** Grace Kazadi (87, RB) por 14.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Louisa Necib (87, LM) por 11.000 coins é a referência de rating deste recorte.
+- **Meio:** Ludovic Blas (86, RM) por 14.750 coins é a referência de rating deste recorte.
 
-- **Ataque:** Jean-Pierre Papin (89, ST) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Jean-Pierre Papin (89, ST) por 12.500 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -86,7 +86,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/07/2026)?**  
-Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 13.000 coins no PC.
+Jean-Pierre Papin (89, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 12.500 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
