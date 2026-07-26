@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:50:11.000Z
+pubDatetime: 2026-07-26T13:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 26/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 26/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (26/07/2026)?"
-    a: "Allan Saint-Maximin (92, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
+    a: "Camille Abily (92, Icons) aparece como melhor custo-benefício, a 11.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **26/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Allan Saint-Maximin (92) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Camille Abily (92) por apenas 11.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Franceses em 26/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-26-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.757 coins.
-- **Posição mais frequente:** RW, com 3 cartas.
-- **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.547 coins.
+- **Posição mais frequente:** CM, com 4 cartas.
+- **Faixa real:** 1.500 a 13.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,34 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
-| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
-| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
+| Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11.500 coins | -13.2% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 1.500 coins | +15.4% |
+| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.500 coins | +7.1% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 13.750 coins | +17% |
-| Claire Lavogez | 88 | ST | Liga F | 13.750 coins | +1.9% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.750 coins | +9.3% |
-| Sakina Karchaoui | 87 | CM | Arkema PL | 1.600 coins | +33.3% |
+| Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 12.250 coins | -7.3% |
+| Sakina Karchaoui | 87 | CM | Arkema PL | 1.500 coins | +36.4% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11.500 coins | -4.2% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.500 coins | -5.3% |
+| Laura Georges | 87 | CB | D1 Arkema | 11.000 coins | -8.5% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11.000 coins | +6.4% |
+| Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 13.250 coins | +6% |
+| Antoine Griezmann | 85 | ST | LALIGA EA SPORTS | 1.700 coins | -5.6% |
 
 
 ## 📈 Destaques
 
-- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Camille Abily (92, CM)** da Icons, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -95,7 +95,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (26/07/2026)?**  
-Allan Saint-Maximin (92, Ligue 1 McDonald's) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
+Camille Abily (92, Icons) aparece como melhor custo-benefício, a 11.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
