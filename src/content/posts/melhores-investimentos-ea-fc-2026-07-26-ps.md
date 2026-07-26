@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:40:26.000Z
+pubDatetime: 2026-07-26T10:50:09.000Z
 title: "Investimentos EA FC: Franceses em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -52,7 +52,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Florian Thauvin | 87 | Ligue 1 McDonald's | 50k coins | +9.3% | +25.8% | Momentum moderado |
 | Wendie Renard | 86 | D1 Arkema | 50k coins | +1% | +24.2% | Entrada a observar |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 52k coins | +9.4% | +22.1% | Momentum moderado |
-| Griedge Mbock | 86 | D1 Arkema | 42k coins | +8.3% | +10.5% | Momentum moderado |
+| Griedge Mbock | 86 | D1 Arkema | 42k coins | +7.6% | +10.5% | Momentum moderado |
 | Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 42k coins | +3.1% | +9.1% | Entrada a observar |
 | Yanis Issoufou | 84 | Ligue 2 BKT | 48k coins | +4.4% | +7.3% | Entrada a observar |
 | Jean-Philippe Mateta | 84 | Premier League | 43k coins | +6.9% | +6.9% | Momentum moderado |

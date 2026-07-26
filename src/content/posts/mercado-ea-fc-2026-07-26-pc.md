@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:40:34.000Z
+pubDatetime: 2026-07-26T10:50:17.000Z
 title: "Mercado EA FC em 26/07: Franceses — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Eduardo Camavinga (87), -49.5% em 24h, a 475k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 64 cartas em alta contra 78 em queda (média 6.66%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 63 cartas em alta contra 77 em queda (média 6.97%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **64 subiram** e **78 caíram**, com variação média de **6.66%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **63 subiram** e **77 caíram**, com variação média de **6.97%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Olivier Giroud (89) **+54.2%** · 🔴 **Maior baixa:** Eduardo Camavinga (87) **-49.5%**
 
@@ -36,7 +36,7 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 103.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.1% entre as cartas que se moveram; o universo observado reúne 189 cartas.
+- **Participação das altas:** 45.0% entre as cartas que se moveram; o universo observado reúne 179 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -46,13 +46,13 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 | Olivier Giroud | 89 | Ligue 1 McDonald's | 69k coins | +54.2% | +11.3% |
 | Ludovic Giuly | 88 | LALIGA EA SPORTS | 29k coins | +47.4% | +42% |
 | Antoine Griezmann | 91 | LALIGA EA SPORTS | 168k coins | +43.6% | -23.6% |
-| Ferland Mendy | 87 | LALIGA EA SPORTS | 35k coins | +42.9% | -27.1% |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 35k coins | +42.9% | -26.3% |
 | Rayan Cherki | 87 | Premier League | 70k coins | +42.4% | 0% |
 | Matthieu Udol | 84 | Ligue 1 McDonald's | 50k coins | +42.1% | +3.1% |
 | Marinette Pichon | 90 | Icons | 84k coins | +40.8% | +5.6% |
 | Paul Pogba | 92 | Ligue 1 McDonald's | 1.69M coins | +40.8% | -39.7% |
 | Michael Olise | 87 | Bundesliga | 380k coins | +40.7% | -23.2% |
-| Wendie Renard | 86 | D1 Arkema | 22k coins | +33.8% | +11.5% |
+| Wendie Renard | 86 | D1 Arkema | 22k coins | +33.8% | +13% |
 
 
 ### Análise das altas
@@ -75,13 +75,13 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aqueci
 | Eduardo Camavinga | 87 | LALIGA EA SPORTS | 475k coins | -49.5% | -42.8% |
 | Désiré Doué | 91 | Ligue 1 McDonald's | 166k coins | -44.1% | -72.8% |
 | Antoine Griezmann | 87 | LALIGA EA SPORTS | 30k coins | -41.9% | -37.8% |
+| N'Golo Kanté | 89 | ROSHN Saudi League | 158k coins | -40.6% | -50.9% |
 | Bradley Barcola | 87 | Ligue 1 McDonald's | 58k coins | -39.5% | -71.2% |
-| Arthur Atta | 85 | Serie A TIM | 30k coins | -38.7% | -60.3% |
+| Arthur Atta | 85 | Serie A TIM | 30k coins | -38.3% | -60.3% |
 | Jean-Mattéo Bahoya | 89 | Bundesliga | 47k coins | -37.7% | -21.4% |
 | Karim Benzema | 87 | ROSHN Saudi League | 69k coins | -37.3% | -28.1% |
 | Eric Cantona | 89 | Icons | 68k coins | -36.4% | -64.2% |
 | Moussa Sissoko | 88 | EFL Championship | 174k coins | -35.6% | -50.3% |
-| William Saliba | 94 | Premier League | 200k coins | -34.9% | -60% |
 
 
 ### Análise das baixas
@@ -115,7 +115,7 @@ Olivier Giroud (89, Ligue 1 McDonald's), com +54.2% em 24h, a 69k coins no PC.
 Eduardo Camavinga (87), -49.5% em 24h, a 475k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 64 cartas em alta contra 78 em queda (média 6.66%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 63 cartas em alta contra 77 em queda (média 6.97%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:40:35.000Z
+pubDatetime: 2026-07-26T10:50:19.000Z
 title: "Investimentos EA FC: Franceses em 26/07 — PC"
 draft: false
 featured: true
@@ -48,7 +48,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Florian Sotoca | 85 | Ligue 1 McDonald's | 32k coins | +31.3% | +36.8% | Esticada |
 | Mohamed Simakan | 86 | ROSHN Saudi League | 48k coins | +16.9% | +36.6% | Momentum moderado |
 | Sandy Baltimore | 87 | Barclays WSL | 52k coins | +15.1% | +32.1% | Momentum moderado |
-| Hugo Ekitiké | 86 | Premier League | 55k coins | +10% | +30.2% | Momentum moderado |
+| Hugo Ekitiké | 86 | Premier League | 55k coins | +10% | +29.4% | Momentum moderado |
 | Marie Katoto | 89 | Frauen-Bundesliga | 160k coins | +27% | +23.1% | Esticada |
 | Mike Maignan | 88 | Serie A TIM | 60k coins | +14.3% | +20.6% | Momentum moderado |
 | Malo Gusto | 84 | Premier League | 48k coins | +15.8% | +19.4% | Momentum moderado |
@@ -57,7 +57,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Tanguy Ndombele | 85 | Ligue 1 McDonald's | 38k coins | +23% | +11.1% | Esticada |
 | Camille Abily | 90 | Icons | 74k coins | +9.6% | +9.6% | Momentum moderado |
 | Kouadio Manu Koné | 88 | Serie A TIM | 98k coins | +11.4% | +8.3% | Momentum moderado |
-| Marcel Desailly | 88 | Icons | 84k coins | +9.8% | +6.3% | Momentum moderado |
+| Marcel Desailly | 88 | Icons | 84k coins | +10.5% | +6.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques

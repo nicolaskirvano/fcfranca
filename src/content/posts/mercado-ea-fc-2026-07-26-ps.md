@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:40:25.000Z
+pubDatetime: 2026-07-26T10:50:08.000Z
 title: "Mercado EA FC em 26/07: Franceses — Console (PS)"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
     a: "Camille Abily (90, Icons), com +58.8% em 24h, a 108k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Kouadio Manu Koné (88), -42.9% em 24h, a 40k coins."
+    a: "Kouadio Manu Koné (88), -42.4% em 24h, a 40k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 77 cartas em alta contra 69 em queda (média 7.3%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 76 cartas em alta contra 70 em queda (média 7.72%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **77 subiram** e **69 caíram**, com variação média de **7.3%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **76 subiram** e **70 caíram**, com variação média de **7.72%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Camille Abily (90) **+58.8%** · 🔴 **Maior baixa:** Kouadio Manu Koné (88) **-42.9%**
+> 🟢 **Maior alta:** Camille Abily (90) **+58.8%** · 🔴 **Maior baixa:** Kouadio Manu Koné (88) **-42.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Franceses — Console (PS)](/charts/mercado-ea-fc-2026-07-26-ps.svg)
 
@@ -35,8 +35,8 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 52.7% entre as cartas que se moveram; o universo observado reúne 188 cartas.
+- **Amplitude do dia:** 101.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 52.1% entre as cartas que se moveram; o universo observado reúne 178 cartas.
 - **Concentração:** Premier League aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -44,15 +44,15 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Camille Abily | 90 | Icons | 108k coins | +58.8% | +35% |
-| Corentin Tolisso | 85 | Ligue 1 McDonald's | 22k coins | +55.2% | -25% |
 | William Saliba | 94 | Premier League | 200k coins | +47.1% | -30.6% |
 | Ousmane Dembélé | 97 | Ligue 1 McDonald's | 790k coins | +44.4% | -18.6% |
 | Hugo Ekitiké | 90 | Premier League | 43k coins | +43.7% | -24.3% |
 | Karim Benzema | 88 | ROSHN Saudi League | 131k coins | +42.4% | +31% |
-| Franck Ribéry | 88 | Icons | 160k coins | +41.6% | -5.3% |
 | Hugo Ekitiké | 86 | Premier League | 28k coins | +40% | -6.7% |
+| Franck Ribéry | 88 | Icons | 160k coins | +37.9% | -5.3% |
 | Olivier Giroud | 89 | Ligue 1 McDonald's | 28k coins | +37.5% | -7.6% |
 | Jules Koundé | 94 | LALIGA EA SPORTS | 201k coins | +34% | -11.5% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 499k coins | +31.7% | -51.6% |
 
 
 ### Análise das altas
@@ -63,22 +63,22 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Camille Abily (90)** subiu **+58.8%** em 24h, a **108k coins** (faixa do dia: 68k–116k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Corentin Tolisso (85)** subiu **+55.2%** em 24h, a **22k coins** (faixa do dia: 12.000–22k). Está em linha com a média de 7 dias (+2%).
-
 - **William Saliba (94)** subiu **+47.1%** em 24h, a **200k coins** (faixa do dia: 115k–299k). Está -13% abaixo da média de 7 dias (descontada).
+
+- **Ousmane Dembélé (97)** subiu **+44.4%** em 24h, a **790k coins** (faixa do dia: 530k–790k). Está em linha com a média de 7 dias (+6%).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kouadio Manu Koné | 88 | Serie A TIM | 40k coins | -42.9% | -45.6% |
+| Kouadio Manu Koné | 88 | Serie A TIM | 40k coins | -42.4% | -45.6% |
 | Leny Yoro | 86 | Premier League | 45k coins | -40.8% | -35.7% |
 | Zinedine Zidane | 94 | Icons | 320k coins | -39.8% | -52.2% |
 | Camille Abily | 91 | Icons | 34k coins | -37.3% | -31% |
 | Wilson Odobert | 87 | Premier League | 24k coins | -36.5% | -26.6% |
 | Jean-Mattéo Bahoya | 89 | Bundesliga | 24k coins | -34.7% | -55.2% |
-| Paul Pogba | 92 | Ligue 1 McDonald's | 811k coins | -34.1% | -40.1% |
+| Paul Pogba | 92 | Ligue 1 McDonald's | 811k coins | -32.4% | -40% |
 | Annaïg Butel | 86 | D1 Arkema | 20k coins | -31.9% | +17.4% |
 | Rayan Cherki | 87 | Premier League | 26k coins | -27.8% | -73.9% |
 | Ousmane Dembélé | 90 | Ligue 1 McDonald's | 35k coins | -26.3% | -36.4% |
@@ -86,7 +86,7 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ### Análise das baixas
 
-- **Kouadio Manu Koné (88)** caiu **-42.9%** em 24h, a **40k coins** (faixa do dia: 20k–66k). Está -50% abaixo da média de 7 dias (descontada).
+- **Kouadio Manu Koné (88)** caiu **-42.4%** em 24h, a **40k coins** (faixa do dia: 20k–66k). Está -50% abaixo da média de 7 dias (descontada).
 
 - **Leny Yoro (86)** caiu **-40.8%** em 24h, a **45k coins** (faixa do dia: 45k–96k). Está -43% abaixo da média de 7 dias (descontada).
 
@@ -97,7 +97,7 @@ Em **26/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Evite perseguir topo:** Camille Abily já avançou 58.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Kouadio Manu Koné recuou -42.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Kouadio Manu Koné recuou -42.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -112,10 +112,10 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 Camille Abily (90, Icons), com +58.8% em 24h, a 108k coins no Console (PS).
 
 **E a maior queda do dia?**
-Kouadio Manu Koné (88), -42.9% em 24h, a 40k coins.
+Kouadio Manu Koné (88), -42.4% em 24h, a 40k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 77 cartas em alta contra 69 em queda (média 7.3%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 76 cartas em alta contra 70 em queda (média 7.72%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
