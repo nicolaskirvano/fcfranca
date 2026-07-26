@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T16:50:19.000Z
+pubDatetime: 2026-07-26T19:50:18.000Z
 title: "Investimentos EA FC: Franceses em 26/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +77.4% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Tara Elimbi Gilbert (86, D1 Arkema) lidera, com +37% em 7 dias a 18.500 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mattéo Guendouzi (91) acumula **+77.4% em 7 dias** a 100k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Tara Elimbi Gilbert (86) acumula **+37% em 7 dias** a 18.500 coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 26/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-26-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+9.4% em 24h** e **+33.7% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+7.2% em 24h** e **+19.4% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 100k coins | +31% | +77.4% | Esticada |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 48k coins | +2.1% | +49.2% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +15.1% | +39.2% | Momentum moderado |
-| Mike Maignan | 88 | Serie A TIM | 60k coins | +34.4% | +28.2% | Esticada |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 42k coins | +3.7% | +18.3% | Entrada a observar |
-| Emelyne Laurent | 86 | D1 Arkema | 41k coins | +1.8% | +5.5% | Entrada a observar |
+| Tara Elimbi Gilbert | 86 | D1 Arkema | 18.500 coins | +8.8% | +37% | Momentum moderado |
+| Hugo Ekitiké | 86 | Premier League | 52k coins | +2.9% | +22.8% | Entrada a observar |
+| Wendie Renard | 86 | D1 Arkema | 48k coins | +5.6% | +15.9% | Momentum moderado |
+| Lilian Thuram | 88 | Icons | 143k coins | +28.4% | +6.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mattéo Guendouzi (91)** — 100k coins, **+77.4% em 7 dias** (+31% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tara Elimbi Gilbert (86)** — 18.500 coins, **+37% em 7 dias** (+8.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Wesley Saïd (86)** — 48k coins, **+49.2% em 7 dias** (+2.1% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (86)** — 52k coins, **+22.8% em 7 dias** (+2.9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adrien Rabiot (86)** — 53k coins, **+39.2% em 7 dias** (+15.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wendie Renard (86)** — 48k coins, **+15.9% em 7 dias** (+5.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mike Maignan (88)** — 60k coins, **+28.2% em 7 dias** (+34.4% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Mohamed Simakan (86)** — 42k coins, **+18.3% em 7 dias** (+3.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lilian Thuram (88)** — 143k coins, **+6.4% em 7 dias** (+28.4% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +75,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Mattéo Guendouzi (91, Trendyol Süper Lig) lidera, com +77.4% em 7 dias a 100k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Tara Elimbi Gilbert (86, D1 Arkema) lidera, com +37% em 7 dias a 18.500 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
