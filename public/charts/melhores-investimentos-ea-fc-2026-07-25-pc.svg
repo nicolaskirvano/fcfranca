@@ -6,20 +6,20 @@
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Louisa Necib</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+75.6%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+80.2%</text>
 <text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emmanuel Petit</text>
-<rect x="285" y="153" width="442" height="28" rx="7" fill="#22c55e"/>
-<text x="737" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+69.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wesley Saïd</text>
-<rect x="285" y="211" width="225" height="28" rx="7" fill="#22c55e"/>
-<text x="520" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.4%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hugo Ekitiké</text>
-<rect x="285" y="269" width="161" height="28" rx="7" fill="#22c55e"/>
-<text x="456" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.4%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Han-Noah Massengo</text>
-<rect x="285" y="327" width="136" height="28" rx="7" fill="#22c55e"/>
-<text x="431" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.4%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Jonathan Ikoné</text>
-<rect x="285" y="385" width="84" height="28" rx="7" fill="#22c55e"/>
-<text x="379" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.3%</text>
+<rect x="285" y="153" width="364" height="28" rx="7" fill="#22c55e"/>
+<text x="659" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.9%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mattéo Guendouzi</text>
+<rect x="285" y="211" width="346" height="28" rx="7" fill="#22c55e"/>
+<text x="641" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.8%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wesley Saïd</text>
+<rect x="285" y="269" width="294" height="28" rx="7" fill="#22c55e"/>
+<text x="589" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pierre Lees-Melou</text>
+<rect x="285" y="327" width="269" height="28" rx="7" fill="#22c55e"/>
+<text x="564" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hugo Ekitiké</text>
+<rect x="285" y="385" width="195" height="28" rx="7" fill="#22c55e"/>
+<text x="490" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.5%</text>
 </svg>

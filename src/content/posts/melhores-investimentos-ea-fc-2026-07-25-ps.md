@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:50:09.000Z
+pubDatetime: 2026-07-26T01:50:09.000Z
 title: "Investimentos EA FC: Franceses em 25/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 25/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (25/07/2026) no EA FC?"
-    a: "Florian Thauvin (87, Ligue 1 McDonald's) lidera, com +41.8% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Jean-Philippe Mateta (84, Premier League) lidera, com +12.5% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Florian Thauvin (87) acumula **+41.8% em 7 dias** a 50k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Jean-Philippe Mateta (84) acumula **+12.5% em 7 dias** a 44k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 25/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-25-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **25/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+22.7% em 24h** e **+18.4% em 7 dias**.
-- **4 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.9% em 24h** e **+10.8% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,26 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 50k coins | +22.7% | +41.8% | Esticada |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 42k coins | +38.5% | +36.7% | Esticada |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 45k coins | +25% | +22.7% | Esticada |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +12.5% | +18.4% | Momentum moderado |
-| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 48k coins | +6.3% | +8.8% | Momentum moderado |
-| Yanis Issoufou | 84 | Ligue 2 BKT | 48k coins | +25% | +7.3% | Esticada |
-| Sakina Karchaoui | 88 | D1 Arkema | 68k coins | +13.4% | +5.5% | Momentum moderado |
+| Jean-Philippe Mateta | 84 | Premier League | 44k coins | +12.5% | +12.5% | Momentum moderado |
+| Karim Benzema | 88 | ROSHN Saudi League | 115k coins | +22.3% | +11.7% | Esticada |
+| Hugo Ekitiké | 87 | Premier League | 61k coins | +3.7% | +11% | Entrada a observar |
+| Sandy Baltimore | 87 | Barclays WSL | 38k coins | +3.3% | +10.7% | Entrada a observar |
+| Yanis Issoufou | 84 | Ligue 2 BKT | 48k coins | +13.1% | +7.3% | Momentum moderado |
+| Marcel Desailly | 88 | Icons | 73k coins | +7.3% | +5.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Florian Thauvin (87)** — 50k coins, **+41.8% em 7 dias** (+22.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jean-Philippe Mateta (84)** — 44k coins, **+12.5% em 7 dias** (+12.5% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jonathan Ikoné (86)** — 42k coins, **+36.7% em 7 dias** (+38.5% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 115k coins, **+11.7% em 7 dias** (+22.3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mahdi Camara (86)** — 45k coins, **+22.7% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (87)** — 61k coins, **+11% em 7 dias** (+3.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mohamed Simakan (86)** — 50k coins, **+18.4% em 7 dias** (+12.5% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandy Baltimore (87)** — 38k coins, **+10.7% em 7 dias** (+3.3% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lilian Raolisoa (84)** — 48k coins, **+8.8% em 7 dias** (+6.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yanis Issoufou (84)** — 48k coins, **+7.3% em 7 dias** (+13.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -80,7 +79,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (25/07/2026) no EA FC?**  
-Florian Thauvin (87, Ligue 1 McDonald's) lidera, com +41.8% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Jean-Philippe Mateta (84, Premier League) lidera, com +12.5% em 7 dias a 44k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
