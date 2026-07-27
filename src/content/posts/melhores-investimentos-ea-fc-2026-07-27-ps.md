@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:40:05.000Z
+pubDatetime: 2026-07-27T10:50:09.000Z
 title: "Investimentos EA FC: Franceses em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.7% em 24h** e **+20.0% em 7 dias**.
-- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+15.5% em 24h** e **+16.5% em 7 dias**.
+- **4 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -45,26 +45,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +26.2% | +26.2% | Esticada |
 | Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +8.4% | +26% | Momentum moderado |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 55k coins | +30.1% | +22.7% | Esticada |
 | Wendie Renard | 86 | D1 Arkema | 54k coins | +4% | +22.4% | Entrada a observar |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 55k coins | +27.7% | +20.5% | Esticada |
-| Adrien Rabiot | 86 | Serie A TIM | 42k coins | +10.7% | +20% | Momentum moderado |
+| Adrien Rabiot | 86 | Serie A TIM | 46k coins | +18.6% | +19.4% | Momentum moderado |
 | Griedge Mbock | 86 | D1 Arkema | 46k coins | +8.3% | +13.7% | Momentum moderado |
-| Malo Gusto | 84 | Premier League | 40k coins | +12.4% | +13% | Momentum moderado |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 15.250 coins | +30.4% | +11.1% | Esticada |
-| Tristan Crama | 86 | EFL Championship | 41k coins | +3.8% | +6.4% | Entrada a observar |
+| Malo Gusto | 84 | Premier League | 53k coins | +12.4% | +13% | Momentum moderado |
+| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 15.250 coins | +32.6% | +13% | Esticada |
+| Franck Ribéry | 88 | Icons | 176k coins | +35% | +8% | Esticada |
+| Tristan Crama | 86 | EFL Championship | 52k coins | +3.8% | +6.4% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Mohamed Simakan (86)** — 50k coins, **+26.2% em 7 dias** (+26.2% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mohamed Simakan (86)** — 50k coins, **+26.2% em 7 dias** (+26.2% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Benjamin Pavard (86)** — 45k coins, **+26% em 7 dias** (+8.4% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
+- **Jonathan Ikoné (86)** — 55k coins, **+22.7% em 7 dias** (+30.1% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
 - **Wendie Renard (86)** — 54k coins, **+22.4% em 7 dias** (+4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jonathan Ikoné (86)** — 55k coins, **+20.5% em 7 dias** (+27.7% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Adrien Rabiot (86)** — 42k coins, **+20% em 7 dias** (+10.7% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adrien Rabiot (86)** — 46k coins, **+19.4% em 7 dias** (+18.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

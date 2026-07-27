@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:40:13.000Z
+pubDatetime: 2026-07-27T10:50:17.000Z
 title: "Mercado EA FC em 27/07: Franceses — PC"
 draft: false
 featured: true
@@ -15,16 +15,16 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (27/07/2026)?"
     a: "Désiré Doué (87, Ligue 1 McDonald's), com +54.4% em 24h, a 176k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Emmanuel Petit (87), -48.2% em 24h, a 102k coins."
+    a: "Emmanuel Petit (87), -48.2% em 24h, a 132k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 60 cartas em alta contra 44 em queda (média 9.05%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 57 cartas em alta contra 48 em queda (média 8.13%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **27/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **60 em alta** e **44 em queda**, média de **9.05%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **27/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **57 em alta** e **48 em queda**, média de **8.13%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Désiré Doué (87) **+54.4%** · 🔴 **Maior baixa:** Emmanuel Petit (87) **-48.2%**
 
@@ -36,7 +36,7 @@ Panorama de **27/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 102.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 57.7% entre as cartas que se moveram; o universo observado reúne 166 cartas.
+- **Participação das altas:** 54.3% entre as cartas que se moveram; o universo observado reúne 165 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
@@ -44,15 +44,15 @@ Panorama de **27/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Désiré Doué | 87 | Ligue 1 McDonald's | 176k coins | +54.4% | -8.8% |
-| Bradley Barcola | 90 | Ligue 1 McDonald's | 55k coins | +48.4% | -45.9% |
 | Loïc Badé | 88 | Bundesliga | 35k coins | +39.4% | +54.3% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 52k coins | +38.4% | -49.5% |
 | Armand Laurienté | 86 | Serie A TIM | 39k coins | +35.7% | +42.1% |
 | Mathilde Bourdieu | 87 | D1 Arkema | 50k coins | +32.5% | +6.4% |
-| Lilian Thuram | 88 | Icons | 146k coins | +30.1% | -8.1% |
+| Lilian Thuram | 88 | Icons | 120k coins | +30.1% | -8.1% |
 | Louisa Necib | 90 | D1 Arkema | 60k coins | +29% | +31.1% |
 | Anaële Le Moguédec | 88 | D1 Arkema | 23k coins | +26% | +2.2% |
 | Dan-Axel Zagadou | 85 | Bundesliga | 30k coins | +25% | 0% |
-| Thierry Henry | 91 | Icons | 919k coins | +22.7% | -26.3% |
+| Thierry Henry | 91 | Icons | 800k coins | +22.5% | -26.4% |
 
 
 ### Análise das altas
@@ -63,32 +63,32 @@ Panorama de **27/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 - **Désiré Doué (87)** subiu **+54.4%** em 24h, a **176k coins** (faixa do dia: 90k–189k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Bradley Barcola (90)** subiu **+48.4%** em 24h, a **55k coins** (faixa do dia: 40k–140k). Está -34% abaixo da média de 7 dias (descontada).
-
 - **Loïc Badé (88)** subiu **+39.4%** em 24h, a **35k coins** (faixa do dia: 11.000–38k). Está +28% acima da média de 7 dias (aquecida).
+
+- **Bradley Barcola (90)** subiu **+38.4%** em 24h, a **52k coins** (faixa do dia: 40k–140k). Está -37% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Emmanuel Petit | 87 | Icons | 102k coins | -48.2% | -15% |
-| Eli Junior Kroupi | 89 | Premier League | 24k coins | -45.2% | -41.8% |
+| Emmanuel Petit | 87 | Icons | 132k coins | -48.2% | -15% |
+| Eli Junior Kroupi | 89 | Premier League | 20k coins | -45.2% | -41.8% |
 | Kylian Mbappé | 92 | LALIGA EA SPORTS | 1.85M coins | -41.5% | -58.9% |
 | Marinette Pichon | 90 | Icons | 51k coins | -40.2% | -36.9% |
 | Hugo Ekitiké | 86 | Premier League | 24k coins | -38.2% | -51.8% |
-| Wilson Odobert | 87 | Premier League | 24k coins | -34.9% | -20.5% |
+| Wilson Odobert | 87 | Premier League | 23k coins | -34.9% | -20.5% |
 | Kingsley Coman | 87 | ROSHN Saudi League | 40k coins | -33.3% | +6.7% |
 | Florian Sotoca | 85 | Ligue 1 McDonald's | 22k coins | -32.3% | -24.1% |
-| Pierre Kalulu | 91 | Serie A TIM | 57k coins | -27.3% | -9.8% |
-| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 849k coins | -26.8% | -26.7% |
+| Pierre Kalulu | 91 | Serie A TIM | 54k coins | -30.9% | -13.6% |
+| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 849k coins | -29.2% | -29.2% |
 
 
 ### Análise das baixas
 
-- **Emmanuel Petit (87)** caiu **-48.2%** em 24h, a **102k coins** (faixa do dia: 90k–209k). Está -30% abaixo da média de 7 dias (descontada).
+- **Emmanuel Petit (87)** caiu **-48.2%** em 24h, a **132k coins** (faixa do dia: 90k–209k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Eli Junior Kroupi (89)** caiu **-45.2%** em 24h, a **24k coins** (faixa do dia: 17.750–39k). Está -36% abaixo da média de 7 dias (descontada).
+- **Eli Junior Kroupi (89)** caiu **-45.2%** em 24h, a **20k coins** (faixa do dia: 17.750–39k). Está -46% abaixo da média de 7 dias (descontada).
 
 - **Kylian Mbappé (92)** caiu **-41.5%** em 24h, a **1.85M coins** (faixa do dia: 1.80M–3.16M). Está -43% abaixo da média de 7 dias (descontada).
 
@@ -112,10 +112,10 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 Désiré Doué (87, Ligue 1 McDonald's), com +54.4% em 24h, a 176k coins no PC.
 
 **E a maior queda do dia?**
-Emmanuel Petit (87), -48.2% em 24h, a 102k coins.
+Emmanuel Petit (87), -48.2% em 24h, a 132k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 60 cartas em alta contra 44 em queda (média 9.05%).
+Hoje o mercado está em alta — predominam as valorizações, com 57 cartas em alta contra 48 em queda (média 8.13%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:40:15.000Z
+pubDatetime: 2026-07-27T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 27/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Wendie Renard (86, D1 Arkema) lidera, com +58.1% em 7 dias a 21k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Wendie Renard (86, D1 Arkema) lidera, com +60.7% em 7 dias a 21k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Wendie Renard (86) acumula **+58.1% em 7 dias** a 21k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Wendie Renard (86) acumula **+60.7% em 7 dias** a 21k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 27/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-27-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.6% em 24h** e **+37.0% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.3% em 24h** e **+37.0% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,9 +43,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Wendie Renard | 86 | D1 Arkema | 21k coins | +12.6% | +58.1% | Momentum moderado |
+| Wendie Renard | 86 | D1 Arkema | 21k coins | +12.6% | +60.7% | Esticada |
+| Tristan Crama | 86 | EFL Championship | 49k coins | +6.5% | +56.3% | Momentum moderado |
 | Loïc Badé | 88 | Bundesliga | 35k coins | +39.4% | +54.3% | Esticada |
-| Tristan Crama | 86 | EFL Championship | 49k coins | +6.5% | +52.7% | Momentum moderado |
 | Melvine Malard | 84 | Barclays WSL | 110k coins | +18.9% | +43.8% | Momentum moderado |
 | Sandy Baltimore | 87 | Barclays WSL | 58k coins | +11.7% | +43.8% | Momentum moderado |
 | Armand Laurienté | 86 | Serie A TIM | 39k coins | +35.7% | +42.1% | Esticada |
@@ -53,20 +53,20 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Florian Thauvin | 87 | Ligue 1 McDonald's | 75k coins | +10.5% | +37% | Momentum moderado |
 | Louisa Necib | 90 | D1 Arkema | 60k coins | +29% | +31.1% | Esticada |
 | Adrien Rabiot | 86 | Serie A TIM | 53k coins | +18.4% | +26.9% | Momentum moderado |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 24k coins | +3.2% | +26% | Momentum moderado |
-| Griedge Mbock | 86 | D1 Arkema | 72k coins | +12% | +19.2% | Momentum moderado |
-| Laurent Blanc | 88 | Icons | 114k coins | +11.9% | +10.9% | Momentum moderado |
-| Clara Mateo | 86 | D1 Arkema | 44k coins | +22% | +10.5% | Esticada |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 44k coins | +2.9% | +8% | Entrada a observar |
+| Griedge Mbock | 86 | D1 Arkema | 70k coins | +8.3% | +15.2% | Momentum moderado |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 38k coins | +14.3% | +8.1% | Momentum moderado |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 43k coins | +2.9% | +8% | Entrada a observar |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +11.1% | +6.5% | Momentum moderado |
+| Mathilde Bourdieu | 87 | D1 Arkema | 50k coins | +32.5% | +6.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Wendie Renard (86)** — 21k coins, **+58.1% em 7 dias** (+12.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wendie Renard (86)** — 21k coins, **+60.7% em 7 dias** (+12.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Tristan Crama (86)** — 49k coins, **+56.3% em 7 dias** (+6.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Loïc Badé (88)** — 35k coins, **+54.3% em 7 dias** (+39.4% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Tristan Crama (86)** — 49k coins, **+52.7% em 7 dias** (+6.5% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Melvine Malard (84)** — 110k coins, **+43.8% em 7 dias** (+18.9% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
@@ -88,7 +88,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Wendie Renard (86, D1 Arkema) lidera, com +58.1% em 7 dias a 21k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Wendie Renard (86, D1 Arkema) lidera, com +60.7% em 7 dias a 21k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

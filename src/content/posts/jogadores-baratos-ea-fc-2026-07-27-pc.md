@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:40:16.000Z
+pubDatetime: 2026-07-27T10:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 27/07 — PC"
 draft: false
 featured: false
@@ -42,15 +42,15 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
-| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
+| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
 | Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +27.3% |
+| Selma Bacha | 87 | LB | D1 Arkema | 11.000 coins | 0% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
 | Laura Georges | 87 | CB | D1 Arkema | 11.000 coins | 0% |
-| Selma Bacha | 87 | LB | D1 Arkema | 11.000 coins | 0% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11.500 coins | 0% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.000 coins | 0% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.000 coins | +9.1% |
 | Tara Elimbi Gilbert | 86 | LB | D1 Arkema | 10.750 coins | 0% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12.000 coins | +11.6% |
@@ -63,9 +63,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Sonia Bompastor (88, LB)** da D1 Arkema, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
