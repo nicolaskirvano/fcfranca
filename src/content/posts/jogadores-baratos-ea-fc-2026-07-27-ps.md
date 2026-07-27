@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T19:50:10.000Z
+pubDatetime: 2026-07-27T22:50:11.000Z
 title: "Jogadores baratos EA FC: Franceses em 27/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.403 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 1.700 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.033 coins.
+- **Posição mais frequente:** RW, com 3 cartas.
+- **Faixa real:** 1.500 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,18 +43,18 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
-| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 1.700 coins | +5.6% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 11.250 coins | +11.4% |
+| Jade Le Guilly | 89 | RB | D1 Arkema | 13.750 coins | +4.7% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 1.500 coins | 0% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 11.000 coins | -10.2% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 11.750 coins | -4.2% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 12.000 coins | 0% |
-| Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 12.250 coins | -9.3% |
-| Loïc Badé | 88 | CB | Bundesliga | 14.250 coins | +5.4% |
-| William Saliba | 87 | CB | Premier League | 2.100 coins | +46.2% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 11.000 coins | +14.3% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 12.750 coins | -11.7% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11.000 coins | -5.7% |
-| Selma Bacha | 87 | LB | D1 Arkema | 11.500 coins | -2.1% |
+| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 12.000 coins | 0% |
+| Selma Bacha | 87 | LB | D1 Arkema | 12.750 coins | +11.4% |
 
 
 ## 📈 Destaques
@@ -65,9 +65,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
