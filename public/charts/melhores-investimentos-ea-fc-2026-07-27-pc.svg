@@ -4,22 +4,22 @@
 <rect width="100%" height="100%" rx="20" fill="#0f172a"/>
 <text x="28" y="42" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="23" font-weight="700">Variação em 7 dias</text>
 <text x="28" y="70" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="15">Dados do recorte publicado no artigo</text>
-<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Tristan Crama</text>
+<text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Annaïg Butel</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
-<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+57.6%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maxence Lacroix</text>
-<rect x="285" y="153" width="297" height="28" rx="7" fill="#22c55e"/>
-<text x="592" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.6%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Wendie Renard</text>
-<rect x="285" y="211" width="273" height="28" rx="7" fill="#22c55e"/>
-<text x="568" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+32.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mike Maignan</text>
-<rect x="285" y="269" width="217" height="28" rx="7" fill="#22c55e"/>
-<text x="512" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Yoan Bonny</text>
-<rect x="285" y="327" width="209" height="28" rx="7" fill="#22c55e"/>
-<text x="504" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Louisa Necib</text>
-<rect x="285" y="385" width="196" height="28" rx="7" fill="#22c55e"/>
-<text x="491" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.5%</text>
+<text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+65.3%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Thauvin</text>
+<rect x="285" y="153" width="272" height="28" rx="7" fill="#22c55e"/>
+<text x="567" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+37.0%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emmanuel Petit</text>
+<rect x="285" y="211" width="269" height="28" rx="7" fill="#22c55e"/>
+<text x="564" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+36.6%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Maxence Lacroix</text>
+<rect x="285" y="269" width="262" height="28" rx="7" fill="#22c55e"/>
+<text x="557" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.6%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Florian Thauvin</text>
+<rect x="285" y="327" width="173" height="28" rx="7" fill="#22c55e"/>
+<text x="468" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+23.6%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Marie Katoto</text>
+<rect x="285" y="385" width="147" height="28" rx="7" fill="#22c55e"/>
+<text x="442" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.0%</text>
 </svg>
