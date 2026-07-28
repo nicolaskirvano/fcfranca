@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T10:41:41.000Z
+pubDatetime: 2026-07-28T10:50:08.000Z
 title: "Mercado EA FC em 28/07: Franceses — Console (PS)"
 draft: false
 featured: true
