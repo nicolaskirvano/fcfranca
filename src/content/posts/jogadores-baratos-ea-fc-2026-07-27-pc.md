@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:50:20.000Z
+pubDatetime: 2026-07-28T01:50:19.000Z
 title: "Jogadores baratos EA FC: Franceses em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.117 coins.
-- **Posição mais frequente:** LB, com 4 cartas.
-- **Faixa real:** 2.000 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.617 coins.
+- **Posição mais frequente:** CB, com 3 cartas.
+- **Faixa real:** 2.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,17 +44,17 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2.000 coins | +5.3% |
+| Alexandre Lacazette | 89 | ST | Brasileirão | 14.000 coins | -13.2% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 14.500 coins | +26.1% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.000 coins | 0% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13.000 coins | -7.1% |
-| Laura Georges | 87 | CB | D1 Arkema | 11.000 coins | +6.8% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 11.000 coins | +2.1% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 12.000 coins | -7.1% |
+| William Saliba | 87 | CB | Premier League | 2.500 coins | -4% |
+| Laura Georges | 87 | CB | D1 Arkema | 11.000 coins | 0% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11.000 coins | -2.2% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Louisa Necib | 87 | LM | D1 Arkema | 11.250 coins | -2.2% |
-| Selma Bacha | 87 | LB | D1 Arkema | 13.000 coins | +34.1% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.500 coins | +7% |
+| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.750 coins | +14% |
 | Sonia Bompastor | 86 | LB | D1 Arkema | 12.500 coins | +4.2% |
-| Sidney Govou | 86 | ST | Ligue 1 McDonald's | 13.500 coins | +12% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Kadidiatou Diani (88, RW)** da Arkema PL, a apenas **2.000 coins** — já **valorizando**, sinal de procura crescente.
+- **Alexandre Lacazette (89, ST)** da Brasileirão, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
