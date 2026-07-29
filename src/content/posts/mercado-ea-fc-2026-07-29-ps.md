@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:50:09.000Z
+pubDatetime: 2026-07-29T16:50:07.000Z
 title: "Mercado EA FC em 29/07: Franceses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Tanguy Ndombele (85, Ligue 1 McDonald's), com +58.1% em 24h, a 26k coins no Console (PS)."
+    a: "Wilson Odobert (87, Premier League), com +31.8% em 24h, a 28k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Kylian Mbappé (91), -50% em 24h, a 49k coins."
+    a: "Paul Pogba (89), -17.9% em 24h, a 664k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 48 cartas em alta contra 61 em queda (média -0.4%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 31 cartas em alta contra 38 em queda (média 0.28%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Resumo de **29/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **48 valorizações** contra **61 quedas** entre as cartas relevantes, com média de **-0.4%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **29/07/2026** no Console (PS): dia **indefinido** — sem tendência dominante. **31 valorizações** contra **38 quedas** entre as cartas relevantes, com média de **0.28%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tanguy Ndombele (85) **+58.1%** · 🔴 **Maior baixa:** Kylian Mbappé (91) **-50%**
+> 🟢 **Maior alta:** Wilson Odobert (87) **+31.8%** · 🔴 **Maior baixa:** Paul Pogba (89) **-17.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Franceses — Console (PS)](/charts/mercado-ea-fc-2026-07-29-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **29/07/2026** no Console (PS): dia **indefinido** — sem tendência 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 108.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 44.0% entre as cartas que se moveram; o universo observado reúne 142 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 9 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 49.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.9% entre as cartas que se moveram; o universo observado reúne 102 cartas.
+- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 26k coins | +58.1% | -42.4% |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 40k coins | +53.8% | -25.9% |
-| Moussa Sissoko | 88 | EFL Championship | 179k coins | +47.6% | -6.5% |
-| Kylian Mbappé | 96 | LALIGA EA SPORTS | 1.85M coins | +44.5% | -0.4% |
-| Franck Ribéry | 89 | Icons | 267k coins | +25.6% | -26.6% |
-| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 48k coins | +24.4% | +28.4% |
-| David Ginola | 89 | Ligue 1 McDonald's | 262k coins | +19.8% | -11.7% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 52k coins | +19.8% | +19.1% |
-| Griedge Mbock | 86 | D1 Arkema | 35k coins | +18.9% | +22.3% |
-| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 810k coins | +18.2% | -10% |
+| Wilson Odobert | 87 | Premier League | 28k coins | +31.8% | +1.8% |
+| Marie Katoto | 89 | Frauen-Bundesliga | 90k coins | +13.2% | +74.8% |
+| Kylian Mbappé | 91 | LALIGA EA SPORTS | 49k coins | +11.5% | -73.2% |
+| Moussa Sissoko | 88 | EFL Championship | 194k coins | +8.4% | +32% |
+| Jules Koundé | 94 | LALIGA EA SPORTS | 205k coins | +7.7% | +32.9% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 54k coins | +7.5% | -96.5% |
+| Han-Noah Massengo | 84 | Bundesliga | 45k coins | +5.9% | +16.1% |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 52k coins | +4% | +26.8% |
+| Hugo Ekitiké | 87 | Premier League | 65k coins | +3.1% | +26.7% |
+| Patrick Vieira | 86 | Icons | 650k coins | +3% | +25% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **29/07/2026** no Console (PS): dia **indefinido** — sem tendência 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Tanguy Ndombele (85)** subiu **+58.1%** em 24h, a **26k coins** (faixa do dia: 15.500–54k). Está -9% abaixo da média de 7 dias (descontada).
+- **Wilson Odobert (87)** subiu **+31.8%** em 24h, a **28k coins** (faixa do dia: 25k–29k). Está em linha com a média de 7 dias (-0%).
 
-- **Mattéo Guendouzi (91)** subiu **+53.8%** em 24h, a **40k coins** (faixa do dia: 22k–50k). Está -24% abaixo da média de 7 dias (descontada).
+- **Marie Katoto (89)** subiu **+13.2%** em 24h, a **90k coins** (faixa do dia: 80k–90k). Está em linha com a média de 7 dias (-3%).
 
-- **Moussa Sissoko (88)** subiu **+47.6%** em 24h, a **179k coins** (faixa do dia: 122k–189k). Está +23% acima da média de 7 dias (aquecida).
+- **Kylian Mbappé (91)** subiu **+11.5%** em 24h, a **49k coins** (faixa do dia: 48k–54k). Está -57% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Kylian Mbappé | 91 | LALIGA EA SPORTS | 49k coins | -50% | -75.8% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 768k coins | -34.2% | -5.3% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 795k coins | -33.6% | -61.9% |
-| Rayan Cherki | 87 | Premier League | 23k coins | -31.1% | -61.1% |
-| Jean-Philippe Mateta | 92 | Premier League | 26k coins | -28.3% | -31.4% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 27k coins | -22.3% | -60.3% |
-| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 43k coins | -21.8% | -1.1% |
-| Patrick Vieira | 86 | Icons | 631k coins | -20% | -1.7% |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 47k coins | -19.4% | +5.3% |
-| Senny Mayulu | 83 | Ligue 1 McDonald's | 50k coins | -19.3% | -4.2% |
+| Paul Pogba | 89 | Ligue 1 McDonald's | 664k coins | -17.9% | -23.8% |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 43k coins | -14.5% | +14.8% |
+| Camille Abily | 90 | Icons | 73k coins | -11.3% | -16.3% |
+| Kylian Mbappé | 96 | LALIGA EA SPORTS | 1.55M coins | -9.8% | +3.6% |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | -8.7% | -8.2% |
+| Patrick Vieira | 90 | Icons | 347k coins | -8% | -22.7% |
+| Clara Mateo | 92 | D1 Arkema | 500k coins | -5.9% | +38.5% |
+| Tristan Crama | 86 | EFL Championship | 48k coins | -5% | +18.8% |
+| Michael Olise | 88 | Bundesliga | 249k coins | -5% | -25.4% |
+| Antoine Griezmann | 91 | LALIGA EA SPORTS | 120k coins | -4.8% | -20% |
 
 
 ### Análise das baixas
 
-- **Kylian Mbappé (91)** caiu **-50%** em 24h, a **49k coins** (faixa do dia: 45k–120k). Está -68% abaixo da média de 7 dias (descontada).
+- **Paul Pogba (89)** caiu **-17.9%** em 24h, a **664k coins** (faixa do dia: 597k–726k). Está em linha com a média de 7 dias (-4%).
 
-- **Désiré Doué (91)** caiu **-34.2%** em 24h, a **768k coins** (faixa do dia: 746k–1.50M). Está -9% abaixo da média de 7 dias (descontada).
+- **Mohamed Simakan (86)** caiu **-14.5%** em 24h, a **43k coins** (faixa do dia: 43k–50k). Está em linha com a média de 7 dias (-1%).
 
-- **Kylian Mbappé (92)** caiu **-33.6%** em 24h, a **795k coins** (faixa do dia: 694k–1.25M). Está -44% abaixo da média de 7 dias (descontada).
+- **Camille Abily (90)** caiu **-11.3%** em 24h, a **73k coins** (faixa do dia: 73k–84k). Está -19% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tanguy Ndombele já avançou 58.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Wilson Odobert já avançou 31.8% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Kylian Mbappé recuou -50%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Paul Pogba recuou -17.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Tanguy Ndombele (85, Ligue 1 McDonald's), com +58.1% em 24h, a 26k coins no Console (PS).
+Wilson Odobert (87, Premier League), com +31.8% em 24h, a 28k coins no Console (PS).
 
 **E a maior queda do dia?**
-Kylian Mbappé (91), -50% em 24h, a 49k coins.
+Paul Pogba (89), -17.9% em 24h, a 664k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 48 cartas em alta contra 61 em queda (média -0.4%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 31 cartas em alta contra 38 em queda (média 0.28%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
