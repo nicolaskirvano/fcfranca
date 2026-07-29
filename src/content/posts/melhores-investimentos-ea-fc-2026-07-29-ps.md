@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T16:50:09.000Z
+pubDatetime: 2026-07-29T19:50:09.000Z
 title: "Investimentos EA FC: Franceses em 29/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 29/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (29/07/2026) no EA FC?"
-    a: "Marie Katoto (89, Frauen-Bundesliga) lidera, com +74.8% em 7 dias a 90k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dan-Axel Zagadou (85, Bundesliga) lidera, com +47.1% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marie Katoto (89) acumula **+74.8% em 7 dias** a 90k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Dan-Axel Zagadou (85) acumula **+47.1% em 7 dias** a 24k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 29/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-29-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.9% em 24h** e **+26.7% em 7 dias**.
-- **1 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.7% em 24h** e **+26.4% em 7 dias**.
+- **6 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marie Katoto | 89 | Frauen-Bundesliga | 90k coins | +13.2% | +74.8% | Esticada |
-| Jules Koundé | 94 | LALIGA EA SPORTS | 205k coins | +7.7% | +32.9% | Momentum moderado |
-| Moussa Sissoko | 88 | EFL Championship | 194k coins | +8.4% | +32% | Momentum moderado |
-| Florian Thauvin | 87 | Ligue 1 McDonald's | 52k coins | +4% | +26.8% | Momentum moderado |
-| Hugo Ekitiké | 87 | Premier League | 65k coins | +3.1% | +26.7% | Momentum moderado |
+| Dan-Axel Zagadou | 85 | Bundesliga | 24k coins | +35.1% | +47.1% | Esticada |
+| Wendie Renard | 86 | D1 Arkema | 54k coins | +4.9% | +41.2% | Momentum moderado |
+| Jules Koundé | 94 | LALIGA EA SPORTS | 215k coins | +11.8% | +38% | Momentum moderado |
+| Leny Yoro | 86 | Premier League | 72k coins | +31.5% | +33.9% | Esticada |
+| Moussa Sissoko | 88 | EFL Championship | 180k coins | +8.4% | +32% | Momentum moderado |
+| Hugo Ekitiké | 86 | Premier League | 55k coins | +22.2% | +31% | Esticada |
+| Mathilde Bourdieu | 87 | D1 Arkema | 58k coins | +20% | +30.3% | Esticada |
+| William Saliba | 94 | Premier League | 230k coins | +26.4% | +26.4% | Esticada |
+| Emmanuel Petit | 87 | Icons | 89k coins | +27.7% | +18.4% | Esticada |
+| Karim Benzema | 87 | ROSHN Saudi League | 80k coins | +14.3% | +16.8% | Momentum moderado |
 | Han-Noah Massengo | 84 | Bundesliga | 45k coins | +5.9% | +16.1% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 49k coins | +14.7% | +12.7% | Momentum moderado |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 45k coins | +1.1% | +9.2% | Entrada a observar |
-| Brice Samba | 85 | Ligue 1 McDonald's | 30k coins | +1.7% | +7.1% | Entrada a observar |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 54k coins | +13.7% | +14.9% | Momentum moderado |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 51k coins | +5.9% | +14.4% | Momentum moderado |
+| Adrien Rabiot | 86 | Serie A TIM | 48k coins | +12.9% | +11% | Momentum moderado |
+| Claude Makélélé | 87 | Icons | 74k coins | +9.2% | +9.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Marie Katoto (89)** — 90k coins, **+74.8% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dan-Axel Zagadou (85)** — 24k coins, **+47.1% em 7 dias** (+35.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jules Koundé (94)** — 205k coins, **+32.9% em 7 dias** (+7.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wendie Renard (86)** — 54k coins, **+41.2% em 7 dias** (+4.9% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Moussa Sissoko (88)** — 194k coins, **+32% em 7 dias** (+8.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jules Koundé (94)** — 215k coins, **+38% em 7 dias** (+11.8% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Florian Thauvin (87)** — 52k coins, **+26.8% em 7 dias** (+4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Leny Yoro (86)** — 72k coins, **+33.9% em 7 dias** (+31.5% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Ekitiké (87)** — 65k coins, **+26.7% em 7 dias** (+3.1% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Moussa Sissoko (88)** — 180k coins, **+32% em 7 dias** (+8.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +88,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (29/07/2026) no EA FC?**  
-Marie Katoto (89, Frauen-Bundesliga) lidera, com +74.8% em 7 dias a 90k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dan-Axel Zagadou (85, Bundesliga) lidera, com +47.1% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
