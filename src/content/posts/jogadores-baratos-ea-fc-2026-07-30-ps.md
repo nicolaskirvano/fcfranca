@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:40:18.000Z
+pubDatetime: 2026-07-30T10:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,7 +30,7 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.740 coins.
+- **Preço médio das 15 opções:** 10.660 coins.
 - **Posição mais frequente:** RW, com 3 cartas.
 - **Faixa real:** 2.400 a 14.250 coins; nenhuma carta custa 15 mil.
 
@@ -45,14 +45,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
-| Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
+| Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.750 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2.700 coins | +47.4% |
+| Kadidiatou Diani | 88 | RW | Arkema PL | 2.500 coins | +47.4% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 13.500 coins | -6.6% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 14.000 coins | +20% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.250 coins | -3.9% |
+| Ludovic Giuly | 88 | RM | LALIGA EA SPORTS | 12.750 coins | -6.6% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 13.500 coins | +20% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14.250 coins | +11.8% |
 | William Saliba | 87 | CB | Premier League | 2.400 coins | +14.3% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
 

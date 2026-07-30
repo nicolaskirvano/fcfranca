@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:40:27.000Z
+pubDatetime: 2026-07-30T10:50:19.000Z
 title: "Jogadores baratos EA FC: Franceses em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.567 coins.
+- **Preço médio das 15 opções:** 10.583 coins.
 - **Posição mais frequente:** RW, com 3 cartas.
-- **Faixa real:** 1.500 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -49,7 +49,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11.750 coins | +4.4% |
 | Kadidiatou Diani | 88 | RW | Arkema PL | 3.500 coins | +57.9% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13.750 coins | +22.2% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +22.2% |
 | Mike Maignan | 87 | GK | Serie A Enilive | 1.500 coins | +50% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11.250 coins | 0% |

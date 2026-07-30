@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:40:26.000Z
+pubDatetime: 2026-07-30T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 30/07 — PC"
 draft: false
 featured: true
@@ -53,8 +53,8 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Clara Mateo | 86 | D1 Arkema | 49k coins | +14.7% | +21.9% | Momentum moderado |
 | Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +36.4% | +18.1% | Esticada |
 | Adrien Thomasson | 85 | Ligue 1 McDonald's | 28k coins | +1.8% | +17.5% | Entrada a observar |
-| Marcel Desailly | 88 | Icons | 96k coins | +13.2% | +11.3% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +18.4% | +11% | Momentum moderado |
+| Marcel Desailly | 88 | Icons | 95k coins | +13.2% | +11.3% | Momentum moderado |
+| Adrien Rabiot | 86 | Serie A TIM | 55k coins | +18.4% | +11% | Momentum moderado |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 50k coins | +11.1% | +9.9% | Momentum moderado |
 | Hugo Ekitiké | 86 | Premier League | 55k coins | +26.4% | +5.8% | Esticada |
 

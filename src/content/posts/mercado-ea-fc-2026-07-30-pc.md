@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:40:24.000Z
+pubDatetime: 2026-07-30T10:50:16.000Z
 title: "Mercado EA FC em 30/07: Franceses — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Lilian Thuram (93), -40.6% em 24h, a 713k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 63 em queda (média 6.53%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 63 em queda (média 6.34%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Hoje (**30/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **56 subiram**, **63 caíram** (80+ e 5k+ coins), média de **6.53%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**30/07/2026**, PC) o Ultimate Team está **em alta** — predominam as valorizações — **56 subiram**, **63 caíram** (80+ e 5k+ coins), média de **6.34%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Bradley Barcola (90) **+59.7%** · 🔴 **Maior baixa:** Lilian Thuram (93) **-40.6%**
 
@@ -52,7 +52,7 @@ Hoje (**30/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 | Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +36.4% | +18.1% |
 | David Ginola | 89 | Ligue 1 McDonald's | 379k coins | +32.5% | +20.3% |
 | Ousmane Dembélé | 90 | Ligue 1 McDonald's | 35k coins | +31.1% | -29.1% |
-| Melvine Malard | 84 | Barclays WSL | 100k coins | +30.7% | -9.1% |
+| Melvine Malard | 84 | Barclays WSL | 100k coins | +30.7% | -8.3% |
 
 
 ### Análise das altas
@@ -80,7 +80,7 @@ Hoje (**30/07/2026**, PC) o Ultimate Team está **em alta** — predominam as va
 | Blaise Matuidi | 86 | Ligue 1 McDonald's | 93k coins | -34.4% | -49.1% |
 | Antoine Griezmann | 87 | LALIGA EA SPORTS | 55k coins | -32.9% | +5.6% |
 | Jules Koundé | 94 | LALIGA EA SPORTS | 213k coins | -31.1% | -39.6% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 174k coins | -30.4% | -78.9% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 174k coins | -30.7% | -79.1% |
 | Jean-Mattéo Bahoya | 89 | Bundesliga | 32k coins | -27.4% | -53.2% |
 
 
@@ -115,7 +115,7 @@ Bradley Barcola (90, Ligue 1 McDonald's), com +59.7% em 24h, a 95k coins no PC.
 Lilian Thuram (93), -40.6% em 24h, a 713k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 63 em queda (média 6.53%).
+Hoje o mercado está em alta — predominam as valorizações, com 56 cartas em alta contra 63 em queda (média 6.34%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
