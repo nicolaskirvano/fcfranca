@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:50:18.000Z
+pubDatetime: 2026-07-30T22:50:19.000Z
 title: "Investimentos EA FC: Franceses em 30/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.4% em 24h** e **+27.7% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.1% em 24h** e **+27.5% em 7 dias**.
+- **2 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,33 +44,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Sakina Karchaoui | 88 | D1 Arkema | 80k coins | +7.4% | +61.6% | Esticada |
-| Louisa Necib | 90 | D1 Arkema | 36k coins | +25% | +47.1% | Esticada |
-| Khéphren Thuram | 87 | Serie A TIM | 98k coins | +26.6% | +43.9% | Esticada |
-| Mike Maignan | 88 | Serie A TIM | 54k coins | +11% | +38.8% | Momentum moderado |
-| Maxence Lacroix | 87 | Premier League | 140k coins | +29% | +36.8% | Esticada |
-| Clara Mateo | 86 | D1 Arkema | 50k coins | +14.5% | +28.6% | Momentum moderado |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 28k coins | +3.6% | +28.1% | Momentum moderado |
-| Emmanuel Petit | 87 | Icons | 198k coins | +28.6% | +27.7% | Esticada |
+| Jade Le Guilly | 89 | D1 Arkema | 52k coins | +5.8% | +49.3% | Momentum moderado |
+| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +11.6% | +37.7% | Momentum moderado |
+| Mike Maignan | 88 | Serie A TIM | 53k coins | +6% | +33.3% | Momentum moderado |
+| Annaïg Butel | 86 | D1 Arkema | 30k coins | +12.3% | +32.2% | Momentum moderado |
+| Clara Mateo | 86 | D1 Arkema | 45k coins | +10% | +28.6% | Momentum moderado |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 32k coins | +9.2% | +28.4% | Momentum moderado |
+| Louisa Necib | 90 | D1 Arkema | 32k coins | +16.1% | +27.5% | Momentum moderado |
+| Marcel Desailly | 88 | Icons | 100k coins | +5.6% | +25% | Momentum moderado |
 | Tristan Crama | 86 | EFL Championship | 49k coins | +2.1% | +23.9% | Entrada a observar |
-| Emelyne Laurent | 86 | D1 Arkema | 46k coins | +8.1% | +22.4% | Momentum moderado |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 35k coins | +19.2% | +22.2% | Momentum moderado |
-| Sandy Baltimore | 87 | Barclays WSL | 50k coins | +1.8% | +20.7% | Entrada a observar |
-| Adrien Rabiot | 86 | Serie A TIM | 53k coins | +26.2% | +17.8% | Esticada |
-| Hugo Ekitiké | 86 | Premier League | 55k coins | +31% | +17% | Esticada |
-| Ludovic Blas | 86 | Ligue 1 McDonald's | 17.750 coins | +15.4% | +7.1% | Momentum moderado |
+| Sandy Baltimore | 87 | Barclays WSL | 54k coins | +1.8% | +23.3% | Entrada a observar |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 46k coins | +5.7% | +22.7% | Momentum moderado |
+| Emelyne Laurent | 86 | D1 Arkema | 38k coins | +8.1% | +22.4% | Momentum moderado |
+| Karim Benzema | 88 | ROSHN Saudi League | 190k coins | +37.9% | +17.4% | Esticada |
+| Maxence Lacroix | 87 | Premier League | 133k coins | +9.8% | +12.6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Sakina Karchaoui (88)** — 80k coins, **+61.6% em 7 dias** (+7.4% em 24h). Preço +49% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (88)** — 80k coins, **+61.6% em 7 dias** (+7.4% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Louisa Necib (90)** — 36k coins, **+47.1% em 7 dias** (+25% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jade Le Guilly (89)** — 52k coins, **+49.3% em 7 dias** (+5.8% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Khéphren Thuram (87)** — 98k coins, **+43.9% em 7 dias** (+26.6% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Adrien Rabiot (86)** — 53k coins, **+37.7% em 7 dias** (+11.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mike Maignan (88)** — 54k coins, **+38.8% em 7 dias** (+11% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mike Maignan (88)** — 53k coins, **+33.3% em 7 dias** (+6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maxence Lacroix (87)** — 140k coins, **+36.8% em 7 dias** (+29% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Annaïg Butel (86)** — 30k coins, **+32.2% em 7 dias** (+12.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
