@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:50:15.000Z
+pubDatetime: 2026-07-31T22:50:10.000Z
 title: "Jogadores baratos EA FC: Franceses em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.163 coins.
-- **Posição mais frequente:** CB, com 5 cartas.
-- **Faixa real:** 1.700 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 11.267 coins.
+- **Posição mais frequente:** CB, com 4 cartas.
+- **Faixa real:** 3.000 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -48,13 +48,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Ousmane Dembélé | 91 | CAM | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 11.000 coins | -10.9% |
+| Enzo Millot | 89 | CAM | ROSHN Saudi League | 12.500 coins | +17.8% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Loïc Badé | 88 | CB | Bundesliga | 13.500 coins | +21.8% |
+| Claire Lavogez | 88 | ST | Liga F | 12.250 coins | -5.7% |
+| Benjamin Pavard | 88 | CB | Ligue 1 McDonald's | 13.500 coins | -12.5% |
+| William Saliba | 87 | CB | Premier League | 3.000 coins | +26.1% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Selma Bacha | 87 | LB | D1 Arkema | 12.750 coins | -1.9% |
-| Laura Georges | 87 | CB | D1 Arkema | 14.250 coins | -3.4% |
-| Ibrahima Konaté | 86 | CB | Premier League | 1.700 coins | +15.4% |
+| Selma Bacha | 87 | LB | D1 Arkema | 13.500 coins | -3.6% |
 
 
 ## 📈 Destaques
@@ -65,7 +65,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Allan Saint-Maximin (92, RW)** da Ligue 1 McDonald's, a apenas **11.500 coins**
 
-- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins**
 
 - **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins**
 

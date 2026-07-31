@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:50:22.000Z
+pubDatetime: 2026-07-31T22:50:18.000Z
 title: "Mercado EA FC em 31/07: Franceses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Paul Pogba (89, Ligue 1 McDonald's), com +53.1% em 24h, a 1.30M coins no PC."
+    a: "Ousmane Dembélé (91, Ligue 1 McDonald's), com +55.5% em 24h, a 440k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Mahdi Camara (86), -44% em 24h, a 28k coins."
+    a: "Moussa Diaby (90), -48.4% em 24h, a 33k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 46 cartas em alta contra 48 em queda (média 5.26%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 45 cartas em alta contra 56 em queda (média 1.04%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **46 subiram** e **48 caíram**, com variação média de **5.26%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **de lado** — altas e quedas se equilibram: das cartas relevantes (80+ acima de 5k coins), **45 subiram** e **56 caíram**, com variação média de **1.04%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Paul Pogba (89) **+53.1%** · 🔴 **Maior baixa:** Mahdi Camara (86) **-44%**
+> 🟢 **Maior alta:** Ousmane Dembélé (91) **+55.5%** · 🔴 **Maior baixa:** Moussa Diaby (90) **-48.4%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Franceses — PC](/charts/mercado-ea-fc-2026-07-31-pc.svg)
 
@@ -35,24 +35,24 @@ Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 97.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.9% entre as cartas que se moveram; o universo observado reúne 145 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 103.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.6% entre as cartas que se moveram; o universo observado reúne 150 cartas.
+- **Concentração:** Icons aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 1.30M coins | +53.1% | +52.9% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 33k coins | +50.6% | +23.6% |
-| Sakina Karchaoui | 88 | D1 Arkema | 64k coins | +36.2% | -5.9% |
-| Zinedine Zidane | 94 | Icons | 666k coins | +33.5% | +6.6% |
-| Thierry Henry | 86 | Icons | 2.20M coins | +32.6% | +123.4% |
-| Wendie Renard | 86 | D1 Arkema | 20k coins | +31.1% | -5.9% |
-| Moussa Sissoko | 88 | EFL Championship | 129k coins | +30.5% | -49.3% |
-| Patrick Vieira | 88 | Icons | 315k coins | +22.8% | 0% |
-| Franck Ribéry | 88 | Icons | 217k coins | +22.8% | +33.1% |
-| Sidney Govou | 86 | Ligue 1 McDonald's | 22k coins | +21.1% | +37.3% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 440k coins | +55.5% | -41.9% |
+| Patrick Vieira | 86 | Icons | 1.19M coins | +51.5% | +24.1% |
+| Franck Ribéry | 88 | Icons | 260k coins | +50% | +68.8% |
+| Camille Abily | 91 | Icons | 65k coins | +41.3% | +58.5% |
+| William Saliba | 94 | Premier League | 550k coins | +38.2% | +36.5% |
+| Patrick Vieira | 90 | Icons | 847k coins | +36.4% | +41.2% |
+| Sakina Karchaoui | 88 | D1 Arkema | 64k coins | +36.2% | +4.9% |
+| Claude Makélélé | 87 | Icons | 98k coins | +31.5% | +0.5% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 80k coins | +27% | +92.8% |
+| Patrick Vieira | 88 | Icons | 325k coins | +25.1% | +20% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Paul Pogba (89)** subiu **+53.1%** em 24h, a **1.30M coins** (faixa do dia: 710k–1.30M). Está +12% acima da média de 7 dias (aquecida).
+- **Ousmane Dembélé (91)** subiu **+55.5%** em 24h, a **440k coins** (faixa do dia: 298k–469k). Está +22% acima da média de 7 dias (aquecida).
 
-- **Dan-Axel Zagadou (85)** subiu **+50.6%** em 24h, a **33k coins** (faixa do dia: 14.000–38k). Está +17% acima da média de 7 dias (aquecida).
+- **Patrick Vieira (86)** subiu **+51.5%** em 24h, a **1.19M coins** (faixa do dia: 694k–1.80M). Está +40% acima da média de 7 dias (aquecida).
 
-- **Sakina Karchaoui (88)** subiu **+36.2%** em 24h, a **64k coins** (faixa do dia: 47k–85k). Está -9% abaixo da média de 7 dias (descontada).
+- **Franck Ribéry (88)** subiu **+50%** em 24h, a **260k coins** (faixa do dia: 180k–280k). Está +28% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Moussa Diaby | 90 | ROSHN Saudi League | 33k coins | -48.4% | -12% |
 | Mahdi Camara | 86 | Ligue 1 McDonald's | 28k coins | -44% | -41.1% |
-| Moussa Diaby | 90 | ROSHN Saudi League | 38k coins | -41.4% | -3.2% |
-| Marie Katoto | 89 | Frauen-Bundesliga | 101k coins | -39.8% | -26.2% |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 35k coins | -36.6% | -59.6% |
-| Arthur Atta | 85 | Serie A TIM | 34k coins | -31.5% | -35.4% |
-| Jade Le Guilly | 89 | D1 Arkema | 38k coins | -29.2% | +5.6% |
-| Adrien Rabiot | 86 | Serie A TIM | 38k coins | -27.8% | -0.6% |
+| Lilian Thuram | 88 | Icons | 139k coins | -40.4% | -29.3% |
+| Arthur Atta | 85 | Serie A TIM | 30k coins | -40.2% | -39.9% |
+| Matthieu Udol | 84 | Ligue 1 McDonald's | 45k coins | -35.7% | +11.1% |
+| Adrien Rabiot | 86 | Serie A TIM | 55k coins | -27.8% | -4.4% |
 | Melvine Malard | 84 | Barclays WSL | 72k coins | -27.5% | -27.1% |
-| Leny Yoro | 86 | Premier League | 98k coins | -23.1% | +61.3% |
-| Hugo Ekitiké | 87 | Premier League | 55k coins | -22.3% | -25.5% |
+| Leny Yoro | 86 | Premier League | 115k coins | -27.1% | +52.8% |
+| Thierry Henry | 91 | Icons | 900k coins | -25% | -35.7% |
+| Hugo Ekitiké | 87 | Premier League | 55k coins | -22.2% | -34.7% |
 
 
 ### Análise das baixas
 
+- **Moussa Diaby (90)** caiu **-48.4%** em 24h, a **33k coins** (faixa do dia: 29k–64k). Está -36% abaixo da média de 7 dias (descontada).
+
 - **Mahdi Camara (86)** caiu **-44%** em 24h, a **28k coins** (faixa do dia: 28k–50k). Está -38% abaixo da média de 7 dias (descontada).
 
-- **Moussa Diaby (90)** caiu **-41.4%** em 24h, a **38k coins** (faixa do dia: 29k–64k). Está -28% abaixo da média de 7 dias (descontada).
-
-- **Marie Katoto (89)** caiu **-39.8%** em 24h, a **101k coins** (faixa do dia: 64k–200k). Está -33% abaixo da média de 7 dias (descontada).
+- **Lilian Thuram (88)** caiu **-40.4%** em 24h, a **139k coins** (faixa do dia: 86k–220k). Está +18% acima da média de 7 dias (aquecida).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Paul Pogba já avançou 53.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Ousmane Dembélé já avançou 55.5% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Mahdi Camara recuou -44%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Moussa Diaby recuou -48.4%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Paul Pogba (89, Ligue 1 McDonald's), com +53.1% em 24h, a 1.30M coins no PC.
+Ousmane Dembélé (91, Ligue 1 McDonald's), com +55.5% em 24h, a 440k coins no PC.
 
 **E a maior queda do dia?**
-Mahdi Camara (86), -44% em 24h, a 28k coins.
+Moussa Diaby (90), -48.4% em 24h, a 33k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 46 cartas em alta contra 48 em queda (média 5.26%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 45 cartas em alta contra 56 em queda (média 1.04%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:50:25.000Z
+pubDatetime: 2026-07-31T22:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 31/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.983 coins.
+- **Preço médio das 15 opções:** 10.883 coins.
 - **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 2.000 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.500 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | 0% |
+| Zinedine Zidane | 95 | CAM | Icons | 12.000 coins | +4.2% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12.750 coins | +3.4% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12.500 coins | -6.9% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Claire Lavogez | 88 | ST | Liga F | 11.000 coins | -11.5% |
-| William Saliba | 87 | CB | Premier League | 2.000 coins | +25% |
+| Maghnes Akliouche | 88 | RM | Ligue 1 McDonald's | 11.000 coins | 0% |
 | Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
 | Louisa Necib | 87 | LM | D1 Arkema | 11.250 coins | 0% |
-| Laura Georges | 87 | CB | D1 Arkema | 12.000 coins | +2.1% |
-| Ludovic Giuly | 87 | RM | Ligue 1 McDonald's | 13.000 coins | +18.2% |
+| Laura Georges | 87 | CB | D1 Arkema | 12.000 coins | -5.9% |
+| Ibrahima Konaté | 86 | CB | Premier League | 2.500 coins | +14.3% |
+| Sonia Bompastor | 86 | LB | D1 Arkema | 11.250 coins | -8.2% |
 
 
 ## 📈 Destaques
