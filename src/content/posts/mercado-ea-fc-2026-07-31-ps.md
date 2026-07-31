@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:42:51.000Z
+pubDatetime: 2026-07-31T10:50:08.000Z
 title: "Mercado EA FC em 31/07: Franceses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Anaële Le Moguédec (88, D1 Arkema), com +55.8% em 24h, a 30k coins no Console (PS)."
+    a: "Tanguy Ndombele (85, Ligue 1 McDonald's), com +58.6% em 24h, a 34k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Blaise Matuidi (86), -32% em 24h, a 33k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 57 cartas em alta contra 55 em queda (média 3.01%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 63 cartas em alta contra 51 em queda (média 4.1%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **57 subiram** e **55 caíram**, com variação média de **3.01%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **63 subiram** e **51 caíram**, com variação média de **4.1%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Anaële Le Moguédec (88) **+55.8%** · 🔴 **Maior baixa:** Blaise Matuidi (86) **-32%**
+> 🟢 **Maior alta:** Tanguy Ndombele (85) **+58.6%** · 🔴 **Maior baixa:** Blaise Matuidi (86) **-32%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Franceses — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 87.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 50.9% entre as cartas que se moveram; o universo observado reúne 157 cartas.
-- **Concentração:** Ligue 1 McDonald's aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 90.6 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.3% entre as cartas que se moveram; o universo observado reúne 150 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 34k coins | +58.6% | +36.6% |
 | Anaële Le Moguédec | 88 | D1 Arkema | 30k coins | +55.8% | +81.8% |
 | Désiré Doué | 91 | Ligue 1 McDonald's | 790k coins | +50.2% | +106.9% |
-| Franck Honorat | 85 | Bundesliga | 24k coins | +44.1% | +44.1% |
-| Bixente Lizarazu | 88 | Bundesliga | 20k coins | +42.1% | -27.7% |
-| Armand Laurienté | 86 | Serie A TIM | 20k coins | +38.3% | +20.3% |
+| Bixente Lizarazu | 88 | Bundesliga | 20k coins | +42.1% | -27% |
+| Zinedine Zidane | 94 | Icons | 407k coins | +40.7% | -3.5% |
 | Mathilde Bourdieu | 87 | D1 Arkema | 68k coins | +35.7% | +60.7% |
-| N'Golo Kanté | 93 | Trendyol Süper Lig | 123k coins | +30.9% | +5.1% |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 209k coins | +29.4% | +44% |
+| N'Golo Kanté | 93 | Trendyol Süper Lig | 120k coins | +30.9% | +5.1% |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 144k coins | +29.4% | +44% |
+| Ousmane Dembélé | 97 | Ligue 1 McDonald's | 900k coins | +23.9% | +38.6% |
 | Yanis Issoufou | 84 | Ligue 2 BKT | 60k coins | +23.1% | +42.9% |
-| Yoan Bonny | 86 | Serie A TIM | 38k coins | +23% | -24.8% |
 
 
 ### Análise das altas
@@ -61,11 +61,11 @@ Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
+- **Tanguy Ndombele (85)** subiu **+58.6%** em 24h, a **34k coins** (faixa do dia: 19.000–38k). Está +32% acima da média de 7 dias (aquecida).
+
 - **Anaële Le Moguédec (88)** subiu **+55.8%** em 24h, a **30k coins** (faixa do dia: 11.000–30k). Está +88% acima da média de 7 dias (aquecida).
 
 - **Désiré Doué (91)** subiu **+50.2%** em 24h, a **790k coins** (faixa do dia: 665k–1.20M). Está -8% abaixo da média de 7 dias (descontada).
-
-- **Franck Honorat (85)** subiu **+44.1%** em 24h, a **24k coins** (faixa do dia: 13.750–35k). Está +48% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -73,29 +73,29 @@ Em **31/07/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Blaise Matuidi | 86 | Ligue 1 McDonald's | 33k coins | -32% | +38.8% |
-| Kylian Mbappé | 91 | LALIGA EA SPORTS | 38k coins | -31.7% | -83.2% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 28k coins | -29.1% | -98.2% |
-| Thierry Henry | 93 | Icons | 840k coins | -27.5% | +16% |
+| Kylian Mbappé | 91 | LALIGA EA SPORTS | 38k coins | -31.3% | -83.1% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 25k coins | -30.4% | -98.2% |
 | Kylian Mbappé | 96 | LALIGA EA SPORTS | 1.20M coins | -27.1% | -14.8% |
 | Khéphren Thuram | 85 | Serie A TIM | 60k coins | -24.4% | -24.4% |
 | Annaïg Butel | 86 | D1 Arkema | 30k coins | -20% | +22.4% |
 | Ousmane Dembélé | 90 | Ligue 1 McDonald's | 550k coins | -19% | -9.3% |
 | Kouadio Manu Koné | 88 | Serie A TIM | 64k coins | -18.1% | -44.5% |
-| Camille Abily | 91 | Icons | 22k coins | -17.6% | -52.2% |
+| Camille Abily | 91 | Icons | 23k coins | -16.8% | -52.2% |
+| Thierry Henry | 91 | Icons | 499k coins | -15.2% | +6.2% |
 
 
 ### Análise das baixas
 
 - **Blaise Matuidi (86)** caiu **-32%** em 24h, a **33k coins** (faixa do dia: 11.250–95k). Está +35% acima da média de 7 dias (aquecida).
 
-- **Kylian Mbappé (91)** caiu **-31.7%** em 24h, a **38k coins** (faixa do dia: 29k–50k). Está -50% abaixo da média de 7 dias (descontada).
+- **Kylian Mbappé (91)** caiu **-31.3%** em 24h, a **38k coins** (faixa do dia: 29k–50k). Está -50% abaixo da média de 7 dias (descontada).
 
-- **Kylian Mbappé (92)** caiu **-29.1%** em 24h, a **28k coins** (faixa do dia: 18.750–39k). Está -82% abaixo da média de 7 dias (descontada).
+- **Kylian Mbappé (92)** caiu **-30.4%** em 24h, a **25k coins** (faixa do dia: 18.750–39k). Está -84% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Anaële Le Moguédec já avançou 55.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Tanguy Ndombele já avançou 58.6% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Blaise Matuidi recuou -32%; confirme estabilização e liquidez.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Anaële Le Moguédec (88, D1 Arkema), com +55.8% em 24h, a 30k coins no Console (PS).
+Tanguy Ndombele (85, Ligue 1 McDonald's), com +58.6% em 24h, a 34k coins no Console (PS).
 
 **E a maior queda do dia?**
 Blaise Matuidi (86), -32% em 24h, a 33k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 57 cartas em alta contra 55 em queda (média 3.01%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 63 cartas em alta contra 51 em queda (média 4.1%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

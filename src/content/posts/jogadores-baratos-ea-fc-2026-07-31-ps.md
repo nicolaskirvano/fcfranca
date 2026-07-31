@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:42:54.000Z
+pubDatetime: 2026-07-31T10:50:11.000Z
 title: "Jogadores baratos EA FC: Franceses em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -50,9 +50,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
 | Sakina Karchaoui | 87 | CM | Arkema PL | 3.400 coins | +5.9% |
-| Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
 | Laura Georges | 87 | CB | D1 Arkema | 11.000 coins | -14.5% |
-| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 14.500 coins | -5.9% |
+| Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
+| Pierre Lees-Melou | 87 | CDM | Ligue 1 McDonald's | 14.500 coins | +13.7% |
 | Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.000 coins | -8.3% |
 | Grace Geyoro | 86 | CM | Arkema PL | 11.500 coins | 0% |
 
