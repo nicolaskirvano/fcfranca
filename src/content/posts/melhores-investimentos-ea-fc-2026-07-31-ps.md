@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T22:50:09.000Z
+pubDatetime: 2026-08-01T01:50:09.000Z
 title: "Investimentos EA FC: Franceses em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 31/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (31/07/2026) no EA FC?"
-    a: "Olivier Giroud (89, Ligue 1 McDonald's) lidera, com +90% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Maëlle Garbino (86, D1 Arkema) lidera, com +80.7% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Olivier Giroud (89) acumula **+90% em 7 dias** a 38k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Maëlle Garbino (86) acumula **+80.7% em 7 dias** a 20k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 31/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-31-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.5% em 24h** e **+31.3% em 7 dias**.
+- A mediana é de **+6.6% em 24h** e **+30.1% em 7 dias**.
 - **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Ligue 1 McDonald's** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Olivier Giroud | 89 | Ligue 1 McDonald's | 38k coins | +38.2% | +90% | Esticada |
-| Sonia Bompastor | 86 | D1 Arkema | 24k coins | +15.3% | +71.9% | Esticada |
-| Armand Laurienté | 86 | Serie A TIM | 28k coins | +32.4% | +67.9% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 137k coins | +18.1% | +62.1% | Esticada |
-| Hugo Ekitiké | 87 | Premier League | 75k coins | +36.4% | +51.5% | Esticada |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 30k coins | +2.1% | +45% | Momentum moderado |
-| Emmanuel Petit | 87 | Icons | 86k coins | +18.5% | +34.6% | Momentum moderado |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 48k coins | +2.6% | +31.3% | Momentum moderado |
-| Patrick Vieira | 88 | Icons | 212k coins | +5.7% | +29.9% | Momentum moderado |
-| Sandy Baltimore | 87 | Barclays WSL | 58k coins | +6.9% | +28.6% | Momentum moderado |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 207k coins | +7.7% | +16.7% | Momentum moderado |
-| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 48k coins | +3.6% | +15.7% | Entrada a observar |
-| Jean-Philippe Mateta | 84 | Premier League | 45k coins | +3.4% | +15.4% | Entrada a observar |
-| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 16.750 coins | +10.9% | +15.1% | Momentum moderado |
-| Ludovic Giuly | 88 | LALIGA EA SPORTS | 15.000 coins | +10.5% | +12.5% | Momentum moderado |
+| Maëlle Garbino | 86 | D1 Arkema | 20k coins | +3% | +80.7% | Esticada |
+| Karim Benzema | 88 | ROSHN Saudi League | 140k coins | +16.7% | +64.7% | Esticada |
+| Sonia Bompastor | 86 | D1 Arkema | 21k coins | +7.4% | +52.6% | Momentum moderado |
+| Emmanuel Petit | 87 | Icons | 99k coins | +23.8% | +48.9% | Esticada |
+| Jules Koundé | 94 | LALIGA EA SPORTS | 232k coins | +2.3% | +35.5% | Momentum moderado |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 31k coins | +5.8% | +35.1% | Momentum moderado |
+| Patrick Vieira | 88 | Icons | 195k coins | +6.6% | +33.8% | Momentum moderado |
+| Sandy Baltimore | 87 | Barclays WSL | 54k coins | +14.3% | +30.1% | Momentum moderado |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 15.750 coins | +20% | +29.4% | Esticada |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 52k coins | +6.5% | +29.3% | Momentum moderado |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 49k coins | +2.1% | +25.6% | Momentum moderado |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 50k coins | +3.1% | +22.7% | Entrada a observar |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 50k coins | +15.8% | +20.2% | Momentum moderado |
+| Adrien Rabiot | 86 | Serie A TIM | 54k coins | +3.8% | +20% | Entrada a observar |
+| Jean-Pierre Papin | 89 | Ligue 1 McDonald's | 15.750 coins | +34% | +18.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Olivier Giroud (89)** — 38k coins, **+90% em 7 dias** (+38.2% em 24h). Preço +57% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maëlle Garbino (86)** — 20k coins, **+80.7% em 7 dias** (+3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sonia Bompastor (86)** — 24k coins, **+71.9% em 7 dias** (+15.3% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 140k coins, **+64.7% em 7 dias** (+16.7% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Armand Laurienté (86)** — 28k coins, **+67.9% em 7 dias** (+32.4% em 24h). Preço +83% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sonia Bompastor (86)** — 21k coins, **+52.6% em 7 dias** (+7.4% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (88)** — 137k coins, **+62.1% em 7 dias** (+18.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emmanuel Petit (87)** — 99k coins, **+48.9% em 7 dias** (+23.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Ekitiké (87)** — 75k coins, **+51.5% em 7 dias** (+36.4% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Jules Koundé (94)** — 232k coins, **+35.5% em 7 dias** (+2.3% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +88,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (31/07/2026) no EA FC?**  
-Olivier Giroud (89, Ligue 1 McDonald's) lidera, com +90% em 7 dias a 38k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Maëlle Garbino (86, D1 Arkema) lidera, com +80.7% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
