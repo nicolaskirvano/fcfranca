@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T13:50:18.000Z
+pubDatetime: 2026-08-01T16:50:18.000Z
 title: "Investimentos EA FC: Franceses em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Annaïg Butel (86, D1 Arkema) lidera, com +84.6% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Griedge Mbock (86, D1 Arkema) lidera, com +87.7% em 7 dias a 66k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Annaïg Butel (86) acumula **+84.6% em 7 dias** a 36k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Griedge Mbock (86) acumula **+87.7% em 7 dias** a 66k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.4% em 24h** e **+27.1% em 7 dias**.
-- **4 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+18.9% em 24h** e **+14.6% em 7 dias**.
+- **5 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Annaïg Butel | 86 | D1 Arkema | 36k coins | +21% | +84.6% | Esticada |
-| Jade Le Guilly | 89 | D1 Arkema | 55k coins | +18.9% | +64.2% | Esticada |
-| Adrien Thomasson | 85 | Ligue 1 McDonald's | 32k coins | +25.2% | +59.3% | Esticada |
-| Karim Benzema | 88 | ROSHN Saudi League | 160k coins | +3.9% | +28% | Momentum moderado |
+| Griedge Mbock | 86 | D1 Arkema | 66k coins | +3% | +87.7% | Esticada |
+| Annaïg Butel | 86 | D1 Arkema | 36k coins | +21% | +61.8% | Esticada |
 | Franck Honorat | 85 | Bundesliga | 30k coins | +11.1% | +26.3% | Momentum moderado |
-| Malo Gusto | 84 | Premier League | 50k coins | +24.2% | +16.3% | Esticada |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 85k coins | +13.8% | +13.8% | Momentum moderado |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 46k coins | +11.1% | +5.3% | Momentum moderado |
+| Malo Gusto | 84 | Premier League | 54k coins | +16.8% | +20% | Momentum moderado |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 39k coins | +39.3% | +9.1% | Esticada |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 85k coins | +25.9% | +6.9% | Esticada |
+| Theo Hernández | 88 | ROSHN Saudi League | 85k coins | +24.1% | +6.2% | Esticada |
+| Grace Kazadi | 87 | D1 Arkema | 20k coins | +9.6% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Annaïg Butel (86)** — 36k coins, **+84.6% em 7 dias** (+21% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Griedge Mbock (86)** — 66k coins, **+87.7% em 7 dias** (+3% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Jade Le Guilly (89)** — 55k coins, **+64.2% em 7 dias** (+18.9% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Annaïg Butel (86)** — 36k coins, **+61.8% em 7 dias** (+21% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adrien Thomasson (85)** — 32k coins, **+59.3% em 7 dias** (+25.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franck Honorat (85)** — 30k coins, **+26.3% em 7 dias** (+11.1% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (88)** — 160k coins, **+28% em 7 dias** (+3.9% em 24h). Preço -14% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Malo Gusto (84)** — 54k coins, **+20% em 7 dias** (+16.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Franck Honorat (85)** — 30k coins, **+26.3% em 7 dias** (+11.1% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mahdi Camara (86)** — 39k coins, **+9.1% em 7 dias** (+39.3% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +81,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Annaïg Butel (86, D1 Arkema) lidera, com +84.6% em 7 dias a 36k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Griedge Mbock (86, D1 Arkema) lidera, com +87.7% em 7 dias a 66k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
