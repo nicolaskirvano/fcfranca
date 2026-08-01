@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:50:20.000Z
+pubDatetime: 2026-08-01T22:50:19.000Z
 title: "Investimentos EA FC: Franceses em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Karim Benzema (88, ROSHN Saudi League) lidera, com +81.8% em 7 dias a 220k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Karim Benzema (88, ROSHN Saudi League) lidera, com +76% em 7 dias a 210k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Karim Benzema (88) acumula **+81.8% em 7 dias** a 220k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Karim Benzema (88) acumula **+76% em 7 dias** a 210k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+21.5% em 24h** e **+32.7% em 7 dias**.
-- **6 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+14.3% em 24h** e **+41.6% em 7 dias**.
+- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,30 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +22.2% | +81.8% | Esticada |
-| Dan-Axel Zagadou | 85 | Bundesliga | 42k coins | +29.8% | +80.9% | Esticada |
-| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 16.000 coins | +15% | +56.8% | Momentum moderado |
-| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 38k coins | +9.5% | +54.6% | Momentum moderado |
-| Hugo Ekitiké | 87 | Premier League | 68k coins | +31.5% | +44.9% | Esticada |
-| N'Golo Kanté | 89 | ROSHN Saudi League | 250k coins | +19.7% | +32.7% | Momentum moderado |
-| Mike Maignan | 88 | Serie A TIM | 55k coins | +25% | +19% | Esticada |
-| Malo Gusto | 84 | Premier League | 54k coins | +16.8% | +15.5% | Momentum moderado |
-| Mahdi Camara | 86 | Ligue 1 McDonald's | 39k coins | +39.3% | +9.1% | Esticada |
-| Hugo Ekitiké | 86 | Premier League | 55k coins | +21.5% | +7.8% | Esticada |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +3.8% | +5.6% | Entrada a observar |
+| Karim Benzema | 88 | ROSHN Saudi League | 210k coins | +10% | +76% | Esticada |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 98k coins | +31% | +63.7% | Esticada |
+| Maghnes Akliouche | 88 | Ligue 1 McDonald's | 17.250 coins | +15% | +56.8% | Momentum moderado |
+| Tanguy Ndombele | 85 | Ligue 1 McDonald's | 35k coins | +9.5% | +54.6% | Momentum moderado |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 90k coins | +4.7% | +28.6% | Momentum moderado |
+| Hugo Ekitiké | 90 | Premier League | 36k coins | +13.6% | +19% | Momentum moderado |
+| Malo Gusto | 84 | Premier League | 55k coins | +18.9% | +15.2% | Momentum moderado |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 48k coins | +20.3% | +5.6% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Karim Benzema (88)** — 220k coins, **+81.8% em 7 dias** (+22.2% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (88)** — 210k coins, **+76% em 7 dias** (+10% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan-Axel Zagadou (85)** — 42k coins, **+80.9% em 7 dias** (+29.8% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (90)** — 98k coins, **+63.7% em 7 dias** (+31% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Maghnes Akliouche (88)** — 16.000 coins, **+56.8% em 7 dias** (+15% em 24h). Preço -12% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Maghnes Akliouche (88)** — 17.250 coins, **+56.8% em 7 dias** (+15% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tanguy Ndombele (85)** — 38k coins, **+54.6% em 7 dias** (+9.5% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Tanguy Ndombele (85)** — 35k coins, **+54.6% em 7 dias** (+9.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Ekitiké (87)** — 68k coins, **+44.9% em 7 dias** (+31.5% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mattéo Guendouzi (91)** — 90k coins, **+28.6% em 7 dias** (+4.7% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -84,7 +81,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Karim Benzema (88, ROSHN Saudi League) lidera, com +81.8% em 7 dias a 220k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Karim Benzema (88, ROSHN Saudi League) lidera, com +76% em 7 dias a 210k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

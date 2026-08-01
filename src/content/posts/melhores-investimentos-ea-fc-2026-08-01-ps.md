@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:50:10.000Z
+pubDatetime: 2026-08-01T22:50:09.000Z
 title: "Investimentos EA FC: Franceses em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Michael Olise (87, Bundesliga) lidera, com +89% em 7 dias a 188k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Karim Benzema (87, ROSHN Saudi League) lidera, com +66.7% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Michael Olise (87) acumula **+89% em 7 dias** a 188k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Karim Benzema (87) acumula **+66.7% em 7 dias** a 100k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.1% em 24h** e **+44.1% em 7 dias**.
-- **9 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Premier League** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+11.6% em 24h** e **+33.4% em 7 dias**.
+- **3 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **D1 Arkema** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Michael Olise | 87 | Bundesliga | 188k coins | +21.9% | +89% | Esticada |
-| Rayan Cherki | 87 | Premier League | 47k coins | +31.8% | +76.1% | Esticada |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 130k coins | +19.3% | +71.3% | Esticada |
-| Karim Benzema | 87 | ROSHN Saudi League | 100k coins | +4.2% | +66.7% | Esticada |
-| Hugo Ekitiké | 87 | Premier League | 86k coins | +14% | +64.4% | Esticada |
-| Patrick Vieira | 88 | Icons | 213k coins | +15.1% | +52.7% | Momentum moderado |
-| Enzo Millot | 89 | ROSHN Saudi League | 18.500 coins | +39.6% | +51% | Esticada |
-| Jean-Philippe Mateta | 92 | Premier League | 40k coins | +33.3% | +44.1% | Esticada |
-| Sakina Karchaoui | 88 | D1 Arkema | 77k coins | +2.7% | +35.1% | Momentum moderado |
-| Mathilde Bourdieu | 87 | D1 Arkema | 58k coins | +6.4% | +33.3% | Momentum moderado |
-| Jules Koundé | 94 | LALIGA EA SPORTS | 193k coins | +16.1% | +31.4% | Momentum moderado |
-| Benjamin Pavard | 88 | Ligue 1 McDonald's | 15.250 coins | +6.7% | +25.5% | Momentum moderado |
-| Yanis Issoufou | 84 | Ligue 2 BKT | 58k coins | +23.2% | +23.2% | Esticada |
-| Sandy Baltimore | 87 | Barclays WSL | 52k coins | +11.8% | +20.9% | Momentum moderado |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 118k coins | +23.6% | +19.8% | Esticada |
+| Karim Benzema | 87 | ROSHN Saudi League | 100k coins | +2% | +66.7% | Esticada |
+| Patrick Vieira | 88 | Icons | 240k coins | +17.2% | +59.3% | Momentum moderado |
+| Ferland Mendy | 87 | LALIGA EA SPORTS | 30k coins | +25.5% | +57.3% | Esticada |
+| Hugo Ekitiké | 87 | Premier League | 80k coins | +6% | +51.4% | Momentum moderado |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 17.500 coins | +7.4% | +35.2% | Momentum moderado |
+| Claude Makélélé | 87 | Icons | 84k coins | +16.4% | +34.1% | Momentum moderado |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 18.000 coins | +23.2% | +32.7% | Esticada |
+| Melvine Malard | 84 | Barclays WSL | 65k coins | +12% | +19.1% | Momentum moderado |
+| Emelyne Laurent | 86 | D1 Arkema | 50k coins | +11.1% | +18.3% | Momentum moderado |
+| Sakina Karchaoui | 88 | D1 Arkema | 73k coins | +2.7% | +14.9% | Entrada a observar |
+| Hugo Ekitiké | 86 | Premier League | 50k coins | +12.2% | +13.4% | Momentum moderado |
+| Laura Georges | 87 | D1 Arkema | 15.250 coins | +3.4% | +10.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Michael Olise (87)** — 188k coins, **+89% em 7 dias** (+21.9% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Karim Benzema (87)** — 100k coins, **+66.7% em 7 dias** (+2% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rayan Cherki (87)** — 47k coins, **+76.1% em 7 dias** (+31.8% em 24h). Preço -8% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Patrick Vieira (88)** — 240k coins, **+59.3% em 7 dias** (+17.2% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Désiré Doué (87)** — 130k coins, **+71.3% em 7 dias** (+19.3% em 24h). Preço -18% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ferland Mendy (87)** — 30k coins, **+57.3% em 7 dias** (+25.5% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Karim Benzema (87)** — 100k coins, **+66.7% em 7 dias** (+4.2% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (87)** — 80k coins, **+51.4% em 7 dias** (+6% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Hugo Ekitiké (87)** — 86k coins, **+64.4% em 7 dias** (+14% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Blaise Matuidi (86)** — 17.500 coins, **+35.2% em 7 dias** (+7.4% em 24h). Preço -32% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -88,7 +85,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Michael Olise (87, Bundesliga) lidera, com +89% em 7 dias a 188k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Karim Benzema (87, ROSHN Saudi League) lidera, com +66.7% em 7 dias a 100k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
