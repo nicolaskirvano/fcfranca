@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:50:09.000Z
+pubDatetime: 2026-08-02T16:50:09.000Z
 title: "Investimentos EA FC: Franceses em 02/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Griedge Mbock (86, D1 Arkema) lidera, com +53.8% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Dan-Axel Zagadou (85, Bundesliga) lidera, com +71.7% em 7 dias a 17.000 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Griedge Mbock (86) acumula **+53.8% em 7 dias** a 65k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Dan-Axel Zagadou (85) acumula **+71.7% em 7 dias** a 17.000 coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 02/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-02-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+27.1% em 7 dias**.
-- **5 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Bundesliga** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+19.3% em 24h** e **+28.4% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,34 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Griedge Mbock | 86 | D1 Arkema | 65k coins | +10.2% | +53.8% | Momentum moderado |
-| Michael Olise | 87 | Bundesliga | 220k coins | +32.5% | +48.6% | Esticada |
-| Dan-Axel Zagadou | 85 | Bundesliga | 19.250 coins | +4.7% | +48.3% | Momentum moderado |
-| Khéphren Thuram | 87 | Serie A TIM | 77k coins | +13.5% | +46.8% | Momentum moderado |
-| Désiré Doué | 87 | Ligue 1 McDonald's | 182k coins | +25.5% | +34.8% | Esticada |
-| Loïc Badé | 88 | Bundesliga | 18.500 coins | +20.3% | +30.5% | Esticada |
-| Ludovic Giuly | 88 | LALIGA EA SPORTS | 17.000 coins | +4.4% | +29.1% | Momentum moderado |
-| Sandy Baltimore | 87 | Barclays WSL | 54k coins | +14.3% | +27.1% | Momentum moderado |
-| Karim Benzema | 88 | ROSHN Saudi League | 140k coins | +40% | +26.1% | Esticada |
-| Lilian Thuram | 88 | Icons | 90k coins | +22.6% | +21.9% | Esticada |
-| Rayane Messi | 89 | Brasileirão | 15.750 coins | +18.9% | +18.9% | Momentum moderado |
-| Hugo Ekitiké | 90 | Premier League | 32k coins | +6% | +18.7% | Momentum moderado |
-| Hugo Ekitiké | 86 | Premier League | 58k coins | +17% | +17% | Momentum moderado |
-| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 48k coins | +8.3% | +14% | Momentum moderado |
-| Robert Pirès | 87 | Icons | 69k coins | +13.6% | +13.6% | Momentum moderado |
+| Dan-Axel Zagadou | 85 | Bundesliga | 17.000 coins | +25.6% | +71.7% | Esticada |
+| Claire Lavogez | 88 | Liga F | 20k coins | +20.6% | +70.8% | Esticada |
+| Kouadio Manu Koné | 88 | Serie A TIM | 65k coins | +19.3% | +62.5% | Esticada |
+| Wilson Odobert | 87 | Premier League | 35k coins | +34.6% | +48.9% | Esticada |
+| Aurélien Tchouaméni | 86 | LALIGA EA SPORTS | 234k coins | +28.4% | +39.1% | Esticada |
+| Tara Elimbi Gilbert | 86 | D1 Arkema | 16.000 coins | +35.4% | +32.7% | Esticada |
+| Jonathan Ikoné | 86 | Ligue 1 McDonald's | 45k coins | +7.8% | +31% | Momentum moderado |
+| Karim Benzema | 88 | ROSHN Saudi League | 120k coins | +40% | +28.4% | Esticada |
+| Emmanuel Petit | 87 | Icons | 89k coins | +17.9% | +24.5% | Momentum moderado |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 50k coins | +30.3% | +20.3% | Esticada |
+| Lilian Raolisoa | 84 | Ligue 1 McDonald's | 48k coins | +3.2% | +20.2% | Entrada a observar |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 150k coins | +6.7% | +19.5% | Momentum moderado |
+| Melvine Malard | 84 | Barclays WSL | 64k coins | +7.1% | +17.6% | Momentum moderado |
+| Franck Honorat | 85 | Bundesliga | 19.000 coins | +16.9% | +16.9% | Momentum moderado |
+| Emelyne Laurent | 86 | D1 Arkema | 49k coins | +13.3% | +16% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Griedge Mbock (86)** — 65k coins, **+53.8% em 7 dias** (+10.2% em 24h). Preço +50% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Dan-Axel Zagadou (85)** — 17.000 coins, **+71.7% em 7 dias** (+25.6% em 24h). Preço -25% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Michael Olise (87)** — 220k coins, **+48.6% em 7 dias** (+32.5% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Claire Lavogez (88)** — 20k coins, **+70.8% em 7 dias** (+20.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Dan-Axel Zagadou (85)** — 19.250 coins, **+48.3% em 7 dias** (+4.7% em 24h). Preço -16% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kouadio Manu Koné (88)** — 65k coins, **+62.5% em 7 dias** (+19.3% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Khéphren Thuram (87)** — 77k coins, **+46.8% em 7 dias** (+13.5% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Wilson Odobert (87)** — 35k coins, **+48.9% em 7 dias** (+34.6% em 24h). Preço +35% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Désiré Doué (87)** — 182k coins, **+34.8% em 7 dias** (+25.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aurélien Tchouaméni (86)** — 234k coins, **+39.1% em 7 dias** (+28.4% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -98,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Griedge Mbock (86, D1 Arkema) lidera, com +53.8% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Dan-Axel Zagadou (85, Bundesliga) lidera, com +71.7% em 7 dias a 17.000 coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
