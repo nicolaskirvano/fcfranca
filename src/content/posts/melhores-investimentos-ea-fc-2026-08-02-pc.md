@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:50:18.000Z
+pubDatetime: 2026-08-02T13:50:18.000Z
 title: "Investimentos EA FC: Franceses em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Sakina Karchaoui (88, D1 Arkema) lidera, com +87.5% em 7 dias a 73k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Sakina Karchaoui (88, D1 Arkema) lidera, com +72.5% em 7 dias a 69k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Sakina Karchaoui (88) acumula **+87.5% em 7 dias** a 73k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Sakina Karchaoui (88) acumula **+72.5% em 7 dias** a 69k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.2% em 24h** e **+27.7% em 7 dias**.
-- **6 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.2% em 24h** e **+31.6% em 7 dias**.
+- **8 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,32 +43,34 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Sakina Karchaoui | 88 | D1 Arkema | 73k coins | +17.2% | +87.5% | Esticada |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +57.9% | Esticada |
-| Sandy Baltimore | 87 | Barclays WSL | 58k coins | +17.3% | +44.7% | Momentum moderado |
-| Enzo Millot | 89 | ROSHN Saudi League | 20k coins | +11% | +30.6% | Momentum moderado |
-| Marcel Desailly | 88 | Icons | 100k coins | +23.1% | +30% | Esticada |
-| Louisa Necib | 90 | D1 Arkema | 60k coins | +12.1% | +28.3% | Momentum moderado |
-| Armand Laurienté | 86 | Serie A TIM | 33k coins | +13.5% | +27.7% | Momentum moderado |
-| Wilson Odobert | 87 | Premier League | 37k coins | +22.1% | +27.6% | Esticada |
-| Yoan Bonny | 86 | Serie A TIM | 63k coins | +8.6% | +26% | Momentum moderado |
-| Khéphren Thuram | 87 | Serie A TIM | 91k coins | +12.8% | +16.4% | Momentum moderado |
-| Karim Benzema | 88 | ROSHN Saudi League | 210k coins | +34.1% | +14.6% | Esticada |
-| Marie Katoto | 89 | Frauen-Bundesliga | 170k coins | +2.3% | +12.5% | Entrada a observar |
-| Laurent Blanc | 88 | Icons | 158k coins | +20.3% | +8.8% | Esticada |
+| Sakina Karchaoui | 88 | D1 Arkema | 69k coins | +7.8% | +72.5% | Esticada |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 40k coins | +24% | +72.4% | Esticada |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 106k coins | +8.2% | +51.4% | Momentum moderado |
+| Eric Cantona | 89 | Icons | 145k coins | +1.4% | +49.7% | Momentum moderado |
+| Sandy Baltimore | 87 | Barclays WSL | 58k coins | +16.8% | +44.7% | Momentum moderado |
+| Claude Makélélé | 87 | Icons | 96k coins | +36.8% | +41.7% | Esticada |
+| Kouadio Manu Koné | 88 | Serie A TIM | 124k coins | +5.6% | +33.3% | Momentum moderado |
+| Blaise Matuidi | 86 | Ligue 1 McDonald's | 100k coins | +26.8% | +31.6% | Esticada |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 17.000 coins | +17.2% | +30.8% | Momentum moderado |
+| Louisa Necib | 90 | D1 Arkema | 58k coins | +23.1% | +29% | Esticada |
+| Yoan Bonny | 86 | Serie A TIM | 63k coins | +22.3% | +26% | Esticada |
+| Bixente Lizarazu | 88 | Bundesliga | 16.250 coins | +35.4% | +25% | Esticada |
+| N'Golo Kanté | 93 | Trendyol Süper Lig | 203k coins | +27.7% | +20.8% | Esticada |
+| Marcel Desailly | 88 | Icons | 91k coins | +13% | +16.5% | Momentum moderado |
+| Malo Gusto | 84 | Premier League | 55k coins | +1.9% | +15.2% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Sakina Karchaoui (88)** — 73k coins, **+87.5% em 7 dias** (+17.2% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sakina Karchaoui (88)** — 69k coins, **+72.5% em 7 dias** (+7.8% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sidney Govou (87)** — 38k coins, **+57.9% em 7 dias** (+24% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sidney Govou (87)** — 40k coins, **+72.4% em 7 dias** (+24% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sandy Baltimore (87)** — 58k coins, **+44.7% em 7 dias** (+17.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Bradley Barcola (90)** — 106k coins, **+51.4% em 7 dias** (+8.2% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Enzo Millot (89)** — 20k coins, **+30.6% em 7 dias** (+11% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Eric Cantona (89)** — 145k coins, **+49.7% em 7 dias** (+1.4% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcel Desailly (88)** — 100k coins, **+30% em 7 dias** (+23.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sandy Baltimore (87)** — 58k coins, **+44.7% em 7 dias** (+16.8% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -96,7 +98,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Sakina Karchaoui (88, D1 Arkema) lidera, com +87.5% em 7 dias a 73k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Sakina Karchaoui (88, D1 Arkema) lidera, com +72.5% em 7 dias a 69k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
