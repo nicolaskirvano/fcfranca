@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:24:37.000Z
+pubDatetime: 2026-08-02T10:50:18.000Z
 title: "Investimentos EA FC: Franceses em 02/08 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.9% em 24h** e **+26.0% em 7 dias**.
-- **4 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **D1 Arkema** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+17.2% em 24h** e **+27.7% em 7 dias**.
+- **6 de 13 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,31 +44,31 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Sakina Karchaoui | 88 | D1 Arkema | 73k coins | +17.2% | +87.5% | Esticada |
-| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +56.2% | Esticada |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +57.9% | Esticada |
 | Sandy Baltimore | 87 | Barclays WSL | 58k coins | +17.3% | +44.7% | Momentum moderado |
-| Marcel Desailly | 88 | Icons | 104k coins | +31.4% | +37% | Esticada |
-| Louisa Necib | 90 | D1 Arkema | 60k coins | +8.1% | +28.3% | Momentum moderado |
-| Armand Laurienté | 86 | Serie A TIM | 35k coins | +13.5% | +27.7% | Momentum moderado |
+| Enzo Millot | 89 | ROSHN Saudi League | 20k coins | +11% | +30.6% | Momentum moderado |
+| Marcel Desailly | 88 | Icons | 100k coins | +23.1% | +30% | Esticada |
+| Louisa Necib | 90 | D1 Arkema | 60k coins | +12.1% | +28.3% | Momentum moderado |
+| Armand Laurienté | 86 | Serie A TIM | 33k coins | +13.5% | +27.7% | Momentum moderado |
+| Wilson Odobert | 87 | Premier League | 37k coins | +22.1% | +27.6% | Esticada |
 | Yoan Bonny | 86 | Serie A TIM | 63k coins | +8.6% | +26% | Momentum moderado |
-| Enzo Millot | 89 | ROSHN Saudi League | 20k coins | +4.1% | +22.6% | Entrada a observar |
-| Khéphren Thuram | 87 | Serie A TIM | 93k coins | +15.9% | +19.5% | Momentum moderado |
-| Marie Katoto | 89 | Frauen-Bundesliga | 180k coins | +2.2% | +15% | Entrada a observar |
-| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +34.1% | +14.6% | Esticada |
-| Wendie Renard | 86 | D1 Arkema | 17.500 coins | +18.8% | +13.1% | Momentum moderado |
-| Tristan Crama | 86 | EFL Championship | 39k coins | +13.2% | +6.5% | Momentum moderado |
+| Khéphren Thuram | 87 | Serie A TIM | 91k coins | +12.8% | +16.4% | Momentum moderado |
+| Karim Benzema | 88 | ROSHN Saudi League | 210k coins | +34.1% | +14.6% | Esticada |
+| Marie Katoto | 89 | Frauen-Bundesliga | 170k coins | +2.3% | +12.5% | Entrada a observar |
+| Laurent Blanc | 88 | Icons | 158k coins | +20.3% | +8.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Sakina Karchaoui (88)** — 73k coins, **+87.5% em 7 dias** (+17.2% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Sidney Govou (87)** — 38k coins, **+56.2% em 7 dias** (+24% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Sidney Govou (87)** — 38k coins, **+57.9% em 7 dias** (+24% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Sandy Baltimore (87)** — 58k coins, **+44.7% em 7 dias** (+17.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcel Desailly (88)** — 104k coins, **+37% em 7 dias** (+31.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Millot (89)** — 20k coins, **+30.6% em 7 dias** (+11% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Louisa Necib (90)** — 60k coins, **+28.3% em 7 dias** (+8.1% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Marcel Desailly (88)** — 100k coins, **+30% em 7 dias** (+23.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

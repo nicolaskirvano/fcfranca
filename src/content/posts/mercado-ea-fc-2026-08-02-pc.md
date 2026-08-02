@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:24:35.000Z
+pubDatetime: 2026-08-02T10:50:17.000Z
 title: "Mercado EA FC em 02/08: Franceses — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 02/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
-    a: "Paul Pogba (89, Ligue 1 McDonald's), com +53.8% em 24h, a 1.20M coins no PC."
+    a: "Paul Pogba (89, Ligue 1 McDonald's), com +53.6% em 24h, a 1.17M coins no PC."
   - q: "E a maior queda do dia?"
     a: "Griedge Mbock (86), -46.7% em 24h, a 40k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 48 cartas em alta contra 51 em queda (média 4.84%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 47 cartas em alta contra 51 em queda (média 4.25%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **02/08/2026** no PC com mercado **em alta** — predominam as valorizações: **48 cartas subiram** e **51 caíram** (80+ acima de 5k coins), variação média de **4.84%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **02/08/2026** no PC com mercado **em alta** — predominam as valorizações: **47 cartas subiram** e **51 caíram** (80+ acima de 5k coins), variação média de **4.25%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Paul Pogba (89) **+53.8%** · 🔴 **Maior baixa:** Griedge Mbock (86) **-46.7%**
+> 🟢 **Maior alta:** Paul Pogba (89) **+53.6%** · 🔴 **Maior baixa:** Griedge Mbock (86) **-46.7%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 02/08: Franceses — PC](/charts/mercado-ea-fc-2026-08-02-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **02/08/2026** no PC com mercado **em alta** — pre
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 100.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.5% entre as cartas que se moveram; o universo observado reúne 162 cartas.
-- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 100.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 48.0% entre as cartas que se moveram; o universo observado reúne 160 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Paul Pogba | 89 | Ligue 1 McDonald's | 1.20M coins | +53.8% | +14% |
-| Dan-Axel Zagadou | 85 | Bundesliga | 42k coins | +53.2% | +77.1% |
-| Claude Makélélé | 87 | Icons | 109k coins | +51.4% | +60.3% |
-| Lilian Thuram | 88 | Icons | 139k coins | +49.7% | +23.3% |
-| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 85k coins | +48% | -39% |
-| Blaise Matuidi | 86 | Ligue 1 McDonald's | 105k coins | +47.7% | +51.2% |
-| Emmanuel Petit | 87 | Icons | 198k coins | +41.4% | +0.5% |
+| Paul Pogba | 89 | Ligue 1 McDonald's | 1.17M coins | +53.6% | +14% |
+| Lilian Thuram | 88 | Icons | 100k coins | +51.9% | +17.8% |
+| Ludovic Giuly | 88 | LALIGA EA SPORTS | 22k coins | +45% | -24.3% |
+| Hugo Ekitiké | 87 | Premier League | 65k coins | +44.4% | -7.1% |
+| Emmanuel Petit | 87 | Icons | 197k coins | +41.4% | +0.5% |
 | Patrick Vieira | 90 | Icons | 850k coins | +40.5% | +7.5% |
 | Jean-Philippe Mateta | 84 | Premier League | 50k coins | +36.1% | 0% |
-| Karim Benzema | 88 | ROSHN Saudi League | 220k coins | +34.1% | +14.6% |
+| Karim Benzema | 88 | ROSHN Saudi League | 210k coins | +34.1% | +14.6% |
+| Aurélien Tchouaméni | 87 | LALIGA EA SPORTS | 85k coins | +33.9% | -44.8% |
+| Sidney Govou | 87 | Ligue 1 McDonald's | 38k coins | +24% | +57.9% |
 
 
 ### Análise das altas
@@ -61,41 +61,41 @@ O mercado do **EA FC** abre **02/08/2026** no PC com mercado **em alta** — pre
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Paul Pogba (89)** subiu **+53.8%** em 24h, a **1.20M coins** (faixa do dia: 709k–1.30M). Está em linha com a média de 7 dias (+2%).
+- **Paul Pogba (89)** subiu **+53.6%** em 24h, a **1.17M coins** (faixa do dia: 709k–1.30M). Está em linha com a média de 7 dias (-1%).
 
-- **Dan-Axel Zagadou (85)** subiu **+53.2%** em 24h, a **42k coins** (faixa do dia: 10.750–42k). Está +46% acima da média de 7 dias (aquecida).
+- **Lilian Thuram (88)** subiu **+51.9%** em 24h, a **100k coins** (faixa do dia: 81k–155k). Está -17% abaixo da média de 7 dias (descontada).
 
-- **Claude Makélélé (87)** subiu **+51.4%** em 24h, a **109k coins** (faixa do dia: 71k–132k). Está +32% acima da média de 7 dias (aquecida).
+- **Ludovic Giuly (88)** subiu **+45%** em 24h, a **22k coins** (faixa do dia: 11.000–22k). Está +19% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Griedge Mbock | 86 | D1 Arkema | 40k coins | -46.7% | -41.6% |
-| Camille Abily | 91 | Icons | 36k coins | -42.7% | -51.9% |
+| Griedge Mbock | 86 | D1 Arkema | 40k coins | -46.7% | -42.4% |
+| Camille Abily | 91 | Icons | 35k coins | -44.2% | -53.2% |
 | Ousmane Dembélé | 91 | Ligue 1 McDonald's | 269k coins | -38.3% | -31.9% |
 | Annaïg Butel | 86 | D1 Arkema | 22k coins | -37.5% | +87.5% |
-| Louisa Necib | 88 | D1 Arkema | 59k coins | -28% | -50.3% |
-| Moussa Diaby | 90 | ROSHN Saudi League | 31k coins | -26% | -31.1% |
-| Antoine Griezmann | 87 | LALIGA EA SPORTS | 29k coins | -25.6% | -4.9% |
+| Zinedine Zidane | 94 | Icons | 520k coins | -30.3% | -16.5% |
+| Florian Thauvin | 87 | Ligue 1 McDonald's | 54k coins | -28.7% | +3.9% |
+| Bradley Barcola | 90 | Ligue 1 McDonald's | 76k coins | -28.6% | +57% |
+| Antoine Griezmann | 87 | LALIGA EA SPORTS | 29k coins | -25.6% | -3.3% |
 | Adrien Rabiot | 86 | Serie A TIM | 41k coins | -25.5% | -8.4% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 838k coins | -23.5% | -73.5% |
 | Maxence Lacroix | 87 | Premier League | 124k coins | -22.5% | +17% |
 
 
 ### Análise das baixas
 
-- **Griedge Mbock (86)** caiu **-46.7%** em 24h, a **40k coins** (faixa do dia: 40k–75k). Está -24% abaixo da média de 7 dias (descontada).
+- **Griedge Mbock (86)** caiu **-46.7%** em 24h, a **40k coins** (faixa do dia: 40k–75k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Camille Abily (91)** caiu **-42.7%** em 24h, a **36k coins** (faixa do dia: 28k–70k). Está -19% abaixo da média de 7 dias (descontada).
+- **Camille Abily (91)** caiu **-44.2%** em 24h, a **35k coins** (faixa do dia: 28k–70k). Está -22% abaixo da média de 7 dias (descontada).
 
 - **Ousmane Dembélé (91)** caiu **-38.3%** em 24h, a **269k coins** (faixa do dia: 260k–442k). Está -16% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Paul Pogba já avançou 53.8% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Paul Pogba já avançou 53.6% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Griedge Mbock recuou -46.7%; confirme estabilização e liquidez.
 
@@ -119,13 +119,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (02/08/2026)?**
-Paul Pogba (89, Ligue 1 McDonald's), com +53.8% em 24h, a 1.20M coins no PC.
+Paul Pogba (89, Ligue 1 McDonald's), com +53.6% em 24h, a 1.17M coins no PC.
 
 **E a maior queda do dia?**
 Griedge Mbock (86), -46.7% em 24h, a 40k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 48 cartas em alta contra 51 em queda (média 4.84%).
+Hoje o mercado está em alta — predominam as valorizações, com 47 cartas em alta contra 51 em queda (média 4.25%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
