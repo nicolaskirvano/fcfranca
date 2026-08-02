@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:50:22.000Z
+pubDatetime: 2026-08-02T22:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.140 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 2.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 9.683 coins.
+- **Posição mais frequente:** CB, com 4 cartas.
+- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,21 +40,21 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Zinedine Zidane | 95 | CAM | Icons | 13.000 coins | -1.8% |
+| Zinedine Zidane | 95 | CAM | Icons | 13.000 coins | -1.9% |
 | Camille Abily | 92 | CM | Icons | 11.500 coins | 0% |
 | Allan Saint-Maximin | 92 | RW | Ligue 1 McDonald's | 11.500 coins | 0% |
 | Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
+| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Pierre Kalulu | 91 | CB | Serie A TIM | 11.500 coins | 0% |
 | Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
-| Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Antoine Griezmann | 91 | ST | LALIGA EA SPORTS | 12.500 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Alexandre Lacazette | 89 | ST | Brasileirão | 11.250 coins | 0% |
 | Eli Junior Kroupi | 89 | ST | Premier League | 11.250 coins | 0% |
-| Kadidiatou Diani | 88 | RW | Arkema PL | 2.600 coins | +45% |
+| Marie Katoto | 88 | ST | Arkema PL | 1.800 coins | +15.4% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 14.000 coins | +3.7% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 1.500 coins | +29.4% |
+| William Saliba | 87 | CB | Premier League | 2.700 coins | -10.5% |
 
 
 ## 📈 Destaques
@@ -67,7 +67,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins**
 
-- **Pierre Kalulu (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Kadidiatou Diani (91, RW)** da D1 Arkema, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
