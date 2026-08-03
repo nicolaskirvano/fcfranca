@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T19:50:21.000Z
+pubDatetime: 2026-08-03T22:50:19.000Z
 title: "Jogadores baratos EA FC: Franceses em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 10.827 coins.
-- **Posição mais frequente:** CB, com 4 cartas.
-- **Faixa real:** 3.900 a 11.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 15 opções:** 10.437 coins.
+- **Posição mais frequente:** ST, com 5 cartas.
+- **Faixa real:** 2.300 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -48,13 +48,13 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Antoine Griezmann | 91 | ST | LALIGA EA SPORTS | 11.500 coins | -8% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Eli Junior Kroupi | 89 | ST | Premier League | 11.250 coins | 0% |
 | Alexandre Lacazette | 89 | ST | Brasileirão | 11.250 coins | 0% |
-| Wendie Renard | 88 | CB | Arkema PL | 3.900 coins | +2.9% |
+| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 12.500 coins | 0% |
+| Rayane Messi | 89 | LM | Brasileirão | 13.000 coins | -13.3% |
+| Marie Katoto | 88 | ST | Arkema PL | 2.300 coins | +35.3% |
+| Wendie Renard | 88 | CB | Arkema PL | 3.500 coins | -2.9% |
 | Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Kenny Lala | 87 | RB | Ligue 1 McDonald's | 11.000 coins | 0% |
-| Selma Bacha | 87 | LB | D1 Arkema | 11.000 coins | 0% |
 
 
 ## 📈 Destaques
