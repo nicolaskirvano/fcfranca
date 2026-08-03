@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T13:50:18.000Z
+pubDatetime: 2026-08-03T16:50:19.000Z
 title: "Investimentos EA FC: Franceses em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Claude Makélélé (87, Icons) lidera, com +81.8% em 7 dias a 115k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Kingsley Coman (87, ROSHN Saudi League) lidera, com +80.5% em 7 dias a 54k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Claude Makélélé (87) acumula **+81.8% em 7 dias** a 115k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Kingsley Coman (87) acumula **+80.5% em 7 dias** a 54k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.1% em 24h** e **+23.4% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.8% em 24h** e **+31.9% em 7 dias**.
+- **5 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Claude Makélélé | 87 | Icons | 115k coins | +25% | +81.8% | Esticada |
-| Arthur Atta | 85 | Serie A TIM | 70k coins | +20% | +30.9% | Esticada |
-| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 100k coins | +18.5% | +25.9% | Momentum moderado |
-| Marie Katoto | 89 | Frauen-Bundesliga | 196k coins | +16.3% | +25% | Momentum moderado |
-| Khéphren Thuram | 87 | Serie A TIM | 80k coins | +1.8% | +21.7% | Entrada a observar |
-| Theo Hernández | 88 | ROSHN Saudi League | 112k coins | +16% | +10.5% | Momentum moderado |
-| Clara Mateo | 86 | D1 Arkema | 49k coins | +8.3% | +8.3% | Momentum moderado |
-| Claire Lavogez | 88 | Liga F | 16.000 coins | +4.9% | +6.7% | Entrada a observar |
+| Kingsley Coman | 87 | ROSHN Saudi League | 54k coins | +5.7% | +80.5% | Esticada |
+| Hugo Ekitiké | 90 | Premier League | 46k coins | +12.4% | +69.6% | Esticada |
+| Enzo Millot | 89 | ROSHN Saudi League | 18.000 coins | +22.6% | +52% | Esticada |
+| Yoan Bonny | 86 | Serie A TIM | 35k coins | +33.3% | +43.6% | Esticada |
+| Griedge Mbock | 86 | D1 Arkema | 68k coins | +2.9% | +41% | Momentum moderado |
+| Mattéo Guendouzi | 91 | Trendyol Süper Lig | 110k coins | +11.1% | +35.8% | Momentum moderado |
+| Claude Makélélé | 87 | Icons | 89k coins | +7.8% | +35.6% | Momentum moderado |
+| Khéphren Thuram | 87 | Serie A TIM | 48k coins | +4.9% | +28.2% | Momentum moderado |
+| Arthur Atta | 85 | Serie A TIM | 66k coins | +28.3% | +21.4% | Esticada |
+| Florian Thauvin | 85 | Ligue 1 McDonald's | 31k coins | +14.3% | +15.3% | Momentum moderado |
+| Clara Mateo | 86 | D1 Arkema | 50k coins | +9.9% | +11.1% | Momentum moderado |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 46k coins | +1% | +9.6% | Entrada a observar |
+| Désiré Doué | 87 | Ligue 1 McDonald's | 150k coins | +4.1% | +7.3% | Entrada a observar |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 45k coins | +2.9% | +5.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Claude Makélélé (87)** — 115k coins, **+81.8% em 7 dias** (+25% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Kingsley Coman (87)** — 54k coins, **+80.5% em 7 dias** (+5.7% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Arthur Atta (85)** — 70k coins, **+30.9% em 7 dias** (+20% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Hugo Ekitiké (90)** — 46k coins, **+69.6% em 7 dias** (+12.4% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mattéo Guendouzi (91)** — 100k coins, **+25.9% em 7 dias** (+18.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Enzo Millot (89)** — 18.000 coins, **+52% em 7 dias** (+22.6% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marie Katoto (89)** — 196k coins, **+25% em 7 dias** (+16.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Yoan Bonny (86)** — 35k coins, **+43.6% em 7 dias** (+33.3% em 24h). Preço -40% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Khéphren Thuram (87)** — 80k coins, **+21.7% em 7 dias** (+1.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Griedge Mbock (86)** — 68k coins, **+41% em 7 dias** (+2.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +87,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Claude Makélélé (87, Icons) lidera, com +81.8% em 7 dias a 115k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Kingsley Coman (87, ROSHN Saudi League) lidera, com +80.5% em 7 dias a 54k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
