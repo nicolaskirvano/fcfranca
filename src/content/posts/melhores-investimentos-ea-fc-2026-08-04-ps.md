@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:50:09.000Z
+pubDatetime: 2026-08-04T13:50:09.000Z
 title: "Investimentos EA FC: Franceses em 04/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 04/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (04/08/2026) no EA FC?"
-    a: "Theo Hernández (88, ROSHN Saudi League) lidera, com +72.8% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Franck Ribéry (88, Icons) lidera, com +42.3% em 7 dias a 221k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Theo Hernández (88) acumula **+72.8% em 7 dias** a 110k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Franck Ribéry (88) acumula **+42.3% em 7 dias** a 221k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Franceses em 04/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-04-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **04/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.8% em 24h** e **+29.6% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Icons** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.7% em 24h** e **+21.2% em 7 dias**.
+- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Theo Hernández | 88 | ROSHN Saudi League | 110k coins | +27.1% | +72.8% | Esticada |
-| Mike Maignan | 88 | Serie A TIM | 65k coins | +25% | +48.6% | Esticada |
-| Camille Abily | 91 | Icons | 19.000 coins | +32.4% | +44.1% | Esticada |
-| Tristan Crama | 86 | EFL Championship | 54k coins | +9% | +34.6% | Momentum moderado |
-| Adrien Rabiot | 86 | Serie A TIM | 52k coins | +10.4% | +24.7% | Momentum moderado |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 50k coins | +11.1% | +20% | Momentum moderado |
-| Marcel Desailly | 88 | Icons | 72k coins | +2.1% | +12% | Entrada a observar |
-| Marinette Pichon | 88 | Icons | 69k coins | +6% | +6% | Momentum moderado |
+| Franck Ribéry | 88 | Icons | 221k coins | +15.6% | +42.3% | Momentum moderado |
+| Franck Honorat | 85 | Bundesliga | 16.500 coins | +34.7% | +29.4% | Esticada |
+| Mahdi Camara | 86 | Ligue 1 McDonald's | 59k coins | +18% | +25.5% | Momentum moderado |
+| N'Golo Kanté | 93 | Trendyol Süper Lig | 110k coins | +37.1% | +23.1% | Esticada |
+| Benjamin Pavard | 86 | Ligue 1 McDonald's | 60k coins | +14.3% | +21.2% | Momentum moderado |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 32k coins | +36.8% | +18.2% | Esticada |
+| Adrien Rabiot | 86 | Serie A TIM | 54k coins | +3.6% | +17.1% | Entrada a observar |
+| Ludovic Blas | 86 | Ligue 1 McDonald's | 17.500 coins | +16.7% | +16.7% | Momentum moderado |
+| Bixente Lizarazu | 88 | Bundesliga | 18.500 coins | +13.7% | +9.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Theo Hernández (88)** — 110k coins, **+72.8% em 7 dias** (+27.1% em 24h). Preço +36% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franck Ribéry (88)** — 221k coins, **+42.3% em 7 dias** (+15.6% em 24h). Preço -44% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mike Maignan (88)** — 65k coins, **+48.6% em 7 dias** (+25% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Franck Honorat (85)** — 16.500 coins, **+29.4% em 7 dias** (+34.7% em 24h). Preço em linha com a média de 7 dias (-8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Camille Abily (91)** — 19.000 coins, **+44.1% em 7 dias** (+32.4% em 24h). Preço -32% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mahdi Camara (86)** — 59k coins, **+25.5% em 7 dias** (+18% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Tristan Crama (86)** — 54k coins, **+34.6% em 7 dias** (+9% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **N'Golo Kanté (93)** — 110k coins, **+23.1% em 7 dias** (+37.1% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Adrien Rabiot (86)** — 52k coins, **+24.7% em 7 dias** (+10.4% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Benjamin Pavard (86)** — 60k coins, **+21.2% em 7 dias** (+14.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +82,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (04/08/2026) no EA FC?**  
-Theo Hernández (88, ROSHN Saudi League) lidera, com +72.8% em 7 dias a 110k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Franck Ribéry (88, Icons) lidera, com +42.3% em 7 dias a 221k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

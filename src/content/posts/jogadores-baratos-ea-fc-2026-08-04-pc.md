@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:50:19.000Z
+pubDatetime: 2026-08-04T13:50:20.000Z
 title: "Jogadores baratos EA FC: Franceses em 04/08 — PC"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 04/08/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (04/08/2026)?"
-    a: "Antoine Griezmann (91, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11.500 coins no PC."
+    a: "Lilian Thuram (93, Icons) aparece como melhor custo-benefício, a 11.750 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **04/08/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Antoine Griezmann (91) por apenas 11.500 coins.
+> 💰 **Melhor pechincha:** Lilian Thuram (93) por apenas 11.750 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Franceses em 04/08 — PC](/charts/jogadores-baratos-ea-fc-2026-08-04-pc.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 15 opções:** 11.267 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 5.500 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 10.623 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 2.600 a 11.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,24 +40,22 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
+| Lilian Thuram | 93 | RB | Icons | 11.750 coins | 0% |
 | Antoine Griezmann | 91 | ST | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Kadidiatou Diani | 91 | RW | D1 Arkema | 11.500 coins | 0% |
 | Pierre Kalulu | 91 | CB | Serie A TIM | 11.500 coins | 0% |
-| Wendie Renard | 91 | CB | D1 Arkema | 11.500 coins | 0% |
-| Sakina Karchaoui | 91 | CM | D1 Arkema | 11.500 coins | 0% |
 | Moussa Diaby | 90 | RM | ROSHN Saudi League | 11.250 coins | 0% |
 | William Saliba | 90 | CB | Premier League | 11.250 coins | 0% |
-| Jean-Pierre Papin | 89 | ST | Ligue 1 McDonald's | 11.250 coins | 0% |
 | Alexandre Lacazette | 89 | ST | Brasileirão | 11.250 coins | 0% |
 | Eli Junior Kroupi | 89 | ST | Premier League | 11.250 coins | 0% |
-| Sonia Bompastor | 88 | LB | D1 Arkema | 11.000 coins | 0% |
-| Bixente Lizarazu | 88 | LB | Bundesliga | 13.500 coins | 0% |
-| Loïc Badé | 88 | CB | Bundesliga | 14.000 coins | +29% |
-| Ludovic Giuly | 86 | RM | Ligue 1 McDonald's | 11.250 coins | -2.2% |
-| N'Golo Kanté | 85 | CDM | ROSHN Saudi League | 5.500 coins | 0% |
+| Bixente Lizarazu | 88 | LB | Bundesliga | 11.500 coins | -7.4% |
+| Jules Koundé | 87 | RB | LALIGA EA SPORTS | 2.600 coins | +11.5% |
+| Louisa Necib | 87 | LM | D1 Arkema | 11.500 coins | +2.2% |
 
 
 ## 📈 Destaques
+
+- **Lilian Thuram (93, RB)** da Icons, a apenas **11.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Antoine Griezmann (91, ST)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -65,16 +63,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Pierre Kalulu (91, CB)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Wendie Renard (91, CB)** da D1 Arkema, a apenas **11.500 coins**
-
-- **Sakina Karchaoui (91, CM)** da D1 Arkema, a apenas **11.500 coins**
+- **Moussa Diaby (90, RM)** da ROSHN Saudi League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Pierre Kalulu (91, CB) por 11.500 coins é a referência de rating deste recorte.
+- **Defesa:** Lilian Thuram (93, RB) por 11.750 coins é a referência de rating deste recorte.
 
-- **Meio:** Sakina Karchaoui (91, CM) por 11.500 coins é a referência de rating deste recorte.
+- **Meio:** Moussa Diaby (90, RM) por 11.250 coins é a referência de rating deste recorte.
 
 - **Ataque:** Antoine Griezmann (91, ST) por 11.500 coins é a referência de rating deste recorte.
 
@@ -95,7 +91,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (04/08/2026)?**  
-Antoine Griezmann (91, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 11.500 coins no PC.
+Lilian Thuram (93, Icons) aparece como melhor custo-benefício, a 11.750 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
