@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:50:07.000Z
+pubDatetime: 2026-08-04T01:50:07.000Z
 title: "Mercado EA FC em 03/08: Franceses — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Warren Zaïre-Emery (93, Ligue 1 McDonald's), com +37.5% em 24h, a 138k coins no Console (PS)."
+    a: "Florian Sotoca (85, Ligue 1 McDonald's), com +40% em 24h, a 36k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Ousmane Dembélé (90), -35.5% em 24h, a 39k coins."
+    a: "Désiré Doué (91), -37.8% em 24h, a 950k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 45 cartas em alta contra 55 em queda (média -0.76%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 43 cartas em alta contra 64 em queda (média -2.6%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **03/08/2026** no Console (PS): mercado **de lado** — altas e quedas se equilibram. **45 valorizações** contra **55 quedas** entre as cartas relevantes, com média de **-0.76%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Resumo de **03/08/2026** no Console (PS): clima **vendedor** — a maioria das cartas recuou. **43 valorizações** contra **64 quedas** entre as cartas relevantes, com média de **-2.6%** nas últimas 24h. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Warren Zaïre-Emery (93) **+37.5%** · 🔴 **Maior baixa:** Ousmane Dembélé (90) **-35.5%**
+> 🟢 **Maior alta:** Florian Sotoca (85) **+40%** · 🔴 **Maior baixa:** Désiré Doué (91) **-37.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Franceses — Console (PS)](/charts/mercado-ea-fc-2026-08-03-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **03/08/2026** no Console (PS): mercado **de lado** — altas e quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 73.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 45.0% entre as cartas que se moveram; o universo observado reúne 139 cartas.
+- **Amplitude do dia:** 77.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 40.2% entre as cartas que se moveram; o universo observado reúne 151 cartas.
 - **Concentração:** Ligue 1 McDonald's aparece em 8 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Warren Zaïre-Emery | 93 | Ligue 1 McDonald's | 138k coins | +37.5% | +2.1% |
-| Lilian Thuram | 88 | Icons | 102k coins | +35.8% | +38.5% |
-| Theo Hernández | 88 | ROSHN Saudi League | 100k coins | +34.6% | +111.7% |
-| Melvine Malard | 84 | Barclays WSL | 65k coins | +28.7% | +23.8% |
-| Wendie Renard | 86 | D1 Arkema | 55k coins | +25% | +7.8% |
-| Désiré Doué | 91 | Ligue 1 McDonald's | 218k coins | +14.7% | +3.8% |
-| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 196k coins | +14.6% | +14.6% |
-| Zinedine Zidane | 94 | Icons | 600k coins | +11.9% | +39% |
-| Olivier Giroud | 88 | Ligue 1 McDonald's | 175k coins | +11.8% | +45.5% |
-| Benjamin Pavard | 86 | Ligue 1 McDonald's | 52k coins | +9.9% | +2% |
+| Florian Sotoca | 85 | Ligue 1 McDonald's | 36k coins | +40% | +53.1% |
+| Thierry Henry | 93 | Icons | 1.20M coins | +29% | +69% |
+| Karim Benzema | 88 | ROSHN Saudi League | 140k coins | +25% | +78.9% |
+| Benjamin Pavard | 88 | Ligue 1 McDonald's | 22k coins | +24.6% | +68.6% |
+| Ousmane Dembélé | 91 | Ligue 1 McDonald's | 299k coins | +19.6% | +45.9% |
+| Michael Olise | 87 | Bundesliga | 250k coins | +19.1% | +107.5% |
+| Karim Benzema | 87 | ROSHN Saudi League | 107k coins | +18.9% | +55.1% |
+| Theo Hernández | 88 | ROSHN Saudi League | 98k coins | +18.3% | +101% |
+| Zinedine Zidane | 94 | Icons | 558k coins | +17% | +42.5% |
+| Yanis Issoufou | 84 | Ligue 2 BKT | 56k coins | +16.8% | +38.8% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Resumo de **03/08/2026** no Console (PS): mercado **de lado** — altas e quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Warren Zaïre-Emery (93)** subiu **+37.5%** em 24h, a **138k coins** (faixa do dia: 96k–142k). Está +12% acima da média de 7 dias (aquecida).
+- **Florian Sotoca (85)** subiu **+40%** em 24h, a **36k coins** (faixa do dia: 24k–40k). Está +41% acima da média de 7 dias (aquecida).
 
-- **Lilian Thuram (88)** subiu **+35.8%** em 24h, a **102k coins** (faixa do dia: 88k–130k). Está +13% acima da média de 7 dias (aquecida).
+- **Thierry Henry (93)** subiu **+29%** em 24h, a **1.20M coins** (faixa do dia: 820k–1.30M). Está +25% acima da média de 7 dias (aquecida).
 
-- **Theo Hernández (88)** subiu **+34.6%** em 24h, a **100k coins** (faixa do dia: 74k–110k). Está +26% acima da média de 7 dias (aquecida).
+- **Karim Benzema (88)** subiu **+25%** em 24h, a **140k coins** (faixa do dia: 85k–170k). Está +17% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 39k coins | -35.5% | -92.2% |
+| Désiré Doué | 91 | Ligue 1 McDonald's | 950k coins | -37.8% | -27.6% |
+| Ousmane Dembélé | 90 | Ligue 1 McDonald's | 39k coins | -35.5% | -92.3% |
 | Hugo Ekitiké | 87 | Premier League | 69k coins | -27.4% | +38% |
-| Franck Ribéry | 89 | Icons | 405k coins | -18.7% | +52.3% |
+| Marcel Desailly | 88 | Icons | 72k coins | -23.4% | +8.3% |
+| Senny Mayulu | 83 | Ligue 1 McDonald's | 65k coins | -22.6% | +15% |
+| Florian Thauvin | 83 | Ligue 1 McDonald's | 52k coins | -19.4% | -4.6% |
+| Wesley Saïd | 86 | Ligue 1 McDonald's | 48k coins | -18.8% | +6.7% |
 | Clara Mateo | 92 | D1 Arkema | 22k coins | -17.4% | -95.3% |
-| Wesley Saïd | 86 | Ligue 1 McDonald's | 48k coins | -14.4% | +6.7% |
-| Kylian Mbappé | 92 | LALIGA EA SPORTS | 730k coins | -14.1% | -6% |
-| Claude Makélélé | 87 | Icons | 84k coins | -12.9% | -6.9% |
-| William Saliba | 94 | Premier League | 230k coins | -12.3% | +3.5% |
-| Matthis Abline | 81 | Ligue 1 McDonald's | 44k coins | -12% | -9.7% |
-| Mohamed Simakan | 86 | ROSHN Saudi League | 45k coins | -11.8% | -7.7% |
+| Kylian Mbappé | 92 | LALIGA EA SPORTS | 749k coins | -17.3% | -8.8% |
+| Mohamed Simakan | 86 | ROSHN Saudi League | 48k coins | -16.7% | -6.2% |
 
 
 ### Análise das baixas
 
+- **Désiré Doué (91)** caiu **-37.8%** em 24h, a **950k coins** (faixa do dia: 610k–1.12M). Está +9% acima da média de 7 dias (aquecida).
+
 - **Ousmane Dembélé (90)** caiu **-35.5%** em 24h, a **39k coins** (faixa do dia: 39k–60k). Está -90% abaixo da média de 7 dias (descontada).
 
-- **Hugo Ekitiké (87)** caiu **-27.4%** em 24h, a **69k coins** (faixa do dia: 50k–95k). Está em linha com a média de 7 dias (-2%).
-
-- **Franck Ribéry (89)** caiu **-18.7%** em 24h, a **405k coins** (faixa do dia: 308k–498k). Está +38% acima da média de 7 dias (aquecida).
+- **Hugo Ekitiké (87)** caiu **-27.4%** em 24h, a **69k coins** (faixa do dia: 50k–95k). Está em linha com a média de 7 dias (-3%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Warren Zaïre-Emery já avançou 37.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Florian Sotoca já avançou 40% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Ousmane Dembélé recuou -35.5%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Désiré Doué recuou -37.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Warren Zaïre-Emery (93, Ligue 1 McDonald's), com +37.5% em 24h, a 138k coins no Console (PS).
+Florian Sotoca (85, Ligue 1 McDonald's), com +40% em 24h, a 36k coins no Console (PS).
 
 **E a maior queda do dia?**
-Ousmane Dembélé (90), -35.5% em 24h, a 39k coins.
+Désiré Doué (91), -37.8% em 24h, a 950k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 45 cartas em alta contra 55 em queda (média -0.76%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 43 cartas em alta contra 64 em queda (média -2.6%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
