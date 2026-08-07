@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T10:38:58.000Z
+pubDatetime: 2026-08-07T10:50:09.000Z
 title: "Investimentos EA FC: Franceses em 07/08 — Console (PS)"
 draft: false
 featured: true
