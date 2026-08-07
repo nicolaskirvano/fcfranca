@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T19:50:19.000Z
+pubDatetime: 2026-08-07T22:50:17.000Z
 title: "Mercado EA FC em 07/08: Franceses — PC"
 draft: false
 featured: true
