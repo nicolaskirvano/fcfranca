@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T10:38:46.000Z
+pubDatetime: 2026-08-08T10:50:12.000Z
 title: "Jogadores baratos EA FC: Franceses em 08/08 — Console (PS)"
 draft: false
 featured: false
